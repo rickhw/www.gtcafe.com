@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>喝咖啡 聊音樂 – 聊音樂</title>
+    <title>喝咖啡 聊音樂 (施工中) – 聊音樂</title>
     <link>http://rickmid.gtcafe.com/docs/gossip/</link>
-    <description>Recent content in 聊音樂 on 喝咖啡 聊音樂</description>
+    <description>Recent content in 聊音樂 on 喝咖啡 聊音樂 (施工中)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 10 Jan 2015 00:00:00 +0000</lastBuildDate>
@@ -17,10 +17,10 @@
     
     <item>
       <title>Docs: 簡單、複雜</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/%E7%B0%A1%E5%96%AE%E8%A4%87%E9%9B%9C/</link>
+      <link>http://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</link>
       <pubDate>Sat, 10 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/%E7%B0%A1%E5%96%AE%E8%A4%87%E9%9B%9C/</guid>
+      <guid>http://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</guid>
       <description>
         
         
@@ -33,47 +33,49 @@
 &lt;p&gt;我可以一個晚上寫出一張專輯十首很複雜的歌，不過基本上，沒人聽得懂，也沒人想聽。但是我要寫出一首大家都喜歡，而且可以流傳百世的歌，基本上到現在沒有 XD。這跟一個英文老師要把學生難倒，對他來講很簡單，隨便丟一篇線上的新聞報導，就死一掛人了。但是要把很簡單的東西，像是文法的時態，讓學生了解，本身不是一件容易的事情。（但時態是簡單的嗎？）或者一個頂尖程式設計師 / 或資訊系教授要出作業難倒一個學生，很簡單，隨便要學生寫一個『2D 爆炸』、『水中倒影』的演算法，但是要教會一個初學者基本的流程控制卻是不容易的。&lt;/p&gt;
 &lt;p&gt;五月天的話題，在台灣大概一段時間，就會在樂手圈被重複拿出來討論，有時候會搭配周杰倫，大概聊起來比較不會無聊吧。如果在一個樂手圈，不管是論壇，還是真實的生活，你說你喜歡五月天，有很大的機率會被大部份的樂手用奇怪的眼光看你。這種狀況就像走到 Apple 旗艦店，然後手上拿一隻 HTC or S5；一個 Engineer 走到 Sales 部門，或者 Sales 走到 Engineer 部門 (大部份 Sales / Engineer 穿著、說話的方式都有不小差異)；在日本街上講英文、走去酒店還帶酒 …. 等，都是很奇怪的。&lt;/p&gt;
 &lt;p&gt;五月天的歌很芭樂、很商業、旋律很簡單，聽起來都差不多、歌詞內容很流行。因為並沒有複雜的技巧、高度張力的旋律、很經典的吉他 Solo、深度的歌詞、特殊的歌唱技巧、有特色的編曲、或者是強烈的風格色彩，包含音色、配器、服裝等。對大部份一定程度的樂手來講，彈奏起來相對是簡單，甚至是無聊、無趣的，會做他們的歌曲，大概有八九成是為了吃飯的，像是教學，或者接場子，反正不會是自己出自內心的喜歡。&lt;/p&gt;
-&lt;p&gt;和國外所謂的『風格』，不管是所為的英式／美式／80 搖滾、芝加哥藍調、德州藍調、Rap、Funk、R&amp;amp;B、舞曲 …. 乃至於東洋日本的日式曲風，包含 J-Rock、視覺系、J-Fusion、虛擬歌手 (初音) … 等，都是有落差的。當然，也不是外國的都是好，國外紅的芭樂團也不少，像是 Nickelback 評價就不高，但是卻很紅。&lt;/p&gt;
+&lt;p&gt;和國外所謂的『風格』，不管是所為的英式／美式／80 搖滾、芝加哥藍調、德州藍調、Rap、Funk、R&amp;amp;B、舞曲 …. 乃至於東洋日本的日式曲風，包含 J-Rock、視覺系、J-Fusion、虛擬歌手 (初音) … 等，都是有落差的。當然，也不是外國的都是好，國外紅的芭樂團也不少，像是 &lt;a href=&#34;https://roxyrocker.com/2014/10/14/9%E5%80%8B%E7%90%86%E7%94%B1%E8%A7%A3%E9%87%8B%E7%82%BA%E4%BB%80%E9%BA%BCnickelback%E8%A2%AB%E8%A8%8E%E5%8E%AD%EF%BC%9F1%E5%80%8B%E7%90%86%E7%94%B1%E4%B9%9F%E8%A8%B1%E8%AE%93%E4%BD%A0%E5%B0%8D/&#34;&gt;Nickelback&lt;/a&gt; 評價就不高，但是卻很紅。&lt;/p&gt;
 &lt;p&gt;不過不可否認的，因為五月天的歌很簡單、很容易聽懂、很生活、很普通，所以歌感動很多的人、各式各樣的人、受傷的人、失落的人、高興的、幸福的，還有提供給吉他老師很好的示範教材，因為初學者，都可以彈他們的歌，幾乎所有線上教材也都會有他們的歌譜。&lt;/p&gt;
 &lt;p&gt;當然，五月天也為他們自己帶來不少財富，同時也很多人帶來很多不錯的記憶。&lt;/p&gt;
 &lt;p&gt;不過我還是想說的，藝術文化的程度與水準，不只是表演者的問題，閱聽者也是，看台灣的新聞媒體就知道了。&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;※
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;有簡單的歌，也聊聊複雜的歌。&lt;/p&gt;
-&lt;p&gt;夢劇院 (Dream Theater, DT) 吉他手 John Petrucci 在專訪裡提到，他自己不會寫 12 分鐘以下的歌。他的歌對一般的聽眾來講，相對是複雜很多的。複雜的原因很多，歌曲長度、段落安排、風格、吉他的技巧、音色、樂團屬性 &amp;hellip;. 等。&lt;/p&gt;
+&lt;p&gt;夢劇院 (Dream Theater, DT) 吉他手 John Petrucci 在專訪裡提到，他自己 &lt;a href=&#34;https://roxyrocker.com/2014/10/31/john-petrucci-%E6%89%BF%E8%AA%8D%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%A4%AA%E6%9C%83%E5%AF%AB-12-%E5%88%86%E9%90%98%E4%BB%A5%E4%B8%8B%E7%9A%84%E6%AD%8C/&#34;&gt;不會寫 12 分鐘以下的歌&lt;/a&gt;。他的歌對一般的聽眾來講，相對是複雜很多的。複雜的原因很多，歌曲長度、段落安排、風格、吉他的技巧、音色、樂團屬性 &amp;hellip;. 等。&lt;/p&gt;
 &lt;p&gt;古典音樂大部份都是複雜的，例如貝多芬第五號鋼琴協奏曲 (朗朗詮釋), 有三個樂章，基本上這種音樂就是長篇小說的規格。要讀懂一篇長篇小說，最好對小說故事架構的背景有所認識，例如讀金庸最好懂一點唐宋歷史、甚至是金庸個人的成長背景。複雜的音樂，表示要說的東西很多，要表達的範圍很大，聽者除了要有基本的聆賞能力，也要融合自身的生活歷練，如此才能意會出作者想表達的意境。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;※
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權 ※&lt;/p&gt;
 &lt;p&gt;很多人上台表演會緊張，然後跟在家練習的結果就會差很多。&lt;/p&gt;
-&lt;p&gt;樂手練歌的狀況基本上是這樣：
-在家自己跟 MP3 練  —&amp;gt; 100 分
-到練團室跟團員搭歌 —&amp;gt; 70 分
-到現場表演的時候 —&amp;gt; 60 分
-進錄音室 —&amp;gt; 20 分或者 0 分
-很多人都會有同樣的感覺，有人乾脆不練琴了，去唱 KTV ，馬上變成 120 分。&lt;/p&gt;
+&lt;p&gt;樂手練歌的狀況基本上是這樣：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在家自己跟 MP3 練  —&amp;gt; 100 分&lt;/li&gt;
+&lt;li&gt;到練團室跟團員搭歌 —&amp;gt; 70 分&lt;/li&gt;
+&lt;li&gt;到現場表演的時候 —&amp;gt; 60 分&lt;/li&gt;
+&lt;li&gt;進錄音室 —&amp;gt; 20 分或者 0 分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;很多人都會有同樣的感覺，有人乾脆不練琴了，去唱 KTV ，馬上變成 120 分。&lt;/p&gt;
 &lt;p&gt;道理很間單，就是環境由簡單到複雜的轉換。&lt;/p&gt;
 &lt;p&gt;在家自己練，是最舒適的環境，而且沒有人監督，只要能夠照著譜彈出來，不要出太大的錯，加上音量夠大聲，搭配原曲 MP3 的呼隆，要做到『自我感覺良好』是很簡單的。除非你像我一樣，會自己重新做 Backing，然後把錄音當練習，否則大部份的練習，我只能說是在『自嗨』的程度而已。&lt;/p&gt;
-&lt;p&gt;到練團室，要面對團員、要面對練團室音場的問題、練團室設備造成自己的 Tone 和原曲差異的問題、樂團和原曲編制、編曲差異的問題、主唱 Tone 差異、歌詞唱錯、團員彈錯、那天生理狀況（肚子餓、沒睡飽、天冷）的問題、鼓手過門打的和原曲不一樣、鼓手拍子不穩、鍵盤手沒有做弦樂、或者根本沒有鍵盤手 …… 等（可以再列 10 點以上)，在家練習時，沒有的問題全部都跑出來了 …. 不過這些還不是最糟的.&lt;/p&gt;
+&lt;p&gt;到練團室，要面對團員、要面對練團室音場的問題、練團室設備造成自己的 Tone 和原曲差異的問題、樂團和原曲編制、編曲差異的問題、主唱 Tone 差異、歌詞唱錯、團員彈錯、那天生理狀況（肚子餓、沒睡飽、天冷）的問題、鼓手過門打的和原曲不一樣、鼓手拍子不穩、鍵盤手沒有做弦樂、或者根本沒有鍵盤手 …… 等（可以再列 10 點以上)，在家練習時，沒有的問題全部都跑出來了 … 不過這些還不是最糟的.&lt;/p&gt;
 &lt;p&gt;到表演現場的問題會更多，像是：到了現場發現忘了帶 pick 或者譜、吉他弦斷了而且沒有備用的、場地下過雨、沒有棚子（風很大、或者正在下雨）、現場沒有舞台監聽、沒有吉他音箱必須 Line-In、麥克風不夠、舞台太大或太小、另一個吉他手或鍵盤手臨時不來、或者來的吉他手是代班的、聽眾只有三個人，兩個是員工、另一個是路過停下來的、老闆喝醉了要你上去打鼓（你明明是吉他手）、現場沒有鼓、臨時說要改成 unplugged ……. 最慘的是，錢領不到，還要自己想辦法付車馬費。&lt;/p&gt;
-&lt;p&gt;基本上沒去過錄音室和現場的樂手，都不算是合格的。錄音室和練團室、現場，是一個極端，練團室現場都是很糟的狀況，什麼奇奇怪怪的干擾一大堆，但是錄音室是什麼都沒有，很乾淨的狀況，乾淨到聽到自己的血液流動聲（這是誇飾法），手指的每個動作、呼吸、節拍、picking 力度，在錄音室裡面，會完全見光死，其他還有製作人給你的時間壓力（租錄音室很貴啊）、錄音師酸言酸語、助理小妹不夠正、沒錄完沒便當吃 &amp;hellip; 很多跟錄音沒啥關係的事。很多樂手去錄音室一趟回來的結論就是：放棄吉他，或者砍掉重練。聽 click 在錄音室是基本的，要對 click 對到很『自然』就是真功夫，其他像是 picking 的動態、音色的調整、音符的表情、現場編曲即興、聽得懂製作人的術語 / 外星語，都是一個專業吉他手該有的。所以在錄音室變成 0 分是很常見的，可以看看李宗盛跟一些年輕朋友在錄音室的紀錄。&lt;/p&gt;
+&lt;p&gt;基本上沒去過錄音室和現場的樂手，都不算是合格的。錄音室和練團室、現場，是一個極端，練團室現場都是很糟的狀況，什麼奇奇怪怪的干擾一大堆，但是錄音室是什麼都沒有，很乾淨的狀況，乾淨到聽到自己的血液流動聲（這是誇飾法），手指的每個動作、呼吸、節拍、picking 力度，在錄音室裡面，會完全見光死，其他還有製作人給你的時間壓力（租錄音室很貴啊）、錄音師酸言酸語、助理小妹不夠正、沒錄完沒便當吃 &amp;hellip; 很多跟錄音沒啥關係的事。很多樂手去錄音室一趟回來的結論就是：放棄吉他，或者砍掉重練。聽 click 在錄音室是基本的，要對 click 對到很『自然』就是真功夫，其他像是 picking 的動態、音色的調整、音符的表情、現場編曲即興、聽得懂製作人的術語 / 外星語，都是一個專業吉他手該有的。所以在錄音室變成 0 分是很常見的，可以看看李宗盛跟一些年輕朋友 &lt;a href=&#34;https://www.youtube.com/watch?v=ktotlxdNVSA&#34;&gt;在錄音室的紀錄&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;所以知道為什麼會從 100 分變成 0 分了吧 ～&lt;/p&gt;
 &lt;p&gt;環境的影響，比你想像的還多。&lt;/p&gt;
 &lt;p&gt;能夠經歷練團室、現場、錄音室，然後再回到自己的 Home，再到練團室、現場、錄音室，基本上已經是完全不一樣的層次了。對我來講，這個樂手才真的真正到達基本的水準，才真正算開始用音樂在表達情感、用音樂在講故事。&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;※
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;同上段落，另一個例子是軟體工程裡面的。
-Developer 自己寫好的東西 —&amp;gt; 100 分
-拿到 QA 或者 Lab 裡 —&amp;gt; 剩 70 分
-到客戶手上 Demo —&amp;gt; 只剩 60 分
-真實世界 or End User —&amp;gt; 只剩 20 分，甚至 0 分
-理由同上一段落，這道理，應該不難明白。『環境』的簡單與複雜影響是很大的，而知道或者認識『環境變因』就不是一件容易的事情，更別提要模擬出來。&lt;/p&gt;
+&lt;p&gt;同上段落，另一個例子是軟體工程裡面的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developer 自己寫好的東西 —&amp;gt; 100 分&lt;/li&gt;
+&lt;li&gt;拿到 QA 或者 Lab 裡 —&amp;gt; 剩 70 分&lt;/li&gt;
+&lt;li&gt;到客戶手上 Demo —&amp;gt; 只剩 60 分&lt;/li&gt;
+&lt;li&gt;真實世界 or End User —&amp;gt; 只剩 20 分，甚至 0 分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;理由同上一段落，這道理，應該不難明白。『環境』的簡單與複雜影響是很大的，而知道或者認識『環境變因』就不是一件容易的事情，更別提要模擬出來。&lt;/p&gt;
 &lt;p&gt;所以 NASA 在很多計劃裡，花最多錢的都是在建構模擬環境，因為 NASA 上太空的計畫，他只能在地球測試，一直到正式發射那天，才會到真實的環境。Gmail 放了大概快十年的 Beta，因為他們覺得對真實世界的狀況還不夠瞭解，所以不算 GA (General Available) &amp;hellip;&lt;/p&gt;
 &lt;p&gt;同樣的，跟樂手一樣，一個軟體工程師能夠經歷 QA / Lab、客戶、真實世界，然後再回到自已，再到QA / Lab、客戶，基本上，也是另一個層次了，也才算是一個成熟的軟體工程師，可以用軟體程式揮灑思想與表達意念 (see Thinking in Java 序)。&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;※
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;上面兩個例子：樂手、軟體工程師如果可以做到在不管哪都是一定水準 (80分以上)，是我認定所謂夠成熟、資深、夠水準的樂手、軟體工程師，但其實這是很不容易的。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;※
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2015 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
 &lt;p&gt;人是很複雜的，特別是情緒、情感。&lt;/p&gt;
 &lt;p&gt;音樂這種藝術表達的就是情緒。情緒需要張力的營造、氣氛的鋪成、畫面的想像。&lt;/p&gt;
 &lt;p&gt;情緒可以各式各樣，錯綜複雜，如高興、喜悅、快樂、驚奇、悲傷、沈痛、無奈、悲憤、思念、感激、沈悶、憤怒、厭惡、驚恐、興奮 …. 這些東西都是人文藝術所表達的。&lt;/p&gt;
@@ -81,8 +83,7 @@ Developer 自己寫好的東西 —&amp;gt; 100 分
 &lt;p&gt;天龍八部裡，靈鳩宮主人，也是逍遙派掌門、少林弟子虛竹，在得知自己的身世，原來父親是少林方丈、母親天下四大惡人排行第二『夜二娘』，卻又馬上遇到生父受丈責而死，母親為父殉情的人倫悲劇，同時間的大喜（終於知道自己的身世、同時又與父母團聚）、大悲（父母同時雙亡），這種情緒，五味雜陳。&lt;/p&gt;
 &lt;p&gt;倚天屠龍記第十回『百歲壽宴摧肝腸』：張三丰百歲大壽，喜的是，閉門修煉出關時，失蹤七年，思念已久、情若父子的愛徒張翠山出現在眼前，同時還帶回媳婦和徒孫張無忌。但因為武林紛爭，張翠山夫婦在張三丰面前自刎，徒孫張無忌中了玄冥神掌，生死未知。百年修為也好，登峰造極也罷，所有的情緒，五味雜陳。&lt;/p&gt;
 &lt;p&gt;其實，讀者的情緒常常也是被牽動著，因而五味雜陳，因為真實的人生也常常是如此，甚至更複雜。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    ※ 
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權 ※&lt;/p&gt;
 &lt;p&gt;Apple 的產品很成功，因為簡單、清楚，很多人都因此很喜歡，成為果粉。不過簡單的背後是仰賴複雜在支撐。因為實際使用 Apple 的產品 (iPhone、iPad、Mac OS) 會發現，所謂的簡單只是一種常用的 pattern 與使用體驗，不代表他不可以做複雜的事情。&lt;/p&gt;
 &lt;p&gt;所以看到簡單的東西，表示他把複雜的搞定了。一個產品宣稱他好用簡單，表示背後下了複雜的功夫，表示他已經幫使用者預先做好很多工作、或者假設。一個宣稱讓學習者覺得更簡單的教學方法，背後一定是付出相當複雜程度的課程設計與規劃，學習者才能感覺到簡單。一個簡單方便的社福機構與政府，表示背後政府付出相當複雜的努力與成本，不過台灣的社福還很落後，所以不難了解政府付出的多寡。&lt;/p&gt;
 &lt;p&gt;我相信要做的事情是一樣多的，依照物理『能量不滅定律』，不管是誰來做，要做的是同樣多。廠商做的多，使用者就簡單使用；政府做的多，人民就有便利社會；教育者思考的多，學習者就輕鬆 &amp;hellip;.. 基本上，這些要做的東西，看是放在哪裡而已，反過來看，廠商做的少，東西就難用，使用者就問題多；政府做的事少，人民就要自己想辦法，就會痛苦；老師隨便教，學生就要靠自己努力 &amp;hellip;..&lt;/p&gt;
@@ -92,23 +93,24 @@ Developer 自己寫好的東西 —&amp;gt; 100 分
 &lt;p&gt;複雜代表著相對程度的成熟與世故，簡單代表著相當的安逸與豁達。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;ol&gt;
+&lt;h3 id=&#34;站內文章&#34;&gt;站內文章&lt;/h3&gt;
+&lt;ul&gt;
 &lt;li&gt;練習的層次&lt;/li&gt;
 &lt;li&gt;學習聆聽&lt;/li&gt;
 &lt;li&gt;如何聽一首歌?&lt;/li&gt;
 &lt;li&gt;十年 &amp;hellip; 不過是入門而已 &amp;hellip;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h2&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;個理由解釋為什麼 Nickelback 被討厭？1 個理由也許讓你對他們改觀&lt;/li&gt;
-&lt;li&gt;【青春的香氣】錄音紀實《專業篇》&lt;/li&gt;
-&lt;li&gt;John Petrucci 承認自己不太會寫 12 分鐘以下的歌&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roxyrocker.com/2014/10/14/9%E5%80%8B%E7%90%86%E7%94%B1%E8%A7%A3%E9%87%8B%E7%82%BA%E4%BB%80%E9%BA%BCnickelback%E8%A2%AB%E8%A8%8E%E5%8E%AD%EF%BC%9F1%E5%80%8B%E7%90%86%E7%94%B1%E4%B9%9F%E8%A8%B1%E8%AE%93%E4%BD%A0%E5%B0%8D/&#34;&gt;9 個理由解釋為什麼 Nickelback 被討厭？1 個理由也許讓你對他們改觀&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ktotlxdNVSA&#34;&gt;【青春的香氣】錄音紀實《專業篇》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roxyrocker.com/2014/10/31/john-petrucci-%E6%89%BF%E8%AA%8D%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%A4%AA%E6%9C%83%E5%AF%AB-12-%E5%88%86%E9%90%98%E4%BB%A5%E4%B8%8B%E7%9A%84%E6%AD%8C/&#34;&gt;John Petrucci 承認自己不太會寫 12 分鐘以下的歌&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Thinking in Java&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;初稿：2015/01/10&lt;/li&gt;
-&lt;li&gt;原文位址：http://rickmidi.blogspot.com/2015/01/blog-post.html&lt;/li&gt;
+&lt;li&gt;2015/01/10: 初版&lt;/li&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2015/01/blog-post.html&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -661,10 +663,10 @@ Developer 自己寫好的東西 —&amp;gt; 100 分
     
     <item>
       <title>Docs: 正確性與速度</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</link>
+      <link>http://rickmid.gtcafe.com/docs/gossip/simple-complex/</link>
       <pubDate>Thu, 19 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</guid>
+      <guid>http://rickmid.gtcafe.com/docs/gossip/simple-complex/</guid>
       <description>
         
         
