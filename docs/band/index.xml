@@ -1,0 +1,366 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>喝咖啡 聊音樂 - GTCafe Studio, 2021 (施工中) – 樂團經營</title>
+    <link>https://rickmid.gtcafe.com/docs/band/</link>
+    <description>Recent content in 樂團經營 on 喝咖啡 聊音樂 - GTCafe Studio, 2021 (施工中)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://rickmid.gtcafe.com/docs/band/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 怎樣的程度才適合組樂團？</title>
+      <link>https://rickmid.gtcafe.com/docs/band/getting-started-play-as-band/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/band/getting-started-play-as-band/</guid>
+      <description>
+        
+        
+        &lt;p&gt;這種東西會有點主觀，所以我個人大概分成兩個目的好了：娛樂性和職業性，兩個的層次界定大概是這樣：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;娛樂：大家能夠開心玩，沒有壓力，介於 KTV 和樂團之間&lt;/li&gt;
+&lt;li&gt;職業：用樂團賺取利潤，重點在於經營&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;針對這兩種的層級，我下了一些定義，從技術層面 (演奏層級)，編曲層次兩個部分，這兩個層級都會面對這些問題，只是比重、還有深度的問題：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;演奏技術層面&lt;/code&gt;：技術就是樂器的駕馭能力。這種東西和每個人的啟蒙老師、個人處世態度有很大的關係。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;編曲層面&lt;/code&gt;：嚴格講也不算編曲，在樂團裡，簡單說就是 &lt;code&gt;工作分配&lt;/code&gt;。這關係樂手本身的對音樂的執著與認知程度。能聽到多少、能聽到啥層面的問題。聽不到細節、聽不到關係，就等於 &lt;code&gt;跑龍套&lt;/code&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;跑龍套&lt;/code&gt;：我個人慣用的名詞（可能也會出現在其他行業，Coder  會出現的就是 Design Pattern）。在音樂領域裡，就是把 &lt;strong&gt;和弦&lt;/strong&gt; 和 &lt;strong&gt;節拍&lt;/strong&gt; 彈對，叫做跑龍套。其實就是六十分的練習層次。很多時候，大部分的『團』是連這個層次也達不到的，不是個人的問題，是整個團的問題。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;娛樂性樂團&#34;&gt;娛樂性樂團&lt;/h2&gt;
+&lt;p&gt;如果是上班族，但是還是期望能個熱血，那麼最好還是要有這樣的基本的能力，玩起來才不會太吃力、無力。技術層次 分成和弦、旋律兩個部分。&lt;/p&gt;
+&lt;h3 id=&#34;演奏技術層面&#34;&gt;演奏技術層面&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;和弦 / 和聲&lt;/code&gt;: 至少 C 大調 (A 小調) 和 G 大調 (E 小調) 的順階和弦要熟練, 一個和弦有三種以上的按法。這裡提的不管是吉他還是鍵盤都要具備這樣的能力。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;旋律 / 音階&lt;/code&gt;: 跟和弦一樣，至少 C 大調 (A 小調) 和 G 大調 (E 小調) 音階要熟練，要想都太慢了。跟鍵盤打字一樣。同上，不管是鍵盤還是吉他都一樣，要有『即時』反應的能力，否則都會吃力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;編曲層面&#34;&gt;編曲層面&lt;/h3&gt;
+&lt;p&gt;以上班族的角度來看，談編曲這件事情跟爆肝沒兩樣，所以不要太要求這部份。最多能要求的就是照本宣科：也就是照著譜彈，或者能夠跑龍套，也是照彈就好。只要歌曲的主要結構能夠掌握就有 60 分了。&lt;/p&gt;
+&lt;h2 id=&#34;職業取向樂團&#34;&gt;職業取向樂團&lt;/h2&gt;
+&lt;p&gt;以下是我個人覺得必備的，不管是樂手還是歌手，而是整團的人都必須要有這樣的能力；&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一首歌聽完之後，能知道基本配置：
+&lt;ul&gt;
+&lt;li&gt;有用到哪一些樂器，哪一些音色&lt;/li&gt;
+&lt;li&gt;分的出來 Pad 有那些 (不一定是 String 而已)&lt;/li&gt;
+&lt;li&gt;基本的節奏形態&lt;/li&gt;
+&lt;li&gt;Key / 轉調&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;歌曲有哪些段落，配器如何。&lt;/li&gt;
+&lt;li&gt;哪些配器可以省略，哪些音色可以用什麼取代&lt;/li&gt;
+&lt;li&gt;曲風方向有哪些 (一首歌可能混合了很多種曲風)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這部份就不像娛樂性那麼簡單了，我比較著重各個樂手專業層次的問題、歌曲整體性的掌握程度、取與捨。&lt;/p&gt;
+&lt;h3 id=&#34;技術配器層次&#34;&gt;技術、配器層次&lt;/h3&gt;
+&lt;p&gt;不管是吉他、Bass、鍵盤手，24 個大小調是一定要熟的。需要想、要翻譜都是不合格的。&lt;/p&gt;
+&lt;p&gt;歌曲聽過一首歌兩次，能夠知道段落、和弦進行、音色、編曲配器比重。知道基本律動 (Groove) 是啥、插音 (Fill)、過門 (TR)、襯底 (Pad)、&amp;hellip;. 等。有哪一些聲部 (Channel) 可以省略、什麼樣的聲部最好不要省略。&lt;/p&gt;
+&lt;p&gt;聽過之後，知道原曲所需要的和樂團編制的距離，應該怎麼取捨、怎麼調整。可以用什麼方法補充不足的地方，不讓原曲失去味道。&lt;/p&gt;
+&lt;p&gt;有興趣的人聽聽我編的 『One Night in 北京』和原曲的差異。我編的重點在於：能夠現場演奏，而且不失原味。能夠『現場演奏』必須考量所有樂手的演奏能力、設備需求、現場配套措施等，這部份可簡單，可以複雜。&lt;/p&gt;
+&lt;h3 id=&#34;vocal-主唱&#34;&gt;Vocal 主唱&lt;/h3&gt;
+&lt;p&gt;如 &amp;ldquo;樂團的主唱&amp;rdquo; 一文提到的，不見得要會彈木吉他，但是一定要會讓樂手知道自己的音域，還有就是會算拍子和知道段落。另外就是舞台魅力、帶氣氛、掌握表演節奏、時間，知道樂手狀況：像是吉他 or 鍵盤聲音突然會不見、鼓手小鼓歪了、鼓棒斷了、大鼓位置跑掉了。&lt;/p&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2014-2019 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
+&lt;h2 id=&#34;現實與理想的距離&#34;&gt;現實與理想的距離&lt;/h2&gt;
+&lt;p&gt;基本的建議是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不要有一次就想做到完美的想法&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;實際上也不太可能，萬丈高樓平地起，要知道 &lt;code&gt;取跟捨&lt;/code&gt; 的拿捏。&lt;/p&gt;
+&lt;p&gt;大部分 Cover 歌曲，特別要做的是流行歌曲，標準編制的樂團能夠做到六、七成像就算是很不錯的了。因為大部分流行歌曲的編曲並不是樂團導向，也就是編曲過程時，不太會考慮現場演奏的問題，換言之編曲者可能會用一個管弦樂團來編（五、六十軌）、或者用了六把吉他疊出音牆 &amp;hellip; 等，也可能會用一個小編制的弦樂團 (4 人)、或者五把吉他堆疊出來的畫面，或者數十種以上不同音色的鍵盤音色 &amp;hellip;. 等。&lt;/p&gt;
+&lt;p&gt;留意一下一些有現場樂團的電視節目，或者預算夠多的演唱會，他們做出來的歌曲通常會接近原曲的七成以上，但是現場編制通常也不會太簡單。&lt;/p&gt;
+&lt;p&gt;像是歌唱選秀節目，因為收視率不錯；或者預算夠的演唱會，能夠請足夠預請樂師，所以常看到的編製會是這樣：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;節奏組：一位鼓手，同時具備 Looper Machine、一位打擊樂手，負責 Percussion 部分&lt;/li&gt;
+&lt;li&gt;兩組鍵盤手以上，兩位現場各自會有四台以上的 Keyboard，或者 Looper Machine (iPad or Laptop)，工作分配大概會是：
+&lt;ul&gt;
+&lt;li&gt;一個負責鋼琴伴奏 以及其合成音色演奏&lt;/li&gt;
+&lt;li&gt;另一位專注在負責襯底 (Pad)，還有音效、Looper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;兩位吉他手以上，他們也分別會準備二～三把吉他，依照不同需求做準備，常見的可能是：
+&lt;ul&gt;
+&lt;li&gt;搖滾歌曲：這就一般樂團最擅長，兩把 Rhythm、一把 Lead / Fill&lt;/li&gt;
+&lt;li&gt;慢歌：可能一位負責木吉他、另一位 Solo；或者有些歌需要尼龍吉他 (Bossa、Smooth Jazz) 等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;客串樂手：除了固定班底，有時候會需要一些客串的樂手幫忙，像是：Saxophone、古典吉他、木吉他、小提琴、小號、國樂器、Percussion &amp;hellip; 等客串樂手。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以假設以上是理想，需要那麼多東西，那麼多人，相對的就有對應的成本。而大部分的團只有：3- 5 個人，所以再說一次：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要知道取跟捨&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;中國的音樂節目常常有大型編制，可以聽聽看這首曲子的重新編曲，如果你的團要做這樣的曲子，要怎麼安排？怎樣取捨？&lt;/p&gt;
+&lt;h3 id=&#34;先求有再求好&#34;&gt;先求有再求好&lt;/h3&gt;
+&lt;p&gt;先把 &lt;code&gt;大架構&lt;/code&gt; 都做對了，也就是『樂團總譜』提到的東西。然後再來處理 &lt;code&gt;細微的&lt;/code&gt;、&lt;code&gt;修飾的&lt;/code&gt; 部份。例如很炫炮的 Solo、很漂亮的裝飾音、過場音效、很有味道的 Loop &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;細節靠的是個人的修行與努力，還有樂團持續精進的態度。&lt;/p&gt;
+&lt;h3 id=&#34;推薦入門歌曲&#34;&gt;推薦入門歌曲&lt;/h3&gt;
+&lt;p&gt;推薦一些是我個人覺得算是入門，第一次組團可以練的曲子，比較篇搖滾為主。這些歌曲我都彈過，有些也是我個人的教材範例。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Brain Adams - Summer of 69 (D-F)&lt;/li&gt;
+&lt;li&gt;Avril Lavigne - My Happy Ending (D)&lt;/li&gt;
+&lt;li&gt;Avril Lavigne - Basket Case (F#, Play: G)&lt;/li&gt;
+&lt;li&gt;Nickelback - Someday [D]&lt;/li&gt;
+&lt;li&gt;Zombie [Em]&lt;/li&gt;
+&lt;li&gt;Deep Purple - Smoke on the Water&lt;/li&gt;
+&lt;li&gt;五月天 - 尬車&lt;/li&gt;
+&lt;li&gt;海角七號 - 無樂不做&lt;/li&gt;
+&lt;li&gt;Bon Jovi - It&amp;rsquo;s My Life [Eb]&lt;/li&gt;
+&lt;li&gt;Bon Jovi - Have a Nice Day [E]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/p&gt;
+&lt;p&gt;其實說那麼多，都是理想，我自己過去玩團那麼多年，也尚未有這樣的團隊，但是我一直在努力讓團員大家能一起變成那樣。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;樂團的經營&lt;/li&gt;
+&lt;li&gt;樂團的主唱&lt;/li&gt;
+&lt;li&gt;吉他音階學習引導&lt;/li&gt;
+&lt;li&gt;吉他基本功&lt;/li&gt;
+&lt;li&gt;樂團總譜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2019/02/01: 初版&lt;/li&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2019/02/blog-post.html&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 關於寫譜</title>
+      <link>https://rickmid.gtcafe.com/docs/band/about-score/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/band/about-score/</guid>
+      <description>
+        
+        
+        &lt;p&gt;我寫譜大部份都是給自己看的，因為寫譜需要極高的專注力、聽力、節奏感、樂理、排版美感、專業工具等知識，是件非常非常耗費精神的工作 (不會輸給寫程式)。&lt;/p&gt;
+&lt;p&gt;我喜歡把這過程當作是練功，每次寫好一首歌的譜，功力又進步一些，寫得好還可以一直重複使用，不管是用在教學，還是寫文章。&lt;/p&gt;
+&lt;p&gt;後來因為教學、練團、寫文章，變成要寫給其他人看，像是學生、團員、讀者。不同對象，寫的方式就會有差異，甚至是寫給不同樂手、不同團、不同參考版本 (Live、Studio、Unplugged) &amp;hellip;。曾經有過一些歌，寫過四、五個版本之多。&lt;/p&gt;
+&lt;p&gt;整理一些過往的記憶 (年紀大了，開始要自我回顧了 XD) 給有興趣的朋友參考。。。&lt;/p&gt;
+&lt;h2 id=&#34;樂團團譜&#34;&gt;樂團團譜&lt;/h2&gt;
+&lt;h3 id=&#34;直接手寫&#34;&gt;直接手寫&lt;/h3&gt;
+&lt;p&gt;剛開始不會想太多，反正就是手寫，也沒什麼排版概念，和弦、段落、Solo、Tempo/Key 大概標記一下，就這樣。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01-1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01-2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01-3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;簡單樣板譜&#34;&gt;簡單樣板譜&lt;/h3&gt;
+&lt;p&gt;寫幾首就會發現需要用樣板，所以找樣板來用。常看的樣板有兩種，一種是用五線譜、另一種就是簡譜的樣板。&lt;/p&gt;
+&lt;h3 id=&#34;五線譜樣板&#34;&gt;五線譜樣板&lt;/h3&gt;
+&lt;p&gt;五線譜樣板很好找，但是吉他手大部份不會寫豆芽菜，而且五線譜很佔空間，所以實際上，教學比較會用五線譜樣板。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;02-1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;簡譜樣板&#34;&gt;簡譜樣板&lt;/h3&gt;
+&lt;p&gt;這是大部份會看到的，網路上或者一些做場樂手都會用這種樣板譜。四小節一段、或者八小節一段。可以標記 Key / Tempo / 和弦，或者重點節奏等資訊。這是最常見的樣板，自行製作也很容易，底下是我自己的樣板：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;03-1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;03-2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;電腦打的團譜&#34;&gt;電腦打的團譜&lt;/h3&gt;
+&lt;p&gt;後來有一段時間，我把前一種樣板做了再進化，變成比較漂亮的樣板譜，而且可以重複使用在教學上。樣式分兩種，一種單純是樂譜，不含歌詞，另一種則是包含歌詞。&lt;/p&gt;
+&lt;p&gt;這個樣板我前後進化很多次，有很多種版本：&lt;/p&gt;
+&lt;p&gt;最初版：延續前個樣板，做更精細的調教，特別是段落的排版、重點節奏表示。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;04-1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;第二版：再進化，支援多個聲部、與旋律表示。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;04-2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;04-3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;寫譜重點：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;段落, 和弦進行&lt;/li&gt;
+&lt;li&gt;重點節奏與 Fill&lt;/li&gt;
+&lt;li&gt;電腦打的好處：Reuse &amp;ndash; 教學, 跟團員一起協作方便&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;弄這個樣板的過程，曾興起自己來開發排版系統的念頭。不過想想而已。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;教學譜&#34;&gt;教學譜&lt;/h2&gt;
+&lt;p&gt;教學我希望呈現的是精準且完整的資訊，所以全部都是採電腦排版，寫譜重點：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;拍子、小節概念&lt;/li&gt;
+&lt;li&gt;和弦位置&lt;/li&gt;
+&lt;li&gt;段落概念&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;05-1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;05-2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;05-3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;除了教學，也有是因個人喜歡，手寫的：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;06-1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;演奏曲&#34;&gt;演奏曲&lt;/h2&gt;
+&lt;p&gt;演奏曲大部份是教學、或者我自己練功而寫。寫的細膩度就看投入多少時間。
+Jack Thammarat - Emotive Ballad&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;07-1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;吉他編曲：自己編的演奏曲&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;08-1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權 ※
+&amp;mdash;&amp;mdash;- Copyright © 2016 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;樂譜是音樂家之間溝通的重要橋樑，兩個不同國籍的樂手，語言不通時，樂譜就是最好的介面。想要成為音樂家，我的認知上，能夠聽說讀寫樂譜，是很重要的內功心法。&lt;/p&gt;
+&lt;p&gt;我買過很多譜，有一本 300 台幣的，裡面可能有數百首歌。後來到大一點的書店發現有國外的樂譜，但是都很貴，一首 600 台幣 (20USD)，心裡很不解為啥賣那麼貴，但還是買了下來。後來買了很喜歡的樂團團譜，也是超級貴，一本十首歌，但是要價快兩千台幣。&lt;/p&gt;
+&lt;p&gt;學習階段也自己寫過不少譜 (參見 &amp;ldquo;過年，想找的就只是回憶而已：那些年練過的流行歌曲&amp;rdquo;)，但從沒用金錢衡量過他的價值。&lt;/p&gt;
+&lt;p&gt;後來自己因為教學寫譜、練團寫譜、甚至因為準備電子書校稿把裡面提到的『音符』重新校正，花了很多精神，體驗又更深了。因為寫譜，才更知道，一首歌裡面有很多細節要被表示出來沒那麼容易，然後回去看一些經典歌曲的譜（古典），才明白為什麼會有那麼多以前覺得很奇怪的符號在譜上，什麼 &amp;ldquo;ppp&amp;rdquo;, &amp;ldquo;fff&amp;rdquo;, 漸強, 舒緩的 &amp;hellip;. 奇奇怪怪的形容詞 &amp;hellip;. 因為寫譜的人，不只是想把音符寫下來，而是要把音樂的情緒、顏色也寫下來。&lt;/p&gt;
+&lt;p&gt;延伸閱讀 (站內)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;過年，想找的就只是回憶而已：那些年練過的流行歌曲&lt;/li&gt;
+&lt;li&gt;樂團總譜&lt;/li&gt;
+&lt;li&gt;站內分享的譜：
+&lt;ul&gt;
+&lt;li&gt;Jack Thammarat - Emotive Ballad&lt;/li&gt;
+&lt;li&gt;盧廣仲 - Oh Yeah - 歌曲分析&lt;/li&gt;
+&lt;li&gt;黃品源 - 真久沒看&lt;/li&gt;
+&lt;li&gt;歌曲分析: FF10-2 - Memories of Lightwaves&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ptt.cc/bbs/guitar/M.1466096707.A.CEA.html&#34;&gt;https://www.ptt.cc/bbs/guitar/M.1466096707.A.CEA.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2016/06/18: 初版&lt;/li&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2016/06/blog-post.html&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 關於樂團總譜</title>
+      <link>https://rickmid.gtcafe.com/docs/band/band-score/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/band/band-score/</guid>
+      <description>
+        
+        
+        &lt;p&gt;在 &amp;ldquo;怎樣練一首歌&amp;rdquo; 以及 &amp;ldquo;樂團經營&amp;rdquo; 提到段落的問題. 樂團是一個 &amp;ldquo;團體&amp;rdquo;, 音樂是時間藝術, 成員在練習時就要有共同的時間軸參考標示 (Marker/Tag), 溝通時就用 Tag 溝通, 協調. 盡量用通用的術語, 或者英文, 因為搞不好有機會跟老外合作搭歌. (聽聽陶喆跟老外工作時的對話)&lt;/p&gt;
+&lt;p&gt;樂手進錄音室錄音之前, 通常錄音師和編曲會先準備好所謂的 &amp;ldquo;工作帶&amp;rdquo;, 內容大概就是有 Click, 鼓, Bass, 和弦 (GT or KB), 讓錄音的樂手知道現在在哪裡, 情緒如何. 但是在練團室並沒有這些東西, 所以最好把斷落標示弄清楚. 練團室鼓手就是 Click.&lt;/p&gt;
+&lt;h2 id=&#34;常見的溝通狀況&#34;&gt;常見的溝通狀況&lt;/h2&gt;
+&lt;p&gt;以下是在練團時經常出現的一些狀況:&lt;/p&gt;
+&lt;p&gt;狀況一:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Vocal: 剛剛拍子錯了, 從 2:32 那邊, 我們再來一次.
+GT: 你貢啥??   (你說哪裡????)
+其他人: ???????????????
+你覺得有人會知道 2:32 是哪裡嗎？通常接下來，有人就會拿出 MP3 Player，然後準備用 Micphone or 接到 Mixer 放給大家聽。然後可能的問題就是：在那邊找 2:32 找半天，或者找線接到 Mixer 接半天，無法放出聲音，或者太小聲，然後已經過了十分鐘了。。。你覺得這樣的溝通有效率嗎？
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況二:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Vocal: 我們從 &amp;quot;你給我小雨滴  滋潤我心窩&amp;quot; 這裡句開始.
+All: ?????????????   
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;不要說歌詞哪句開始, 有些樂手連現在正在練的歌叫啥都不曉得了, 即時那個歌可能在市場上是很有名的. 不要以為很誇張, 這很常遇到, 通常當歌累積幾百首之後, 只要稍微不專注一下子, 很容易就會變成像是在 &amp;ldquo;跑龍套&amp;rdquo; 的局面.&lt;/p&gt;
+&lt;p&gt;狀況三:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;GT: 從剛剛那個 G#7 進去開始, 然後最後 b6 -&amp;gt; b7 -&amp;gt; 1 結束.
+KB/Bass: 好.
+Drum, Vocal: Is good to drink????
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況四:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Drummer: 剛剛那邊 &amp;quot;咚咚 鏗 咚咚 鏘&amp;quot;, 拍子錯了, 吉他要 &amp;quot;嗯 搭&amp;quot; 才出來 ....
+GT: ...................
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;鼓手是負責樂團的節奏部分，對於節奏的形容，以及專業術語，應該更能夠清楚描述才是。&lt;/p&gt;
+&lt;p&gt;狀況五:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Vocal: 我們從 GT Solo 那邊開始.
+GT: Solo 有三段, 你是說哪一段 ????
+Vocal: 就是 &amp;quot;搭搭搭  搭搭搭&amp;quot; 那邊阿 ..
+GT OS: 三段一開始都是 &amp;quot;搭搭搭  搭搭搭&amp;quot; .......................................
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況六:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;GT: 從最後 Solo 前那一段開始.
+Drummer: 嗯嗯 ...
+KB: 好.
+Vocal: 啥@@?
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;調整溝通方法&#34;&gt;調整溝通方法&lt;/h2&gt;
+&lt;p&gt;以上幾種狀況, 看起來有點好笑, 又有點蠢. 可是卻是練團時常發生的.
+如果改成以下這樣:&lt;/p&gt;
+&lt;p&gt;狀況一:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;KB: 剛剛間奏一 (Interlude 1) 吉他彈錯了, 我們再來一次.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況二:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Vocal: 我們從第一次副歌 (Chorus) 開始.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況三:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;GT: 從剛剛間奏一 (Inter 1) 的最後一小節進去.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況四:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Drummer: 剛剛的進副歌 (Chorus) 的 Fill-in 那邊, 拍子錯了, 吉他要第一拍的反拍才出來 ....
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況五:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Vocal: 我們從第二次的 GT Solo 開始, 然後接副歌.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況六:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;GT: 從 Outro 前的 Chorus 開始再一次.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;如果用這些名詞來表示段落, 而你卻還不知道該彈什麼, 那表示你可能:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;歌聽的不夠熟, 聽的不夠專心&lt;/li&gt;
+&lt;li&gt;視奏要多加強&lt;/li&gt;
+&lt;li&gt;把歌聽進去, 不要連啥是主歌/副歌/前奏/間奏/尾奏都搞不清楚.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;常見的段落名詞, 依據歌曲的性質, 曲風, 會有不一樣的適用性, 在 &amp;ldquo;怎樣練一首歌&amp;rdquo; 有詳細的說明.&lt;/p&gt;
+&lt;h2 id=&#34;寫譜的問題&#34;&gt;寫譜的問題&lt;/h2&gt;
+&lt;h3 id=&#34;要寫級數還是寫和弦名稱&#34;&gt;要寫級數還是寫和弦名稱？&lt;/h3&gt;
+&lt;p&gt;這個部分我個人會看歌曲的曲風, 一般我個人是這樣做的:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;流行歌&lt;/code&gt;: POP, Ballad, POP Rock, R&amp;amp;B &amp;hellip; 都用大調的數字級. ex: 1, 2m, 3m, 7o &amp;hellip; etc. 小調也參考大調, 用 6m 開始. 簡言之, 台灣卓著出版的譜就是這樣. 但是如果該曲子的編曲和聲比較複雜, 通常是應用了爵士和聲, 我就會寫和弦名稱, 像是 Misia - Everything.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;演奏曲&lt;/code&gt;: 通常就是一些 Jazz, Fusion, 古典之類的演奏曲, 這些我也會整理整個歌曲的 overview, 但是就會直接寫和弦名稱, 大概就像歌曲分析: Falling in Love Again, Memories of Lightwave 那樣.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;雖然會這樣分, 但是有的時候一首歌, 會因為需求 (教學/數字和弦譜/調性譜/五線譜/簡譜/改編/簡易), 我會寫三四個以上的版本, 端看需求來定.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果你連標題都不知道是什麼問題，那可能要回去好好練習看譜。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2011-2015 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
+&lt;h3 id=&#34;鼓譜怎麼辦&#34;&gt;鼓譜怎麼辦?&lt;/h3&gt;
+&lt;p&gt;有些段落的節奏比較複雜, 可以把節奏標記上去. 像是黃小琥熱情的沙漠間奏, 節奏如下圖:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Timing.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;要寫主旋律嗎&#34;&gt;要寫主旋律嗎?&lt;/h3&gt;
+&lt;p&gt;如果有時間, 有工具, 能寫最好. 一般流行歌寫簡譜比較適合.&lt;/p&gt;
+&lt;h3 id=&#34;樂團譜的種類&#34;&gt;樂團譜的種類&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;樂團總譜 (數字)&lt;/code&gt;: 通常只有幾頁, 最多不超過四頁 A4, 譜上只會著名和弦, 一些插音 (Fill), 過門節奏, 特殊的和聲聲線會額外著名. 通常是現場表演在看的, 卓著出版的譜就是. 這種譜都是大調中心譜, 所以寫的級數都是大調級數.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;團譜&lt;/code&gt;: 有各個樂器很詳細的內容, 吉他六線譜, 詳細演奏表情, 鍵盤五線譜, 鼓和 Bass 譜 &amp;hellip;. 適合自己練習用. 如果是各個聲部是拆開的, 那或許還可以帶去練團室; 如果是和在一起的, 請不要帶這個去練團室, 因為大家是去練團室一起合奏練習的, 不是要看你在那邊表演找譜大戲.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;有沒有哪些推薦的寫譜工具&#34;&gt;有沒有哪些推薦的寫譜工具？&lt;/h3&gt;
+&lt;p&gt;我個人有在使用的一些製譜軟體, 用途不一, 有些要錢, 有些則不.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iReal Pro:  專門用來練習即興的工具，在 Mac/iOS/Android 裡都有，現在是我寫總譜/練即興/創作的主要工具。&lt;/li&gt;
+&lt;li&gt;Guitar Pro: 主要的強項是吉他譜, 第六版有把 &amp;ldquo;樂團團譜&amp;rdquo; 的功能作提升&lt;/li&gt;
+&lt;li&gt;Finale / Sibelius: 非常專業的排版, 製譜工具.&lt;/li&gt;
+&lt;li&gt;LilyPond: 也是一套非常專業的排版, 製譜工具, 而且是免費的. 但不是 WYSWYG 的製譜工具, 他是類似於 LateX 的直譯程式 (有點像 Python). 功能非常強大, 排版出來的也非常漂亮.&lt;/li&gt;
+&lt;li&gt;Open Office Calc: 就是類似 Microsoft 的 Excel, 用 Calc 主要是好排版. 我主要用他來寫團譜 / 和弦譜, 通常限制不要超過兩張 A4 的數量. 最後的例子就是用這個打的 XD&lt;/li&gt;
+&lt;li&gt;手: 呃 &amp;hellip; 就是用手寫 XDD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果還有其他不錯的工具, 歡迎大家推薦.&lt;/p&gt;
+&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;寫譜是很累而且很消耗精神的工作, 特別是要校對/修改的譜. 但是一個團如果真的有心要做歌, 這只是練團的基本功, 有的時候因為需求或者改編, 一首歌寫三四個版本是很正常的, 但是累積起來的功力, 都是貨真價實的, 鏗鏘老師都這樣做了, 你呢?&lt;/p&gt;
+&lt;p&gt;以下是我個人在練團時所寫的總譜, 寫譜基本的原則就是文章的描述, 歌曲是 Sixx AM - Life is Beautiful:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;SixxAM_Life-is-Beautiful-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;SixxAM_Life-is-Beautiful-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;怎樣練一首歌&lt;/li&gt;
+&lt;li&gt;樂團經營&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[簡報] 拿音樂比音效? 鏗鏘批金鐘不倫不類!&lt;/li&gt;
+&lt;li&gt;D6T9 Session - 陶喆 69 樂張專輯製作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2011/01/15: 初版&lt;/li&gt;
+&lt;li&gt;2011/08/14: 增加黃小琥 - 熱情的沙漠間奏節奏譜&lt;/li&gt;
+&lt;li&gt;2011/09/25: 增加總譜例子 - Sixx AM: Life is Beautiful&lt;/li&gt;
+&lt;li&gt;2015/04/13: 增加工具 iReal Pro&lt;/li&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2011/01/blog-post.html&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

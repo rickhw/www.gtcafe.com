@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>喝咖啡 聊音樂 (施工中) – 喝咖啡 聊音樂</title>
-    <link>http://rickmid.gtcafe.com/docs/</link>
-    <description>Recent content in 喝咖啡 聊音樂 on 喝咖啡 聊音樂 (施工中)</description>
+    <title>喝咖啡 聊音樂 - GTCafe Studio, 2021 (施工中) – 喝咖啡 聊音樂</title>
+    <link>https://rickmid.gtcafe.com/docs/</link>
+    <description>Recent content in 喝咖啡 聊音樂 on 喝咖啡 聊音樂 - GTCafe Studio, 2021 (施工中)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 28 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://rickmid.gtcafe.com/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://rickmid.gtcafe.com/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Docs: 音階的本質</title>
-      <link>http://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E7%9A%84%E6%9C%AC%E8%B3%AA/</link>
+      <link>https://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E7%9A%84%E6%9C%AC%E8%B3%AA/</link>
       <pubDate>Sat, 29 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E7%9A%84%E6%9C%AC%E8%B3%AA/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E7%9A%84%E6%9C%AC%E8%B3%AA/</guid>
       <description>
         
         
@@ -71,10 +71,10 @@
     
     <item>
       <title>Docs: 音階基礎</title>
-      <link>http://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E5%9F%BA%E7%A4%8E/</link>
+      <link>https://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E5%9F%BA%E7%A4%8E/</link>
       <pubDate>Mon, 04 Dec 2006 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E5%9F%BA%E7%A4%8E/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E5%9F%BA%E7%A4%8E/</guid>
       <description>
         
         
@@ -228,11 +228,134 @@ Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygia
     </item>
     
     <item>
+      <title>Docs: 怎樣的程度才適合組樂團？</title>
+      <link>https://rickmid.gtcafe.com/docs/band/getting-started-play-as-band/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/band/getting-started-play-as-band/</guid>
+      <description>
+        
+        
+        &lt;p&gt;這種東西會有點主觀，所以我個人大概分成兩個目的好了：娛樂性和職業性，兩個的層次界定大概是這樣：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;娛樂：大家能夠開心玩，沒有壓力，介於 KTV 和樂團之間&lt;/li&gt;
+&lt;li&gt;職業：用樂團賺取利潤，重點在於經營&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;針對這兩種的層級，我下了一些定義，從技術層面 (演奏層級)，編曲層次兩個部分，這兩個層級都會面對這些問題，只是比重、還有深度的問題：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;演奏技術層面&lt;/code&gt;：技術就是樂器的駕馭能力。這種東西和每個人的啟蒙老師、個人處世態度有很大的關係。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;編曲層面&lt;/code&gt;：嚴格講也不算編曲，在樂團裡，簡單說就是 &lt;code&gt;工作分配&lt;/code&gt;。這關係樂手本身的對音樂的執著與認知程度。能聽到多少、能聽到啥層面的問題。聽不到細節、聽不到關係，就等於 &lt;code&gt;跑龍套&lt;/code&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;跑龍套&lt;/code&gt;：我個人慣用的名詞（可能也會出現在其他行業，Coder  會出現的就是 Design Pattern）。在音樂領域裡，就是把 &lt;strong&gt;和弦&lt;/strong&gt; 和 &lt;strong&gt;節拍&lt;/strong&gt; 彈對，叫做跑龍套。其實就是六十分的練習層次。很多時候，大部分的『團』是連這個層次也達不到的，不是個人的問題，是整個團的問題。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;娛樂性樂團&#34;&gt;娛樂性樂團&lt;/h2&gt;
+&lt;p&gt;如果是上班族，但是還是期望能個熱血，那麼最好還是要有這樣的基本的能力，玩起來才不會太吃力、無力。技術層次 分成和弦、旋律兩個部分。&lt;/p&gt;
+&lt;h3 id=&#34;演奏技術層面&#34;&gt;演奏技術層面&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;和弦 / 和聲&lt;/code&gt;: 至少 C 大調 (A 小調) 和 G 大調 (E 小調) 的順階和弦要熟練, 一個和弦有三種以上的按法。這裡提的不管是吉他還是鍵盤都要具備這樣的能力。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;旋律 / 音階&lt;/code&gt;: 跟和弦一樣，至少 C 大調 (A 小調) 和 G 大調 (E 小調) 音階要熟練，要想都太慢了。跟鍵盤打字一樣。同上，不管是鍵盤還是吉他都一樣，要有『即時』反應的能力，否則都會吃力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;編曲層面&#34;&gt;編曲層面&lt;/h3&gt;
+&lt;p&gt;以上班族的角度來看，談編曲這件事情跟爆肝沒兩樣，所以不要太要求這部份。最多能要求的就是照本宣科：也就是照著譜彈，或者能夠跑龍套，也是照彈就好。只要歌曲的主要結構能夠掌握就有 60 分了。&lt;/p&gt;
+&lt;h2 id=&#34;職業取向樂團&#34;&gt;職業取向樂團&lt;/h2&gt;
+&lt;p&gt;以下是我個人覺得必備的，不管是樂手還是歌手，而是整團的人都必須要有這樣的能力；&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一首歌聽完之後，能知道基本配置：
+&lt;ul&gt;
+&lt;li&gt;有用到哪一些樂器，哪一些音色&lt;/li&gt;
+&lt;li&gt;分的出來 Pad 有那些 (不一定是 String 而已)&lt;/li&gt;
+&lt;li&gt;基本的節奏形態&lt;/li&gt;
+&lt;li&gt;Key / 轉調&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;歌曲有哪些段落，配器如何。&lt;/li&gt;
+&lt;li&gt;哪些配器可以省略，哪些音色可以用什麼取代&lt;/li&gt;
+&lt;li&gt;曲風方向有哪些 (一首歌可能混合了很多種曲風)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這部份就不像娛樂性那麼簡單了，我比較著重各個樂手專業層次的問題、歌曲整體性的掌握程度、取與捨。&lt;/p&gt;
+&lt;h3 id=&#34;技術配器層次&#34;&gt;技術、配器層次&lt;/h3&gt;
+&lt;p&gt;不管是吉他、Bass、鍵盤手，24 個大小調是一定要熟的。需要想、要翻譜都是不合格的。&lt;/p&gt;
+&lt;p&gt;歌曲聽過一首歌兩次，能夠知道段落、和弦進行、音色、編曲配器比重。知道基本律動 (Groove) 是啥、插音 (Fill)、過門 (TR)、襯底 (Pad)、&amp;hellip;. 等。有哪一些聲部 (Channel) 可以省略、什麼樣的聲部最好不要省略。&lt;/p&gt;
+&lt;p&gt;聽過之後，知道原曲所需要的和樂團編制的距離，應該怎麼取捨、怎麼調整。可以用什麼方法補充不足的地方，不讓原曲失去味道。&lt;/p&gt;
+&lt;p&gt;有興趣的人聽聽我編的 『One Night in 北京』和原曲的差異。我編的重點在於：能夠現場演奏，而且不失原味。能夠『現場演奏』必須考量所有樂手的演奏能力、設備需求、現場配套措施等，這部份可簡單，可以複雜。&lt;/p&gt;
+&lt;h3 id=&#34;vocal-主唱&#34;&gt;Vocal 主唱&lt;/h3&gt;
+&lt;p&gt;如 &amp;ldquo;樂團的主唱&amp;rdquo; 一文提到的，不見得要會彈木吉他，但是一定要會讓樂手知道自己的音域，還有就是會算拍子和知道段落。另外就是舞台魅力、帶氣氛、掌握表演節奏、時間，知道樂手狀況：像是吉他 or 鍵盤聲音突然會不見、鼓手小鼓歪了、鼓棒斷了、大鼓位置跑掉了。&lt;/p&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2014-2019 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
+&lt;h2 id=&#34;現實與理想的距離&#34;&gt;現實與理想的距離&lt;/h2&gt;
+&lt;p&gt;基本的建議是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不要有一次就想做到完美的想法&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;實際上也不太可能，萬丈高樓平地起，要知道 &lt;code&gt;取跟捨&lt;/code&gt; 的拿捏。&lt;/p&gt;
+&lt;p&gt;大部分 Cover 歌曲，特別要做的是流行歌曲，標準編制的樂團能夠做到六、七成像就算是很不錯的了。因為大部分流行歌曲的編曲並不是樂團導向，也就是編曲過程時，不太會考慮現場演奏的問題，換言之編曲者可能會用一個管弦樂團來編（五、六十軌）、或者用了六把吉他疊出音牆 &amp;hellip; 等，也可能會用一個小編制的弦樂團 (4 人)、或者五把吉他堆疊出來的畫面，或者數十種以上不同音色的鍵盤音色 &amp;hellip;. 等。&lt;/p&gt;
+&lt;p&gt;留意一下一些有現場樂團的電視節目，或者預算夠多的演唱會，他們做出來的歌曲通常會接近原曲的七成以上，但是現場編制通常也不會太簡單。&lt;/p&gt;
+&lt;p&gt;像是歌唱選秀節目，因為收視率不錯；或者預算夠的演唱會，能夠請足夠預請樂師，所以常看到的編製會是這樣：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;節奏組：一位鼓手，同時具備 Looper Machine、一位打擊樂手，負責 Percussion 部分&lt;/li&gt;
+&lt;li&gt;兩組鍵盤手以上，兩位現場各自會有四台以上的 Keyboard，或者 Looper Machine (iPad or Laptop)，工作分配大概會是：
+&lt;ul&gt;
+&lt;li&gt;一個負責鋼琴伴奏 以及其合成音色演奏&lt;/li&gt;
+&lt;li&gt;另一位專注在負責襯底 (Pad)，還有音效、Looper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;兩位吉他手以上，他們也分別會準備二～三把吉他，依照不同需求做準備，常見的可能是：
+&lt;ul&gt;
+&lt;li&gt;搖滾歌曲：這就一般樂團最擅長，兩把 Rhythm、一把 Lead / Fill&lt;/li&gt;
+&lt;li&gt;慢歌：可能一位負責木吉他、另一位 Solo；或者有些歌需要尼龍吉他 (Bossa、Smooth Jazz) 等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;客串樂手：除了固定班底，有時候會需要一些客串的樂手幫忙，像是：Saxophone、古典吉他、木吉他、小提琴、小號、國樂器、Percussion &amp;hellip; 等客串樂手。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以假設以上是理想，需要那麼多東西，那麼多人，相對的就有對應的成本。而大部分的團只有：3- 5 個人，所以再說一次：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要知道取跟捨&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;中國的音樂節目常常有大型編制，可以聽聽看這首曲子的重新編曲，如果你的團要做這樣的曲子，要怎麼安排？怎樣取捨？&lt;/p&gt;
+&lt;h3 id=&#34;先求有再求好&#34;&gt;先求有再求好&lt;/h3&gt;
+&lt;p&gt;先把 &lt;code&gt;大架構&lt;/code&gt; 都做對了，也就是『樂團總譜』提到的東西。然後再來處理 &lt;code&gt;細微的&lt;/code&gt;、&lt;code&gt;修飾的&lt;/code&gt; 部份。例如很炫炮的 Solo、很漂亮的裝飾音、過場音效、很有味道的 Loop &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;細節靠的是個人的修行與努力，還有樂團持續精進的態度。&lt;/p&gt;
+&lt;h3 id=&#34;推薦入門歌曲&#34;&gt;推薦入門歌曲&lt;/h3&gt;
+&lt;p&gt;推薦一些是我個人覺得算是入門，第一次組團可以練的曲子，比較篇搖滾為主。這些歌曲我都彈過，有些也是我個人的教材範例。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Brain Adams - Summer of 69 (D-F)&lt;/li&gt;
+&lt;li&gt;Avril Lavigne - My Happy Ending (D)&lt;/li&gt;
+&lt;li&gt;Avril Lavigne - Basket Case (F#, Play: G)&lt;/li&gt;
+&lt;li&gt;Nickelback - Someday [D]&lt;/li&gt;
+&lt;li&gt;Zombie [Em]&lt;/li&gt;
+&lt;li&gt;Deep Purple - Smoke on the Water&lt;/li&gt;
+&lt;li&gt;五月天 - 尬車&lt;/li&gt;
+&lt;li&gt;海角七號 - 無樂不做&lt;/li&gt;
+&lt;li&gt;Bon Jovi - It&amp;rsquo;s My Life [Eb]&lt;/li&gt;
+&lt;li&gt;Bon Jovi - Have a Nice Day [E]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/p&gt;
+&lt;p&gt;其實說那麼多，都是理想，我自己過去玩團那麼多年，也尚未有這樣的團隊，但是我一直在努力讓團員大家能一起變成那樣。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;樂團的經營&lt;/li&gt;
+&lt;li&gt;樂團的主唱&lt;/li&gt;
+&lt;li&gt;吉他音階學習引導&lt;/li&gt;
+&lt;li&gt;吉他基本功&lt;/li&gt;
+&lt;li&gt;樂團總譜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2019/02/01: 初版&lt;/li&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2019/02/blog-post.html&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 簡單、複雜</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</link>
       <pubDate>Sat, 10 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</guid>
       <description>
         
         
@@ -330,10 +453,10 @@ Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygia
     
     <item>
       <title>Docs: 對談</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/%E5%B0%8D%E8%AB%87/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/%E5%B0%8D%E8%AB%87/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/%E5%B0%8D%E8%AB%87/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/%E5%B0%8D%E8%AB%87/</guid>
       <description>
         
         
@@ -413,10 +536,10 @@ Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygia
     
     <item>
       <title>Docs: 保護耳朵</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/protect-ears/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/protect-ears/</link>
       <pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/protect-ears/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/protect-ears/</guid>
       <description>
         
         
@@ -461,10 +584,10 @@ Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygia
     
     <item>
       <title>Docs: 練習的層次</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/%E7%B7%B4%E7%BF%92%E7%9A%84%E5%B1%A4%E6%AC%A1/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/%E7%B7%B4%E7%BF%92%E7%9A%84%E5%B1%A4%E6%AC%A1/</link>
       <pubDate>Sat, 09 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/%E7%B7%B4%E7%BF%92%E7%9A%84%E5%B1%A4%E6%AC%A1/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/%E7%B7%B4%E7%BF%92%E7%9A%84%E5%B1%A4%E6%AC%A1/</guid>
       <description>
         
         
@@ -547,10 +670,10 @@ Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygia
     
     <item>
       <title>Docs: 關於速度</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/%E9%97%9C%E6%96%BC%E9%80%9F%E5%BA%A6/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/%E9%97%9C%E6%96%BC%E9%80%9F%E5%BA%A6/</link>
       <pubDate>Sat, 19 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/%E9%97%9C%E6%96%BC%E9%80%9F%E5%BA%A6/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/%E9%97%9C%E6%96%BC%E9%80%9F%E5%BA%A6/</guid>
       <description>
         
         
@@ -615,10 +738,10 @@ Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygia
     
     <item>
       <title>Docs: 現實與理想的掙扎</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/%E7%8F%BE%E5%AF%A6%E8%88%87%E7%90%86%E6%83%B3%E7%9A%84%E6%8E%99%E6%89%8E/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/%E7%8F%BE%E5%AF%A6%E8%88%87%E7%90%86%E6%83%B3%E7%9A%84%E6%8E%99%E6%89%8E/</link>
       <pubDate>Sat, 28 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/%E7%8F%BE%E5%AF%A6%E8%88%87%E7%90%86%E6%83%B3%E7%9A%84%E6%8E%99%E6%89%8E/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/%E7%8F%BE%E5%AF%A6%E8%88%87%E7%90%86%E6%83%B3%E7%9A%84%E6%8E%99%E6%89%8E/</guid>
       <description>
         
         
@@ -649,10 +772,10 @@ Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygia
     
     <item>
       <title>Docs: 相對、絕對音感</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/%E7%9B%B8%E5%B0%8D%E7%B5%95%E5%B0%8D%E9%9F%B3%E6%84%9F/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/%E7%9B%B8%E5%B0%8D%E7%B5%95%E5%B0%8D%E9%9F%B3%E6%84%9F/</link>
       <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/%E7%9B%B8%E5%B0%8D%E7%B5%95%E5%B0%8D%E9%9F%B3%E6%84%9F/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/%E7%9B%B8%E5%B0%8D%E7%B5%95%E5%B0%8D%E9%9F%B3%E6%84%9F/</guid>
       <description>
         
         
@@ -705,10 +828,10 @@ Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygia
     
     <item>
       <title>Docs: 意念傳達</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/%E6%84%8F%E5%BF%B5%E5%82%B3%E9%81%94/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/%E6%84%8F%E5%BF%B5%E5%82%B3%E9%81%94/</link>
       <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/%E6%84%8F%E5%BF%B5%E5%82%B3%E9%81%94/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/%E6%84%8F%E5%BF%B5%E5%82%B3%E9%81%94/</guid>
       <description>
         
         
@@ -749,10 +872,10 @@ Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygia
     
     <item>
       <title>Docs: 可以自行創造音階?</title>
-      <link>http://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/</link>
+      <link>https://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/</link>
       <pubDate>Sat, 28 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/</guid>
       <description>
         
         
@@ -843,10 +966,10 @@ f = 7 ^ (n/24) x 500
     
     <item>
       <title>Docs: 如何聽一首歌?</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/how-to-listen-a-song/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/how-to-listen-a-song/</link>
       <pubDate>Sat, 21 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/how-to-listen-a-song/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/how-to-listen-a-song/</guid>
       <description>
         
         
@@ -897,10 +1020,10 @@ f = 7 ^ (n/24) x 500
     
     <item>
       <title>Docs: 曲式、歷史背景、框架模式</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/form-framework-history/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/form-framework-history/</link>
       <pubDate>Thu, 19 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/form-framework-history/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/form-framework-history/</guid>
       <description>
         
         
@@ -922,10 +1045,10 @@ f = 7 ^ (n/24) x 500
     
     <item>
       <title>Docs: 正確性與速度</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/simple-complex/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/simple-complex/</link>
       <pubDate>Thu, 19 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/simple-complex/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/simple-complex/</guid>
       <description>
         
         
@@ -950,10 +1073,10 @@ f = 7 ^ (n/24) x 500
     
     <item>
       <title>Docs: 科技與音樂</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/%E7%A7%91%E6%8A%80%E8%88%87%E9%9F%B3%E6%A8%82/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/%E7%A7%91%E6%8A%80%E8%88%87%E9%9F%B3%E6%A8%82/</link>
       <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/%E7%A7%91%E6%8A%80%E8%88%87%E9%9F%B3%E6%A8%82/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/%E7%A7%91%E6%8A%80%E8%88%87%E9%9F%B3%E6%A8%82/</guid>
       <description>
         
         
@@ -975,10 +1098,10 @@ f = 7 ^ (n/24) x 500
     
     <item>
       <title>Docs: 數學問題?</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/%E6%95%B8%E5%AD%B8%E5%95%8F%E9%A1%8C/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/%E6%95%B8%E5%AD%B8%E5%95%8F%E9%A1%8C/</link>
       <pubDate>Fri, 31 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/%E6%95%B8%E5%AD%B8%E5%95%8F%E9%A1%8C/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/%E6%95%B8%E5%AD%B8%E5%95%8F%E9%A1%8C/</guid>
       <description>
         
         
@@ -1019,10 +1142,10 @@ How do we explain this behavior?
     
     <item>
       <title>Docs: 16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/memory-in-ff-music/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/memory-in-ff-music/</link>
       <pubDate>Mon, 23 Jul 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/memory-in-ff-music/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/memory-in-ff-music/</guid>
       <description>
         
         
@@ -1075,10 +1198,10 @@ How do we explain this behavior?
     
     <item>
       <title>Docs: 學習雜感</title>
-      <link>http://rickmid.gtcafe.com/docs/gossip/learning/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/learning/</link>
       <pubDate>Sun, 16 Jul 2006 00:00:00 +0000</pubDate>
       
-      <guid>http://rickmid.gtcafe.com/docs/gossip/learning/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/learning/</guid>
       <description>
         
         
