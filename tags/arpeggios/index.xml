@@ -1,0 +1,192 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>喝咖啡 聊音樂 - GTCafe Studio, 2021 (施工中) – Arpeggios</title>
+    <link>https://rickmid.gtcafe.com/tags/arpeggios/</link>
+    <description>Recent content in Arpeggios on 喝咖啡 聊音樂 - GTCafe Studio, 2021 (施工中)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 08 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://rickmid.gtcafe.com/tags/arpeggios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 吉他琶音 (Arpeggios) 的練習 - 以 Gmaj7 為例</title>
+      <link>https://rickmid.gtcafe.com/docs/guitar/practice-arpeggios-g-major7/</link>
+      <pubDate>Sun, 08 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/guitar/practice-arpeggios-g-major7/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Arpeggio&#34;&gt;Arpeggios&lt;/a&gt; 中文翻譯成『琶音』，也就是把和弦組成音，做排列的彈奏，是音樂專用術語。&lt;/p&gt;
+&lt;p&gt;先講結論。&lt;/p&gt;
+&lt;p&gt;在吉他的學習過程中，Arpeggios 很常跟 &amp;ldquo;Sweep (掃弦)&amp;rdquo; 搞混。Sweep 是演奏技巧、手法，用來詮釋、表現音樂的方法，重點在於『怎麼彈』；而 Arpeggios 是表現音樂本身的內涵，也就是用來創造語意的，著重於『彈什麼』。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;到 Youtube 用關鍵字 &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/results?search_query=guitar+arpeggios&#34;&gt;Guitar Arpeggios&lt;/a&gt;&amp;rdquo; 會找到一堆 Sweep 的教學。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;用語言學習來說明，Sweep 比較像是如何寫文字的方法，像是書寫字型用宋體、標楷體、黑體 &amp;hellip;  等，然後寫出來的東西在視覺上有不同的意境、美感；Arpeggios 就是文章內容，像是『白日依山盡，黃河入海流』，呈現寫作的人想要傳達的語意、意涵、意念 &amp;hellip; 等。&lt;/p&gt;
+&lt;p&gt;『怎麼彈』是技術性的問題，大部份透過有效的學習方式，以及一定程度的練習，是不難達到的。『彈什麼』是音樂性的問題，也就是包含演奏者想表達的內涵、創意。&lt;/p&gt;
+&lt;p&gt;Arpeggios 的練習，重點在於幫助創造，創造人們想要表達的語意、想法、意念。只要是負責旋律的樂器 (Keyboard、Strings、Brass) 都是很重要的，對於學習即興、創作更是重要且基本的課題。&lt;/p&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2015 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
+&lt;h2 id=&#34;基本練習概念&#34;&gt;基本練習概念&lt;/h2&gt;
+&lt;h3 id=&#34;一密集聲位&#34;&gt;一、密集聲位&lt;/h3&gt;
+&lt;p&gt;基本的練習概念就是將和弦組成音做排列組合後，然後把音符依序彈奏出來。&lt;code&gt;轉位和弦 (Chord Inversion)&lt;/code&gt; 是最常練習的方式之一，如下 Gmaj7：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Gmaj7-GBDFSharp_Seq.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;他們就是依序的把和弦音的排列組合彈出來：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;G B D F#: 從根音開始&lt;/li&gt;
+&lt;li&gt;B D F# G: 從三度音開始&lt;/li&gt;
+&lt;li&gt;D F# G B: 從五度音開始&lt;/li&gt;
+&lt;li&gt;F# G B D: 從七度音開始&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;彈的都是相鄰的音，也就是 &lt;code&gt;密集聲位 (Closed Voicing)&lt;/code&gt; 的配置。也可以以某『一個音』為基準，做反覆的 sequence (模進)，像以下的練習：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;closed-voicing.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;也可以用『兩個音』做基礎造句，下面的例子就是用『GB』和『BD』做基礎，像是這樣：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;closed-voicing_on-g-b.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;這樣的組合很容易創造出具備音樂性的句子，或者是伴奏的 phase / riff 等。練習的時候可以多思考這些組合，可以加入一些技巧，像是悶音、垂勾、滑音、藍調音、改變拍子等。&lt;/p&gt;
+&lt;h3 id=&#34;二遠距聲位&#34;&gt;二、遠距聲位&lt;/h3&gt;
+&lt;p&gt;只要組成音超過一個八度，都是 &lt;code&gt;遠距聲位 (Open Voicing)&lt;/code&gt;。同樣是 G B D F# 四個音，每次彈都可以把其中某一個高八度、或者低八度練習，這樣會有很多種排列組合，以下的例子就是 G B D F# 的次序，然後改變八度音的變化，像這樣：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;open-voicing_Gmaj7-GBDF#_8av.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;其他轉位和弦內音的組合，像是『B D F# G』、『D F# G B』 &amp;hellip; 等，也都可以用同樣的方法思考。&lt;/p&gt;
+&lt;p&gt;以即興作曲來看，通常會運用 &lt;a href=&#34;https://en.wikipedia.org/wiki/Motif_(music)&#34;&gt;動機發展 (motivic development)&lt;/a&gt; 的方式來延伸。&lt;/p&gt;
+&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權 ※&lt;/p&gt;
+&lt;h2 id=&#34;吉他的練習&#34;&gt;吉他的練習&lt;/h2&gt;
+&lt;p&gt;吉他練習的思考方式，從指板上來看有兩種，第一種是依照把位方式，也就是『&lt;a href=&#34;https://rickmid.gtcafe.com/docs/guitar/guide-to-guitar-scale-pattern/&#34;&gt;吉他音階學習引導&lt;/a&gt;』提到的五種把位，這也是大部份吉他教學的方式，這邊我就不贅述。第二種是橫向思考，也就是只彈固定幾根弦，像是只彈一、二弦，或者二、三弦、或者跳弦一、三弦、或者固定彈一二三弦&amp;hellip; 以此類推。&lt;/p&gt;
+&lt;p&gt;以下是我自己設計的一套練習方式，目的是訓練音符思考為主，呈現方式都是五線譜，技巧為輔，所以不會有六線譜。如果覺得看譜速度太慢，就專注在把位上找音名，也是可以的。&lt;/p&gt;
+&lt;h3 id=&#34;先修課程&#34;&gt;先修課程&lt;/h3&gt;
+&lt;p&gt;要練習本文提到的，首先最好練過這些東西：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;五個把位的音階，知道怎麼找到八度音，參考 『吉他音階學習引導』&lt;/li&gt;
+&lt;li&gt;五個把位的和弦，知道怎麼找每個和弦的位置，參考『吉他和弦聲位基本概念』&lt;/li&gt;
+&lt;li&gt;知道怎麼看五線譜，知道把位上音名的位置該怎麼找。&lt;/li&gt;
+&lt;li&gt;左手曾練過一定程度的擴張練習&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;練習原則與概念&#34;&gt;練習原則與概念&lt;/h3&gt;
+&lt;p&gt;知道正在彈什麼東西，所以練習目的在於：『用腦袋驅動手指頭』，以 Gmaj7 為例，掌握以下原則：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;思考 Gmaj7 組成音：G B D F#
+&lt;ul&gt;
+&lt;li&gt;依序找出這四個音，在指板上所有的位置&lt;/li&gt;
+&lt;li&gt;找出幾個會出現的形狀，和已知的和弦做圖像的連結&lt;/li&gt;
+&lt;li&gt;在心裡反覆念這四個音，思考他們的先後關係&lt;/li&gt;
+&lt;li&gt;思考這四個音和 G 的音程關係
+&lt;ul&gt;
+&lt;li&gt;G - B: 大三度、G - D 完全五度、G - F# 大七度&lt;/li&gt;
+&lt;li&gt;G 是主音，所以音程的思考以 G 做參考點，不用找其他像 B D 的關係&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;練過 Sweep 的同學，暫時把那些指型都忘記。深度思考每一個音符本身還有音程關係。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;每次用兩根弦彈奏，例如：
+&lt;ul&gt;
+&lt;li&gt;在 1 / 2、5 / 6 弦彈奏這四個音&lt;/li&gt;
+&lt;li&gt;也可以不用相鄰的兩根弦，例如：1 / 3 弦、2 / 5 弦找這四個音&lt;/li&gt;
+&lt;li&gt;彈的時候不用管八度音，只要依序彈出這四個音，遇到找不到的就升 or 降八度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;腦袋先想到音，再用手指去找指板上的位置&lt;/li&gt;
+&lt;li&gt;不要用眼睛看指板 (關燈，近視的把眼鏡拿掉)，用耳朵聽，心理思考音符，反覆 (1)&lt;/li&gt;
+&lt;li&gt;開 Click，用 tempo = 60，八分音符的速度練習&lt;/li&gt;
+&lt;li&gt;彈奏過程中，只要不知道正在彈什麼音，請馬上停下來，重來。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;基本練習-arpeggios-on-2-strings&#34;&gt;基本練習: Arpeggios on 2 Strings&lt;/h3&gt;
+&lt;p&gt;這是我練習的例子，有興趣的朋友請自行試看看，五線譜標的數字是左手指法，同樣的，重點還是在『&lt;strong&gt;用腦袋驅動手指頭&lt;/strong&gt;』。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;註一：此練習先不使用空弦音，空弦音應用參見下一段介紹
+註二：此練習左手需要相當擴張 (左手五格以上的距離)，所以沒有練過基本的爬格子，不要勉強。手無法擴張，直接的替代方式，可以利用滑音的方式。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;第一、二個是固定在兩根弦上做練習，從低把位移動到高把位，然後反覆。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Gmaj7_Arp_on_56_Strings.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Gmaj7_Arp_on_45_Strings.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;第三個則是在各兩組弦間移動，因為版面關係，譜的例子只放四小節，有興趣的朋友可以自行擴張其他把位，找出其他音的位置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Gmaj7_Arp_on_Various_Strings.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;搭配音階練習&#34;&gt;搭配音階練習&lt;/h3&gt;
+&lt;p&gt;Gmaj7 搭配 G 大調音階，吉他基本功裡面提到的各個把位，配合上下行的基本練習，把琶音放進去。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;G-Major-Scale+Arpeggios.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;如果現在練習的和弦是小和弦，那麼音階就跑小調音階。&lt;/p&gt;
+&lt;p&gt;除了大調音階，當然吉他手要很熟的五聲音階也可以拿來一起玩。把原本琶音內容加上二、六度音 (A 和 E) 就可以是五聲音階了，組成音會變成：G (A) B D (E) F#&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;G-Pent-Scale-Arpeggios.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;可以搭配音階，當然也可以搭和弦練習，以 4/4 為例的練習&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一、三小節彈和弦&lt;/li&gt;
+&lt;li&gt;二、四小節彈 Arpeggios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;不同按法的-gmaj7&#34;&gt;不同按法的 Gmaj7&lt;/h3&gt;
+&lt;p&gt;一些思考的方式：第一種是搭配空弦音應用，找出不同的 Gmaj7 按法，製造出具空間感的聲響，這是利用吉他特性的變化。第二種是利用轉位和弦，加上簡化和弦的概念，而形成的按法，利用這兩個想法，可以找出很多不同的按法，如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Gmaj7_01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Gmaj7_02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Gmaj7_03.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Gmaj7_04.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;還可以舉例很多，留給大家去找。&lt;/p&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2015 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
+&lt;h2 id=&#34;其他的練習方式&#34;&gt;其他的練習方式&lt;/h2&gt;
+&lt;p&gt;其他還有很多東西可以搭配練習，以下先列舉這些思路：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;搭配 &lt;code&gt;調式音階&lt;/code&gt;：Xmaj7 主要會搭配 Lydian 練習，加入增四度。&lt;/li&gt;
+&lt;li&gt;搭配 &lt;code&gt;延伸和弦&lt;/code&gt;：Gmaj7 來說，除了彈自己的和弦內音，可以另外彈 Am 琶音，變成在彈 Gmaj13 的琶音。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;搭配 Licks&lt;/code&gt;：找一些歌曲的句子來練習，Santana 的經典演奏曲 Europa 第一句就是 Xmaj7&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;和弦串接&lt;/code&gt;：本文只專注在 Gmaj7，其實也是間接延伸了 Xmaj7 全部，同樣的依照此方法，把 Xm7、X7 都找出來，練習過，例如 Am7 和 D7，然後就可以串這些和弦了。這三個剛好是 ii-V-I of G，然後以此延伸到其他調性，或者一些和弦進行。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;找個人一起練習&lt;/code&gt;：互相漏氣求進步，像下影片：&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WsjrKBXImmY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;六線譜的問題&#34;&gt;六線譜的問題&lt;/h2&gt;
+&lt;p&gt;很多吉他教學習慣用六線譜，而『&lt;code&gt;六線譜&lt;/code&gt;』表現『怎麼彈』的訊息，而不是著重於『彈什麼』，所以很多學習者，到最後在網路抓了一堆六線譜，可能可以彈出一些東西，但往往對於歌曲的內容是不知所云，腦袋裡只有格子數，卻沒有節拍、音程、和弦功能、解決等音樂的概念，簡言之，就是具備吉他演奏技術，但不具備音樂性。&lt;/p&gt;
+&lt;p&gt;這跟背了一推詩詞歌賦、八股文，沒有消化、理解，無法下筆成文、出口成章、言之有物一樣。&lt;/p&gt;
+&lt;p&gt;特別用吉他來說明，是因為吉他和鍵盤樂器的差別在於，吉他轉調簡單，但是吉他把位相對於鋼琴複雜，又因為有六線譜的關係，造成學習者比較少思考的現象。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大部份的鋼琴學習都是用五線譜，但我也看過不少只會用手指頭彈，但是不會思考的鍵盤手。所以上述六線譜的說明，不是必然的。我覺得這還是跟教育方式有關係，這些感嘆，紀錄在我之前和一位樂壇前輩閒聊的內容。&lt;/p&gt;
+&lt;p&gt;有個笑話這樣形容吉他手和鍵盤手：把五線譜放在吉他手前面，他什麼都彈不出來了；把五線譜從鍵盤手前面拿走，他什麼都不會彈了。看到這裡應該不難懂了吧 XDD&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;除了本文舉例的 Gmaj7，接下來呢？延伸他吧！Gmaj7 可以是任何的大七和弦，所以就是 Xmaj7，然後變化成屬七和弦 X7，然後小七 Xm7，然後把這些東西串起來。同樣的問題又來了，這麼多怎麼練？好好思考時間管理，好好思考如何安排練習。&lt;/p&gt;
+&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權 ※&lt;/p&gt;
+&lt;h2 id=&#34;連結&#34;&gt;連結&lt;/h2&gt;
+&lt;p&gt;下圖是出自漫畫家 Hugh MacLeod 在 Twitter 上的一張圖，簡單表達了資訊與知識、知識與經驗的差異，而我的 blog 實際上很多時候都把這些已知的資訊或知識重新整理，然後連結成為我個人的知識。而每次我也都會回去反覆思考過去寫的東西，並且試圖將他們連結。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Knowledge_Experience.png&#34; alt=&#34;&#34;&gt;
+Photo Credit: Hugh MacLeod&lt;/p&gt;
+&lt;p&gt;在本文討論的資訊，也就是 Hugh MacLeod 圖中的每一個點，可以是和弦的一個音符、或者一個和弦、一組和弦進行，他們連接起來之後，就會變成和弦、句子、節奏、段落、歌曲 &amp;hellip;&lt;/p&gt;
+&lt;p&gt;在『練習的層次』一文最後，也提到類似的概念，資訊 -&amp;gt; 知識 -&amp;gt; 智慧 -&amp;gt; 資料 的演變，端看學習者如何再將他們做連結，透過連結會得到新的思路與想法，甚至是創意。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;習慣這樣的方式之後，我歸納出創新就是『舊的東西 (資料、資訊、知識)，用新的方法 (連結) ，就是創意』，與『練習的層次』提到的創意方式是截然不同的體悟。 我又昇華了 XD&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;吉他琶音 (Arpeggios) 的練習 - 251 of G Major&lt;/li&gt;
+&lt;li&gt;吉他和弦聲位基本概念&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/guitar/guide-to-guitar-scale-pattern/&#34;&gt;吉他音階學習引導&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;『怎麼彈』和『彈什麼』&lt;/li&gt;
+&lt;li&gt;吉他的基本功&lt;/li&gt;
+&lt;li&gt;如何安排練習 - 以上班族為例&lt;/li&gt;
+&lt;li&gt;吉他的空弦聲響&lt;/li&gt;
+&lt;li&gt;吉他手怎麼練習音感&lt;/li&gt;
+&lt;li&gt;練習的層次&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;琶音的介紹與應用&lt;/li&gt;
+&lt;li&gt;沒什麼是原創的：把知識連起來就是創意&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Motif_(music)&#34;&gt;Motif development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2015/03/arpeggios-gmaj7.html&lt;/li&gt;
+&lt;li&gt;2015/03/08: 初版&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
