@@ -5,9 +5,6 @@
     <loc>https://rickmid.gtcafe.com/docs/guitar/effective-practice-guitar/</loc>
     <lastmod>2015-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E7%9A%84%E6%9C%AC%E8%B3%AA/</loc>
-    <lastmod>2014-11-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rickmid.gtcafe.com/docs/guitar/time-for-practice-guitar/</loc>
     <lastmod>2014-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,9 +16,6 @@
   </url><url>
     <loc>https://rickmid.gtcafe.com/docs/theory/tonality-key-mode/</loc>
     <lastmod>2007-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/%E9%9F%B3%E9%9A%8E%E5%9F%BA%E7%A4%8E/</loc>
-    <lastmod>2006-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/about/annoucement/</loc>
   </url><url>
@@ -81,10 +75,16 @@
     <loc>https://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/tags/hugo/</loc>
+    <loc>https://rickmid.gtcafe.com/tags/%E6%9C%AC%E8%B3%AA/</loc>
     <lastmod>2014-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/tags/tags/</loc>
+    <loc>https://rickmid.gtcafe.com/tags/%E6%A8%82%E7%90%86/</loc>
+    <lastmod>2014-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/tags/%E9%9F%B3%E9%9A%8E/</loc>
+    <lastmod>2014-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/docs/theory/essence-of-musical-scales/</loc>
     <lastmod>2014-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/how-to/</loc>
@@ -138,10 +138,13 @@
     <loc>https://rickmid.gtcafe.com/docs/gossip/just-getting-started/</loc>
     <lastmod>2008-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/</loc>
-    <lastmod>2008-06-28T00:00:00+00:00</lastmod>
+    <loc>https://rickmid.gtcafe.com/docs/theory/musical-scales-learning-map/</loc>
+    <lastmod>2008-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/tags/%E6%A8%82%E7%90%86/</loc>
+    <loc>https://rickmid.gtcafe.com/docs/theory/minior-scale/</loc>
+    <lastmod>2008-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/</loc>
     <lastmod>2008-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/docs/gossip/how-to-listen-a-song/</loc>
@@ -156,6 +159,12 @@
     <loc>https://rickmid.gtcafe.com/docs/gossip/%E7%A7%91%E6%8A%80%E8%88%87%E9%9F%B3%E6%A8%82/</loc>
     <lastmod>2008-03-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://rickmid.gtcafe.com/tags/%E8%AA%BF%E5%BC%8F/</loc>
+    <lastmod>2007-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/docs/theory/musical-mode/</loc>
+    <lastmod>2007-11-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rickmid.gtcafe.com/docs/gossip/%E6%95%B8%E5%AD%B8%E5%95%8F%E9%A1%8C/</loc>
     <lastmod>2007-08-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -164,6 +173,9 @@
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/final-fantasy/</loc>
     <lastmod>2007-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/docs/theory/musical-scale-fundation/</loc>
+    <lastmod>2006-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/docs/gossip/learning/</loc>
     <lastmod>2006-07-16T00:00:00+00:00</lastmod>
