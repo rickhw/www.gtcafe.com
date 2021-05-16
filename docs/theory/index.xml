@@ -501,10 +501,10 @@
     
     <item>
       <title>Docs: 小調音階</title>
-      <link>https://rickmid.gtcafe.com/docs/theory/minior-scale/</link>
+      <link>https://rickmid.gtcafe.com/docs/theory/minor-scale/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/theory/minior-scale/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/theory/minor-scale/</guid>
       <description>
         
         
@@ -579,13 +579,12 @@
 &lt;/blockquote&gt;
 &lt;p&gt;自然大調音階是最常被使用的音樂素材，西洋樂理是以他為參考中心，小調音階自然也是參考大調音階。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;code&gt;音程關係&lt;/code&gt;：大部分對小調的形容詞都是、哀傷、憂鬱、浪漫 &amp;hellip; 等比較負面的、消極的。這是與大調音階相對比較起來的感覺。(實驗組與對照組)&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;code&gt;音程關係&lt;/code&gt;：大部分對小調的形容詞都是、哀傷、憂鬱、浪漫 &amp;hellip; 等比較負面的、消極的。這是與大調音階相對比較起來的感覺。(實驗組與對照組)
 &lt;ul&gt;
 &lt;li&gt;自然大調音程關係：全全半全全全半 → 1 2 3 4 5 6 7&lt;/li&gt;
 &lt;li&gt;自然小調音程關係：全半全全半全全 → 1 2 b3 4 5 b6 b7&lt;/li&gt;
 &lt;/ul&gt;
-&lt;ol&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;主音 (Tonic)&lt;/code&gt;、&lt;code&gt;下屬音 (Sub-dominant)&lt;/code&gt;、&lt;code&gt;屬音 (Dominant)&lt;/code&gt;：大調三個主要的音 (縮寫成 TSD, 也是 TSD和聲代換 的基礎概念)，也是同樣對應到小調，也就是小調的 I、IV、V 級。&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;三個主要和弦&lt;/code&gt;：同上一點，大調的三個主要和弦 - 主和弦 (1maj7)、下屬和弦 (4maj7)、屬和弦 (57)，小調同樣也是：主和弦 (1m7)、下屬和弦 (4m7)、屬和弦 (5m7)。要留意大小調的和弦屬性剛好相反。&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;唱名&lt;/code&gt;：小調唱名參考自大調，經常與數字級連用。小調常使用固定唱名，但也有人會使用首調唱名。用哪一種不是很重要，只要能夠掌握音程的概念，同時能夠和合作的樂手溝通就可以。更深入的說明請參閱 關於唱名、固定唱名？還是首調唱名？。&lt;/li&gt;
@@ -767,7 +766,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;最常見的應用就是，已知大調音階，要找其平行小調音階，或者已知小調音階，要找其平行大調音階，可以透過關係大小調來聯想。下圖表示一般流行歌曲常用的技巧之一，歌曲主要的調性假設是 C 大調 或者 A 小調。如果歌曲進行中進行轉調（通常在 Bridge、男女對唱），則會有以下的選擇：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;minior-key-applied.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;minor-key-applied.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Eb 大調和 C 小調是關係大小調，這兩個音階的音群是一樣的。所以已知 C 大調音階要找 C 小調音階可以看成 C 大調轉 Eb 大調，之後再彈 Eb 大調的關係小調：C 小調。有興趣的朋友可以試著抓 &lt;a href=&#34;https://www.youtube.com/watch?v=E4V-uj0yvQA&#34;&gt;張學友 - In Love with You&lt;/a&gt; 各段落的調性，概念就是應用上述的技巧。&lt;/p&gt;
@@ -842,7 +841,7 @@
 &lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2008-2014 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
 &lt;h2 id=&#34;吉他上的小調音階&#34;&gt;吉他上的小調音階&lt;/h2&gt;
 &lt;p&gt;吉他的彈奏，簡單說可以找到大調音階的 La (6) 開始唱/彈，就可以彈出小調的感覺。但是如果你已經是一個熟悉吉他音階指型的吉他手，建議嘗試用 1 2 b3 4 5 b6 b7 思考，然後留意那三個降音記號的位置，因為它們正是讓你正在演奏的音階有小調的感覺。上述的描述方式，原則上都是以所謂的 Key Center 思考，Jazz 的學習者，要開始習慣用用 Note Name、Interval、Chord Tone、Tension Notes 思考。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;minior-scale-on-guitar.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;minor-scale-on-guitar.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;上圖是吉他的音階指型 Mi 型 (或大調 Pattern 1、小調 Pattern 2)，我用兩種音程關係來表示同一個指型，上面小調音階，下面是大調音音階，左邊是音程/唱名關係，右邊是音名關係。不難發現，兩者的音名是一模一樣的 (視覺圖像位置一樣)，但是音程/唱名確截然不同。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;其他吉他音階指型請參考 &amp;ldquo;吉他音階學習引導&amp;rdquo; 的介紹&lt;/p&gt;
