@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>喝咖啡 聊音樂 - GTCafe Studio, 2021 (施工中) – 喝咖啡 聊音樂</title>
+    <title>喝咖啡 聊音樂 - v2021 (施工中) – 喝咖啡 聊音樂</title>
     <link>https://rickmid.gtcafe.com/docs/</link>
-    <description>Recent content in 喝咖啡 聊音樂 on 喝咖啡 聊音樂 - GTCafe Studio, 2021 (施工中)</description>
+    <description>Recent content in 喝咖啡 聊音樂 on 喝咖啡 聊音樂 - v2021 (施工中)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
@@ -295,10 +295,10 @@
     
     <item>
       <title>Docs: 對談</title>
-      <link>https://rickmid.gtcafe.com/docs/gossip/%E5%B0%8D%E8%AB%87/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/talk/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/gossip/%E5%B0%8D%E8%AB%87/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/talk/</guid>
       <description>
         
         
@@ -534,97 +534,11 @@
     </item>
     
     <item>
-      <title>Docs: 練習的層次</title>
-      <link>https://rickmid.gtcafe.com/docs/gossip/%E7%B7%B4%E7%BF%92%E7%9A%84%E5%B1%A4%E6%AC%A1/</link>
-      <pubDate>Sat, 09 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://rickmid.gtcafe.com/docs/gossip/%E7%B7%B4%E7%BF%92%E7%9A%84%E5%B1%A4%E6%AC%A1/</guid>
-      <description>
-        
-        
-        &lt;p&gt;在教學時，有時候同學問到關於什麼樣的狀況才叫做 &amp;ldquo;練好&amp;rdquo;。這是個好問題，尤其打算練一些 &amp;ldquo;經典歌曲&amp;rdquo; 的時候。&lt;/p&gt;
-&lt;p&gt;啥才叫做 &amp;ldquo;練好&amp;rdquo; ？把譜背起來、然後每個音都彈對、拍子都很精準 … 這樣叫練好了嗎？&lt;/p&gt;
-&lt;h2 id=&#34;傳統認知&#34;&gt;傳統認知&lt;/h2&gt;
-&lt;p&gt;印象中的標準是這樣的：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;把譜背好、音彈對、拍子準，做到這三點算 60 分&lt;/li&gt;
-&lt;li&gt;詮釋出譜上標示的表情：段落的漸強 / 漸弱、強弱層次 (ppp、mp、mf 、fff就是動態)、裝飾音、圓滑 (legato)、斷奏 (staccato)、&amp;hellip;等：60 ~ 80 分&lt;/li&gt;
-&lt;li&gt;詮釋出原作者的意境：80 ~ 90 分&lt;/li&gt;
-&lt;li&gt;融入自身的感受 / 創意：90 ~ 100&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;第三和第四的次序會有爭議，有人覺得原作曲者的意境最重要；有人則覺得能夠藉由別人的作品另外開創新的創意 / 感受才是真正的厲害。我個人覺得看狀況 / 場合。&lt;/p&gt;
-&lt;p&gt;如果是在考一些檢定 (ex：鋼琴檢定之類的)，自選曲能做到第三個階段基本上應該就沒問題了。如果是做創作方面的，那麼四點的重要性就很明顯的會凌駕第三點之上了。&lt;/p&gt;
-&lt;p&gt;當然在 &amp;ldquo;古典樂界中&amp;rdquo;，刻板印象裡，第三點是最重要的；流行樂界，有第三點明顯是不夠的，因為流行往往會跟商業有關係，所以創意一定是最重要的。&lt;/p&gt;
-&lt;p&gt;周董的電影 &amp;ldquo;不能說的秘密&amp;rdquo; 裡鬥琴橋段就有類似的意味，先是演奏原作者的段落，然後再用技巧延伸原作者的構想 + 自己的創意。因為 &amp;ldquo;不能說的秘密&amp;rdquo; 還是算 &amp;ldquo;商業電影&amp;rdquo;，所以不可能呆呆的在那邊詮釋原作者的東西，如果是這樣，古典樂迷就去買著名的交響樂團或者演奏家 CD 來聽就夠了。&lt;/p&gt;
-&lt;h2 id=&#34;練習的階段與層次&#34;&gt;練習的階段與層次&lt;/h2&gt;
-&lt;p&gt;上述傳統的認知四點，在我個人學習時，大概也分成四個對應的途徑：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;技巧 / 記憶：這些就是我在 &amp;ldquo;吉他的基本功&amp;rdquo; 裡提到的東西，反正就是樂器的基本技巧等。這個部份也是大部分在學校裡、坊間教學的大部分範疇。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;理解 / 感受：這個階段算承接第一個，但是學習的東西算是更靠近音樂的本質。基本功裡提到的第二部份就是了。經過這個階段的訓練，對於音樂的精緻度會更加提升。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;詮釋 / 表達：所謂的 &amp;ldquo;演奏級&amp;rdquo; 的水準。這個階段已經到了以 &amp;ldquo;作者&amp;rdquo; 的角度學習音樂了。簡單說，學習分析了解作者的思維，和想詮釋方式，企圖 … 等。甚至要去懷疑作者這樣的思維恰當與否。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;創新 / 再造：這部份學習的重點在於溫故而能知新，然後創新。已經了解了原作曲者的思維、企圖、情緒，具備了演奏技巧、音樂理論 … 以這樣的基礎再造新的元素。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;學習爵士 / 藍調的樂手，必須達到第四個層次，然後多著墨 / 嘗試各種可能。&lt;/p&gt;
-&lt;p&gt;這個階段如果有了什麼樣新的創新，不管是技巧，還是理論，都會回到第一或第二層級重新開始類似的循環。吉他這個樂器這幾十年來，有很多新的演奏技巧，因為這些技巧又有了很多不一樣的詮釋音樂方式。&lt;/p&gt;
-&lt;p&gt;上述的四點 (很像 &amp;ldquo;起承轉合&amp;rdquo; 吧)，國外的音樂教育，不管是古典 or 流行，都有類似的模式。而且，可以是沒有次序的。&lt;/p&gt;
-&lt;p&gt;分享一個關於 &amp;ldquo;創意 / 創新&amp;rdquo; 的想法，這段文字是我在工作時和同仁分享的 &amp;ldquo;如何構思創意&amp;rdquo; 的心得 / 想法。&lt;/p&gt;
-&lt;p&gt;我覺得創意的方式可以分成三種：&lt;/p&gt;
-&lt;p&gt;第一種是衍生創意：倚賴一個主要的功能為主，其他的東西是輔助的。蘋果的 Mac 來說，中心就是電腦軟硬體，然後把其他概念置入，例如看起來像個藝術品，或者一些操作使用行為的改變。衍生創意的方向是很明確的，他最後的產出定位會非常清楚，但是同時也會創造出新的使用經驗。&lt;/p&gt;
-&lt;p&gt;第二種是多點創意：兩個以上的專業領域的結合。電腦跟音樂、單車跟攝影、攝影跟音樂、遊戲和學習…等。他們有兩個以上的核心概念，必須具有兩種以上的專業知識，才能夠把創意發揮到極致，現在很多產品都具備這種特性。Discovery 有一些創意的節目，裡面的專家通常都具備兩種以上的專業技能，然後節目讓他們天馬行空的思考。&lt;/p&gt;
-&lt;p&gt;第三種是天馬行空。兩個表面上看起來完全沒關係的東西，例如我桌上的杯子跟滑鼠、滑鼠跟我的腳、我的眼鏡跟手機 … 諸如此類，平常生活中不會有連結、聽起來有點滑稽、好笑，兩個以上的人事物的聯想。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;後來Google做了Google Glass&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;培養創意，可以從很多方面來執行，最簡單的就是天馬行空。但天馬行空的創意大部分只會停留在天馬行空的階段，不容易具體化，除非具備很多可用資源。所以衍生創意是大部分的人常用的思考邏輯，只要具備某種專業能力即可。&lt;/p&gt;
-&lt;p&gt;比較不容易的，但卻也是比較能夠有市場的就是多點創意，現在很多人都具備衍生創意的基本條件，但是要同時具備兩種專業能力，就比較少有這樣的人了。例如要懂得計算機、又要懂得攝影美學的，或者懂得計算機、又要懂得行銷的。&lt;/p&gt;
-&lt;h2 id=&#34;聽的層次與聽的練習&#34;&gt;聽的層次與聽的練習&lt;/h2&gt;
-&lt;p&gt;對於 &amp;ldquo;聽&amp;rdquo; 的部份，我個人覺得是很重要的，而且是對於練習是很有幫助的。同樣一首歌，聽個一百次，你能聽出什麼？&lt;/p&gt;
-&lt;p&gt;有學過樂器，像是吉他或者是鋼琴，通常除了主旋律以外，也會注意主旋律以外的東西，特別是吉他或者鋼琴的伴奏方式、手法、技巧 … 等。&lt;/p&gt;
-&lt;p&gt;除了這些，有一些東西也要試著去仔細聽看看：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;歌曲當中有哪一些音色？&lt;/li&gt;
-&lt;li&gt;通常這樣 &amp;ldquo;感覺 (風格)&amp;rdquo; 的歌曲是否會有類似的音色出現？有些音色會習慣一起出現。&lt;/li&gt;
-&lt;li&gt;歌曲當中有沒有特別的聲音？非樂器？民俗樂器 …&lt;/li&gt;
-&lt;li&gt;歌曲有哪些段落？跟歌詞是如何對應的？&lt;/li&gt;
-&lt;li&gt;鼓的打法，重拍位置&lt;/li&gt;
-&lt;li&gt;爵士鼓以外的打擊樂器出現的時間點&lt;/li&gt;
-&lt;li&gt;主旋律以外的副旋律，插音 (Fill) … 和主旋律的互動&lt;/li&gt;
-&lt;li&gt;副旋律，插音 (Fill) 和其他樂器的互動&lt;/li&gt;
-&lt;li&gt;低音 (Bass) 和爵士鼓的互動&lt;/li&gt;
-&lt;li&gt;伴奏和主旋律的互動.&lt;/li&gt;
-&lt;li&gt;歌詞跟旋律的情緒互動&lt;/li&gt;
-&lt;li&gt;其他樂器的位置&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;其實，這些東西還有很多，在 &amp;ldquo;如何聽一首歌&amp;rdquo; 一文當中，也有一些深入的分享。不過上述大部分的東西，沒學過樂器，不懂樂理的人，都可以聽出來其中的特別處。&lt;/p&gt;
-&lt;p&gt;其實一首好歌，所者說所謂的經典，會很直得一聽再聽，而且會越聽越多驚喜，新的發現，越聽越能體會其中的層次、精緻、深與廣。就像一篇好文章，會直得一讀再讀一樣。&lt;/p&gt;
-&lt;p&gt;朱少麟 - &amp;ldquo;傷心咖啡店之歌&amp;rdquo; 裡，提到一個關於讀書方式的想法：&amp;ldquo;一本書要讀三次&amp;rdquo;。這是閱讀的層次 / 方法。其中提到三個部份，跟我上述提到的四個部份其實是有對應的。&lt;/p&gt;
-&lt;p&gt;在知識管理裡的基本概念：資訊 → 知識→ 智慧→ 資料→ 資訊→ … 循環。這是知識管理的層次，一個有循環的層次。這個循環正好描述了我們學習時，每個階段的層次。&lt;/p&gt;
-&lt;p&gt;生活中，還有很多領域，也都會有類似的層次 (史瑞克，洋蔥?)，也會有循環，套中國老祖宗的思想，當你踏實的走完這個循環算，再回到開頭，同樣的東西，但是你卻可以發現新的體會，新的領悟，就是 &amp;ldquo;溫故而知新，可以為師也&amp;rdquo;。即使學了十幾年的音樂，再看到剛開始學的簡單和弦 C - Am - Dm - G7，但是卻能夠有新的想法，這才是真的有學到東西。&lt;/p&gt;
-&lt;p&gt;所以在練習音樂的時候，也是有類似的階段。所以一年囫圇的練了一百首，我覺得不如專心的練一首，把這首曲子的層次練出來。&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;當吉他手預見禪&amp;rdquo; 一書裡提到三個主要階段：白帶 - 黑帶 - 白帶，和我這邊提的概念也是類似的。&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;初版：2010/01/09&lt;/li&gt;
-&lt;li&gt;原文網址：http://rickmidi.blogspot.com/2010/01/blog-post.html&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: 關於速度</title>
-      <link>https://rickmid.gtcafe.com/docs/gossip/%E9%97%9C%E6%96%BC%E9%80%9F%E5%BA%A6/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/speed/</link>
       <pubDate>Sat, 19 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/gossip/%E9%97%9C%E6%96%BC%E9%80%9F%E5%BA%A6/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/speed/</guid>
       <description>
         
         
@@ -689,10 +603,10 @@
     
     <item>
       <title>Docs: 現實與理想的掙扎</title>
-      <link>https://rickmid.gtcafe.com/docs/gossip/%E7%8F%BE%E5%AF%A6%E8%88%87%E7%90%86%E6%83%B3%E7%9A%84%E6%8E%99%E6%89%8E/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/reality-ideal/</link>
       <pubDate>Sat, 28 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/gossip/%E7%8F%BE%E5%AF%A6%E8%88%87%E7%90%86%E6%83%B3%E7%9A%84%E6%8E%99%E6%89%8E/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/reality-ideal/</guid>
       <description>
         
         
@@ -723,10 +637,10 @@
     
     <item>
       <title>Docs: 相對、絕對音感</title>
-      <link>https://rickmid.gtcafe.com/docs/gossip/%E7%9B%B8%E5%B0%8D%E7%B5%95%E5%B0%8D%E9%9F%B3%E6%84%9F/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/relative-absolute/</link>
       <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/gossip/%E7%9B%B8%E5%B0%8D%E7%B5%95%E5%B0%8D%E9%9F%B3%E6%84%9F/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/relative-absolute/</guid>
       <description>
         
         
@@ -779,10 +693,10 @@
     
     <item>
       <title>Docs: 意念傳達</title>
-      <link>https://rickmid.gtcafe.com/docs/gossip/%E6%84%8F%E5%BF%B5%E5%82%B3%E9%81%94/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/willing/</link>
       <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/gossip/%E6%84%8F%E5%BF%B5%E5%82%B3%E9%81%94/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/willing/</guid>
       <description>
         
         
@@ -1051,7 +965,7 @@ f = 2 ^ (n/12) x 440 (A4)
 
 所以新的音階公式出來了：
 
-f = 2 ^ (n/24) x 500 (ㄅ) 
+f = 2 ^ (n/24) x 500 (ㄅ)
 
 這樣算出來的東西就會是新的音階.
 公式中的 &amp;quot;2&amp;quot; 代表一個 ...範圍的關係為兩倍.
@@ -1206,10 +1120,10 @@ f = 7 ^ (n/24) x 500
     
     <item>
       <title>Docs: 科技與音樂</title>
-      <link>https://rickmid.gtcafe.com/docs/gossip/%E7%A7%91%E6%8A%80%E8%88%87%E9%9F%B3%E6%A8%82/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/tech-and-music/</link>
       <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/gossip/%E7%A7%91%E6%8A%80%E8%88%87%E9%9F%B3%E6%A8%82/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/tech-and-music/</guid>
       <description>
         
         
@@ -1414,10 +1328,10 @@ f = 7 ^ (n/24) x 500
     
     <item>
       <title>Docs: 數學問題?</title>
-      <link>https://rickmid.gtcafe.com/docs/gossip/%E6%95%B8%E5%AD%B8%E5%95%8F%E9%A1%8C/</link>
+      <link>https://rickmid.gtcafe.com/docs/gossip/mathematics/</link>
       <pubDate>Fri, 31 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/gossip/%E6%95%B8%E5%AD%B8%E5%95%8F%E9%A1%8C/</guid>
+      <guid>https://rickmid.gtcafe.com/docs/gossip/mathematics/</guid>
       <description>
         
         
