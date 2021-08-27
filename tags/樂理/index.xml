@@ -70,6 +70,117 @@
     </item>
     
     <item>
+      <title>Docs: 掛留和弦 (Suspended Chord)</title>
+      <link>https://rickmid.gtcafe.com/docs/theory/suspended-chord/</link>
+      <pubDate>Sat, 27 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/theory/suspended-chord/</guid>
+      <description>
+        
+        
+        &lt;p&gt;說文解字先：Suspend (vt.) 按照英文字面上來說&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;sus-&lt;/code&gt; 是 &lt;code&gt;在 ... 下&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pend&lt;/code&gt; 是『等待決定』，有等待結果的味道。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;兩個合起來字典上說是『懸疑未定』的意思。具像一點，有點像在屋簷下等待的感覺 (日劇看太多 &amp;hellip; @@)。我個人把它引申成『風鈴的感覺』、擺動、飄 (*&amp;amp;^%$&amp;hellip;&amp;hellip;&amp;hellip;。&lt;/p&gt;
+&lt;p&gt;Suspended Chord (掛留和弦) 從音程上來說，就是改變三和弦的三度音，讓和弦失去了大小和弦的屬性。以這樣的概念可以衍生出掛留七和弦 (X7sus) 、 X9sus4 &amp;hellip; 等。&lt;/p&gt;
+&lt;p&gt;因為改變了三度音，使得原和弦的屬性變得不一樣了，所以就有一些不同的應用，常見的應用整理如下：&lt;/p&gt;
+&lt;h2 id=&#34;一將順階和弦的-iv-級改成-suspended-chord&#34;&gt;一、將順階和弦的 I、V 級改成 Suspended Chord&lt;/h2&gt;
+&lt;p&gt;這是流行音樂中最常見的例子，也是很實用的小技巧。&lt;/p&gt;
+&lt;p&gt;Suspended Chord 最基本的應用概念就是改變三和弦的三度音，一般大調順階裡，經常被改變的&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;原和弦&lt;/th&gt;
+&lt;th&gt;掛留和弦 (四度)&lt;/th&gt;
+&lt;th&gt;掛留和弦 (二度)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;大三 (1, 3, 5)&lt;/td&gt;
+&lt;td&gt;1 4 5&lt;/td&gt;
+&lt;td&gt;1 2 5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;小三 (1, b3, 5)&lt;/td&gt;
+&lt;td&gt;1 4 5&lt;/td&gt;
+&lt;td&gt;1 2 5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;屬七 (1, 3, 5, b7)&lt;/td&gt;
+&lt;td&gt;1 4 5 b7&lt;/td&gt;
+&lt;td&gt;1 2 5 b7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;吉他上彈奏 Xsus4 很簡單，只要找到根音位置，同一格的高音弦就是四度音 (二三弦例外) 。&lt;/p&gt;
+&lt;p&gt;另外，這種技巧也常出現在 New Age 曲風當中，Xsus4 經常會搭配 Xadd9、Xmaj7 使用，然後通常出現在歌曲的一、五級。&lt;/p&gt;
+&lt;h2 id=&#34;二用-x7sus4-代理-slash-chord-分數和弦&#34;&gt;二、用 X7sus4 代理 Slash Chord (分數和弦)&lt;/h2&gt;
+&lt;p&gt;Dm7/G 跟 G7sus4 聽起來聲響有點類似：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dm7/G: D F A C / G&lt;/li&gt;
+&lt;li&gt;G7sus4: G C D F&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;兩者差在一個 A，所以兩者經常相互代理。有時候也會直接把 G7sus4 改成 G9sus4：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dm7/G: D F A C / G&lt;/li&gt;
+&lt;li&gt;G9sus4: G C D F A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;基本上跟 Dm7/G 是一樣的聲響。類似的想法在 &amp;ldquo;屬七和弦與其延伸和弦的代換&amp;rdquo; 及 &amp;ldquo;關係和弦?&amp;rdquo; 有更多類似的討論。&lt;/p&gt;
+&lt;h2 id=&#34;三xsus4-與-x11-和弦&#34;&gt;三、Xsus4 與 X11 和弦:&lt;/h2&gt;
+&lt;p&gt;這個想法只是把四度音網上提昇，然後和 Extended Chord (延伸和弦) 比較：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Csus4: C F G&lt;/li&gt;
+&lt;li&gt;C11: C E G Bb F&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;C11 因為有小九度存在 (E &amp;lt;-&amp;gt; F)，所以通常會有取捨：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;把 11 度音拿掉，恢復成 C7，但這是走回頭路。&lt;/li&gt;
+&lt;li&gt;把三度音拿掉，改變和弦屬性&lt;/li&gt;
+&lt;li&gt;把 11 因改成 #11，形成 Altered Chord：C7+11&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這邊我們選擇第二個方法，把三度音拿掉，改變和弦屬性，變成 ：&lt;/p&gt;
+&lt;p&gt;C G Bb F ==&amp;gt; 其實就是 C7sus4&lt;/p&gt;
+&lt;p&gt;因為具備小七度，所以通常會套用在五級和弦，做變化。&lt;/p&gt;
+&lt;h2 id=&#34;四xsus2&#34;&gt;四、Xsus2&lt;/h2&gt;
+&lt;p&gt;除了將三度音改成四度音之外，另外也可以把它改成大二度，形成 1 2 4 的組成音。他具備類似的效果，但是聲響會比較靠近 Xadd9 的和弦。經常會跟大七和弦 (Xmaj7) 混合使用。&lt;/p&gt;
+&lt;h2 id=&#34;五代理三和弦&#34;&gt;五、代理三和弦&lt;/h2&gt;
+&lt;p&gt;這是應用 Suspended Chord 的方式之一，通常就是同一個和弦連續出現兩個小節以上，就可以在其中穿插 Suspended Chord. 像是連續四小節都是 C，那就可以把二四小節改成 Csus4、Csus2 、Cadd9 &amp;hellip;. 等。&lt;/p&gt;
+&lt;p&gt;當然同一個小節的和弦代理不只有能夠使用 Suspended Chord，另外最常見的還有 Line Cliches 的技巧。Line Cliches 常見的有改變高音，例子像是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;| C / / / | Cmaj7 / / / | C7 / / / | Cmaj7 / / / |&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;著名的例子：Kiss Me、如果還有明天 (薛岳)、明天我要嫁給你 (陶喆、蔡依琳) &amp;hellip; 等都是這種例子&lt;/p&gt;
+&lt;p&gt;另外是改變低音，像是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;| Am / / / | Am/G# / / / | Am/G / / / | Am/F# / / / |&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;著名的例子：If (Bread)、愛我別走 (張震嶽)、不知所措 (優克李林)、Stairway to Heaven (Led Zeppelin) &amp;hellip; 等&lt;/p&gt;
+&lt;p&gt;也有改變三度音的例子，那就是 Suspended Chord 的用法了。另外也有改變五度音的用法，形成 Augumented Chord。&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;最常使用 Suspended Chord 的音樂，在華人流行歌曲當中陳綺貞的曲子算是一個很不錯的例子、其他很多以單一、或者 Unplugged 的音樂， Suspended Chord 會用的很多。&lt;/p&gt;
+&lt;p&gt;另外與 Suspended Chord 類似 idea 的應用就是 Augumented Chord (增和弦)。 Xsus 是變化和弦的三度音，增和弦則是變化五度音，最常出現在五級的應用。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;吉他的和弦聲位&lt;/li&gt;
+&lt;li&gt;和弦學習地圖&lt;/li&gt;
+&lt;li&gt;和弦基礎&lt;/li&gt;
+&lt;li&gt;屬七和弦與其延伸和弦的代換&lt;/li&gt;
+&lt;li&gt;關係和弦?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;初版：2009/06/27&lt;/li&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/06/suspended-chord.html&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 可以自行創造音階？</title>
       <link>https://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/</link>
       <pubDate>Sat, 28 Jun 2008 00:00:00 +0000</pubDate>
