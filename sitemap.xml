@@ -8,10 +8,10 @@
     <loc>https://rickmid.gtcafe.com/docs/guitar/time-for-practice-guitar/</loc>
     <lastmod>2014-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/music-production/concepts-of-music-technology/</loc>
+    <loc>https://rickmid.gtcafe.com/docs/production/concepts-of-music-technology/</loc>
     <lastmod>2011-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/music-production/digital-audio-system/</loc>
+    <loc>https://rickmid.gtcafe.com/docs/production/digital-audio-system/</loc>
     <lastmod>2008-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/docs/theory/tonality-key-mode/</loc>
@@ -32,7 +32,7 @@
     <loc>https://rickmid.gtcafe.com/docs/gossip/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/music-production/</loc>
+    <loc>https://rickmid.gtcafe.com/docs/production/</loc>
     <lastmod>2011-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/docs/</loc>
@@ -65,13 +65,13 @@
     <loc>https://rickmid.gtcafe.com/docs/band/about-score/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://rickmid.gtcafe.com/tags/how-to/</loc>
+    <lastmod>2015-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/tags/%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92/</loc>
+    <lastmod>2015-11-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E5%90%89%E4%BB%96/</loc>
-    <lastmod>2015-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rickmid.gtcafe.com/tags/%E7%AF%80%E5%A5%8F%E8%A8%93%E7%B7%B4/</loc>
-    <lastmod>2015-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rickmid.gtcafe.com/tags/%E8%81%8A%E5%A4%A9/</loc>
     <lastmod>2015-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/arpeggios/</loc>
@@ -81,6 +81,9 @@
     <lastmod>2015-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</loc>
+    <lastmod>2015-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/tags/%E8%81%8A%E5%A4%A9/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E6%9C%AC%E8%B3%AA/</loc>
@@ -94,9 +97,6 @@
   </url><url>
     <loc>https://rickmid.gtcafe.com/docs/theory/essence-of-musical-scales/</loc>
     <lastmod>2014-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rickmid.gtcafe.com/tags/how-to/</loc>
-    <lastmod>2014-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/jack-thammarat/</loc>
     <lastmod>2014-04-27T00:00:00+00:00</lastmod>
@@ -184,6 +184,15 @@
   </url><url>
     <loc>https://rickmid.gtcafe.com/docs/theory/musical-mode/</loc>
     <lastmod>2007-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/tags/%E9%9F%B3%E7%A8%8B/</loc>
+    <lastmod>2007-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/tags/interval/</loc>
+    <lastmod>2007-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/tags/%E6%95%B8%E5%AD%B8/</loc>
+    <lastmod>2007-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/docs/gossip/mathematics/</loc>
     <lastmod>2007-08-31T00:00:00+00:00</lastmod>

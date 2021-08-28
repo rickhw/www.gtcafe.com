@@ -1,0 +1,243 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>喝咖啡 聊音樂 - v2021 (施工中) – 音樂製作</title>
+    <link>https://rickmid.gtcafe.com/docs/production/</link>
+    <description>Recent content in 音樂製作 on 喝咖啡 聊音樂 - v2021 (施工中)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 24 Sep 2011 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://rickmid.gtcafe.com/docs/production/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 數位音樂科技概論</title>
+      <link>https://rickmid.gtcafe.com/docs/production/concepts-of-music-technology/</link>
+      <pubDate>Sat, 24 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/production/concepts-of-music-technology/</guid>
+      <description>
+        
+        
+        &lt;p&gt;我對於『數位科技』在音樂上的應用一直很有興趣，不過這範圍很廣，所以做了一些整理。&lt;/p&gt;
+&lt;p&gt;記得以前念計蓋 (計算機概論) 時，老師開宗明義就說：『計概就是隨便蓋』。所以現在是從事 IT 工作的我，經過這麼多年了，我也來隨便蓋一下 XDDDD&lt;/p&gt;
+&lt;p&gt;現今 IT 演進 (2011) 下可能大概有這些：從最基礎的 01 數位邏輯概念、數字系統、計算機組織、資料結構、演算法、作業系統、編譯器、關聯式資料庫、資訊安全、密碼學、Unix 系統、多媒體、網際網路與通訊協定、RFC、圖學、系統分析、程式語言 (組合、靜態、動態、4GL)、物件導向、人工智慧、專家系統、分散式系統、行動運算、人肉搜索、正妹辨識 &amp;hellip;&amp;hellip;&amp;hellip; @#$%^&amp;amp;*&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;.   隨便蓋咩。數學的部分 (離散、機率、微積分) 先不提。&lt;/p&gt;
+&lt;p&gt;相信很多人修完之後對於計算機概論的感覺都是：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;know_a_little.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;From: 赤壁&lt;/p&gt;
+&lt;p&gt;音樂科技概論 (或者說數位音樂概論) 如果要隨便蓋，我想可能需要包含以下的範圍：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;基礎聲學 (Acoustic)&lt;/li&gt;
+&lt;li&gt;MIDI 原理與應用&lt;/li&gt;
+&lt;li&gt;合成器原理與應用&lt;/li&gt;
+&lt;li&gt;數位訊號處理器 (Digital Signal Processing, DSP)&lt;/li&gt;
+&lt;li&gt;數位工作站與錄音室設計&lt;/li&gt;
+&lt;li&gt;麥克風與錄音原理&lt;/li&gt;
+&lt;li&gt;混音 (Mixing)、與母帶後期處理 (Mastering)&lt;/li&gt;
+&lt;li&gt;效果器：濾波器、放大器、噪音處理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;僅整理我略知的一些東西，如有不正確或者誤導讀者的，還請前輩不令指教。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;基礎聲學-acoustic&#34;&gt;基礎聲學 (Acoustic)&lt;/h2&gt;
+&lt;p&gt;主要就是以物理學角度來認識『聲音』這種能量形式、各種特性等。像是聲音的基礎三要素：頻率、振幅、波型；其他範圍有：聲音的傳達介質、聲音的種類（純音、樂音、噪音）、音壓、聲波的傳遞方式（反射、折射、繞射、吸收、都卜勒效應）、音場、音樂的聲音定義 &amp;hellip; 等物理現象。&lt;/p&gt;
+&lt;p&gt;特別提一下都 &lt;a href=&#34;http://zh.wikipedia.org/zh-tw/%E5%A4%9A%E6%99%AE%E5%8B%92%E6%95%88%E5%BA%94&#34;&gt;卜勒效應 (Doppler Effect)&lt;/a&gt;，如果聲波產生者和接收者其中之一處於移動狀態，那麼接收者可能會聽到比原本音調較高或較低。&lt;/p&gt;
+&lt;p&gt;這種現象在騎車聽音樂時就可以感覺的到，只要耳機沒有帶好、風跑到耳朵裡，在超過一定的速度之後，就會發現歌曲的音調 (Key) 改變。因為聲音產生者 (隨身聽) 和接收者 (機車駕駛) 都處於移動狀態。&lt;/p&gt;
+&lt;p&gt;另外一個常見的例子就是高速移動中的救護車、警車，警報聲會因為高速遠離或者接近，接收者會感覺警報聲的音調變高或者變低。&lt;/p&gt;
+&lt;p&gt;都卜勒效應不只發生在聲音，其他像是光學、醫學都有相關的應用。&lt;/p&gt;
+&lt;h2 id=&#34;midi-原理與應用&#34;&gt;MIDI 原理與應用&lt;/h2&gt;
+&lt;p&gt;MIDI 其實包含很多範圍，這邊指的原理是 MIDI Protocol 而言。包含 MIDI Message、Sequencer、SMF、GM 等範圍。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;『MIDI 代表音樂上的可能與不可能』這句話是我國中時第一次接觸到 MIDI 的感覺。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;現在所有的數位科技產品都因為 MIDI 當初制定的彈性，使得這個已經被定義快三十年 (1982) 的通訊協定依舊沿用至今。&lt;/p&gt;
+&lt;p&gt;簡單的說，目前數位科技產品，軟硬體都架構於 MIDI Protocol，沒有它，合成器無法透過電腦軟體來編曲、軟體音源無法有如此的彈性、吉他效果器無法用電腦來調 Tone、無法自行設計控制器、就沒有 DJ 那種矩陣控制器、也沒有各式各樣的煙火配合音樂的特效控制。&lt;/p&gt;
+&lt;p&gt;它的重要性就如同現今網際網路通訊協定：TCP/IP 的地位一樣。&lt;/p&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2011 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
+&lt;h2 id=&#34;合成器原理與應用&#34;&gt;合成器原理與應用&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Synthesizer&#34;&gt;合成器 (Synthesizer)&lt;/a&gt; 的聲音基礎產生元件，主要有幾個主要的部分：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;OSC (Oscillator, 震盪器)：負責產生聲音的基礎元素, 通常至少會有正弦波、方波、三角波。OSC 是最原始的聲音產生器，除了前述的波型，另外可以用取樣 (Sampling) 的方式代替。&lt;/li&gt;
+&lt;li&gt;ADSR: 是 Attack、Decay、Sustain、Release 的縮寫。除了 Sustain 之外，其他都是用來控制波型的基礎時間參數，而 Sustain 是控制 Level。&lt;/li&gt;
+&lt;li&gt;Filter (濾波器): 主要過濾聲音頻率，基本的有 LPF (Low Pass Filter, 低通)、HPF (High Pass Filter, 高通)、BPF (Band Pass Filter, 帶通)、BRF (Band Reject Filter, 帶拒) 四種。&lt;/li&gt;
+&lt;li&gt;LFO (Low Frequency OSC, 低頻震盪器)：簡單說就是用來控制某一種效果的週期時間，讓原始音色有一個基礎的音色律動，通常會搭配效果器 (FX) 。&lt;/li&gt;
+&lt;li&gt;FX (Effect, 效果器)：包含一般常見的 OD、DS、Modulation、EQ &amp;hellip;. 等&lt;/li&gt;
+&lt;li&gt;Amp (放大器)：經過 ADSR、Filter、FX 處理之後，通常會需要做訊號的放大處理。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這些部分是產生聲音的單元，也是合成器要理解的原理。這些名詞在琴上面都會出現，所以想創造自己的音色，最好稍微了解一下這些概念。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_synthesizers&#34;&gt;數位合成器 (Digital Synthesis)&lt;/a&gt; 的種類，依照聲音產生的方式 / 技術，常見的有以下幾種：&lt;/p&gt;
+&lt;h3 id=&#34;additive-synthesis-加法合成器&#34;&gt;Additive Synthesis (加法合成器)：&lt;/h3&gt;
+&lt;p&gt;依照傅立葉分析的基本概念，任何波型都可以由數個正弦波組成。加法合成器正是以這樣的概念為主。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;更多參閱 當代樂手 的討論：加法合成器&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;subtractive-synthesis-減法合成器&#34;&gt;Subtractive Synthesis (減法合成器)&lt;/h3&gt;
+&lt;p&gt;和加法合成器比起來，就是相反的邏輯。拿一個已知的 Tone，做篩檢 (Filter)，然後產生新的音色。&lt;/p&gt;
+&lt;p&gt;FM (Frequency Modulation Synthesis): 由史丹佛大學教授 John Chowning 開發設計的技術，後來授權給 Yamaha，這項技術最有名的就是 Yamaha DX-7 這台琴。後來變成 GM 音色中鍵盤群組中的 E. Piano-1。&lt;/p&gt;
+&lt;p&gt;因為 FM 的音色非常的迷人，80 年代有很多樂團的抒情歌曲，都是用他做的。像是 Europe - Carrie 的鍵盤部分 (Youtube Demo)。到今天所有的音源軟體廠商都會提供 FM 的相關音色，甚至專門取樣 DX-7 ，像是 Native Instrument 出的 FM8。&lt;/p&gt;
+&lt;h3 id=&#34;physical-modeling-synthesis-物理模型合成器&#34;&gt;Physical Modeling Synthesis (物理模型合成器)&lt;/h3&gt;
+&lt;p&gt;以 『擬真』為目的，利用數學演算法，模擬出真實樂器的音色波型、噪音部分。&lt;/p&gt;
+&lt;p&gt;著名的產品像是 Yamaha VL 系列，聽聽 Eric Clapton 演唱會上的這段演出：Wonderful Tonight (Youtube) ，間奏 (04:05) 鍵盤手用的就是 Breath Controller + VL，做出非常像是 Saxophone 般的演奏。&lt;/p&gt;
+&lt;p&gt;另外就是吉他音箱模擬 (Amplifier Simulator) 的技術，像是 Line6 POD、HD 系列、Roland VG 系列等，都有他們各自獨門的技術。&lt;/p&gt;
+&lt;h3 id=&#34;wavetable-synthesis-波型表合成器&#34;&gt;Wavetable Synthesis (波型表合成器)&lt;/h3&gt;
+&lt;p&gt;這也是目前市場合成器的大宗產品。概念很簡單，就是把聲音取樣後，放到記憶體，依照取樣的多寡，就會有對應的品質。軟硬體均有很多選擇。&lt;/p&gt;
+&lt;p&gt;相關概念參閱：『取樣基本概念』的介紹&lt;/p&gt;
+&lt;p&gt;合成器的觀念與應用大概是這樣，而這些東西都必須仰賴一個非常重要的技術：DSP。所以合成器的發展也相對帶出 DSP 的研發。&lt;/p&gt;
+&lt;h2 id=&#34;數位訊號處理器-digital-signal-processing-dsp&#34;&gt;數位訊號處理器 (Digital Signal Processing, DSP)&lt;/h2&gt;
+&lt;p&gt;延續合成器的段落介紹，數位合成器的每一個元件都仰賴 DSP 的運算。&lt;/p&gt;
+&lt;p&gt;其實不只是合成器，現今所有的數位技術都非常仰賴 DSP 的運算，將真實世界不管是電壓訊號、還是電流訊號，轉換成電腦能夠看的懂得格式、甚至用來作即時運算。&lt;/p&gt;
+&lt;p&gt;特別在音樂製作的混音階段，就會需要很強大的 DSP 運算功能。像是 DSP 大廠 Universal Audio 的 UAD 系列，就是 DSP 硬體的代表。現在的 PC 運算能力越來越強，所以軟體 DSP 也是非常多樣化的，像是 Waves 出的 Diamond 。&lt;/p&gt;
+&lt;h2 id=&#34;數位工作站與錄音室設計&#34;&gt;數位工作站與錄音室設計&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/music-production/digital-audio-system/&#34;&gt;Digital Audio System&lt;/a&gt; 大致描述了數位工作站的基本架構和觀念。&lt;/p&gt;
+&lt;h2 id=&#34;效果器過載濾波器放大器噪音處理&#34;&gt;效果器：過載、濾波器、放大器、噪音處理&lt;/h2&gt;
+&lt;p&gt;效果器 (Effect, FX) 如果都是數位式，其實都是屬於 DSP 的範圍。品質由 D/A 來決定。&lt;/p&gt;
+&lt;p&gt;當然類比效果器就另當別論。不過因為類比電路較為複雜、而且穩定性差，所以通常造價都不匪。但是類比卻又具備『更自然』的特性，所以還是有很多玩家很堅持使用類比效果器，吉他手尤其如此。當然，Keyboard 也有所謂的類比琴，Roland Jupoter 8、Monimoog、Korg MS-20 是一個很經典的代表之一。&lt;/p&gt;
+&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;看我鬼扯這麼多，其實跟一開頭提到的計概一樣，我也只是：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;know_a_little2.jpg&#34; alt=&#34;&#34;&gt;
+From: 越光寶盒&lt;/p&gt;
+&lt;p&gt;有一段時間，我在工作之餘研究了 MIDI Protocol，主要目的就是想設計一個人工智慧作曲的演算法。那段時間我寫的這篇文字：『調、調式與轉調』其實就是在描述基本的 MIDI Spec.&lt;/p&gt;
+&lt;p&gt;從以前玩 MIDI 開始，那時候做了很多 B 版 Kala 的 Cover，經過哪樣的訓練，所以我習慣聽歌的方式是這樣的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;這首歌用到什麼樂器、音色、效果&lt;/li&gt;
+&lt;li&gt;節奏型態&lt;/li&gt;
+&lt;li&gt;主要律動是啥&lt;/li&gt;
+&lt;li&gt;段落的配置以及情緒的轉折、起伏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在音源機很貴、而且沒有效果器的年代，有些效果是自己做出來的。&lt;/p&gt;
+&lt;p&gt;後來開始玩錄音、混音、合成器、效果器 &amp;hellip; 等數位音樂製作相關，同時，也間接地玩了一些模擬技術 (Modeling) 相關的產品，包含模擬音源 (True Piano)、吉他模擬 (Roland VG System、Line6 POD series)。&lt;/p&gt;
+&lt;p&gt;之後自己工作之餘研究 MIDI Protocol ，寫了 MIDI 的簡單控制程式，同時研讀一些聲學物理概念、PA 理論、DSP (訊號處理器) 等。一路走來接觸了整個音樂從最基本的聲音物理現象，一直到商業的製作，然後到工程領域的概念 &amp;hellip; 等。&lt;/p&gt;
+&lt;p&gt;對於『數位音樂』一直有著莫名的喜好，同時也不時的在用各種方式探索，或者實驗。雖然沒有啥成績，但是到也樂在其中 XDD&lt;/p&gt;
+&lt;p&gt;會寫這篇，是因為得知台灣 交通大學 - 聲音與音樂創意科技碩士學位學程 (SMIT) 的存在。&lt;/p&gt;
+&lt;p&gt;以前念電機系了時候，跟教授說要做吉他效果器，但是系上卻沒有相關領域的教授，他們懂 TCP/IP，但是卻不知道啥是 MIDI Message (其實當時我以為這是常識，即使到現在遇到有在玩數位音樂的人，我還是這麼認為)，所以常常牛頭不對馬嘴。一直以來台灣沒有這方面的系所。後來發現清大有  (MIR) 實驗室 ，不過研究的內容比較不是我興趣的部份。(其實應該是考不上 XD)&lt;/p&gt;
+&lt;p&gt;直到最近看到朋友介紹 交大 - 聲音與音樂創意科技碩士學位學程，很興奮。不過礙於年紀和現實面的考量 (出路, 這個系所在國內的發展)，我還是抱持觀察的態度。不過對於數位音樂，我還是自得其樂 XDD~~~~&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h1&gt;
+&lt;h2 id=&#34;站內文章&#34;&gt;站內文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;概述『和聲分析』演算法&lt;/li&gt;
+&lt;li&gt;基礎聲學與數位音樂製作&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/music-production/digital-audio-system/&#34;&gt;Digital Audio System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;聊聊 MIDI Guitar&lt;/li&gt;
+&lt;li&gt;Breath Controller 吹管控制器&lt;/li&gt;
+&lt;li&gt;Graph Tech - Ghost Pickup System (吉他模擬系統)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Music Technology Workbook: Key concepts and practical projects&lt;/li&gt;
+&lt;li&gt;清華大學 - 多媒體資訊檢索實驗室 (MIR)&lt;/li&gt;
+&lt;li&gt;交通大學 - 聲音與音樂創意科技碩士學位學程 (SMIT)&lt;/li&gt;
+&lt;li&gt;聲學 Acoustic (Wiki)&lt;/li&gt;
+&lt;li&gt;都卜勒效應 (Doppler Effect)&lt;/li&gt;
+&lt;li&gt;什麼是 FM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;20110924: 初版&lt;/li&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2011/09/concepts-of-music-technology.html&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Digital Audio System</title>
+      <link>https://rickmid.gtcafe.com/docs/production/digital-audio-system/</link>
+      <pubDate>Sat, 31 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/production/digital-audio-system/</guid>
+      <description>
+        
+        
+        &lt;p&gt;為了方便跟朋友解釋現代音樂工作環境的架構，幾個月前我就花了一點時間畫了一張簡單的架構圖。後來又花了一點時間進一步整理了相關資料，最後彙整出這張數位音樂系統 (Digital Audio Workstation) 的架構圖。&lt;/p&gt;
+&lt;p&gt;圖中提到很多軟硬體、訊號流…等概念，可以簡單說明現在市面上流行的產品，像 Reason、Sonar、Nuendo、Cubase … 等在這張圖上的角色﹔同時也可以了解現代音樂製作的大概流程。想要架構自己音樂工作環境的朋友，也可以以此圖為基本概念，然後規劃實際的軟硬體架構。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;digital-audio-system.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;以下解釋圖中每一個部分的名詞，第一部分為訊號流，也就是左下角籃底的部分：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MIDI：Musical Instrument Digital Interface，數位音樂樂器的溝通介面。是音樂科技產品的工業標準。可以指的是：硬體介面 (MIDI Interface)、檔案規格 (Standard MIDI Files, SMF)、訊號格式 (MIDI Message)、音源規格標準 (Communicate Spec., ex: GM, XG, GS, GM2 … etc) &amp;hellip; 等&lt;/li&gt;
+&lt;li&gt;MIDI Message：MIDI訊號。只是紀錄音符的相關資料，不包含原始聲音。MIDI Message最基本的訊號有：
+&lt;ul&gt;
+&lt;li&gt;Note number (音符 0~127)&lt;/li&gt;
+&lt;li&gt;Velocity (力度 0~127)&lt;/li&gt;
+&lt;li&gt;Note Off (音符結束時間)&lt;/li&gt;
+&lt;li&gt;Note On (音符開始)&lt;/li&gt;
+&lt;li&gt;Control Change (控制表情參數)&lt;/li&gt;
+&lt;li&gt;Program Change (音色控制碼)&lt;/li&gt;
+&lt;li&gt;Pitch Bend Change (滑音)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Digital Audio，數位聲音訊號：將聲波轉化成數字，將這些數字進一步解碼之後，變成只以0 與 1 所表示的一串訊號，立於電腦處理以及儲存。在實際的訊號傳輸過程中，就是以高電位來代表 &amp;ldquo;1&amp;rdquo;，以低電位代表 &amp;ldquo;0&amp;rdquo;。數位聲音訊號只會存在於數位系統之中，要 ”聽” 到這樣訊號的聲音，必須經過 Audio Interface (音效介面) 作數位類比轉換 (D/A)，方能真正呈現給我們的耳朵聆聽。&lt;/li&gt;
+&lt;li&gt;Analog Audio，類比聲音紀錄訊息：是將聲波化成實際的電壓變化，由訊號導線傳送或儲存在磁帶裝置。如果用示波器去實際偵測類比訊號傳輸中的電壓變化，則會在示波器上看到類似聲波的圖形顯示。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2008-2010 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;系統名詞&#34;&gt;系統名詞&lt;/h2&gt;
+&lt;p&gt;第二部分為系統名詞說明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;黃底：軟體 (低成本，品質不錯，汰換更新速度快)&lt;/li&gt;
+&lt;li&gt;灰底：硬體 (成本高，較傳統，有所謂的 Vintage 味，較有蒐藏價值)&lt;/li&gt;
+&lt;li&gt;黃灰相間：軟硬體均有 (看預算 &amp;hellip; )&lt;/li&gt;
+&lt;li&gt;DAW (Digital Audio Workstation)：分成軟硬體兩個部分
+&lt;ul&gt;
+&lt;li&gt;軟體：指的是能夠處理錄音、修改聲音、播放、混音和處理 MIDI的音樂軟體工作環境。特別是針對 Audio 的處理器、數位非線性剪輯、編輯等運算處裡功能。目前比較著名的 DAW 有 Cubase、Nuendo、SONAR、Logic、Digital Performer、ProTools &amp;hellip; 等。&lt;/li&gt;
+&lt;li&gt;硬體：指的是能夠與軟體 DAW 溝通的機器，像是可以直接透過硬體 DAW 操作 Playback、Stop、Record &amp;hellip; 等功能。目前比較新的控制器 (MIDI Controller) 都支援直接操作 DAW 軟體。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Controller (控制器)：可以直接送 MIDI Message 和控制參數給 DAW 的機器統稱控制器。最常見的就是鍵盤，其他還有數位打擊版、電子鼓、吉他合成器、吹管控制器等。&lt;/li&gt;
+&lt;li&gt;A/D：Analog to Digital。將類比訊號轉換成數位訊號的過程，此過程必須經過取樣 (Sampling) 的動作。ADC (Audio to Digital Converter) 就是類比數位轉換器。&lt;/li&gt;
+&lt;li&gt;D/A：Digital to Analog。將數位訊號轉換成類比訊號的過程，此過程必須將數位資料還原成類比電壓訊號。DAC 就是數位類比轉換器。ADC、DAC 也是錄音介面 (Audio Recording Interface)、高階合成器等級的關鍵之一。同時也是各個廠商的關鍵技術之一。&lt;/li&gt;
+&lt;li&gt;Audio Recording Interface (錄音介面)：台灣叫錄音卡、或者錄音介面。簡單說就是比較高級的音效卡 (Pro Sound Card，國外稱呼，參見拙作 &amp;ldquo;Pro 的!&amp;rdquo; 一文)。基本上跟電腦的音效卡架構差不多，主要都是作 A/D、D/A 的轉換處理。只是錄音介面的 A/D、D/A 等級比較高，也會有比較多的Channel可以同步運作 (多軌錄音)，同時也會提供多種音響用的街頭標準，像是類比訊號的 XLR (加農砲、麥克風接頭) 街頭、RCA (梅花接頭)、1/4吋(6.3mm) 接頭；數位訊號的 S/P DIF 接頭。&lt;/li&gt;
+&lt;li&gt;Sequencer，編曲機。指可以編輯 MIDI 資料的工作環境。軟硬體均有，硬體早期像是 Roland MC 系列 、 Yamaha QX 系列等。軟體像是 Cubase、Nuendo、SONAR、Logic、Digital Performer、ProTools 等都包含這個部份。&lt;/li&gt;
+&lt;li&gt;Audio Processor：指 DAW 的數位聲音訊號處理器，這也是 DAW 等級好壞的指標，如同錄音界面的 DAC 和 ADC 一樣。&lt;/li&gt;
+&lt;li&gt;Mixer/Console (軟體)：混音器/控制台。也就是錄音室裡各個音軌的控制環境，是早期錄音是最貴的硬體設備。現在已經有軟體可以取代。&lt;/li&gt;
+&lt;li&gt;Mixer/Amp (功率放大)：外部類比訊號混音器和功率放大器 (後級)&lt;/li&gt;
+&lt;li&gt;Monitor：監聽系統。主要目的就是要呈現原汁原味、沒有經過渲染的聲音，提供音樂製作時所需要的品質正確性。&lt;/li&gt;
+&lt;li&gt;外部類比訊號：樂器經由麥克風收音的訊號、或者直接 Line-in 的訊號。&lt;/li&gt;
+&lt;li&gt;外部數位訊號：一般指的是經由 S/P DIF 送給錄音界面處理的數位訊號，他不會經過 ADC 或 DAC 等轉換器。&lt;/li&gt;
+&lt;li&gt;Digital Effects：數位效果器。如 EQ (equalization等化器)、Reverb (殘響) 、Chorus (和聲效果)、Filter (濾波器)、Delay (延遲)、Compressor (壓縮器)、Overdrive (過載) … 等。&lt;/li&gt;
+&lt;li&gt;Score，樂譜輸出環境。大多數的 DAW 並不是以此為主要功能。樂譜有另外專門的軟體，如 Sibelius、PowerTrack (For Guitar)、Overturn (五線譜)、Guitar Pro (吉他) …等。相關概念請參閱『樂譜排版 (Music Score System) 與音樂製作 (Music Producer System)』 一文的介紹。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;daw--硬體-扮演的角色&#34;&gt;DAW / 硬體 扮演的角色&lt;/h2&gt;
+&lt;p&gt;看了一堆名詞，簡單說明一些實際的例子，目前市面上常見的軟硬體在上圖中的角色：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reason 的角色：主要是當成 Sound Module (黃灰色部份)、簡易的 Music Workstation (Sequencer 很陽春、沒有很強大的 Mixer/Console 環境、沒有 Audio Processing 環境)&lt;/li&gt;
+&lt;li&gt;Nuendo/Cubase、Sonar 的角色：完整的 DAW 環境 (黃色部份)，包含很強大的 Sequencer、Mixer/Console、Audio Processing、VST、VSTi plug-in (虛擬樂器) 介面支援 (不是包含有那些, 雖然有一些產品會送一些音源)、樂譜輸出。只要再搭配灰色的部分，就可以架構基本的音樂工作環境了。&lt;/li&gt;
+&lt;li&gt;鍵盤樂器 (Keyboard、Synthesizer)：目前的工作站等級的 KB，除了樂譜排版，大部分都會包含圖中所有的單元。只是依照不同的等級、產品定位 (使用需求) 、行銷策略，會針對不同單元做比重的調整，因此會看到產品線上會有不同型號的產品。相關概念可以參閱 鍵盤分類介紹 (一) 、鍵盤分類介紹 (二) 的說明。 (updated: 20091214)&lt;/li&gt;
+&lt;li&gt;吉他效果器 (Guitar Effect Processor)：吉他使用的重點在於 Digital Effect 這個部份，不會包含 Sound Module 的部份，一般也不會 Sequencer 和 Score。但是因為需要用來做參數控制，所以還是會具備 MIDI Message 部分。這邊的 MIDI 訊號意思不是說可以把吉他彈奏的音符轉換成我們認知的音符高低 (五線譜)，而是用來控制效果器的各個參數使用。所以現在很多效果器都可以透過 USB ，然後在電腦上調音色、備份設定等功能。 (updated: 20091214)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大概先介紹到這邊，接下來介紹的是當實際工作時，圖中每一個部分的訊號流向，以及他們是如何工作的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h1&gt;
+&lt;h2 id=&#34;站內資料&#34;&gt;站內資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;數位器材、音樂製作專有名詞對照表&lt;/li&gt;
+&lt;li&gt;聊聊 MIDI Guitar&lt;/li&gt;
+&lt;li&gt;鍵盤音色概述&lt;/li&gt;
+&lt;li&gt;鍵盤介紹 (一)&lt;/li&gt;
+&lt;li&gt;鍵盤分類 (二)&lt;/li&gt;
+&lt;li&gt;如何用鍵盤編曲 FAQ&lt;/li&gt;
+&lt;li&gt;過帶注意事項&lt;/li&gt;
+&lt;li&gt;Breath Controller 吹管控制器&lt;/li&gt;
+&lt;li&gt;樂譜排版 (Music Score System) 與音樂製作 (Music Producer System)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Vintage Synth Explorer - Sequencer Controller&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;20091214: 重新排版、加入新的實例說明&lt;/li&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2008/05/digital-audio-system.html&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
