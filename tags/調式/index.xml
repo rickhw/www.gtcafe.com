@@ -5,7 +5,7 @@
     <description>Recent content in 調式 on 喝咖啡 聊音樂 - v2021 (施工中)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 19 Nov 2007 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Nov 2010 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://rickmid.gtcafe.com/tags/%E8%AA%BF%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
     
@@ -393,6 +393,116 @@
     </item>
     
     <item>
+      <title>Docs: 調式學習的思考</title>
+      <link>https://rickmid.gtcafe.com/docs/theory/thinkin-mode/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/theory/thinkin-mode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://rickmidi.blogspot.com/2007/09/blog-post_28.html?showComment=1290058634804#c7239485952636336829&#34;&gt;網友提問&lt;/a&gt; 一些調式的問題, 所以整理一些關於調式學習上常見的問題, 和思考.&lt;/p&gt;
+&lt;h2 id=&#34;調式的學習途徑&#34;&gt;調式的學習途徑&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;金屬主奏吉他聖經&amp;rdquo; 的問題:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;請在 G 大調裡彈出從 D 開始的調式？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這是一種延伸記憶的學習方法, 就如同學習小調音階時, 大部分教學者會這樣引導學習者:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用 C 大調的音階, 從 A 開始彈奏的音階, 就是 A 小調&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;學習者用已知的知識, 繼續延伸學習. 已知 C 大調音階, 用他來幫助了解 A 小調音階的 &amp;ldquo;指型位置&amp;rdquo;, 藉由已知的知識, 在同樣的樂器上, 不需要砍調重練, 可以快速的可以彈奏新的概念, 不用花很多時間重練技術. 待學習者已經知道相關位置關係之後, 再來深入提及音程的概念.&lt;/p&gt;
+&lt;p&gt;所以 &amp;ldquo;金屬主奏吉他聖經&amp;rdquo; 的問題, 是一種引導式學習, 重點在於先讓學習者知道要彈 D Mixolydian 時, 可以先找到 G 大調音階, 之後答案就呼之欲出. 當學習者能夠找到位置之後, 能夠理解 Mixolydian 的音程概念之後, 再來告訴學習者, 用 D 大調音階 + b7 來彈, 也就是:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用大調音階指型, 把原本的大七度改成小七度.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這個過程就是讓學習者 &amp;ldquo;思考&amp;rdquo; 這個調式音階的音程, 但是依舊有參考指型: D 大調音階. 但是和第一次的學習方式不一樣的是, 這次不是照著彈, 而是需要把原本的 7 改成 b7.&lt;/p&gt;
+&lt;p&gt;最後再讓學習者回到 G 大調音階, 來比較一次, 學習者如果夠熟練, 應該就會發現兩者音階的音是一樣的, 但是意義上是完全不一樣的.&lt;/p&gt;
+&lt;p&gt;所以, 大部分學習調式音階的途徑就是:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;參考已知演奏技術 (G 大調音階指型), 彈出新的音階 (D Mixolydian)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;學習調式的音程概念, 改用音程概念彈出調式音階. (D Major + b7)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;比較 1), 2) 音階指型的結果.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果學習者很快的有辦法找到各大小調音階指型, 同時熟悉音程概念, 也可以跳過 1) 的方式.&lt;/p&gt;
+&lt;p&gt;所以 &amp;ldquo;金屬主奏吉他聖經&amp;rdquo; 的目的是引導學習者, 他是一本教學用途的書, 而不是一本分析, 申論的樂理書. 他的目的在於:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;讓學習者能夠循序漸進的了解調式在 &amp;ldquo;技術上&amp;rdquo;, 和 &amp;ldquo;理論&amp;rdquo; 的概念.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;所以不需要對於他問題的問法太鑽牛角尖.&lt;/p&gt;
+&lt;h2 id=&#34;調在哪&#34;&gt;調在哪?&lt;/h2&gt;
+&lt;p&gt;一首曲子出現 G 大調, 還是 D Mixolydian, 一般會從和聲、旋律線、和段落的關係來判斷。&lt;/p&gt;
+&lt;p&gt;和聲看終止在哪，終止式不管是什麼調式, 都會以兩個和弦的變化參考點.&lt;/p&gt;
+&lt;p&gt;像是 V-I (註), I 可以是大和弦, 小和弦,
+但是 V 會期望出現三全音 (tritone), 通常是屬七.&lt;/p&gt;
+&lt;p&gt;第一個和弦就是終止和弦, 有各種變化, 但不管怎麼變化, 就是要有三全音.
+第二個和弦通常會拿來被定義成所謂的 &amp;ldquo;調&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;這樣的過程, 從 &amp;ldquo;緊張&amp;rdquo; 到 &amp;ldquo;舒服&amp;rdquo;,
+在聽人類的聽覺感官上形成了結束 / 段落的感覺，專業術語稱為解決 (Resolved)。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所以調在哪裡? 哪裡有終止, 調就在哪裡.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;確立終止, 就知道調的屬性: 大調或者是小調.
+再來看和弦進行, 就可以找到對應的 &amp;ldquo;調式&amp;rdquo;.
+有些調式根據上述 &amp;ldquo;終止感&amp;rdquo; 的描述,&lt;/p&gt;
+&lt;p&gt;要注意的是, 一首歌不會只有一種調. 當代流行音樂裡, 一首歌出現兩, 三個調是很普通的, 出現兩三種調式也不是很特殊，爵士樂一小節一個調更是司空見慣. 但是不管多少調, 都還是圍繞自然大調/自然小調為中心, 然後作延伸發展.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;註: 除了 V-I 終止式, IV-I 也是常見的終止式. 在和聲學裡叫它教會終止, 或者阿門終止.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;調的屬性以及其重要性-why-大調-and-小調&#34;&gt;調的屬性以及其重要性: Why &amp;ldquo;大調&amp;rdquo; and &amp;ldquo;小調&amp;rdquo;?&lt;/h2&gt;
+&lt;p&gt;現在我們使用的音階 - 自然大調、&lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/minor-scale/&#34;&gt;小調音階&lt;/a&gt; - 是由先知經過各種方法實驗、嘗試、演進、去蕪存菁，最後得到兩組 &lt;code&gt;大部分的人類&lt;/code&gt; 一聽都能夠接受的組合，我把他當作 &lt;code&gt;統計學的結論&lt;/code&gt;。在這過程當中，其他音階依舊存在，不管是調式音階還民俗音階，只是最後大家一致接受的就是自然大調和自然小調。&lt;/p&gt;
+&lt;p&gt;同時在這實驗的過程當中，也定義了最重要的音程概念，有了音程就有聲音的協和度，就有了音階、和聲系統，然後才有樂音 (和諧的聲音)，之後才開始有各種的和聲理論，應用。&lt;/p&gt;
+&lt;p&gt;因此它們變成人們在學習時的起點、依據，不管在學習過程當中學到什麼調式、什麼音階，都要有一個基本的參考點，那就是自然大小調音階.&lt;/p&gt;
+&lt;p&gt;但其他音階依舊存在, 依舊有他的實用性. 所以我們在學習時, 就參考這兩組, 作延伸、變化、思考.&lt;/p&gt;
+&lt;p&gt;像爵士音樂家 &lt;a href=&#34;https://www.youtube.com/watch?v=DEC8nqT6Rrk&#34;&gt;Miles Davis 的作品 So What&lt;/a&gt;: 以 Dorian 為架構的曲子. 因為這首曲子只用了兩個和弦 - Dm7, Ebm7. 全曲使用 D Dorian, Eb Dorian, 因為沒有明顯的終止式, 所以以聆聽的角度來看, 比較舒緩/平坦. 所以除了和聲, 必須仰賴其他 - 像節奏來支撐曲子.&lt;/p&gt;
+&lt;p&gt;這些概念只是想說明, 學習音樂的途徑上, 會遇到很多音階, 會遇到很多組合, 但是最初的東西通常是最重要的, 學習越多, 回來看基本的通常會 &amp;ldquo;溫故而知新&amp;rdquo; ~&lt;/p&gt;
+&lt;p&gt;可以以疑惑, 但不必質疑或想推翻它, 因為那些基礎概念都是先知們粹練出來的精華.&lt;/p&gt;
+&lt;p&gt;也有音樂家嘗試過所謂的無調音樂, 不過別忘了音樂的初衷 - 好聽 (以前宗教歌誦使用). 所以所謂的 &amp;ldquo;無調音樂&amp;rdquo; 還是實驗的性質居多. 推翻現有的制度 (平均律) 重新找, 如果能夠 &lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/&#34;&gt;發現新的規則&lt;/a&gt;, 那你或許就是下一個音樂史上的重要人物了.&lt;/p&gt;
+&lt;h2 id=&#34;唱出調式的-音高&#34;&gt;唱出調式的 &amp;ldquo;音高&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://rickmidi.blogspot.com/2007/09/blog-post_28.html?showComment=1290058634804#c7239485952636336829&#34;&gt;網友問題&lt;/a&gt; 裡提到的是以 &amp;ldquo;人聲演唱&amp;rdquo; 的角度來看如何唱調式音階, 像是唱出 Dorian 的 &amp;ldquo;大六度&amp;rdquo; 會不會很難唱?&lt;/p&gt;
+&lt;p&gt;的確是如此, 但是要知道, 大部分的人們能夠 &amp;ldquo;自然的&amp;rdquo; 唱出大調音階, 主要是因為我們已經確立 &amp;ldquo;自然大調&amp;rdquo; 的實用性, 這東西在我們生活裡耳濡目染, 很少人不會唱的.&lt;/p&gt;
+&lt;p&gt;唱到調式的東西, 和學樂器一樣, 就是要 &amp;ldquo;練&amp;rdquo;. &amp;ldquo;練&amp;rdquo; 就是把不習慣變成習慣/熟悉的過程.&lt;/p&gt;
+&lt;p&gt;但是如果從小就習慣聽/唱一些非自然大調音的民族, 像黑人的藍調, 去聽 R&amp;amp;B 的音樂就不難聽到, 他們很擅長唱藍調音這些東西, 因為從小聽到大.&lt;/p&gt;
+&lt;p&gt;說穿了, 就是多練習.&lt;/p&gt;
+&lt;p&gt;我們學英文時也會想: 怎麼可能在說話時想這麼多文法??&lt;/p&gt;
+&lt;p&gt;說穿了, 還是練, 練, 練.&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;調式&amp;rdquo; 的相關觀念, 在我的 Blog 閱讀率和教學時學生問的比率都是很高的. 很多時候同學容易陷入鑽牛角尖的數字觀念. 所以藉由這篇文字說明, 同時也讓分享一些現在我對調式的一些想法.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;歌曲分析: GNR - Sweet Child O&#39; Mine&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/tonality-key-mode/&#34;&gt;調、調式與轉調&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;大調音階&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/minor-scale/&#34;&gt;小調音階&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;音階基礎&lt;/li&gt;
+&lt;li&gt;轉調曲例&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/&#34;&gt;可以自行創造音階?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2010/11/blog-post.html&lt;/li&gt;
+&lt;li&gt;2010/11/20: 初版&lt;/li&gt;
+&lt;li&gt;2021/09/04: 搬移新站&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 調式概念</title>
       <link>https://rickmid.gtcafe.com/docs/theory/musical-mode/</link>
       <pubDate>Mon, 19 Nov 2007 00:00:00 +0000</pubDate>
@@ -537,7 +647,11 @@
 &lt;li&gt;Final Fantasy (太空戰士) 的陸行鳥之歌&lt;/li&gt;
 &lt;li&gt;Jack Thammarat - On the Way&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;※版權所有，未經允許，請勿隨意轉載※&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;div style=&#34;align:center; color: red&#34;&gt;※ 版權所有，未經允許，請勿隨意轉載 ※&lt;/div&gt;
+
+&lt;hr&gt;
 &lt;h2 id=&#34;建議學習地圖&#34;&gt;建議學習地圖&lt;/h2&gt;
 &lt;p&gt;大概有以下學習階段：&lt;/p&gt;
 &lt;ol&gt;
@@ -546,8 +660,6 @@
 &lt;li&gt;然後再接觸調式，這樣會比較容易瞭解調與調式的關係與差別。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;這是我個人學習調式的總論，只能說是大略的描述一下調式的輪廓而已。一些例子與應用，日後會慢慢繼續補上，至於理論基礎的大方向，應該是沒問題的。&lt;/p&gt;
-&lt;p&gt;延伸閱讀（站內）：&lt;/p&gt;
-&lt;p&gt;線上資源：&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
 &lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
@@ -566,10 +678,11 @@
 &lt;li&gt;Lydian&lt;/li&gt;
 &lt;li&gt;調式音階 (中文, 推薦閱讀)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;原文網址：https://rickmidi.blogspot.com/2007/10/blog-post_02.html&lt;/li&gt;
 &lt;li&gt;2007/11/19: 初版&lt;/li&gt;
+&lt;li&gt;2021/09/04: 搬移新站&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
