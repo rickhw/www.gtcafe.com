@@ -1657,6 +1657,82 @@
     </item>
     
     <item>
+      <title>Docs: 關係和弦？</title>
+      <link>https://rickmid.gtcafe.com/docs/theory/relation-chord/</link>
+      <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/theory/relation-chord/</guid>
+      <description>
+        
+        
+        &lt;p&gt;在談論音階時，經常會提到 &lt;code&gt;關係大小調&lt;/code&gt;。簡單說，就是具備同樣的音階元素，但是從不同的角度 (音程) 看過去，確有不同的音階名稱，或者不同的感覺。這是用來關係大小調，或者解釋調式音階最常用的方式.&lt;/p&gt;
+&lt;h2 id=&#34;推論&#34;&gt;推論&lt;/h2&gt;
+&lt;p&gt;音階具備所謂的 &amp;ldquo;關係調&amp;rdquo;，那和弦呢? 有沒有 &amp;ldquo;關係和弦&amp;rdquo;? Goolge 並沒有 &lt;a href=&#34;https://www.google.com.tw/search?q=%E9%97%9C%E4%BF%82%E5%92%8C%E5%BC%A6&#34;&gt;找&lt;/a&gt; 到這種名詞，不過我就借用一下 &lt;code&gt;關係調&lt;/code&gt; 的概念，來解釋同音異名的和弦 - &lt;code&gt;關係和弦&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;所以關係和弦，簡單說就是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;具備同樣的組成音，但是卻有不同名稱的和弦名稱，可以像關係大小調一樣，想成是從另一個角度 (音程關係) 看同樣的一群音符:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;第一類，利用和弦聲位 (Voicing) 的概念，得到同音異名和弦，常見的大概有以下幾種 :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Am7 (A C E G) ==&amp;gt; C6 (C E G A)&lt;/li&gt;
+&lt;li&gt;F#m7-5 (F# A C E) ==&amp;gt; Am6 (A C E F#)&lt;/li&gt;
+&lt;li&gt;Csus2 (C D G) ==&amp;gt; Gsus4 (G C D)&lt;/li&gt;
+&lt;li&gt;Caug (C E G#) ==&amp;gt; Eaug (E G# C) ==&amp;gt; G#aug (G# C E)&lt;/li&gt;
+&lt;li&gt;Cdim7 = Ebdim7 = Gbdim7 = Adim7 (Bbbdim7)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其中 &lt;code&gt;Xdim7 (減七和弦)&lt;/code&gt; 是最經典的例子，減七和弦 把十二平均律平分成四等份，造成轉位之後會得到四個同音異名的和弦。&lt;code&gt;Xaug (增三和弦)&lt;/code&gt; 也是類似的例子，但是它是把十二個音分成三等份，得到三個同音異名的和弦.&lt;/p&gt;
+&lt;p&gt;另外一個常見的例子是 Xm6 可以換成 Xm7-5 的例子。上述的 Am6 來說，經常會被套用在調二 A Dorian (A B C D E F# G) 裡，但是有時候譜上的和弦因為安排的關係，不會寫 Am6，而是寫 F#m7-5。但是同樣是可以彈奏 A Dorian 的.&lt;/p&gt;
+&lt;p&gt;第二類，是所謂轉位和弦 (Slash Chord)，因為 Bass 音的改變得到一群新的音符，常見的例子如下:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cmaj7 (C E G B) ==&amp;gt; Em/C (E G B/C)&lt;/li&gt;
+&lt;li&gt;G7sus4 =&amp;gt; Dm7/G&lt;/li&gt;
+&lt;li&gt;C9sus4 =&amp;gt; Gm7/C&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這類的概念可以參考 &amp;ldquo;屬七和弦與其延伸和弦的代換&amp;rdquo; 一文的介紹。會有類似的想法.&lt;/p&gt;
+&lt;h2 id=&#34;好處&#34;&gt;好處？&lt;/h2&gt;
+&lt;p&gt;用這啥好處?&lt;/p&gt;
+&lt;p&gt;我們提到調式音階時最常說的就是，它可以說是從另一個角度來看一件事情，可以得到一個完全新的體驗。同樣的和弦利用這樣的關係和弦，雖然是同樣的元素，但是我們卻改變的使用角度，甚至是和弦屬性，那麼在選擇對映的音階時，就會有全新的想法.&lt;/p&gt;
+&lt;p&gt;標準的 Blues 12bar 裡，以一個 C Blues 來說，如果我們把所有的屬七都改成 X7+9，如下:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| C7+9 / / / | C7+9 / / / | C7+9 / / / | C7+9 / / / |
+| F7+9 / / / | F7+9 / / / | C7+9 / / / | C7+9 / / / |
+| G7+9 / / / | F7+9 / / / | C7+9 / / / | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;其實看起來很壯觀 &amp;hellip;。但是換個角度來看，會比較容易瞭解:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| Cm7/E / / / | Cm7/E / / / | Cm7/E / / / | Cm7/E / / / |
+| Fm7/A / / / | Fm7/A / / / | Cm7/E / / / | Cm7/E / / / |
+| Gm7/B / / / | Fm7/A / / / | Cm7/E / / / | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;把 C7+9 (C E G Bb Eb) 看成 Cm7/E (C Eb G Bb / E)。這樣會得到 C Minor Blues + E Blues 的 Bass Line。所以當看到 X7+9 的藍調進行，其實也可以用 Minor Blues 來彈和弦的部分。實際上在藍調裡 X7+9 是很常見的。而 X7+9 其實也是暗示了 &amp;ldquo;Blue Note&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;再舉一個例子，也是藍調的應用，把屬七改成 X11 和弦，但是省略三度音 (Blues Riff 經常不彈三度音，留給 Melody 玩)，得到 X7sus4 (詳細參見 &amp;ldquo;屬七和弦與其延伸和弦的代換&amp;rdquo; 的說明):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| C7sus4 / / / | C7sus4 / / / | C7sus4 / / / | C7sus4 / / / |
+| F7sus4 / / / | F7sus4 / / / | C7sus4 / / / | C7sus4 / / / |
+| G7sus4 / / / | F7sus4 / / / | C7sus4 / / / | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;其中的 X7sus4 代換如下 : C7sus4 (C G Bb F) 的 (G Bb F) 是 G 的 1 b3 b7，剛好就是 Gm7 的 Shell Chord ，所以可以直接把 C7sus4 當成是 Gm7/C 。其他的 F7sus4，G7sus4 也可以用同樣的方式找到對應: F7sus4 -&amp;gt; Cm7/F，G7sus4 -&amp;gt; Dm7/G。最後得到下面的結果:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| Gm7/C / / / | Gm7/C / / / | Gm7/C / / / | Gm7/C / / / |
+| Cm7/F / / / | Cm7/F / / / | Gm7/C / / / | Gm7/C / / / |
+| Dm7/G / / / | Cm7/F / / / | Gm7/C / / / | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;這樣很清楚的發現，Bass Line 還是 C Blues，但是和聲卻是 G Minor Blues! 有 Fusion 的聲響效果! 兩個例子都是一種融合的感覺，這種藍調一點都不傳統，反而很前衛，很現代。&lt;/p&gt;
+&lt;p&gt;當然上述的例子，只是一種舉例方式而已，目的在於說明和聲也可以以不同的角度來看同樣的東西。可以再把其他調式的概念套到這樣的和聲配置上，會得到更多不一樣的 Solo Line.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;概述『和聲分析』演算法&lt;/li&gt;
+&lt;li&gt;和弦基礎&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/minor-scale/&#34;&gt;小調音階 (Minor Scale)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;調式概念&lt;/li&gt;
+&lt;li&gt;Shell Chord&lt;/li&gt;
+&lt;li&gt;減七和弦 (Diminished Seventh)&lt;/li&gt;
+&lt;li&gt;屬七和弦與其延伸和弦的代換&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/03/blog-post_15.html&lt;/li&gt;
+&lt;li&gt;2009/03/15: 初版&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 意念傳達</title>
       <link>https://rickmid.gtcafe.com/docs/gossip/willing/</link>
       <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>

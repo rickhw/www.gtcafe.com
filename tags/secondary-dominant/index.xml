@@ -1,0 +1,138 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>喝咖啡 聊音樂 - v2021 (施工中) – Secondary Dominant</title>
+    <link>https://rickmid.gtcafe.com/tags/secondary-dominant/</link>
+    <description>Recent content in Secondary Dominant on 喝咖啡 聊音樂 - v2021 (施工中)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 01 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://rickmid.gtcafe.com/tags/secondary-dominant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 次屬和弦 (Secondary Dominant)</title>
+      <link>https://rickmid.gtcafe.com/docs/theory/secondary-dominat/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/theory/secondary-dominat/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;基本概念&#34;&gt;基本概念&lt;/h2&gt;
+&lt;p&gt;次屬和弦是一種 &lt;code&gt;和聲技巧&lt;/code&gt;，和 &lt;code&gt;調式內轉 (Modal Interchange)&lt;/code&gt;、&lt;code&gt;TSD 和聲代換&lt;/code&gt;，都算是同類型的東西，他們的目的都是要製造出與原本歌曲和聲不同的感覺、張力，但是又不會離原曲太遠 (Outside)。&lt;/p&gt;
+&lt;p&gt;在說明次屬和弦之前，我們先來釐清一些基本概念，也就是什麼是 &lt;code&gt;屬和弦 (Dominant Chord)&lt;/code&gt;？&lt;/p&gt;
+&lt;h3 id=&#34;屬音-dominant&#34;&gt;屬音 (Dominant)&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://tw.dictionary.search.yahoo.com/search?ei=UTF-8&amp;amp;p=dominant&#34;&gt;Dominant&lt;/a&gt; 這個單字是個形容詞，有 &lt;code&gt;支配的&lt;/code&gt;、&lt;code&gt;控制的&lt;/code&gt;、&lt;code&gt;統治的&lt;/code&gt;、&lt;code&gt;佔有強勢的&lt;/code&gt;、&lt;code&gt;優勢的&lt;/code&gt;的意思，可以等同於 Controlling。它的動詞是 Dominate，就是 &lt;code&gt;在 ... 佔有重要地位&lt;/code&gt; 的意思。所以套用在自然音階，可以想像成七個音符裡，第五個音是佔有重要位置的音，中文把它翻譯成『屬音』。&lt;/p&gt;
+&lt;h3 id=&#34;主要屬和弦-primary-dominant&#34;&gt;主要屬和弦 (Primary Dominant)&lt;/h3&gt;
+&lt;p&gt;首先從字面上來說明 &amp;ldquo;Secondary Dominant&amp;rdquo;，&amp;ldquo;Secondary&amp;rdquo; 字面上就是 &lt;code&gt;第二的&lt;/code&gt;、&lt;code&gt;次要的&lt;/code&gt;、&lt;code&gt;輔助的&lt;/code&gt;，簡單說就是老二，他的相對形容詞就是 &lt;code&gt;主要的&lt;/code&gt;、&lt;code&gt;首要的&lt;/code&gt;、&lt;code&gt;第一的&lt;/code&gt; &lt;code&gt;(Major、Primary、Premier)&lt;/code&gt;。所以有 Secondary Dominant 當然就會有 &lt;code&gt;Primary Dominant&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;大部分 Key Center 的歌曲當中，其順階七和弦裡，都會包含了一個主要的屬七和弦 (Dominant 7th)，自然大、小調都是五級 (自然小調有時候就會把五級的小七改成屬七，詳細解釋請參閱 &amp;ldquo;小調音階&amp;rdquo; 的說明)，這個屬七和弦一般用來判斷歌曲的終止，或者決定歌曲的調性。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;重點：用來判斷 &lt;em&gt;歌曲終止&lt;/em&gt; 或者 &lt;em&gt;歌曲調性&lt;/em&gt; 的屬七和弦可以稱為 &lt;code&gt;主要屬和弦 (Primary Dominant)&lt;/code&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在大部分 Key Center 歌曲中，一個調裡，只會出現一個屬和弦。這個屬和弦代表著調的主要屬和弦。如果出現第二個呢？那可能就是所謂的次屬和弦。&lt;/p&gt;
+&lt;h2 id=&#34;次屬和弦-secondary-dominant&#34;&gt;次屬和弦 (Secondary Dominant)&lt;/h2&gt;
+&lt;p&gt;Secondary Dominant 我習慣翻成 &lt;code&gt;次屬和弦&lt;/code&gt;，有些書翻成&lt;code&gt;二階屬和弦&lt;/code&gt;、&lt;code&gt;次要屬和弦&lt;/code&gt;、&lt;code&gt;裝飾屬和弦&lt;/code&gt;、&lt;code&gt;附屬七和弦&lt;/code&gt;、&lt;code&gt;應用屬和弦&lt;/code&gt; &amp;hellip; 他們的意思都是一樣的。原文有時候也會寫成 &lt;code&gt;Applied Dominant&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;在主要屬和弦裡已經提到的基本概念：在一個調裡，僅會出現一個屬和弦，如果出現了兩個屬七和弦，我們就要判斷那一個是主要的，哪一個是次要的，例如著名的搖滾經典加州大旅館 (&lt;a href=&#34;https://www.youtube.com/results?search_query=Hotel+California&#34;&gt;Hotel California&lt;/a&gt;)：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Hotel-California.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;整首歌，頭尾來看，可以得知是 &lt;code&gt;B 小調&lt;/code&gt;，對應的主要屬和弦是 &lt;code&gt;F#7&lt;/code&gt;。歌曲當中出現了另一個屬七和弦 E7，我們把它看成是某個調的屬七，剛好 E7 前面是 A，兩者剛好是 I - V 的關係，所以 E7 我把它解釋成歌曲第一組 &lt;code&gt;次屬和弦&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;另外還有一組可以解釋成次屬和弦的是第四、五小節，G - D 的關係也是 I - V，只是這邊的 D 不是屬七，但是眼熟的人應該可以感覺出來 D 是 G 的五級。所以我把它解釋成第二組次屬和弦。&lt;/p&gt;
+&lt;p&gt;這個和弦進行裡，有兩個屬七和弦，但是有三組屬和弦。從調性判斷哪個是主要的，剩下的都是次要的。&lt;/p&gt;
+&lt;p&gt;次屬和弦一般來說，經常發生在：大調的 II、III、IV、V、VI。 I 是因為 I 的 V 級就是調性的主要屬和弦。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;級數&lt;/th&gt;
+&lt;th&gt;I&lt;/th&gt;
+&lt;th&gt;II&lt;/th&gt;
+&lt;th&gt;III&lt;/th&gt;
+&lt;th&gt;IV&lt;/th&gt;
+&lt;th&gt;V&lt;/th&gt;
+&lt;th&gt;VI&lt;/th&gt;
+&lt;th&gt;VII&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;主和弦&lt;/td&gt;
+&lt;td&gt;CM7&lt;/td&gt;
+&lt;td&gt;Dm7&lt;/td&gt;
+&lt;td&gt;Em7&lt;/td&gt;
+&lt;td&gt;FM7&lt;/td&gt;
+&lt;td&gt;G7&lt;/td&gt;
+&lt;td&gt;Am7&lt;/td&gt;
+&lt;td&gt;Bm7-5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;屬和弦&lt;/td&gt;
+&lt;td&gt;G7&lt;/td&gt;
+&lt;td&gt;A7&lt;/td&gt;
+&lt;td&gt;B7&lt;/td&gt;
+&lt;td&gt;C7&lt;/td&gt;
+&lt;td&gt;D7&lt;/td&gt;
+&lt;td&gt;E7&lt;/td&gt;
+&lt;td&gt;F#7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;表示法&lt;/td&gt;
+&lt;td&gt;V/I&lt;/td&gt;
+&lt;td&gt;V/II&lt;/td&gt;
+&lt;td&gt;V/III&lt;/td&gt;
+&lt;td&gt;V/IV&lt;/td&gt;
+&lt;td&gt;V/V&lt;/td&gt;
+&lt;td&gt;V/VI&lt;/td&gt;
+&lt;td&gt;V/VII&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;一些常見的例子：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| C / / / | E7 / / / | Am / / / | G7 / / / |
+| G / / / | C / / / | A7 / / / | D7 / / / |
+| C / / / | C7 / / / | F / / / | G / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;次屬和弦與減七和弦&#34;&gt;次屬和弦與減七和弦&lt;/h3&gt;
+&lt;p&gt;在 &amp;ldquo;減七和弦&amp;rdquo; 一文中提及過，減七和弦最常用在和弦的銜接，例如 1 - 2m、4 - 5 的經過和弦。&lt;/p&gt;
+&lt;p&gt;像是：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| C / / C#dim7 | Dm7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;或是&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;這種用法，可以用次屬和弦來聯想，像：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| F / / D7/F# | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;把 D7 看成 G 的五級，其中：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;D7/F# (D F# A C)&lt;/code&gt; 和 &lt;code&gt;F#dim7 (F# A C Eb)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;聲響很接近，以可以互換。一方面有有屬和弦效果，又讓 bass line 形成半音進行 (F - F# - G)，是很實用的老梗。&lt;/p&gt;
+&lt;p&gt;另外，F#dim7 跟 Am6 是同音異名的和弦 (詳見 &amp;ldquo;關係和弦?&amp;rdquo; 的說明)，所以這段和弦進行又能被改成：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+| F / / D7/F# | G7 / / / |
+| F / / Am6 | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;所以導入一些類似的概念，可以發現很多有趣的現象。&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;次屬和弦&lt;/code&gt; 和 &lt;code&gt;調式內轉 (Modal Interchange)&lt;/code&gt; 很容易搞混，但是就實用上來說，我個人覺得只要能夠抓住調性和聲的基本概念，也就是本文中第一段提及的觀念，那麼這兩種和聲技巧，就不會搞混了。&lt;/p&gt;
+&lt;p&gt;另外，藍調的和聲不要用次屬和弦來解釋，基本上他天生就長那樣。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;調式內轉 (Modal Interchange)&lt;/li&gt;
+&lt;li&gt;TSD 和聲代換&lt;/li&gt;
+&lt;li&gt;減七和弦 (Diminished Seventh)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/minor-scale/&#34;&gt;小調音階 (Minor Scale)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;關係和弦?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/04/secondary-dominant.html&lt;/li&gt;
+&lt;li&gt;2009/04/01: 初版&lt;/li&gt;
+&lt;li&gt;2009/09/06: 感謝仁澔同學幫忙校正.&lt;/li&gt;
+&lt;li&gt;2010/05/11: 說明 dominant 的英文字面意思&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
