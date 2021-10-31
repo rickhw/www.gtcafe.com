@@ -2,43 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rickmid.gtcafe.com/docs/guitar/effective-practice-guitar/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/guitar/effective-practice-guitar/</loc>
     <lastmod>2015-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/guitar/time-for-practice-guitar/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/guitar/time-for-practice-guitar/</loc>
     <lastmod>2014-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/production/concepts-of-music-technology/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/production/concepts-of-music-technology/</loc>
     <lastmod>2011-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/production/digital-audio-system/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/production/digital-audio-system/</loc>
     <lastmod>2008-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/tonality-key-mode/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/tonality-key-mode/</loc>
     <lastmod>2007-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/</loc>
     <lastmod>2014-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/guitar/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/guitar/</loc>
     <lastmod>2015-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/songs/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/songs/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/band/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/band/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/production/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/production/</loc>
     <lastmod>2011-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/dict/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/dict/</loc>
     <lastmod>2008-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rickmid.gtcafe.com/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/</loc>
@@ -47,10 +50,7 @@
     <loc>https://rickmid.gtcafe.com/tags/zelda/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/songs/zelda-trailer-2017e3/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rickmid.gtcafe.com/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/songs/zelda-trailer-2017e3/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E7%A7%81%E6%88%BF%E6%AD%8C/</loc>
@@ -59,13 +59,13 @@
     <loc>https://rickmid.gtcafe.com/tags/%E8%81%BD%E9%9F%B3%E6%A8%82/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/band/getting-started-play-as-band/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/band/getting-started-play-as-band/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E6%A8%82%E5%9C%98%E7%B6%93%E7%87%9F/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/band/about-score/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/band/about-score/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/how-to/</loc>
@@ -80,13 +80,13 @@
     <loc>https://rickmid.gtcafe.com/tags/arpeggios/</loc>
     <lastmod>2015-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/guitar/practice-arpeggios-251-on-g-major/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/guitar/practice-arpeggios-251-on-g-major/</loc>
     <lastmod>2015-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/guitar/practice-arpeggios-g-major7/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/guitar/practice-arpeggios-g-major7/</loc>
     <lastmod>2015-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/correctness-efficiency/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/correctness-efficiency/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E8%81%8A%E5%A4%A9/</loc>
@@ -101,10 +101,10 @@
     <loc>https://rickmid.gtcafe.com/tags/%E9%9F%B3%E9%9A%8E/</loc>
     <lastmod>2014-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/essence-of-musical-scales/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/essence-of-musical-scales/</loc>
     <lastmod>2014-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/thriteenth-chord/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/thriteenth-chord/</loc>
     <lastmod>2014-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E5%92%8C%E5%BC%A6/</loc>
@@ -116,10 +116,10 @@
     <loc>https://rickmid.gtcafe.com/tags/jack-thammarat/</loc>
     <lastmod>2014-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/songs/jack-thammarat_emotive-ballad/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/songs/jack-thammarat_emotive-ballad/</loc>
     <lastmod>2014-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/talk/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/talk/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/bichord/</loc>
@@ -128,67 +128,67 @@
     <loc>https://rickmid.gtcafe.com/tags/polychord/</loc>
     <lastmod>2012-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/eleventh-chord/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/eleventh-chord/</loc>
     <lastmod>2012-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/band/vocal/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/band/vocal/</loc>
     <lastmod>2011-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/protect-ears/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/protect-ears/</loc>
     <lastmod>2011-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E8%AA%BF%E5%BC%8F/</loc>
     <lastmod>2010-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/thinkin-mode/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/thinkin-mode/</loc>
     <lastmod>2010-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/major-scale/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/major-scale/</loc>
     <lastmod>2010-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E4%BA%94%E8%81%B2%E9%9F%B3%E9%9A%8E/</loc>
     <lastmod>2010-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/guitar/guide-to-guitar-scale-patterns/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/guitar/guide-to-guitar-scale-patterns/</loc>
     <lastmod>2010-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/note-signature/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/note-signature/</loc>
     <lastmod>2010-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/songs/jack-thammarat_falling-in-love-again/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/songs/jack-thammarat_falling-in-love-again/</loc>
     <lastmod>2010-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/chord-voicing/</loc>
     <lastmod>2010-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/guitar/guitar-chord-voicing/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/guitar/guitar-chord-voicing/</loc>
     <lastmod>2010-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/canon-chord-progression/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/canon-chord-progression/</loc>
     <lastmod>2010-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E7%B7%B4%E7%BF%92/</loc>
     <lastmod>2010-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/level-of-practice/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/level-of-practice/</loc>
     <lastmod>2010-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/speed/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/speed/</loc>
     <lastmod>2009-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/reality-ideal/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/reality-ideal/</loc>
     <lastmod>2009-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/guitar/guitar-fundation-technical/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/guitar/guitar-fundation-technical/</loc>
     <lastmod>2009-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/band/pick-songs/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/band/pick-songs/</loc>
     <lastmod>2009-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/suspended-chord/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/suspended-chord/</loc>
     <lastmod>2009-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/relative-absolute/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/relative-absolute/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E9%9F%B3%E6%84%9F/</loc>
@@ -200,19 +200,19 @@
     <loc>https://rickmid.gtcafe.com/tags/%E5%92%8C%E8%81%B2/</loc>
     <lastmod>2009-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/secondary-dominat/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/secondary-dominat/</loc>
     <lastmod>2009-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/relation-chord/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/relation-chord/</loc>
     <lastmod>2009-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/dominant/</loc>
     <lastmod>2009-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/dominant-and-extension-chords/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/dominant-and-extension-chords/</loc>
     <lastmod>2009-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/willing/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/willing/</loc>
     <lastmod>2009-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/augmented/</loc>
@@ -236,49 +236,49 @@
     <loc>https://rickmid.gtcafe.com/tags/tritone-substitute/</loc>
     <lastmod>2009-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/tritone/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/tritone/</loc>
     <lastmod>2009-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/dict/diatonic-chords-in-circle-of-5ths/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/dict/diatonic-chords-in-circle-of-5ths/</loc>
     <lastmod>2008-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/band/run-a-band/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/band/run-a-band/</loc>
     <lastmod>2008-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/just-getting-started/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/just-getting-started/</loc>
     <lastmod>2008-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/musical-scales-learning-map/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/musical-scales-learning-map/</loc>
     <lastmod>2008-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/play-what-and-how-to-play/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/play-what-and-how-to-play/</loc>
     <lastmod>2008-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/minor-scale/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/minor-scale/</loc>
     <lastmod>2008-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/%E5%94%B1%E5%90%8D/</loc>
     <lastmod>2008-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/semi-tone-of-solfege/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/semi-tone-of-solfege/</loc>
     <lastmod>2008-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/can-i-create-a-new-scale/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/can-i-create-a-new-scale/</loc>
     <lastmod>2008-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/how-to-listen-a-song/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/how-to-listen-a-song/</loc>
     <lastmod>2008-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/form-framework-history/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/form-framework-history/</loc>
     <lastmod>2008-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/simple-complex/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/simple-complex/</loc>
     <lastmod>2008-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/tech-and-music/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/tech-and-music/</loc>
     <lastmod>2008-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/musical-mode/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/musical-mode/</loc>
     <lastmod>2007-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/interval/</loc>
@@ -287,25 +287,25 @@
     <loc>https://rickmid.gtcafe.com/tags/%E6%95%B8%E5%AD%B8/</loc>
     <lastmod>2007-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/mathematics/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/mathematics/</loc>
     <lastmod>2007-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/memory-in-ff-music/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/memory-in-ff-music/</loc>
     <lastmod>2007-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/tags/final-fantasy/</loc>
     <lastmod>2007-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/theory/musical-scale-fundation/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/theory/musical-scale-fundation/</loc>
     <lastmod>2006-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/gossip/learning/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/gossip/learning/</loc>
     <lastmod>2006-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rickmid.gtcafe.com/categories/</loc>
   </url><url>
     <loc>https://rickmid.gtcafe.com/search/</loc>
   </url><url>
-    <loc>https://rickmid.gtcafe.com/docs/band/band-score/</loc>
+    <loc>https://rickmid.gtcafe.com/rickmidi/band/band-score/</loc>
   </url>
 </urlset>

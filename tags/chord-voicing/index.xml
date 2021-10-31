@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>喝咖啡 聊音樂 - v2021 (施工中) – Chord Voicing</title>
+    <title>GTCafe Studio - v2021 (施工中) – Chord Voicing</title>
     <link>https://rickmid.gtcafe.com/tags/chord-voicing/</link>
-    <description>Recent content in Chord Voicing on 喝咖啡 聊音樂 - v2021 (施工中)</description>
+    <description>Recent content in Chord Voicing on GTCafe Studio - v2021 (施工中)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 17 Apr 2010 00:00:00 +0000</lastBuildDate>
@@ -16,11 +16,11 @@
     
     
     <item>
-      <title>Docs: 吉他的和弦聲位基本概念 (Chord Voicing)</title>
-      <link>https://rickmid.gtcafe.com/docs/guitar/guitar-chord-voicing/</link>
+      <title>Rickmidi: 吉他的和弦聲位基本概念 (Chord Voicing)</title>
+      <link>https://rickmid.gtcafe.com/rickmidi/guitar/guitar-chord-voicing/</link>
       <pubDate>Sat, 17 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/guitar/guitar-chord-voicing/</guid>
+      <guid>https://rickmid.gtcafe.com/rickmidi/guitar/guitar-chord-voicing/</guid>
       <description>
         
         
@@ -155,7 +155,7 @@
 &lt;p&gt;舉一些變化的想法，例如：Emaj7sus2 簡化 (省略五六弦) 後會變成 B。E 和 B 剛好是 I - V 的關係，以這兩個的變化出發，就可以玩出很多東西了.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;Emaj7_Emaj7sus2_B.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Emaj7sus2 的例子來自於歌曲分析：&lt;a href=&#34;https://rickmid.gtcafe.com/docs/songs/jack-thammarat_falling-in-love-again/&#34;&gt;Jack Thammarat - Falling in Love Again&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Emaj7sus2 的例子來自於歌曲分析：&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/songs/jack-thammarat_falling-in-love-again/&#34;&gt;Jack Thammarat - Falling in Love Again&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;另一個例子，Fmaj7 簡化五六弦會得到 Am .&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;Fmaj7_Am.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -165,7 +165,7 @@
 &lt;p&gt;這樣就會找到很多盧廣仲、方大同常用的那種按法。他那些按法就是以七和弦做基礎，所以以七和弦為基礎的移動和弦，套用這個簡化概念，那麼盧廣仲的和弦按法就不難懂了。 上圖中 A、Amaj7 的例子，打 X 的弦，真的不能彈嗎? 吉他手隨時要記得，空弦也是一個可以利用的時機.&lt;/p&gt;
 &lt;p&gt;上述關於七和弦的例子，如果有興趣玩 Jazz / Fusion / Funk / Blues 的朋友，上述的東西一定要花時間研究這種用法，因為這種東西在上述風格中，算是很基本的應用概念.&lt;/p&gt;
 &lt;h4 id=&#34;裝飾和弦的應用&#34;&gt;裝飾和弦的應用&lt;/h4&gt;
-&lt;p&gt;Xsus4、Xsus2、Xadd9、X7sus4 &amp;hellip; etc，我都把他們叫做裝飾和弦。但是不管是 C、A、E 指型，還是 D、G 指型，我們都可以利用它們來創造出一些不一樣的和弦。最基本的應用就是 &lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/suspended-chord/&#34;&gt;Xsus4、Xsus2&lt;/a&gt;、Xadd9 等基本的裝飾和弦變化。特別的是，有一些和弦的裝飾音 (四度音、九度音) 放在空弦，那麼彈出來的和弦會非常有 New Age 感.&lt;/p&gt;
+&lt;p&gt;Xsus4、Xsus2、Xadd9、X7sus4 &amp;hellip; etc，我都把他們叫做裝飾和弦。但是不管是 C、A、E 指型，還是 D、G 指型，我們都可以利用它們來創造出一些不一樣的和弦。最基本的應用就是 &lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/suspended-chord/&#34;&gt;Xsus4、Xsus2&lt;/a&gt;、Xadd9 等基本的裝飾和弦變化。特別的是，有一些和弦的裝飾音 (四度音、九度音) 放在空弦，那麼彈出來的和弦會非常有 New Age 感.&lt;/p&gt;
 &lt;h3 id=&#34;第二種用和弦組成音找指型--點---線---面&#34;&gt;第二種：用和弦組成音找指型  (點 -&amp;gt; 線 -&amp;gt; 面)&lt;/h3&gt;
 &lt;p&gt;如果你已經熟悉其他樂器 (Ex：piano、violin、bass &amp;hellip;)，也已經知道基本的和弦概念，那麼或許可以不用理會第一種的思維，完全以和弦組成音去找吉他的和弦指法.&lt;/p&gt;
 &lt;p&gt;以古典吉他的學習思考來看，因為看的是五線譜，思考邏輯是:&lt;/p&gt;
@@ -181,7 +181,7 @@
 &lt;p&gt;上述的 Dm7 實際上在吉他上不是很容易按，不過這種跨多格的和弦，在一些吉他大師的歌曲當中，出現的頻率是很高的.&lt;/p&gt;
 &lt;p&gt;這種方法就完全不依賴上述的五種指型，不管是 C、A、E 指型，還是 D、G 指型，它們都是一個視覺上的記憶方式，撇開這些 &amp;ldquo;形狀&amp;rdquo; 的思維，無聊的話，你可以試著去吉他上找出所有的 C E G B (Cmaj7) 這些音符，然後依照比重分配指型的分布，按出不一樣的指型.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;上述部分，已經接近琶音 (Arpeggios) 的思維，更多介紹請看 &lt;a href=&#34;https://rickmid.gtcafe.com/docs/guitar/practice-arpeggios-g-major7/&#34;&gt;吉他琶音練習 - 以 Gmaj7 為例&lt;/a&gt; 的介紹&lt;/p&gt;
+&lt;p&gt;上述部分，已經接近琶音 (Arpeggios) 的思維，更多介紹請看 &lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/guitar/practice-arpeggios-g-major7/&#34;&gt;吉他琶音練習 - 以 Gmaj7 為例&lt;/a&gt; 的介紹&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;和弦指型抽象化應用-面---線&#34;&gt;和弦指型抽象化應用 (面 -&amp;gt; 線)&lt;/h3&gt;
 &lt;p&gt;指型抽象化的主要想法是這樣的：和上述提到的簡化和弦指型想法相反，從已知的吉他和弦指型 (CGDAE)，做應用變化。例如 E 型和弦，但是只彈其中兩根弦，只彈兩根弦會型成類似三度音、四度音、六度音、或者只彈 Guide Tone 等。&lt;/p&gt;
@@ -197,11 +197,11 @@
 &lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
 &lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/guitar/practice-arpeggios-g-major7/&#34;&gt;吉他琶音練習 - 以 Gmaj7 為例&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/guitar/practice-arpeggios-251-on-g-major/&#34;&gt;吉他琶音練習 - 251 of G Major&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/guitar/practice-arpeggios-g-major7/&#34;&gt;吉他琶音練習 - 以 Gmaj7 為例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/guitar/practice-arpeggios-251-on-g-major/&#34;&gt;吉他琶音練習 - 251 of G Major&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;和弦學習地圖&lt;/li&gt;
 &lt;li&gt;和弦基礎&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/suspended-chord/&#34;&gt;掛留和弦 (Suspended Chord)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/suspended-chord/&#34;&gt;掛留和弦 (Suspended Chord)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Shell Chord&lt;/li&gt;
 &lt;li&gt;Drop Voicing&lt;/li&gt;
 &lt;li&gt;吉他空弦聲響&lt;/li&gt;

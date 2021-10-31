@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>喝咖啡 聊音樂 - v2021 (施工中) – Interval</title>
+    <title>GTCafe Studio - v2021 (施工中) – Interval</title>
     <link>https://rickmid.gtcafe.com/tags/interval/</link>
-    <description>Recent content in Interval on 喝咖啡 聊音樂 - v2021 (施工中)</description>
+    <description>Recent content in Interval on GTCafe Studio - v2021 (施工中)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 29 Sep 2007 00:00:00 +0000</lastBuildDate>
@@ -16,11 +16,11 @@
     
     
     <item>
-      <title>Docs: 調、調式及轉調</title>
-      <link>https://rickmid.gtcafe.com/docs/theory/tonality-key-mode/</link>
+      <title>Rickmidi: 調、調式及轉調</title>
+      <link>https://rickmid.gtcafe.com/rickmidi/theory/tonality-key-mode/</link>
       <pubDate>Sat, 29 Sep 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/docs/theory/tonality-key-mode/</guid>
+      <guid>https://rickmid.gtcafe.com/rickmidi/theory/tonality-key-mode/</guid>
       <description>
         
         
@@ -367,7 +367,7 @@
 &lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;GNR - Sweet Child O&#39; Mine&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/musical-mode/&#34;&gt;調式概念&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/musical-mode/&#34;&gt;調式概念&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;簡單的 Mixolydian 調式分析&lt;/li&gt;
 &lt;li&gt;淺談 Modal Harmony (調式和聲)&lt;/li&gt;
 &lt;li&gt;小調音階 (Minor Scale)&lt;/li&gt;
