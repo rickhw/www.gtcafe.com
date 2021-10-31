@@ -447,12 +447,13 @@
 我還是個為生活努力且單純的上班族，每天乖乖的去上班，下班 … 為家人，為生活努力 … 只是週末有空，有機會，有舞台，就去表演，職業的水準，業餘的身分 … 或者有一些好朋友，週末大家一起聽音樂，一起玩音樂 …
 
 人生是一場現實與理想，取捨之間，矛盾的掙扎，今天放棄也許明天就會後悔 … 但是有的時候，並不是真想放棄，只是累了...這種的情緒，這樣的心情，常常在生活之中反覆 … 有時候我會停下腳步，試著想想初衷，想想當初彈 C 和絃 + T1213121 的感動 (彈到流口水的感動)，然後，再繼續走下去 …
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;幾年下來，還好我沒有被環境扼殺掉對音樂的喜歡，也沒有賣掉任何樂器。很幸運的，在工作之餘，有機會從事吉他教學；然後又因為跑了一些場子、組了一些團，認識了一些好朋友。&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;幾年下來，還好我沒有被環境扼殺掉對音樂的喜歡，也沒有賣掉任何樂器。很幸運的，在工作之餘，有機會從事吉他教學；然後又因為跑了一些場子、組了一些團，認識了一些好朋友。&lt;/p&gt;
 &lt;p&gt;雖然有的時候也會想 &amp;ldquo;音樂可不可以當飯吃？&amp;rdquo; 這種問題，不過，還好這問題很多年前我就有答案了。我不會羨慕舞台上那些 Guitar Hero、或者 Super Star，因為那不是我的人生，也不是我想要的生活。&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;初版：2009/11/28&lt;/li&gt;
 &lt;li&gt;原文網址：http://rickmidi.blogspot.com/2009/11/blog-post.html&lt;/li&gt;
+&lt;li&gt;初版：2009/11/28&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -527,7 +528,7 @@
 &lt;p&gt;一個是學習吉他這個樂器的駕馭。像是手指跟弦的感覺，手指的獨立性，指版位置熟悉，右手與弦的 touch (dynamic)，左手壓弦的感覺，吉他的聲音特性 … 等。跟及他有直接關係的 &amp;ldquo;技術&amp;rdquo;。這些都是必須要靠後天的練習，熟悉才能夠慢慢的熟悉。&lt;/p&gt;
 &lt;p&gt;第二部分是學習利用 &amp;ldquo;吉他&amp;rdquo; 這個樂器來表達東西。簡單說，就是一種思想表現，意念的傳達。&lt;/p&gt;
 &lt;p&gt;學過 Java 語言的人也許看過一本書：Thinking in Java 。作者在開始的時候提到，程式語言本身的概念：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;quot;But computers are not so much machines as they are mind amplification tools (&amp;quot;bicycles for the mind,&amp;quot; as Steve Jobs is fond of saying) and a different kind of expressive medium. As a result, the tools are beginning to look less like machines and more like parts of our minds, and also like other forms of expression such as writing, painting, sculpture, animation, and filmmaking. Object-oriented programming (OOP) is part of this movement toward using the computer as an expressive medium. &amp;quot;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;quot;But computers are not so much machines as they are mind amplification tools (&amp;quot;bicycles for the mind,&amp;quot; as Steve Jobs is fond of saying) and a different kind of expressive medium. As a result, the tools are beginning to look less like machines and more like parts of our minds, and also like other forms of expression such as writing, painting, sculpture, animation, and filmmaking. Object-oriented programming (OOP) is part of this movement toward using the computer as an expressive medium. &amp;quot;
 
 摘錄自：Thinking in Java，3rd
 &lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
@@ -617,12 +618,12 @@
         &lt;p&gt;在連線版版友的問題, 問題簡單說就是 &amp;ldquo;&lt;code&gt;怎麼彈&lt;/code&gt;&amp;rdquo; 和 &amp;ldquo;&lt;code&gt;彈什麼&lt;/code&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;回覆&#34;&gt;回覆&lt;/h2&gt;
 &lt;p&gt;原始的文章如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;※ 引述《EROS4 ()》之銘言：
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;※ 引述《EROS4 ()》之銘言：
 : 在吉他上的某一音可以直接看出與這一音相差１～８個音程的音在吉他上的位置
 : 藉這個方法用第一種方式來演奏其實也不難
 : 只是還是想知道要讓自己能夠快速且精準的看譜就能演奏的話應該用哪種方法去學習
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;底下是我的回覆：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;看起來有點像是 &amp;quot;怎麼熟悉吉他指板上的音名和各調音名&amp;quot;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;看起來有點像是 &amp;quot;怎麼熟悉吉他指板上的音名和各調音名&amp;quot;
 和 &amp;quot;怎麼瞭解自己在彈些啥&amp;quot;.
 
 如果是熟悉各調音名的話, 簡單說就是要工具來輔助.
@@ -876,7 +877,7 @@ G -&amp;gt; C 也是屬和弦 (V-I) 關係, 角度又改變了,
         
         &lt;p&gt;關於音樂這種藝術，有人說他其實是另一種數學問題，只不過不是我們習慣的十進位，而是12進位。如果改成其他進制呢？24 進位？48 進位？如果把一個八度十二個音全部用 0 ~ 11 表示，設定一些公式，就可以算出調性音階，順階和弦，推算出和弦與音階的關係，然後套上節奏的 Pattern，設定音高範圍，產生隨機的旋律，這些是可以做出來的，而且也不是很難。&lt;/p&gt;
 &lt;p&gt;數學是科學之母，所以只要可以跟科學扯上關係的都跟數學有關系。所以藝術也都是包含科學的基礎。但是要達到藝術的層次，就必須以科學為基礎，然後跨越，超越。電影 &amp;ldquo;機械公敵 &amp;quot; 電影裡 Dr. Lanning 演講說得那段話，一直讓我很震撼，也覺得很值得思考：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Ever since the first computers...
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Ever since the first computers...
 ...there have always been ghosts in the machine.
 Random segments of code that have grouped together...
 ...to form unexpected protocols.

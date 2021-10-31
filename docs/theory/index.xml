@@ -2072,22 +2072,22 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;一些常見的例子：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| C / / / | E7 / / / | Am / / / | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C / / / | E7 / / / | Am / / / | G7 / / / |
 | G / / / | C / / / | A7 / / / | D7 / / / |
 | C / / / | C7 / / / | F / / / | G / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;次屬和弦與減七和弦&#34;&gt;次屬和弦與減七和弦&lt;/h3&gt;
 &lt;p&gt;在 &amp;ldquo;減七和弦&amp;rdquo; 一文中提及過，減七和弦最常用在和弦的銜接，例如 1 - 2m、4 - 5 的經過和弦。&lt;/p&gt;
 &lt;p&gt;像是：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| C / / C#dim7 | Dm7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C / / C#dim7 | Dm7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;或是&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;這種用法，可以用次屬和弦來聯想，像：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| F / / D7/F# | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / D7/F# | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;把 D7 看成 G 的五級，其中：&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;D7/F# (D F# A C)&lt;/code&gt; 和 &lt;code&gt;F#dim7 (F# A C Eb)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;聲響很接近，以可以互換。一方面有有屬和弦效果，又讓 bass line 形成半音進行 (F - F# - G)，是很實用的老梗。&lt;/p&gt;
 &lt;p&gt;另外，F#dim7 跟 Am6 是同音異名的和弦 (詳見 &amp;ldquo;關係和弦?&amp;rdquo; 的說明)，所以這段和弦進行又能被改成：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
 | F / / D7/F# | G7 / / / |
 | F / / Am6 | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;所以導入一些類似的概念，可以發現很多有趣的現象。&lt;/p&gt;
@@ -2152,20 +2152,20 @@
 &lt;p&gt;用這啥好處?&lt;/p&gt;
 &lt;p&gt;我們提到調式音階時最常說的就是，它可以說是從另一個角度來看一件事情，可以得到一個完全新的體驗。同樣的和弦利用這樣的關係和弦，雖然是同樣的元素，但是我們卻改變的使用角度，甚至是和弦屬性，那麼在選擇對映的音階時，就會有全新的想法.&lt;/p&gt;
 &lt;p&gt;標準的 Blues 12bar 裡，以一個 C Blues 來說，如果我們把所有的屬七都改成 X7+9，如下:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| C7+9 / / / | C7+9 / / / | C7+9 / / / | C7+9 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C7+9 / / / | C7+9 / / / | C7+9 / / / | C7+9 / / / |
 | F7+9 / / / | F7+9 / / / | C7+9 / / / | C7+9 / / / |
 | G7+9 / / / | F7+9 / / / | C7+9 / / / | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;其實看起來很壯觀 &amp;hellip;。但是換個角度來看，會比較容易瞭解:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| Cm7/E / / / | Cm7/E / / / | Cm7/E / / / | Cm7/E / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| Cm7/E / / / | Cm7/E / / / | Cm7/E / / / | Cm7/E / / / |
 | Fm7/A / / / | Fm7/A / / / | Cm7/E / / / | Cm7/E / / / |
 | Gm7/B / / / | Fm7/A / / / | Cm7/E / / / | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;把 C7+9 (C E G Bb Eb) 看成 Cm7/E (C Eb G Bb / E)。這樣會得到 C Minor Blues + E Blues 的 Bass Line。所以當看到 X7+9 的藍調進行，其實也可以用 Minor Blues 來彈和弦的部分。實際上在藍調裡 X7+9 是很常見的。而 X7+9 其實也是暗示了 &amp;ldquo;Blue Note&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;再舉一個例子，也是藍調的應用，把屬七改成 X11 和弦，但是省略三度音 (Blues Riff 經常不彈三度音，留給 Melody 玩)，得到 X7sus4 (詳細參見 &amp;ldquo;屬七和弦與其延伸和弦的代換&amp;rdquo; 的說明):&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| C7sus4 / / / | C7sus4 / / / | C7sus4 / / / | C7sus4 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C7sus4 / / / | C7sus4 / / / | C7sus4 / / / | C7sus4 / / / |
 | F7sus4 / / / | F7sus4 / / / | C7sus4 / / / | C7sus4 / / / |
 | G7sus4 / / / | F7sus4 / / / | C7sus4 / / / | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;其中的 X7sus4 代換如下 : C7sus4 (C G Bb F) 的 (G Bb F) 是 G 的 1 b3 b7，剛好就是 Gm7 的 Shell Chord ，所以可以直接把 C7sus4 當成是 Gm7/C 。其他的 F7sus4，G7sus4 也可以用同樣的方式找到對應: F7sus4 -&amp;gt; Cm7/F，G7sus4 -&amp;gt; Dm7/G。最後得到下面的結果:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| Gm7/C / / / | Gm7/C / / / | Gm7/C / / / | Gm7/C / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| Gm7/C / / / | Gm7/C / / / | Gm7/C / / / | Gm7/C / / / |
 | Cm7/F / / / | Cm7/F / / / | Gm7/C / / / | Gm7/C / / / |
 | Dm7/G / / / | Cm7/F / / / | Gm7/C / / / | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;這樣很清楚的發現，Bass Line 還是 C Blues，但是和聲卻是 G Minor Blues! 有 Fusion 的聲響效果! 兩個例子都是一種融合的感覺，這種藍調一點都不傳統，反而很前衛，很現代。&lt;/p&gt;
@@ -2260,6 +2260,83 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
 &lt;ul&gt;
 &lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/03/blog-post.html&lt;/li&gt;
 &lt;li&gt;2009/03/01: 初版&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 三全音 (Tritone)</title>
+      <link>https://rickmid.gtcafe.com/docs/theory/tritone/</link>
+      <pubDate>Thu, 05 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/theory/tritone/</guid>
+      <description>
+        
+        
+        &lt;p&gt;三全音是指音程是 &lt;code&gt;三個全音&lt;/code&gt; 的距離 (六個半音)，也就是 &lt;code&gt;增四度 (augmented fourth)&lt;/code&gt; 或 &lt;code&gt;減五度 (diminished fifth)&lt;/code&gt;。例如：&lt;code&gt;C - F#&lt;/code&gt; 或者說 &lt;code&gt;C - Gb&lt;/code&gt; 的距離。這個音程的聲響特性就是極度的不安定，詭異。有人用魔鬼、地獄、痛苦、銷魂 &amp;hellip; 來形容。&lt;/p&gt;
+&lt;h2 id=&#34;基本概念&#34;&gt;基本概念&lt;/h2&gt;
+&lt;p&gt;最常出現三全音的是大調順階七和弦的五級。C 大調的五級和弦 &lt;code&gt;G7：G B D F&lt;/code&gt; 中的 &lt;code&gt;B - F&lt;/code&gt; 就是一個 &lt;code&gt;增四度&lt;/code&gt;，同時也是造成屬七和弦聲響不穩定的主要原因。所以一般來說，因為聽到屬七和弦的不穩定性，使得聽覺心理會趨向、渴望聽到穩定的感覺，調性音樂中最穩定的就是 &lt;code&gt;一級&lt;/code&gt;。從不穩定的轉向穩定的過程，在音樂術語上稱為 &lt;code&gt;解決 (Resolved)&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;因為只有屬七和弦才會有三全音，所以意味著，一個大調音階裡，只會有一組三全音。所以我們可以根據一組三全音來推出該組三全音屬於哪一個調。例如 B - F 的距離，把 B 加一個半音，可以推出是屬於 C 大調的。&lt;/p&gt;
+&lt;p&gt;另外，三全音剛好把一個八度音切成兩半，所以 &lt;code&gt;C - F#&lt;/code&gt;、&lt;code&gt;F# - C&lt;/code&gt; 都是三全音。所以上段描述的 &lt;code&gt;B - F&lt;/code&gt; 反過來 &lt;code&gt;F - B&lt;/code&gt; 也是三全音，把 F 加一個半音可以得知是 F# 大調的三全音。也就是說，同一組三全音會分別屬於 C 大調和 F# 大調，可以說是一體兩面，從不同角度看一個東西.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Comping (伴奏)&lt;/code&gt; 的時候，使用 &lt;code&gt;Shell Chord (根音 + 三度音 + 七度音)&lt;/code&gt; 的基本概念就是強調出和弦屬性的 &lt;code&gt;特性聲響 (Guide Tone)&lt;/code&gt;，屬七和弦的 Guide Tone，G7 也就是 B - F：三全音。所以 Comping 屬七和弦選擇彈奏 Guide Tone 用意就是要強調出三全音的聲響。當然其他七和弦也是要強調出她們各自的聲響.&lt;/p&gt;
+&lt;h2 id=&#34;判斷三全音&#34;&gt;判斷三全音&lt;/h2&gt;
+&lt;p&gt;要找出三全音的音程，可以利用五度圈來找。三全音就是增四度或者減五度，所以五度圈順時針的方向 &lt;code&gt;F - C - G - D - A - E - B&lt;/code&gt;，因為每一組都是完全五度的關係，所以每一組當中只要五度音少了半音，那麼就是一組三全音的關係，例如:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;F - C =&amp;gt; F - Cb(=B)&lt;/li&gt;
+&lt;li&gt;C - G =&amp;gt; C - Gb&lt;/li&gt;
+&lt;li&gt;G - D =&amp;gt; G - Db&lt;/li&gt;
+&lt;li&gt;&amp;hellip; 類推&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;同理，五度圈逆時針方向是完全四度，&lt;code&gt;C - F - Bb - Eb - Ab - Db&lt;/code&gt;，只要四度音增加一個半音，也會形成一組三全音:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C - F =&amp;gt; C -F#&lt;/li&gt;
+&lt;li&gt;F - Bb =&amp;gt; F - B&lt;/li&gt;
+&lt;li&gt;Bb - Eb =&amp;gt; Bb - E&lt;/li&gt;
+&lt;li&gt;&amp;hellip; 類推&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;降二代五-tritone-substitute&#34;&gt;降二代五 (Tritone Substitute)&lt;/h2&gt;
+&lt;p&gt;另外三全音的應用最有名的就是 &lt;code&gt;降二代五 (Tritone Substitute，三全音代理)&lt;/code&gt;。爵士樂理最常用的 &lt;code&gt;ii-V-I&lt;/code&gt; 進行中的五級，以 C 大調來說:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dm7 - G7 - Cmaj7&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;改成：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dm7 - Db7 - Cmaj7&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;其中和弦的組成：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;G：G B D F =&amp;gt; B - F&lt;/li&gt;
+&lt;li&gt;Db：Db F Ab Cb(=B) =&amp;gt; F - B&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他們都有一組三全音，同時 Bass line 由原來的 &lt;code&gt;D - G - C&lt;/code&gt; 變成 &lt;code&gt;D - Db - C&lt;/code&gt;，經過音。這樣的代換，除了保留了原本三全音的聲響，同時又讓 Bass Line 增加了 &lt;code&gt;Passing Tone (經過 音)&lt;/code&gt; 的效果。另外就是 G 和 Db 和弦的組成音，上下比較，除了 B - F 之外，G - Db 是三全音，D - Ab 也是三全音，很神奇吧 ~&lt;/p&gt;
+&lt;h2 id=&#34;減七和弦-diminshed-7th&#34;&gt;減七和弦 (Diminshed 7th)&lt;/h2&gt;
+&lt;p&gt;另外一個跟三全音有關的是 &lt;code&gt;減七和弦 (Diminshed 7th)&lt;/code&gt;。減和弦把八度音平分四等份，以 Cdim7 來說:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cdim7：C Eb Gb Bbb(=A) = Ebdim7 = Gbdim7 = Adim7&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;三全音是把八度音分成兩等份，所以以數學概念來看，12 個半音對半切可以找到三全音; 切成四份，可以得到減七和弦，所以不難發現減七和弦會包含兩組三全音:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cdim7 =&amp;gt; C - Gb 和 Eb - Bbb&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這也是單獨彈奏減七和 &lt;code&gt;弦的琶音 (Arpeggios)&lt;/code&gt; 時，會有更魔鬼的感覺.&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;三全音在現代音樂中，應用的非常廣泛，除了上述提到的基本概念和和聲代換技巧，另外一個就是藍調。都是使用屬七和弦和弦進行的藍調裡，三全音聲響出現的頻率就更高了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Shell Chord&lt;/li&gt;
+&lt;li&gt;Guide Tone&lt;/li&gt;
+&lt;li&gt;五度圈&lt;/li&gt;
+&lt;li&gt;減七和弦 (Diminished Seventh)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/docs/theory/major-scale/&#34;&gt;大調音階&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/02/tritone.html&lt;/li&gt;
+&lt;li&gt;2009/02/05：初版&lt;/li&gt;
+&lt;li&gt;2021/10/31：搬移新站&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -2727,7 +2804,7 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
         &lt;p&gt;吉他連線版版友問到是否可以自行創造音階，因為問的是比較物理方面的定義，所以我就以現代西洋音樂的基礎 - 十二平均律，然後加上一些數學式子來說明，如何自行創造一個不一樣的音階，和現代音樂的基礎理論。&lt;/p&gt;
 &lt;p&gt;當然 &amp;ldquo;自創音階&amp;rdquo; 還有另一種從樂理定義的音階，那不在本文範圍之內。&lt;/p&gt;
 &lt;p&gt;本文 (為了傳神，所以盡量保留當時鄉民化的我XD)&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;※ 引述《 XXXX 》之銘言：
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;※ 引述《 XXXX 》之銘言：
 ：然後 每個音階中間又可以插入半音 就變成
 ：1 2 3 4 5 6 7 8 9 10 11 12
 ：DO #Do Re #Re Mi Fa #Fa So #So La #La Si

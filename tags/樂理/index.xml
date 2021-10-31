@@ -1222,22 +1222,22 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;一些常見的例子：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| C / / / | E7 / / / | Am / / / | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C / / / | E7 / / / | Am / / / | G7 / / / |
 | G / / / | C / / / | A7 / / / | D7 / / / |
 | C / / / | C7 / / / | F / / / | G / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;次屬和弦與減七和弦&#34;&gt;次屬和弦與減七和弦&lt;/h3&gt;
 &lt;p&gt;在 &amp;ldquo;減七和弦&amp;rdquo; 一文中提及過，減七和弦最常用在和弦的銜接，例如 1 - 2m、4 - 5 的經過和弦。&lt;/p&gt;
 &lt;p&gt;像是：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| C / / C#dim7 | Dm7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C / / C#dim7 | Dm7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;或是&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;這種用法，可以用次屬和弦來聯想，像：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| F / / D7/F# | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / D7/F# | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;把 D7 看成 G 的五級，其中：&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;D7/F# (D F# A C)&lt;/code&gt; 和 &lt;code&gt;F#dim7 (F# A C Eb)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;聲響很接近，以可以互換。一方面有有屬和弦效果，又讓 bass line 形成半音進行 (F - F# - G)，是很實用的老梗。&lt;/p&gt;
 &lt;p&gt;另外，F#dim7 跟 Am6 是同音異名的和弦 (詳見 &amp;ldquo;關係和弦?&amp;rdquo; 的說明)，所以這段和弦進行又能被改成：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
 | F / / D7/F# | G7 / / / |
 | F / / Am6 | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;所以導入一些類似的概念，可以發現很多有趣的現象。&lt;/p&gt;
@@ -1801,7 +1801,7 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
         &lt;p&gt;吉他連線版版友問到是否可以自行創造音階，因為問的是比較物理方面的定義，所以我就以現代西洋音樂的基礎 - 十二平均律，然後加上一些數學式子來說明，如何自行創造一個不一樣的音階，和現代音樂的基礎理論。&lt;/p&gt;
 &lt;p&gt;當然 &amp;ldquo;自創音階&amp;rdquo; 還有另一種從樂理定義的音階，那不在本文範圍之內。&lt;/p&gt;
 &lt;p&gt;本文 (為了傳神，所以盡量保留當時鄉民化的我XD)&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;※ 引述《 XXXX 》之銘言：
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;※ 引述《 XXXX 》之銘言：
 ：然後 每個音階中間又可以插入半音 就變成
 ：1 2 3 4 5 6 7 8 9 10 11 12
 ：DO #Do Re #Re Mi Fa #Fa So #So La #La Si

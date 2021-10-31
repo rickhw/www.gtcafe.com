@@ -567,29 +567,29 @@ Jack Thammarat - Emotive Ballad&lt;/p&gt;
 &lt;h2 id=&#34;常見的溝通狀況&#34;&gt;常見的溝通狀況&lt;/h2&gt;
 &lt;p&gt;以下是在練團時經常出現的一些狀況:&lt;/p&gt;
 &lt;p&gt;狀況一:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Vocal: 剛剛拍子錯了, 從 2:32 那邊, 我們再來一次.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Vocal: 剛剛拍子錯了, 從 2:32 那邊, 我們再來一次.
 GT: 你貢啥??   (你說哪裡????)
 其他人: ???????????????
 你覺得有人會知道 2:32 是哪裡嗎？通常接下來，有人就會拿出 MP3 Player，然後準備用 Micphone or 接到 Mixer 放給大家聽。然後可能的問題就是：在那邊找 2:32 找半天，或者找線接到 Mixer 接半天，無法放出聲音，或者太小聲，然後已經過了十分鐘了。。。你覺得這樣的溝通有效率嗎？
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況二:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Vocal: 我們從 &amp;quot;你給我小雨滴  滋潤我心窩&amp;quot; 這裡句開始.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Vocal: 我們從 &amp;quot;你給我小雨滴  滋潤我心窩&amp;quot; 這裡句開始.
 All: ?????????????
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;不要說歌詞哪句開始, 有些樂手連現在正在練的歌叫啥都不曉得了, 即時那個歌可能在市場上是很有名的. 不要以為很誇張, 這很常遇到, 通常當歌累積幾百首之後, 只要稍微不專注一下子, 很容易就會變成像是在 &amp;ldquo;跑龍套&amp;rdquo; 的局面.&lt;/p&gt;
 &lt;p&gt;狀況三:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;GT: 從剛剛那個 G#7 進去開始, 然後最後 b6 -&amp;gt; b7 -&amp;gt; 1 結束.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;GT: 從剛剛那個 G#7 進去開始, 然後最後 b6 -&amp;gt; b7 -&amp;gt; 1 結束.
 KB/Bass: 好.
 Drum, Vocal: Is good to drink????
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況四:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Drummer: 剛剛那邊 &amp;quot;咚咚 鏗 咚咚 鏘&amp;quot;, 拍子錯了, 吉他要 &amp;quot;嗯 搭&amp;quot; 才出來 ....
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Drummer: 剛剛那邊 &amp;quot;咚咚 鏗 咚咚 鏘&amp;quot;, 拍子錯了, 吉他要 &amp;quot;嗯 搭&amp;quot; 才出來 ....
 GT: ...................
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;鼓手是負責樂團的節奏部分，對於節奏的形容，以及專業術語，應該更能夠清楚描述才是。&lt;/p&gt;
 &lt;p&gt;狀況五:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Vocal: 我們從 GT Solo 那邊開始.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Vocal: 我們從 GT Solo 那邊開始.
 GT: Solo 有三段, 你是說哪一段 ????
 Vocal: 就是 &amp;quot;搭搭搭  搭搭搭&amp;quot; 那邊阿 ..
 GT OS: 三段一開始都是 &amp;quot;搭搭搭  搭搭搭&amp;quot; .......................................
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況六:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;GT: 從最後 Solo 前那一段開始.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;GT: 從最後 Solo 前那一段開始.
 Drummer: 嗯嗯 ...
 KB: 好.
 Vocal: 啥@@?
@@ -597,17 +597,17 @@ Vocal: 啥@@?
 &lt;p&gt;以上幾種狀況, 看起來有點好笑, 又有點蠢. 可是卻是練團時常發生的.
 如果改成以下這樣:&lt;/p&gt;
 &lt;p&gt;狀況一:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;KB: 剛剛間奏一 (Interlude 1) 吉他彈錯了, 我們再來一次.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;KB: 剛剛間奏一 (Interlude 1) 吉他彈錯了, 我們再來一次.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況二:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Vocal: 我們從第一次副歌 (Chorus) 開始.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Vocal: 我們從第一次副歌 (Chorus) 開始.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況三:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;GT: 從剛剛間奏一 (Inter 1) 的最後一小節進去.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;GT: 從剛剛間奏一 (Inter 1) 的最後一小節進去.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況四:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Drummer: 剛剛的進副歌 (Chorus) 的 Fill-in 那邊, 拍子錯了, 吉他要第一拍的反拍才出來 ....
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Drummer: 剛剛的進副歌 (Chorus) 的 Fill-in 那邊, 拍子錯了, 吉他要第一拍的反拍才出來 ....
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況五:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Vocal: 我們從第二次的 GT Solo 開始, 然後接副歌.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Vocal: 我們從第二次的 GT Solo 開始, 然後接副歌.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;狀況六:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;GT: 從 Outro 前的 Chorus 開始再一次.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;GT: 從 Outro 前的 Chorus 開始再一次.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;如果用這些名詞來表示段落, 而你卻還不知道該彈什麼, 那表示你可能:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;歌聽的不夠熟, 聽的不夠專心&lt;/li&gt;

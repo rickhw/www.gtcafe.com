@@ -227,7 +227,7 @@
 &lt;h2 id=&#34;歌曲分析&#34;&gt;歌曲分析&lt;/h2&gt;
 &lt;p&gt;回到 Falling in Love Again 這首曲子上, 歌曲有三大段, 和弦進行如下:&lt;/p&gt;
 &lt;p&gt;調號: E 大調&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Intro I
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Intro I
 ||: B/C# / / / | B/A / / / | B/C# / / / | B/A / / / :||
 
 
@@ -268,12 +268,12 @@ Chorus
 &lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2010 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
 &lt;h2 id=&#34;歌曲和聲分析&#34;&gt;歌曲和聲分析&lt;/h2&gt;
 &lt;p&gt;歌曲是 E 大調, 但是開頭 Intro 用了以 B 為主的和弦進行:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt; || B/C# / / / | B/A / / / | B/C# / / / | B/A / / / ||
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; || B/C# / / / | B/A / / / | B/C# / / / | B/A / / / ||
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;歌曲開頭是五級, 這是很特別的. 除非歌曲是很明顯的調式, 不過這首聽起來除了使用藍調 (E Blues) 之外, 應該不是調式.&lt;/p&gt;
 &lt;p&gt;我猜測編曲時的意圖是: 利用 B (B D# F#) 來取代 Emaj7sus2 (E D# F#), 然後再把 B 的修飾和弦 Badd9 和屬七 B7 改成 Slash Chord, 形成 B/C# (Badd9) 和 B/A (B7) 這樣的進行.&lt;/p&gt;
 &lt;p&gt;這樣的效果保留了 Emaj7sus2 的聲響, 但是 Bass line 卻是 4 - 6, 很 Fusion 的編曲手法. 為什麼我會想到可能是 Emaj7sus2 這個和弦的關係? 請繼續往下看.&lt;/p&gt;
 &lt;p&gt;接下來 Intro 有一段主題, 就是歌曲當中八度音的十六分音符. 這段在 E 大調的進行級數是:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| 2m7 3m7 5 6m7 | 2m7 3m7 4M7 / | 
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| 2m7 3m7 5 6m7 | 2m7 3m7 4M7 / | 
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;差不多一拍一個和弦. 拍子很密集, 以十六分音符為單位, 加上一點 funk 的八度音手法, 聽起來很輕快 ~~&lt;/p&gt;
 &lt;p&gt;主歌 Verse 的進行: 出現 Emaj7sus2 這這樣的和弦, 讓我聯想到歌曲一開始的和弦 B/A, B/C#. 因為聲響很接近, 都有 B 和弦的組成音, 吉他的指型也很像.&lt;/p&gt;
 &lt;p&gt;以一般作曲的流程來看, 可能會先寫出副歌 (hook) -&amp;gt; 主歌 -&amp;gt; 完成前奏間奏尾奏.  前奏間奏尾奏在編曲階段, 為了要呼應主題, 經常會取材自主歌 or 副歌, 然後加以變化. 所以依照這樣的邏輯推算, 前奏的和弦進行有可能就是取材自主歌或副歌的某個部份. 這邊我假設的是取材自主歌的前四小節. 比較如下:&lt;/p&gt;
@@ -283,9 +283,9 @@ Chorus
 &lt;/ul&gt;
 &lt;p&gt;接下來是歌曲當中出現很多 Slash Chord, 像是 B/A, A/B, B/C#, 基本上我都把他們當成是一種同組成音異名的和弦 (請參閱: 關係和弦), B/A = B7, A/B = Aadd9, B/C# = Badd9. 不過都把那些七度音, 裝飾音, 從原本是點綴的功能, 搬到 Bass Line 去了, 這樣等於加強了七度音, 九度音等. 類似的編曲手法也出現在副歌 Chorus 的部份, 而且還多了 Bass Line 的層次感:&lt;/p&gt;
 &lt;p&gt;副歌出現以下的進行:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt; | A/B / B / | ==&amp;gt; | 4/5 / 5 / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; | A/B / B / | ==&amp;gt; | 4/5 / 5 / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;可以看成是:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt; | Aadd9 / B / | ==&amp;gt; | 4add9 / 5 / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; | Aadd9 / B / | ==&amp;gt; | 4add9 / 5 / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;但是彈 Aadd9 跟 A/B 聽到的層次感是不一樣的, 前者聽起來只是修飾 A, 後者聽起來就是有點類似搶拍的手法, 不過搶拍的是 Bass, 因為五級 Bass 提前出來.&lt;/p&gt;
 &lt;p&gt;跟技巧一樣, 同樣的概念, 在 Jack 另一首成名曲 On the way 也都出現很多次.&lt;/p&gt;
 &lt;p&gt;另外副歌 (Chorus) 的第一個和弦是四級, 四級有讓人往前進, 向前看的感覺, 可以說是呼應歌曲主題. 在一般教會音樂常用 I - IV 進行, 通常要寫出比較有激勵人心, 比較熱血, 情緒向上的音樂, 可以使用這樣的和弦進行.&lt;/p&gt;

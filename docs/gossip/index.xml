@@ -447,12 +447,13 @@
 我還是個為生活努力且單純的上班族，每天乖乖的去上班，下班 … 為家人，為生活努力 … 只是週末有空，有機會，有舞台，就去表演，職業的水準，業餘的身分 … 或者有一些好朋友，週末大家一起聽音樂，一起玩音樂 …
 
 人生是一場現實與理想，取捨之間，矛盾的掙扎，今天放棄也許明天就會後悔 … 但是有的時候，並不是真想放棄，只是累了...這種的情緒，這樣的心情，常常在生活之中反覆 … 有時候我會停下腳步，試著想想初衷，想想當初彈 C 和絃 + T1213121 的感動 (彈到流口水的感動)，然後，再繼續走下去 …
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;幾年下來，還好我沒有被環境扼殺掉對音樂的喜歡，也沒有賣掉任何樂器。很幸運的，在工作之餘，有機會從事吉他教學；然後又因為跑了一些場子、組了一些團，認識了一些好朋友。&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;幾年下來，還好我沒有被環境扼殺掉對音樂的喜歡，也沒有賣掉任何樂器。很幸運的，在工作之餘，有機會從事吉他教學；然後又因為跑了一些場子、組了一些團，認識了一些好朋友。&lt;/p&gt;
 &lt;p&gt;雖然有的時候也會想 &amp;ldquo;音樂可不可以當飯吃？&amp;rdquo; 這種問題，不過，還好這問題很多年前我就有答案了。我不會羨慕舞台上那些 Guitar Hero、或者 Super Star，因為那不是我的人生，也不是我想要的生活。&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;初版：2009/11/28&lt;/li&gt;
 &lt;li&gt;原文網址：http://rickmidi.blogspot.com/2009/11/blog-post.html&lt;/li&gt;
+&lt;li&gt;初版：2009/11/28&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -527,7 +528,7 @@
 &lt;p&gt;一個是學習吉他這個樂器的駕馭。像是手指跟弦的感覺，手指的獨立性，指版位置熟悉，右手與弦的 touch (dynamic)，左手壓弦的感覺，吉他的聲音特性 … 等。跟及他有直接關係的 &amp;ldquo;技術&amp;rdquo;。這些都是必須要靠後天的練習，熟悉才能夠慢慢的熟悉。&lt;/p&gt;
 &lt;p&gt;第二部分是學習利用 &amp;ldquo;吉他&amp;rdquo; 這個樂器來表達東西。簡單說，就是一種思想表現，意念的傳達。&lt;/p&gt;
 &lt;p&gt;學過 Java 語言的人也許看過一本書：Thinking in Java 。作者在開始的時候提到，程式語言本身的概念：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;quot;But computers are not so much machines as they are mind amplification tools (&amp;quot;bicycles for the mind,&amp;quot; as Steve Jobs is fond of saying) and a different kind of expressive medium. As a result, the tools are beginning to look less like machines and more like parts of our minds, and also like other forms of expression such as writing, painting, sculpture, animation, and filmmaking. Object-oriented programming (OOP) is part of this movement toward using the computer as an expressive medium. &amp;quot;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;quot;But computers are not so much machines as they are mind amplification tools (&amp;quot;bicycles for the mind,&amp;quot; as Steve Jobs is fond of saying) and a different kind of expressive medium. As a result, the tools are beginning to look less like machines and more like parts of our minds, and also like other forms of expression such as writing, painting, sculpture, animation, and filmmaking. Object-oriented programming (OOP) is part of this movement toward using the computer as an expressive medium. &amp;quot;
 
 摘錄自：Thinking in Java，3rd
 &lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
@@ -617,12 +618,12 @@
         &lt;p&gt;在連線版版友的問題, 問題簡單說就是 &amp;ldquo;&lt;code&gt;怎麼彈&lt;/code&gt;&amp;rdquo; 和 &amp;ldquo;&lt;code&gt;彈什麼&lt;/code&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;回覆&#34;&gt;回覆&lt;/h2&gt;
 &lt;p&gt;原始的文章如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;※ 引述《EROS4 ()》之銘言：
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;※ 引述《EROS4 ()》之銘言：
 : 在吉他上的某一音可以直接看出與這一音相差１～８個音程的音在吉他上的位置
 : 藉這個方法用第一種方式來演奏其實也不難
 : 只是還是想知道要讓自己能夠快速且精準的看譜就能演奏的話應該用哪種方法去學習
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;底下是我的回覆：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;看起來有點像是 &amp;quot;怎麼熟悉吉他指板上的音名和各調音名&amp;quot;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;看起來有點像是 &amp;quot;怎麼熟悉吉他指板上的音名和各調音名&amp;quot;
 和 &amp;quot;怎麼瞭解自己在彈些啥&amp;quot;.
 
 如果是熟悉各調音名的話, 簡單說就是要工具來輔助.
@@ -728,6 +729,255 @@ G -&amp;gt; C 也是屬和弦 (V-I) 關係, 角度又改變了,
 &lt;ul&gt;
 &lt;li&gt;2008/09/25: 初版&lt;/li&gt;
 &lt;li&gt;原文網址：https://rickmidi.blogspot.com/2008/09/blog-post.html&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 關於半音階的唱名</title>
+      <link>https://rickmid.gtcafe.com/docs/gossip/semi-tone-of-solfege/</link>
+      <pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickmid.gtcafe.com/docs/gossip/semi-tone-of-solfege/</guid>
+      <description>
+        
+        
+        &lt;p&gt;關於音階唱名 (特別是半音階) 我用首調唱名法來說明相關的應用概念.&lt;/p&gt;
+&lt;h2 id=&#34;半音唱名&#34;&gt;半音唱名&lt;/h2&gt;
+&lt;p&gt;首調唱名主要以 &amp;ldquo;自然大調音階&amp;rdquo; 的音程關係為基礎，也就是 &lt;code&gt;1 2 3 4 5 6 7 1&lt;/code&gt; 表示了大調的音程關係: &lt;code&gt;全全半全全全半&lt;/code&gt;。簡譜數字 (1~7) 常常會跟唱名 Do、Re、Mi ⋯⋯ 互通使用，分別表示寫法跟讀法。&lt;/p&gt;
+&lt;p&gt;但是當唱到降音記號 (b) 的時候，會將母音改唱成 &amp;lsquo;e&amp;rsquo; 的音; 唱到升音記號 (#) 的時候，將母音改唱成 &amp;lsquo;i&amp;rsquo; 的音。如下：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;音階唱名&lt;/th&gt;
+&lt;th&gt;1&lt;/th&gt;
+&lt;th&gt;2&lt;/th&gt;
+&lt;th&gt;3&lt;/th&gt;
+&lt;th&gt;4&lt;/th&gt;
+&lt;th&gt;5&lt;/th&gt;
+&lt;th&gt;6&lt;/th&gt;
+&lt;th&gt;7&lt;/th&gt;
+&lt;th&gt;8&lt;/th&gt;
+&lt;th&gt;9&lt;/th&gt;
+&lt;th&gt;10&lt;/th&gt;
+&lt;th&gt;11&lt;/th&gt;
+&lt;th&gt;12&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;上行半音&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;#1&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;#2&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;#4&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;#5&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;#6&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;上行唱名&lt;/td&gt;
+&lt;td&gt;Do&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Di&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Re&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Ri&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Mi&lt;/td&gt;
+&lt;td&gt;Fa&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Fi&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Sol&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Si&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;La&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Li&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Ti&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;下行半音&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;b7&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;b6&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;b5&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;b3&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;b2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;下行唱名&lt;/td&gt;
+&lt;td&gt;Do&lt;/td&gt;
+&lt;td&gt;Ti&lt;/td&gt;
+&lt;td&gt;Te&lt;/td&gt;
+&lt;td&gt;La&lt;/td&gt;
+&lt;td&gt;Le&lt;/td&gt;
+&lt;td&gt;Sol&lt;/td&gt;
+&lt;td&gt;Se&lt;/td&gt;
+&lt;td&gt;Fa&lt;/td&gt;
+&lt;td&gt;Mi&lt;/td&gt;
+&lt;td&gt;Me&lt;/td&gt;
+&lt;td&gt;Re&lt;/td&gt;
+&lt;td&gt;Ra&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;要注意的是，以往 &lt;code&gt;Ti (7)&lt;/code&gt; 的發音大部分都是發 &lt;code&gt;注音符號 (ㄒ，Si)&lt;/code&gt; 的音，但是如果要配合上下行半音的唱名，因為會和 &lt;code&gt;#5 =&amp;gt; Si&lt;/code&gt; 發音一樣，所以我們習慣將 &lt;code&gt;Ti&lt;/code&gt; 發成字母的 &amp;lsquo;&lt;code&gt;T&lt;/code&gt;&amp;rsquo; 的音。上表也可以在 Wiki 百科找到參考資料: &amp;ldquo;Solfege&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;另外一個要注意的就是 b2 的發音，降音記號是把母音改成 e 的音，但是 Re 本身就已經是 e 的音了，所以 b2 就改成發 a 的音，變成 Ra.&lt;/p&gt;
+&lt;p&gt;這種唱名的方式，是學習其他音階時的唱法，主要的還是以自然大調的音程關係做比較，也就是一般 Key Center 的唱法。利用這樣的唱法可以很容易的找到該音階的特徵音符。例如自然小調音階和唱名關係是:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Natural Minor Scale&lt;/th&gt;
+&lt;th&gt;I&lt;/th&gt;
+&lt;th&gt;II&lt;/th&gt;
+&lt;th&gt;III&lt;/th&gt;
+&lt;th&gt;IV&lt;/th&gt;
+&lt;th&gt;V&lt;/th&gt;
+&lt;th&gt;VI&lt;/th&gt;
+&lt;th&gt;VII&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Interval (音程)&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;b3&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;b6&lt;/td&gt;
+&lt;td&gt;b7&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;C Minor Scale (C 小調音階)&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;Eb&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;G&lt;/td&gt;
+&lt;td&gt;Ab&lt;/td&gt;
+&lt;td&gt;Bb&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;音階唱名&lt;/td&gt;
+&lt;td&gt;Do&lt;/td&gt;
+&lt;td&gt;Re&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Me&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Fa&lt;/td&gt;
+&lt;td&gt;Sol&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Le&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Te&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;這樣在唱小調音階的時候，就可以很清楚明確的知道有哪些降音記號，跟自然大調到底差別在哪，憂鬱感在哪裡。如果以傳統的固定唱名 &lt;code&gt;6 7 1 2 3 4 5 6&lt;/code&gt; 這樣的唱法來學小調音階，會不容易知道跟大調之間的差別在哪。只會感覺好像跟大調差不多。因為並不是以 Key Center 唱，而是以關係大小調作參考。以 Key Center 唱第一個音一定為 1 開頭.&lt;/p&gt;
+&lt;p&gt;同理，要唱出其他的調式音階，例如唱 Locrian:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;音階&lt;/th&gt;
+&lt;th&gt;I&lt;/th&gt;
+&lt;th&gt;II&lt;/th&gt;
+&lt;th&gt;III&lt;/th&gt;
+&lt;th&gt;IV&lt;/th&gt;
+&lt;th&gt;V&lt;/th&gt;
+&lt;th&gt;VI&lt;/th&gt;
+&lt;th&gt;VII&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Locrian Interval&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;b2&lt;/td&gt;
+&lt;td&gt;b3&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;b5&lt;/td&gt;
+&lt;td&gt;b6&lt;/td&gt;
+&lt;td&gt;b7&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;C Locrian Scale&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;Db&lt;/td&gt;
+&lt;td&gt;Eb&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;Gb&lt;/td&gt;
+&lt;td&gt;Ab&lt;/td&gt;
+&lt;td&gt;Bb&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;音階唱名&lt;/td&gt;
+&lt;td&gt;Do&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Ra&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Me&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Fa&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Se&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Le&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Te&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;所以同樣的，也不建議用 &lt;code&gt;7 1 2 3 4 5 6 7&lt;/code&gt; 這種唱法，因為唱了半天，還是不知道重點在哪。&lt;/p&gt;
+&lt;h2 id=&#34;音名與唱名&#34;&gt;音名與唱名&lt;/h2&gt;
+&lt;p&gt;這邊我描述的唱名基本上跟數字簡譜是畫上等號的。但是唱名跟音名是不等的，他們是互相參考的關係。音名是固定的，他就是在一個固定的位置不會改變，會改變的是音名跟音名之間的關係。&lt;strong&gt;C 跟 E 的關係是大三度，G 跟 C 的關係是完全四度，Ab 跟 Eb 的關係是完全五度&lt;/strong&gt;，但是 &lt;strong&gt;只有寫一個 D 是無法知道他代表什麼 &amp;ldquo;關係&amp;rdquo; 意思&lt;/strong&gt;。(關係很重要，特別在人的世界裡 XDD)&lt;/p&gt;
+&lt;p&gt;上述的例子 &lt;strong&gt;G 和 C 的關係是完全四度，音程 &amp;ldquo;完全四度&amp;rdquo; 則可以用唱名 4 來表示&lt;/strong&gt; 就可以了.&lt;/p&gt;
+&lt;p&gt;音名與唱名兩者在音樂學習的過程中都是很重要的基礎概念。唱名大多用在練習 Key Center 的歌曲，只要轉調不多的歌曲，用數字都 ok。另外是表示音程關係，會和音名一起使用在和弦推算，命名等。音名是音樂符號最基本的代號名稱，任何地方都會看到他：各調音階、和弦推算、命名、琶音、音程、順階和弦 &amp;hellip;等。兩者經常會混用.&lt;/p&gt;
+&lt;p&gt;以和弦來看例如 &lt;code&gt;F#m7-9&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;音名 (F) 代表的根音位置，也可以說是代表著音階的根音 (主詞)&lt;/li&gt;
+&lt;li&gt;升記號 (#) 我把他看成修飾根音的部分，當他是形容詞子句好了&lt;/li&gt;
+&lt;li&gt;大小和弦 (Major、Minor) 則用來表示和弦的性質 (動詞)&lt;/li&gt;
+&lt;li&gt;數字則用在修飾和弦 (形容詞，副詞).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上述只是我個人的一些聯想，大家可以各自用自己熟悉的領域去聯想這些東西，我相信都是有共通性的.&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;有朋友一定會問，學習音樂時，是否需要學習這種唱名方式? 我覺得不見得每個人都需要，因人而異。有些人可以很快的瞭解音名，音程，音階，調性之間的關係，所以可以直接利用音名去記憶和弦，音階組成，推演各種樂理。但是有些人沒辦法一下子把 E7-9 的組成音說出來，但是卻知道他的音程關係是 &lt;code&gt;1 3 5 b7 b9&lt;/code&gt;。或許這樣的人可以嘗試這種唱名.&lt;/p&gt;
+&lt;p&gt;就像是我們學英文，老外是不需要 KK 音標這種東西的。但是非英語系的我們需要藉由音標來幫助發音。而音標除了幫助記憶發音，他還可以幫助記憶單字的拼音.&lt;/p&gt;
+&lt;p&gt;同樣的唱名，最基本的功能就是拿來唱音階用的，另外一個功能就是因為唱名的慣例是以自然大調音程為主，所以相對的，唱出音階的過程，其實也就間接唱出了音程關係了.&lt;/p&gt;
+&lt;p&gt;和用音名不同的是，音名是絕對的名稱 (當然也可以把音名的 ABC 字母當成唱名來唱，只是遇到 F# 這種要怎麼唱? 很繞舌的 &amp;hellip;)，他很直接的告訴演奏者的訊息是一個絕對的位置。至於所謂的音程，音階，和弦必須由演奏者腦袋裡的資料庫自行判斷，比對，分析.&lt;/p&gt;
+&lt;p&gt;音名和唱名就像我們的中文和注音一樣。中文字表達的是一個具象的訊息，注音只是一個音。但是同樣的一個音可能包含了好幾個字，所以注音可以說是一個抽象的符號.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;音名是一個具象的名詞，C 就是 C，nothing else，除非他跟其他的音放在一起，才會有關係，例如 C G 放在一起，才可能會有完全五度 (C-&amp;gt;G) or 完全四度 (G-&amp;gt;C) 的關係。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但是唱名就不是這樣，唱出一個 Sol 就是很清楚的告訴 Player 這是一個完全五度，但是他可能是任意調的完全五度.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;扯了一堆，只是想讓告訴大家，音樂是很多面向的藝術，同樣的東西，可以從很多角度去思考的。終點是一樣，但是過程卻是截然不同的.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;相對、絕對音感&lt;/li&gt;
+&lt;li&gt;固定唱名？還是首調唱名？&lt;/li&gt;
+&lt;li&gt;再談『首調、固定唱名』與『相對、絕對音感』&lt;/li&gt;
+&lt;li&gt;音階基礎&lt;/li&gt;
+&lt;li&gt;調式概念&lt;/li&gt;
+&lt;li&gt;調、調式及轉調&lt;/li&gt;
+&lt;li&gt;淺談 Modal Harmony (調式和聲)&lt;/li&gt;
+&lt;li&gt;大調音階 (Major Scale)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Solfege&#34;&gt;Solfege&lt;/a&gt; (Wiki)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.music.vt.edu/musicdictionary/appendix/scales/solmization/syllables.html&#34;&gt;Scales Syllables&lt;/a&gt; (各國音階唱名)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.books.com.tw/products/0010854064&#34;&gt;音樂認知心理學&lt;/a&gt; - 蔡振家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;初版：2008/08/07&lt;/li&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2008/08/blog-post.html&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -876,7 +1126,7 @@ G -&amp;gt; C 也是屬和弦 (V-I) 關係, 角度又改變了,
         
         &lt;p&gt;關於音樂這種藝術，有人說他其實是另一種數學問題，只不過不是我們習慣的十進位，而是12進位。如果改成其他進制呢？24 進位？48 進位？如果把一個八度十二個音全部用 0 ~ 11 表示，設定一些公式，就可以算出調性音階，順階和弦，推算出和弦與音階的關係，然後套上節奏的 Pattern，設定音高範圍，產生隨機的旋律，這些是可以做出來的，而且也不是很難。&lt;/p&gt;
 &lt;p&gt;數學是科學之母，所以只要可以跟科學扯上關係的都跟數學有關系。所以藝術也都是包含科學的基礎。但是要達到藝術的層次，就必須以科學為基礎，然後跨越，超越。電影 &amp;ldquo;機械公敵 &amp;quot; 電影裡 Dr. Lanning 演講說得那段話，一直讓我很震撼，也覺得很值得思考：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Ever since the first computers...
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Ever since the first computers...
 ...there have always been ghosts in the machine.
 Random segments of code that have grouped together...
 ...to form unexpected protocols.

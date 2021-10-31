@@ -91,22 +91,22 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;一些常見的例子：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| C / / / | E7 / / / | Am / / / | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C / / / | E7 / / / | Am / / / | G7 / / / |
 | G / / / | C / / / | A7 / / / | D7 / / / |
 | C / / / | C7 / / / | F / / / | G / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;次屬和弦與減七和弦&#34;&gt;次屬和弦與減七和弦&lt;/h3&gt;
 &lt;p&gt;在 &amp;ldquo;減七和弦&amp;rdquo; 一文中提及過，減七和弦最常用在和弦的銜接，例如 1 - 2m、4 - 5 的經過和弦。&lt;/p&gt;
 &lt;p&gt;像是：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| C / / C#dim7 | Dm7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C / / C#dim7 | Dm7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;或是&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;這種用法，可以用次屬和弦來聯想，像：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| F / / D7/F# | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / D7/F# | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;把 D7 看成 G 的五級，其中：&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;D7/F# (D F# A C)&lt;/code&gt; 和 &lt;code&gt;F#dim7 (F# A C Eb)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;聲響很接近，以可以互換。一方面有有屬和弦效果，又讓 bass line 形成半音進行 (F - F# - G)，是很實用的老梗。&lt;/p&gt;
 &lt;p&gt;另外，F#dim7 跟 Am6 是同音異名的和弦 (詳見 &amp;ldquo;關係和弦?&amp;rdquo; 的說明)，所以這段和弦進行又能被改成：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
 | F / / D7/F# | G7 / / / |
 | F / / Am6 | G7 / / / |
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;所以導入一些類似的概念，可以發現很多有趣的現象。&lt;/p&gt;
