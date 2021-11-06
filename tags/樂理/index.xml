@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GTCafe Studio - v2021 (施工中) – 樂理</title>
-    <link>https://rickmid.gtcafe.com/tags/%E6%A8%82%E7%90%86/</link>
+    <link>https://www.gtcafe.com/tags/%E6%A8%82%E7%90%86/</link>
     <description>Recent content in 樂理 on GTCafe Studio - v2021 (施工中)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 29 Nov 2014 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://rickmid.gtcafe.com/tags/%E6%A8%82%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://www.gtcafe.com/tags/%E6%A8%82%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Rickmidi: 調、調式及轉調</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/tonality-key-mode/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/tonality-key-mode/</link>
       <pubDate>Sat, 29 Sep 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/tonality-key-mode/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/tonality-key-mode/</guid>
       <description>
         
         
@@ -367,7 +367,7 @@
 &lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;GNR - Sweet Child O&#39; Mine&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/musical-mode/&#34;&gt;調式概念&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/musical-mode/&#34;&gt;調式概念&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;簡單的 Mixolydian 調式分析&lt;/li&gt;
 &lt;li&gt;淺談 Modal Harmony (調式和聲)&lt;/li&gt;
 &lt;li&gt;小調音階 (Minor Scale)&lt;/li&gt;
@@ -394,10 +394,10 @@
     
     <item>
       <title>Rickmidi: 音階的本質</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/essence-of-musical-scales/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/essence-of-musical-scales/</link>
       <pubDate>Sat, 29 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/essence-of-musical-scales/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/essence-of-musical-scales/</guid>
       <description>
         
         
@@ -448,10 +448,10 @@
     
     <item>
       <title>Rickmidi: 大調音階 (Major Scale)</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/major-scale/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/major-scale/</link>
       <pubDate>Sat, 16 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/major-scale/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/major-scale/</guid>
       <description>
         
         
@@ -539,7 +539,7 @@
 &lt;p&gt;&lt;img src=&#34;keyboard.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;音階的物理定義，一般定義中央 A4 (標準音) 為 440Hz，有些交響樂團會用 442Hz. 有的時候為了讓主奏的聲音在樂團裡突出，管絃樂團的首席小提琴首會用參考比樂團高的標準音，讓他的聲音更突出.&lt;/p&gt;
 &lt;h2 id=&#34;全音半音-whole-tonehalf-tone&#34;&gt;全音，半音 (Whole Tone，Half Tone)&lt;/h2&gt;
-&lt;p&gt;根據十二平均律的定義，把一個倍頻的關係中間再分成十二個部分 (注意: 不是十二等份)，這十二個音是指數關係. 想像成銀行存款複利的關係. 詳細的關係計算方式，請參閱 &amp;ldquo;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/can-i-create-a-new-scale/&#34;&gt;可以自行創造音階?&lt;/a&gt;&amp;rdquo; 以及表格 &amp;ldquo;樂器音階頻率表&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;根據十二平均律的定義，把一個倍頻的關係中間再分成十二個部分 (注意: 不是十二等份)，這十二個音是指數關係. 想像成銀行存款複利的關係. 詳細的關係計算方式，請參閱 &amp;ldquo;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/can-i-create-a-new-scale/&#34;&gt;可以自行創造音階?&lt;/a&gt;&amp;rdquo; 以及表格 &amp;ldquo;樂器音階頻率表&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;各國的名稱系統-note-name&#34;&gt;各國的名稱系統 (Note Name)&lt;/h2&gt;
 &lt;p&gt;我們在學習 &amp;ldquo;西洋&amp;rdquo; 音樂時，主要是以英美的系統為主. 但是在古典音樂裡，歐洲才是音樂的發源地. 所以實際上很多音樂術語，都不是英文. 所以稍微了解一下一些 &amp;ldquo;音樂&amp;rdquo; 文化大國 (就是很多音樂偉人誕生的地方) 的術語，是有必要的. 最簡單的就是各國的音名，如下表:&lt;/p&gt;
 &lt;table&gt;
@@ -620,7 +620,7 @@
 &lt;p&gt;實際上上述七個音只是一個代號，我們也可以唱用 &amp;ldquo;ㄅㄆㄇㄈㄉㄊㄋ&amp;rdquo; 來唱這七個音，只要音準夠就好.&lt;/p&gt;
 &lt;p&gt;詳細且更多的唱名介紹請參閱 &amp;ldquo;關於唱名&amp;rdquo;，&amp;ldquo;固定唱名? 首調唱名?&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;升降記號&#34;&gt;升降記號&lt;/h2&gt;
-&lt;p&gt;升降記號是已自然大調的音名為參考而產生，根據音程的變化作修飾，往上則是升記號 (#)，往下則是降記號 (b). 詳細介紹請參閱 &lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/p&gt;
+&lt;p&gt;升降記號是已自然大調的音名為參考而產生，根據音程的變化作修飾，往上則是升記號 (#)，往下則是降記號 (b). 詳細介紹請參閱 &lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/p&gt;
 &lt;h2 id=&#34;音程-interval&#34;&gt;音程 (Interval)&lt;/h2&gt;
 &lt;p&gt;自然大調依據人們對於 &amp;ldquo;兩個音&amp;rdquo; 共震時的感覺，定義了音程的基本關係，其中最初讓人覺得聽起來 &lt;code&gt;協和的音程 (Consonant Interval)&lt;/code&gt; 首先被定義了，他們就是&lt;code&gt;完全協和音程 (Perfect consonances)&lt;/code&gt; 和 &lt;code&gt;不完全協和音程 (Imperfect consonances)&lt;/code&gt; 兩種，這兩種也就是日後自然大調、自然小調的音程關係，還有和弦名稱命名定義的依據。&lt;/p&gt;
 &lt;p&gt;音程種類大概大概有以下幾種:&lt;/p&gt;
@@ -829,7 +829,7 @@
 &lt;td&gt;減七度&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;Diminished Seventh&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;d7 ~ M6&lt;/td&gt;
-&lt;td&gt;小七度再減一個半音，平均律時頻率等於 M6。最常見的就是減七和弦的音程。詳見 &lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/td&gt;
+&lt;td&gt;小七度再減一個半音，平均律時頻率等於 M6。最常見的就是減七和弦的音程。詳見 &lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/td&gt;
 &lt;td&gt;C-Bbb&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -887,11 +887,11 @@
 &lt;/table&gt;
 &lt;p&gt;同樣的，除了增四度，大部分一樣是存在著，但是實際應用時，除非有特殊意義，否則會用小音程來說明.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;※注意，增減音程提到的例子寫的升降記號，即使 B# = C，Bbb = A 是同一個音，但是意義上是完全不一樣的. 詳見 &lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/p&gt;
+&lt;p&gt;※注意，增減音程提到的例子寫的升降記號，即使 B# = C，Bbb = A 是同一個音，但是意義上是完全不一樣的. 詳見 &lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;純律和平均律&#34;&gt;純律和平均律&lt;/h2&gt;
 &lt;p&gt;純律和平均律都是不同的調音方式. 現行的大多都是平均律. 這邊的平均律指的是巴哈的十二平均律. 十二平均律主要的好處就是方便轉調. 純律是以頻率的比例關係，聽起來比較 Smooth.&lt;/p&gt;
-&lt;p&gt;一般在平均律的 Bb 和 A# 頻率是一樣的，但是在純律是不一樣的. 當然 Bb 和 A# 兩者不管是純律還是平均律，意義上都是不一樣的，詳見 &lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/p&gt;
+&lt;p&gt;一般在平均律的 Bb 和 A# 頻率是一樣的，但是在純律是不一樣的. 當然 Bb 和 A# 兩者不管是純律還是平均律，意義上都是不一樣的，詳見 &lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/p&gt;
 &lt;p&gt;但是不管純律還是平均律，他們都定義了大調音程. 雖然實際上有一些差異.&lt;/p&gt;
 &lt;h2 id=&#34;總結&#34;&gt;總結&lt;/h2&gt;
 &lt;p&gt;本文整理了一些自然大調的一些定義. 實際上這些東西在學音樂的過程當中，或許不是有絕對的必要性，但是卻是整個西洋音樂演進的一個過程和定義. 即使已經經過數百年的演進，但是很多東西依舊如同先知們驗證的那樣 (特別是音程的定義).&lt;/p&gt;
@@ -901,12 +901,12 @@
 &lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
 &lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/minor-scale/&#34;&gt;小調音階&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/minor-scale/&#34;&gt;小調音階&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;音階基礎&lt;/li&gt;
 &lt;li&gt;關於唱名&lt;/li&gt;
 &lt;li&gt;轉調曲例&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/can-i-create-a-new-scale/&#34;&gt;可以自行創造音階？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/can-i-create-a-new-scale/&#34;&gt;可以自行創造音階？&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;樂器音階頻率表 (十二平均律)&lt;/li&gt;
 &lt;li&gt;吉他音階學習引導&lt;/li&gt;
 &lt;/ul&gt;
@@ -934,10 +934,10 @@
     
     <item>
       <title>Rickmidi: 升降記號</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/note-signature/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/note-signature/</link>
       <pubDate>Sat, 19 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/note-signature/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/note-signature/</guid>
       <description>
         
         
@@ -1021,7 +1021,7 @@
 &lt;li&gt;五度圈順階和弦表&lt;/li&gt;
 &lt;li&gt;怎樣練一首歌&lt;/li&gt;
 &lt;li&gt;減七和弦 (Diminished Seventh)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/minor-scale/&#34;&gt;小調音階&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/minor-scale/&#34;&gt;小調音階&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;五聲音階與調式音階的關係&lt;/li&gt;
 &lt;li&gt;歌曲分析 - Memorizes of Lightwave&lt;/li&gt;
 &lt;/ul&gt;
@@ -1037,10 +1037,10 @@
     
     <item>
       <title>Rickmidi: 掛留和弦 (Suspended Chord)</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/suspended-chord/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/suspended-chord/</link>
       <pubDate>Sat, 27 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/suspended-chord/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/suspended-chord/</guid>
       <description>
         
         
@@ -1148,10 +1148,10 @@
     
     <item>
       <title>Rickmidi: 次屬和弦 (Secondary Dominant)</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/secondary-dominat/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/secondary-dominat/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/secondary-dominat/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/secondary-dominat/</guid>
       <description>
         
         
@@ -1251,7 +1251,7 @@
 &lt;li&gt;調式內轉 (Modal Interchange)&lt;/li&gt;
 &lt;li&gt;TSD 和聲代換&lt;/li&gt;
 &lt;li&gt;減七和弦 (Diminished Seventh)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/minor-scale/&#34;&gt;小調音階 (Minor Scale)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/minor-scale/&#34;&gt;小調音階 (Minor Scale)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;關係和弦?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
@@ -1267,10 +1267,10 @@
     
     <item>
       <title>Rickmidi: 屬七和弦與其延伸和弦的代換</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/dominant-and-extension-chords/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/dominant-and-extension-chords/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/dominant-and-extension-chords/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/dominant-and-extension-chords/</guid>
       <description>
         
         
@@ -1341,10 +1341,10 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
     
     <item>
       <title>Rickmidi: 音階學習地圖</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/musical-scales-learning-map/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/musical-scales-learning-map/</link>
       <pubDate>Sat, 04 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/musical-scales-learning-map/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/musical-scales-learning-map/</guid>
       <description>
         
         
@@ -1394,10 +1394,10 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
     
     <item>
       <title>Rickmidi: 小調音階 (Minor Scale)</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/minor-scale/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/minor-scale/</link>
       <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/minor-scale/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/minor-scale/</guid>
       <description>
         
         
@@ -1754,7 +1754,7 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
 &lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
 &lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/essence-of-musical-scales/&#34;&gt;音階的本質&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/essence-of-musical-scales/&#34;&gt;音階的本質&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;大調音階&lt;/li&gt;
 &lt;li&gt;音階基礎&lt;/li&gt;
 &lt;li&gt;關於唱名&lt;/li&gt;
@@ -1766,7 +1766,7 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
 &lt;li&gt;調式內轉 (Modal Interchange)&lt;/li&gt;
 &lt;li&gt;Secondary Dominant (次屬和弦)&lt;/li&gt;
 &lt;li&gt;歌曲分析：GNR - Sweet Child O&#39; Mine&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;吉他音階學習引導&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
@@ -1791,10 +1791,10 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
     
     <item>
       <title>Rickmidi: 可以自行創造音階？</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/theory/can-i-create-a-new-scale/</link>
+      <link>https://www.gtcafe.com/rickmidi/theory/can-i-create-a-new-scale/</link>
       <pubDate>Sat, 28 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/theory/can-i-create-a-new-scale/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/theory/can-i-create-a-new-scale/</guid>
       <description>
         
         

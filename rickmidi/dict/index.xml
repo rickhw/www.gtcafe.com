@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GTCafe Studio - v2021 (施工中) – 字典工具</title>
-    <link>https://rickmid.gtcafe.com/rickmidi/dict/</link>
+    <link>https://www.gtcafe.com/rickmidi/dict/</link>
     <description>Recent content in 字典工具 on GTCafe Studio - v2021 (施工中)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 28 Dec 2008 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://rickmid.gtcafe.com/rickmidi/dict/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://www.gtcafe.com/rickmidi/dict/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,20 +17,20 @@
     
     <item>
       <title>Rickmidi: 五度圈順階和弦表</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/dict/diatonic-chords-in-circle-of-5ths/</link>
+      <link>https://www.gtcafe.com/rickmidi/dict/diatonic-chords-in-circle-of-5ths/</link>
       <pubDate>Sun, 28 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/dict/diatonic-chords-in-circle-of-5ths/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/dict/diatonic-chords-in-circle-of-5ths/</guid>
       <description>
         
         
         &lt;p&gt;下表是我個人學習、記憶、理解各調順階和弦的方式。與一般書籍表格的不同，我是以 &lt;code&gt;五度圈&lt;/code&gt; 的排列來整理，並非以 C D E F .. 順階大調來排列。主要是可以更清楚五度圈如何實際應用在記憶各調的各級順階和弦。所以參考此表格時，請配合五度圈使用。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;diatonic-chords-in-circle-of-5ths_v1.3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;表格中，只要是由上網下的關係都是五度，例如 縱向的 III 級 Fm7 -&amp;gt; Cm7 =&amp;gt; I -&amp;gt; V of Fm；而由下往上都是四度關係。另外右邊的升降記號也可以發現，升降記號的次序也是跟五度圈有關係，同樣可以藉由五度圈的排列次序來協助記憶有那些&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;表格中，只要是由上網下的關係都是五度，例如 縱向的 III 級 Fm7 -&amp;gt; Cm7 =&amp;gt; I -&amp;gt; V of Fm；而由下往上都是四度關係。另外右邊的升降記號也可以發現，升降記號的次序也是跟五度圈有關係，同樣可以藉由五度圈的排列次序來協助記憶有那些&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;表中大調視覺上共有十五個，有些是重複的，像是 C# 和 Db 調單純的聽覺上是一樣的，但是分析依照不同的角度 (從 C 跟從 D 的角度) 會是升與降的差異，一般來說升 Key 的歌曲 (先聽到 C 大調再聽到 C# 大調) 就是有往上的感覺，也就是明朗、前進的感覺；而降 Key 的歌曲 (先聽到 D 大調，再聽到 Db 大調) 則反之。所以雖然他們使用的音群是一樣的，但是使用角度卻是不同的。&lt;/p&gt;
 &lt;p&gt;這道理跟閱讀語言的句子要看前後文才知道意思是同樣的道理的。&lt;/p&gt;
 &lt;p&gt;上面說視覺上大調有 15 個調，但是實際上是有 21 個，也就是沒有升記號的七個，跟升和降記號的各七個，所以共有 21 個調。但實際上寫譜的時候，如果 D# 大調來說，會有 9 個升記號，其中包含幾個重升記號 (x)，譜看起來會很壯觀，但是卻不實用，意義也不大。所以 D# 我們習慣會用 Eb 來記譜，那麼就只會有三個降音記號，讀起來才不會太辛苦。&lt;/p&gt;
-&lt;p&gt;所以純粹是寫譜便利性的考量。但是流行歌曲很多時候副歌會升半音，這時候就自行判斷 (鍵盤手) 該用哪個角度來看比較適合。關於升降記號的概念詳細請參閱 &amp;ldquo;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;&amp;rdquo; 的介紹&lt;/p&gt;
+&lt;p&gt;所以純粹是寫譜便利性的考量。但是流行歌曲很多時候副歌會升半音，這時候就自行判斷 (鍵盤手) 該用哪個角度來看比較適合。關於升降記號的概念詳細請參閱 &amp;ldquo;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;&amp;rdquo; 的介紹&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
 &lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
@@ -38,7 +38,7 @@
 &lt;li&gt;和弦基礎&lt;/li&gt;
 &lt;li&gt;和弦學習地圖&lt;/li&gt;
 &lt;li&gt;五度圈&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
 &lt;ul&gt;
@@ -47,6 +47,55 @@
 &lt;li&gt;2010/10/18: 更新 Cb 調三級的錯誤, 感謝網友留言訂正.&lt;/li&gt;
 &lt;li&gt;2011/04/07: 更正 Ab, A# 大調的關係小調, 感謝網友留言訂正.&lt;/li&gt;
 &lt;li&gt;2021/10/31: 搬移新站&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rickmidi: 音階學習地圖</title>
+      <link>https://www.gtcafe.com/rickmidi/dict/scale-learning-map/</link>
+      <pubDate>Sat, 04 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/rickmidi/dict/scale-learning-map/</guid>
+      <description>
+        
+        
+        &lt;p&gt;下圖是目前常見的音樂音階學習地圖：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;MuiscScaleLearningMap.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;圖表的底色分別表示：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;深藍色：基礎、最重要的音階&lt;/li&gt;
+&lt;li&gt;淡黃色：進階的調式、藍調部分&lt;/li&gt;
+&lt;li&gt;黃色：屬於民俗調式系統&lt;/li&gt;
+&lt;li&gt;淡藍色：屬於進階音階&lt;/li&gt;
+&lt;li&gt;淡褐色：屬於 Jazz 範圍的調式音階&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;學習建議次序為：深藍色 -&amp;gt; 淡黃色/黃色 -&amp;gt; 淡藍色 -&amp;gt; 淡褐色&lt;/p&gt;
+&lt;p&gt;圖表是學習的地圖，音階關係請參閱音階基礎&lt;/p&gt;
+&lt;h2 id=&#34;全都要&#34;&gt;全都要？&lt;/h2&gt;
+&lt;p&gt;這些音階不是全部都要學的，依照不同曲風需求，會使用不同的音階。但是一般的學習來看，深藍色的基本概念是要熟悉的。具備基本的大小調、五聲音階，再搭配對映的和聲概念技巧，其實就已經可以滿足大部分音樂的需求。&lt;/p&gt;
+&lt;p&gt;如果基本的音階還無法滿足，可以開始嘗試調式的概念，音樂更有張力、更有獨特風味。這類的音樂像是藍調、拉丁、放克、爵士、金屬曲風等。&lt;/p&gt;
+&lt;p&gt;接下來就是屬於進階的小音階系統，主要包含了和聲、旋律、爵士小調。前兩者喜歡重金屬的人會很常聽到，後者爵士小調則是學習爵士樂的 &amp;ldquo;爆點&amp;rdquo; 。&lt;/p&gt;
+&lt;p&gt;爵士學習者從小音階系統的各調式開始，會有三大類，最後還有對稱系統等更進階的。這些東西比較不常出現在一般的流行、搖滾、藍調、金屬 &amp;hellip; 出現也是點綴的成分居多，但這些卻是 Jazzkid 的入門基本功課。要熟記這些東西不難，但是要能夠靈活運用他們就難了 &amp;hellip;&lt;/p&gt;
+&lt;p&gt;音階這麼多，怎麼學？簡單說，穩紮穩打才是關鍵。千萬不要跳著學習，因為這些音階大部分都有前後關係，在耳朵還沒有辦法分辨出來基本的音階聲響、基本合聲時，跳著學習其他進階的音階，可能會讓腦袋過載、更加的困惑，不知所以然。&lt;/p&gt;
+&lt;p&gt;所謂『耳朵可以分辨出音階聲響』，簡單說，就是假設已知一首大調曲子進行中，突然出現一個大調音階以外的音，或者突然轉調時，耳朵可以知道音階已經發生變化。&lt;/p&gt;
+&lt;p&gt;或者唱 KTV 時，朋友 Key 沒對到 (這大部分的人都可以察覺)、走音可以馬上聽出來 &amp;hellip; 等。&lt;/p&gt;
+&lt;p&gt;具備類似的基本聽力，再去學習其他的音階，是比較適合的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;音階基礎&lt;/li&gt;
+&lt;li&gt;調式概念&lt;/li&gt;
+&lt;li&gt;小調音階 (Minor Scale)&lt;/li&gt;
+&lt;li&gt;吉他音階學習引導&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2008/10/blog-post.html&lt;/li&gt;
+&lt;li&gt;2008/10/04: 初版&lt;/li&gt;
+&lt;li&gt;2021/11/06: 搬移新站&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GTCafe Studio - v2021 (施工中) – 音樂製作</title>
-    <link>https://rickmid.gtcafe.com/rickmidi/production/</link>
+    <link>https://www.gtcafe.com/rickmidi/production/</link>
     <description>Recent content in 音樂製作 on GTCafe Studio - v2021 (施工中)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 24 Sep 2011 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://rickmid.gtcafe.com/rickmidi/production/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://www.gtcafe.com/rickmidi/production/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Rickmidi: 數位音樂科技概論</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/production/concepts-of-music-technology/</link>
+      <link>https://www.gtcafe.com/rickmidi/production/concepts-of-music-technology/</link>
       <pubDate>Sat, 24 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/production/concepts-of-music-technology/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/production/concepts-of-music-technology/</guid>
       <description>
         
         
@@ -92,7 +92,7 @@
 &lt;p&gt;其實不只是合成器，現今所有的數位技術都非常仰賴 DSP 的運算，將真實世界不管是電壓訊號、還是電流訊號，轉換成電腦能夠看的懂得格式、甚至用來作即時運算。&lt;/p&gt;
 &lt;p&gt;特別在音樂製作的混音階段，就會需要很強大的 DSP 運算功能。像是 DSP 大廠 Universal Audio 的 UAD 系列，就是 DSP 硬體的代表。現在的 PC 運算能力越來越強，所以軟體 DSP 也是非常多樣化的，像是 Waves 出的 Diamond 。&lt;/p&gt;
 &lt;h2 id=&#34;數位工作站與錄音室設計&#34;&gt;數位工作站與錄音室設計&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/music-production/digital-audio-system/&#34;&gt;Digital Audio System&lt;/a&gt; 大致描述了數位工作站的基本架構和觀念。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/music-production/digital-audio-system/&#34;&gt;Digital Audio System&lt;/a&gt; 大致描述了數位工作站的基本架構和觀念。&lt;/p&gt;
 &lt;h2 id=&#34;效果器過載濾波器放大器噪音處理&#34;&gt;效果器：過載、濾波器、放大器、噪音處理&lt;/h2&gt;
 &lt;p&gt;效果器 (Effect, FX) 如果都是數位式，其實都是屬於 DSP 的範圍。品質由 D/A 來決定。&lt;/p&gt;
 &lt;p&gt;當然類比效果器就另當別論。不過因為類比電路較為複雜、而且穩定性差，所以通常造價都不匪。但是類比卻又具備『更自然』的特性，所以還是有很多玩家很堅持使用類比效果器，吉他手尤其如此。當然，Keyboard 也有所謂的類比琴，Roland Jupoter 8、Monimoog、Korg MS-20 是一個很經典的代表之一。&lt;/p&gt;
@@ -122,7 +122,7 @@ From: 越光寶盒&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;概述『和聲分析』演算法&lt;/li&gt;
 &lt;li&gt;基礎聲學與數位音樂製作&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rickmid.gtcafe.com/rickmidi/music-production/digital-audio-system/&#34;&gt;Digital Audio System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/rickmidi/music-production/digital-audio-system/&#34;&gt;Digital Audio System&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;聊聊 MIDI Guitar&lt;/li&gt;
 &lt;li&gt;Breath Controller 吹管控制器&lt;/li&gt;
 &lt;li&gt;Graph Tech - Ghost Pickup System (吉他模擬系統)&lt;/li&gt;
@@ -147,10 +147,10 @@ From: 越光寶盒&lt;/p&gt;
     
     <item>
       <title>Rickmidi: Digital Audio System</title>
-      <link>https://rickmid.gtcafe.com/rickmidi/production/digital-audio-system/</link>
+      <link>https://www.gtcafe.com/rickmidi/production/digital-audio-system/</link>
       <pubDate>Sat, 31 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://rickmid.gtcafe.com/rickmidi/production/digital-audio-system/</guid>
+      <guid>https://www.gtcafe.com/rickmidi/production/digital-audio-system/</guid>
       <description>
         
         
