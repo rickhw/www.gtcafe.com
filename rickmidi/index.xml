@@ -898,7 +898,7 @@
 &lt;th&gt;I&lt;/th&gt;
 &lt;th&gt;vi&lt;/th&gt;
 &lt;th&gt;ii&lt;/th&gt;
-&lt;th&gt;V&lt;/th&gt;
+&lt;th&gt;Ⅴ&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -1119,8 +1119,8 @@
 &lt;h2 id=&#34;調在哪&#34;&gt;調在哪?&lt;/h2&gt;
 &lt;p&gt;一首曲子出現 G 大調, 還是 D Mixolydian, 一般會從和聲、旋律線、和段落的關係來判斷。&lt;/p&gt;
 &lt;p&gt;和聲看終止在哪，終止式不管是什麼調式, 都會以兩個和弦的變化參考點.&lt;/p&gt;
-&lt;p&gt;像是 V-I (註), I 可以是大和弦, 小和弦,
-但是 V 會期望出現三全音 (tritone), 通常是屬七.&lt;/p&gt;
+&lt;p&gt;像是 Ⅴ-I (註), I 可以是大和弦, 小和弦,
+但是 Ⅴ 會期望出現三全音 (tritone), 通常是屬七.&lt;/p&gt;
 &lt;p&gt;第一個和弦就是終止和弦, 有各種變化, 但不管怎麼變化, 就是要有三全音.
 第二個和弦通常會拿來被定義成所謂的 &amp;ldquo;調&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;這樣的過程, 從 &amp;ldquo;緊張&amp;rdquo; 到 &amp;ldquo;舒服&amp;rdquo;,
@@ -1133,7 +1133,7 @@
 有些調式根據上述 &amp;ldquo;終止感&amp;rdquo; 的描述,&lt;/p&gt;
 &lt;p&gt;要注意的是, 一首歌不會只有一種調. 當代流行音樂裡, 一首歌出現兩, 三個調是很普通的, 出現兩三種調式也不是很特殊，爵士樂一小節一個調更是司空見慣. 但是不管多少調, 都還是圍繞自然大調/自然小調為中心, 然後作延伸發展.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;註: 除了 V-I 終止式, IV-I 也是常見的終止式. 在和聲學裡叫它教會終止, 或者阿門終止.&lt;/p&gt;
+&lt;p&gt;註: 除了 Ⅴ-I 終止式, Ⅳ-I 也是常見的終止式. 在和聲學裡叫它教會終止, 或者阿門終止.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;調的屬性以及其重要性-why-大調-and-小調&#34;&gt;調的屬性以及其重要性: Why &amp;ldquo;大調&amp;rdquo; and &amp;ldquo;小調&amp;rdquo;?&lt;/h2&gt;
 &lt;p&gt;現在我們使用的音階 - 自然大調、&lt;a href=&#34;https://www.gtcafe.com/rickmidi/theory/minor-scale/&#34;&gt;小調音階&lt;/a&gt; - 是由先知經過各種方法實驗、嘗試、演進、去蕪存菁，最後得到兩組 &lt;code&gt;大部分的人類&lt;/code&gt; 一聽都能夠接受的組合，我把他當作 &lt;code&gt;統計學的結論&lt;/code&gt;。在這過程當中，其他音階依舊存在，不管是調式音階還民俗音階，只是最後大家一致接受的就是自然大調和自然小調。&lt;/p&gt;
@@ -1435,7 +1435,7 @@
 &lt;p&gt;兩個合起來字典上說是『懸疑未定』的意思。具像一點，有點像在屋簷下等待的感覺 (日劇看太多 &amp;hellip; @@)。我個人把它引申成『風鈴的感覺』、擺動、飄 (*&amp;amp;^%$&amp;hellip;&amp;hellip;&amp;hellip;。&lt;/p&gt;
 &lt;p&gt;Suspended Chord (掛留和弦) 從音程上來說，就是改變三和弦的三度音，讓和弦失去了大小和弦的屬性。以這樣的概念可以衍生出掛留七和弦 (X7sus) 、 X9sus4 &amp;hellip; 等。&lt;/p&gt;
 &lt;p&gt;因為改變了三度音，使得原和弦的屬性變得不一樣了，所以就有一些不同的應用，常見的應用整理如下：&lt;/p&gt;
-&lt;h2 id=&#34;一將順階和弦的-iv-級改成-suspended-chord&#34;&gt;一、將順階和弦的 I、V 級改成 Suspended Chord&lt;/h2&gt;
+&lt;h2 id=&#34;一將順階和弦的-i-級改成-suspended-chord&#34;&gt;一、將順階和弦的 I、Ⅴ 級改成 Suspended Chord&lt;/h2&gt;
 &lt;p&gt;這是流行音樂中最常見的例子，也是很實用的小技巧。&lt;/p&gt;
 &lt;p&gt;Suspended Chord 最基本的應用概念就是改變三和弦的三度音，一般大調順階裡，經常被改變的&lt;/p&gt;
 &lt;table&gt;
@@ -1738,7 +1738,7 @@
 &lt;li&gt;&amp;hellip; 類推&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;降二代五-tritone-substitute&#34;&gt;降二代五 (Tritone Substitute)&lt;/h2&gt;
-&lt;p&gt;另外三全音的應用最有名的就是 &lt;code&gt;降二代五 (Tritone Substitute，三全音代理)&lt;/code&gt;。爵士樂理最常用的 &lt;code&gt;ii-V-I&lt;/code&gt; 進行中的五級，以 C 大調來說:&lt;/p&gt;
+&lt;p&gt;另外三全音的應用最有名的就是 &lt;code&gt;降二代五 (Tritone Substitute，三全音代理)&lt;/code&gt;。爵士樂理最常用的 &lt;code&gt;ii-Ⅴ-I&lt;/code&gt; 進行中的五級，以 C 大調來說:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Dm7 - G7 - Cmaj7&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2107,12 +2107,12 @@
 &lt;tr&gt;
 &lt;th&gt;級數&lt;/th&gt;
 &lt;th&gt;I&lt;/th&gt;
-&lt;th&gt;II&lt;/th&gt;
-&lt;th&gt;III&lt;/th&gt;
-&lt;th&gt;IV&lt;/th&gt;
-&lt;th&gt;V&lt;/th&gt;
-&lt;th&gt;VI&lt;/th&gt;
-&lt;th&gt;VII&lt;/th&gt;
+&lt;th&gt;Ⅱ&lt;/th&gt;
+&lt;th&gt;Ⅲ&lt;/th&gt;
+&lt;th&gt;Ⅳ&lt;/th&gt;
+&lt;th&gt;Ⅴ&lt;/th&gt;
+&lt;th&gt;Ⅵ&lt;/th&gt;
+&lt;th&gt;Ⅶ&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -2148,12 +2148,12 @@
 &lt;tr&gt;
 &lt;th&gt;級數&lt;/th&gt;
 &lt;th&gt;I&lt;/th&gt;
-&lt;th&gt;II&lt;/th&gt;
-&lt;th&gt;III&lt;/th&gt;
-&lt;th&gt;IV&lt;/th&gt;
-&lt;th&gt;V&lt;/th&gt;
-&lt;th&gt;VI&lt;/th&gt;
-&lt;th&gt;VII&lt;/th&gt;
+&lt;th&gt;Ⅱ&lt;/th&gt;
+&lt;th&gt;Ⅲ&lt;/th&gt;
+&lt;th&gt;Ⅳ&lt;/th&gt;
+&lt;th&gt;Ⅴ&lt;/th&gt;
+&lt;th&gt;Ⅵ&lt;/th&gt;
+&lt;th&gt;Ⅶ&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -2184,11 +2184,11 @@
 &lt;/table&gt;
 &lt;p&gt;這種應用技巧在流行歌曲當中最常看到的例子就是：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;大調 IV 換成 IVm&lt;/li&gt;
+&lt;li&gt;大調 Ⅳ 換成 IVm&lt;/li&gt;
 &lt;li&gt;大調 IIm 常換成小調的 IIm7-5&lt;/li&gt;
 &lt;li&gt;大調 三級的 IIIm7 換成 bIII &amp;hellip;. 等。&lt;/li&gt;
-&lt;li&gt;小調的 IVm 換成 IV&lt;/li&gt;
-&lt;li&gt;大調的結尾經常出現 bVI - bVII - I，勉強可解釋成利用小調的 VI - VII 級&lt;/li&gt;
+&lt;li&gt;小調的 IVm 換成 Ⅳ&lt;/li&gt;
+&lt;li&gt;大調的結尾經常出現 bVI - bVII - I，勉強可解釋成利用小調的 Ⅵ - Ⅶ 級&lt;/li&gt;
 &lt;li&gt;&amp;hellip;. 其他 ..&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;採譜或者拿到樂譜時，留心這些地方，因為很明顯已經超出順階和弦的範圍。這種和聲技巧，在採譜 (抓歌) 的時候，通常很容易發現 (聽出來)。&lt;/p&gt;
@@ -2298,8 +2298,8 @@
 只知道, 2/#4 是大調順階和弦以外的東西.
 
 而和弦名稱就不一樣了, 熟悉五度圈很快就能發現: D 是 G 的五級.
-所以 D/F# -&amp;gt; G 這段是屬和弦 (V-I) 的關係, &amp;quot;音階的角度&amp;quot; 已經改變了.
-G -&amp;gt; C 也是屬和弦 (V-I) 關係, 角度又改變了,
+所以 D/F# -&amp;gt; G 這段是屬和弦 (Ⅴ-I) 的關係, &amp;quot;音階的角度&amp;quot; 已經改變了.
+G -&amp;gt; C 也是屬和弦 (Ⅴ-I) 關係, 角度又改變了,
 在彈奏到這裡時, 音階使用的思考角度也會改變.
 這時候五度圈就真的很重要了,
 除了音程, 和弦, 吉他音階指型同樣也是利用五度圈.
@@ -2460,12 +2460,12 @@ G -&amp;gt; C 也是屬和弦 (V-I) 關係, 角度又改變了,
 &lt;tr&gt;
 &lt;th&gt;Natural Minor Scale&lt;/th&gt;
 &lt;th&gt;I&lt;/th&gt;
-&lt;th&gt;II&lt;/th&gt;
-&lt;th&gt;III&lt;/th&gt;
-&lt;th&gt;IV&lt;/th&gt;
-&lt;th&gt;V&lt;/th&gt;
-&lt;th&gt;VI&lt;/th&gt;
-&lt;th&gt;VII&lt;/th&gt;
+&lt;th&gt;Ⅱ&lt;/th&gt;
+&lt;th&gt;Ⅲ&lt;/th&gt;
+&lt;th&gt;Ⅳ&lt;/th&gt;
+&lt;th&gt;Ⅴ&lt;/th&gt;
+&lt;th&gt;Ⅵ&lt;/th&gt;
+&lt;th&gt;Ⅶ&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -2512,12 +2512,12 @@ G -&amp;gt; C 也是屬和弦 (V-I) 關係, 角度又改變了,
 &lt;tr&gt;
 &lt;th&gt;音階&lt;/th&gt;
 &lt;th&gt;I&lt;/th&gt;
-&lt;th&gt;II&lt;/th&gt;
-&lt;th&gt;III&lt;/th&gt;
-&lt;th&gt;IV&lt;/th&gt;
-&lt;th&gt;V&lt;/th&gt;
-&lt;th&gt;VI&lt;/th&gt;
-&lt;th&gt;VII&lt;/th&gt;
+&lt;th&gt;Ⅱ&lt;/th&gt;
+&lt;th&gt;Ⅲ&lt;/th&gt;
+&lt;th&gt;Ⅳ&lt;/th&gt;
+&lt;th&gt;Ⅴ&lt;/th&gt;
+&lt;th&gt;Ⅵ&lt;/th&gt;
+&lt;th&gt;Ⅶ&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -2771,7 +2771,7 @@ f = 7 ^ (n/24) x 500
 &lt;p&gt;我想從金庸的封筆之作 - 鹿鼎記，裡就可以看出很多這樣的例子。有時候看完鹿鼎記，我都會懷疑，韋小寶這傢伙或許是存在的。當然一方面這表示我入戲太深，另一方面就是查爺爺整合真實與虛擬的功力實在是一級棒！(或者說虎爛的功夫一級棒XD)&lt;/p&gt;
 &lt;p&gt;音樂這種藝術也是有類似的形式。常見的大概就是曲式 (Form)、和弦進行、節奏 Style、Loop。曲式最常見的爵士標準曲 (Jazz Standard)、藍調 16、12、8 小節，流行歌曲常用的降冪和弦進行，卡農曲式；各式各樣的音樂風格都可以說是一種固定形式！&lt;/p&gt;
 &lt;p&gt;當然啦，歷史有的時候也會被推翻，所以偶爾會有改寫歷史的狀況。音樂當然也是，只是不能說是推翻，因該是一種創新吧！算是新的曲式、新的風格～&lt;/p&gt;
-&lt;p&gt;著名的 Ⅱ-V-I 進行就有千千萬萬首歌曲 (Realbook 裡少說數百首)，最常見的例如:&lt;/p&gt;
+&lt;p&gt;著名的 Ⅱ-Ⅴ-I 進行就有千千萬萬首歌曲 (Realbook 裡少說數百首)，最常見的例如:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Autumn Leaves&lt;/li&gt;
 &lt;li&gt;All the things you are&lt;/li&gt;
