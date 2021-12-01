@@ -86,7 +86,7 @@
     <loc>https://www.gtcafe.com/rickmidi/guitar/practice-arpeggios-g-major7/</loc>
     <lastmod>2015-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gtcafe.com/rickmidi/gossip/correctness-efficiency/</loc>
+    <loc>https://www.gtcafe.com/rickmidi/gossip/simple-complex/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/tags/%E8%81%8A%E5%A4%A9/</loc>
@@ -296,7 +296,7 @@
     <loc>https://www.gtcafe.com/rickmidi/gossip/form-framework-history/</loc>
     <lastmod>2008-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gtcafe.com/rickmidi/gossip/simple-complex/</loc>
+    <loc>https://www.gtcafe.com/rickmidi/gossip/correctness-efficiency/</loc>
     <lastmod>2008-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/rickmidi/theory/musical-mode/</loc>
@@ -326,6 +326,8 @@
     <loc>https://www.gtcafe.com/categories/</loc>
   </url><url>
     <loc>https://www.gtcafe.com/search/</loc>
+  </url><url>
+    <loc>https://www.gtcafe.com/series/</loc>
   </url><url>
     <loc>https://www.gtcafe.com/rickmidi/band/band-score/</loc>
   </url>
