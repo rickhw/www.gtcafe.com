@@ -311,7 +311,6 @@
 &lt;/table&gt;
 &lt;p&gt;這樣就很明顯的發現，跟音一樣，但是音程不一樣。這也就是我們聆聽調式音樂時實際上和調性音樂的差異。&lt;/p&gt;
 &lt;p&gt;另外第一段的調性提到的第三個要素 - 順階和弦，調式一樣有屬於自己的順階和弦，詳細說明請參考 &amp;ldquo;淺談調式和聲&amp;rdquo; 。&lt;/p&gt;
-&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2007-2010 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
 &lt;h2 id=&#34;調調式及轉調&#34;&gt;調、調式及轉調&lt;/h2&gt;
 &lt;p&gt;前面提到關於 &amp;ldquo;調&amp;rdquo; 的觀念建立於根音，音階的音程關係，還有順階和弦。一般來說，所謂 &amp;ldquo;轉調&amp;rdquo; 指的是調的根音改變 (其實音程關係改變也算，但我習慣用調式來解釋音程改變)，其他不變。如由 C Major 改變成 G Major (屬調關係)。&lt;/p&gt;
 &lt;ul&gt;
@@ -1540,7 +1539,6 @@
 &lt;/table&gt;
 &lt;p&gt;表格中的數字音階，基本上還是參考大調音階的音程，所以其實也代表著音程關係，例如表中的 C、A、E、B 小調 &amp;hellip; 等音階。可以推算一下，每個音階的音程關係都會是 &lt;strong&gt;全半全全半全全&lt;/strong&gt; 。同理，把他放在從 A 位置出發的就會得到 A 小調音階，也就是我們經常拿 C 大調來參考的音階。上表還有其他例子，可以用同樣的方式驗證。&lt;/p&gt;
 &lt;p&gt;一般我們習慣用大調當參考，把大調的 6 級開始當成小調；同理，我們也可以把小調當參考，每個小調音階的 Ⅲ 級開始算，就可以得到大調音階。例如 A 小調音階是：A B C D E F G，從 Ⅲ 級開始算，就可以得到 C 大調音階。上述表格中有標示關係大調，從三級開始算都可以驗證得到關係大調。&lt;/p&gt;
-&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2008-2014 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
 &lt;h2 id=&#34;平行調&#34;&gt;平行調&lt;/h2&gt;
 &lt;p&gt;平行調就是 &lt;code&gt;根音相同、音程關係不同&lt;/code&gt; 的兩個音階。例如 C 大調與 C 小調，兩者的根音都是 C，但是音程關係前者為大調關係，後者為小調關係。&lt;/p&gt;
 &lt;table&gt;
@@ -1658,7 +1656,6 @@
 &lt;p&gt;所以當遇到使用和聲或者旋律小音階的曲子，要注意的是哪裡有用到那些經過音。但是要注意的是，這兩組音階都是屬於功能性的，所以 &lt;strong&gt;和聲方面不見得會完全套用這兩組的順階和弦&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;像是 A 和聲小調中五級會改成 E7 (E G# B D)，但是一般歌曲當中一級還是會用 Am7，而不會使用 Am(Maj7) (A C E G#, 小調大七和弦)，因為我們只是想要製造屬和弦的聲響，然後解決到一級。所以會更動的只有五級，一級則延續原本小調音階的一級。(updated: 20100207)&lt;/p&gt;
 &lt;p&gt;著名的搖滾曲子：加州大旅館 (Hotel California) 就可以以自然小調的角度，然後加上 Passing Tone 的概念來解釋其和弦進行和 Solo Line 的關係。&lt;/p&gt;
-&lt;p&gt;&amp;mdash;&amp;mdash;- Copyright © 2008-2014 Rick KY Hwang All rights reserved &amp;mdash;&amp;mdash;-&lt;/p&gt;
 &lt;h2 id=&#34;吉他上的小調音階&#34;&gt;吉他上的小調音階&lt;/h2&gt;
 &lt;p&gt;吉他的彈奏，簡單說可以找到大調音階的 La (6) 開始唱/彈，就可以彈出小調的感覺。但是如果你已經是一個熟悉吉他音階指型的吉他手，建議嘗試用 1 2 b3 4 5 b6 b7 思考，然後留意那三個降音記號的位置，因為它們正是讓你正在演奏的音階有小調的感覺。上述的描述方式，原則上都是以所謂的 Key Center 思考，Jazz 的學習者，要開始習慣用用 Note Name、Interval、Chord Tone、Tension Notes 思考。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;minor-scale-on-guitar.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
