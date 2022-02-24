@@ -72,6 +72,13 @@
 
 
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous"
+  src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v13.0&appId=630524736992306&autoLogAppEvents=1"
+  nonce="iDcZuooI"></script>
+
+
+
   </head>
   <body class="td-page">
     <header>
@@ -1687,8 +1694,9 @@
             
 <div class="td-content">
 	<h1>正確性與速度</h1>
+
     
-	       
+	
 	<p>幾個月前工作上遇到一個問題，就是 <code>正確性 (Correctness)</code> 與 <code>速度 (其實就是效率 Efficiency)</code> 的課題。</p>
 <p>我負責開發一個 USB Device 的通訊協定，上面期望的結果是既正確，又快速，讓我很為難。這種 Device 工作方式是 <a href="http://en.wikipedia.org/wiki/Polling_%28computer_science%29">Polling (輪詢)</a> 機制，Device 本身的 micro-chip 處理速度就不快了，加上 Polling 要額外付出的尋訪時間，所以要正確又要快速，兩者我只能取其一；正確就快不起來，要快 (做個樣子) 就無法正確。</p>
 <p>這跟音樂有啥關係？是有的，音樂的演奏技術是建立在正確的表達之上，不管是速度，還是多麼花俏的技巧，多麼炫麗的音色，這些東西都必須建立在正確的彈奏之上。彈的又快又好，要先建立在彈的又慢又穩之上。歌曲的速度 200，那麼就要先把 100 練好；想要在速度 200 上彈一些花俏的技巧，那就先把 100 練好，然後慢慢往上增加。</p>
