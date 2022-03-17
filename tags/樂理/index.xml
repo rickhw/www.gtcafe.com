@@ -455,7 +455,7 @@
         
         
         &lt;p&gt;&lt;code&gt;自然大調音階 (Natural Major Scale)&lt;/code&gt; 是西洋樂理的最基礎最根本，他定義了所有西洋音樂理論的參考依據，包含音符的名稱，也就是 &lt;code&gt;音名 (Notation Name or Note Name)&lt;/code&gt;，然後還有 &lt;code&gt;音程 (Interval)&lt;/code&gt;、&lt;code&gt;音程協和度 (Consonances)&lt;/code&gt;，然後依據音程協和度關係隨之衍生的 &lt;code&gt;和聲系統 (Harmony)&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;我們使用的音樂上相關的名詞，定義，還有很多重要的資訊，都是參考自然大調的定義，所以了解最基本的自然大調是學習音樂時必要的。自然大調音階口語上沒有特別說明，都是指自然大調，像是說 A 調，指的就是 A 大調或 A 自然大調; 口語上的 &lt;code&gt;自然音階&lt;/code&gt;、&lt;code&gt;大音階&lt;/code&gt; 也都是表示自然大調音階。&lt;/p&gt;
+&lt;p&gt;我們使用的音樂上相關的名詞，定義，還有很多重要的資訊，都是參考自然大調的定義，所以了解最基本的自然大調是學習音樂時必要的。自然大調音階口語上沒有特別說明，都是指 &lt;code&gt;自然大調&lt;/code&gt;，像是說 A 調，指的就是 A 大調或 A 自然大調; 口語上的 &lt;code&gt;自然音階&lt;/code&gt;、&lt;code&gt;大音階&lt;/code&gt; 也都是表示 &lt;code&gt;自然大調音階&lt;/code&gt;。&lt;/p&gt;
 &lt;h2 id=&#34;c-大調音階的定義&#34;&gt;C 大調音階的定義&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
