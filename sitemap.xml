@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gtcafe.com/rickmidi/production/using-external-midi-devices-in-logic-pro/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.gtcafe.com/rickmidi/guitar/effective-practice-guitar/</loc>
     <lastmod>2015-11-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,6 +26,9 @@
     <loc>https://www.gtcafe.com/rickmidi/guitar/</loc>
     <lastmod>2015-11-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.gtcafe.com/rickmidi/production/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.gtcafe.com/rickmidi/songs/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,20 +38,35 @@
     <loc>https://www.gtcafe.com/rickmidi/gossip/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gtcafe.com/rickmidi/production/</loc>
-    <lastmod>2011-09-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.gtcafe.com/rickmidi/dict/</loc>
     <lastmod>2008-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/rickmidi/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/tags/daw/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/tags/lsb/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/tags/midi/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/tags/motifxs8/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/tags/msb/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/tags/sound-module/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/tags/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/tags/zelda/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>

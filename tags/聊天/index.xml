@@ -458,7 +458,7 @@
 &lt;p&gt;一個是學習吉他這個樂器的駕馭。像是手指跟弦的感覺，手指的獨立性，指版位置熟悉，右手與弦的 touch (dynamic)，左手壓弦的感覺，吉他的聲音特性 … 等。跟及他有直接關係的 &amp;ldquo;技術&amp;rdquo;。這些都是必須要靠後天的練習，熟悉才能夠慢慢的熟悉。&lt;/p&gt;
 &lt;p&gt;第二部分是學習利用 &amp;ldquo;吉他&amp;rdquo; 這個樂器來表達東西。簡單說，就是一種思想表現，意念的傳達。&lt;/p&gt;
 &lt;p&gt;學過 Java 語言的人也許看過一本書：Thinking in Java 。作者在開始的時候提到，程式語言本身的概念：&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;quot;But computers are not so much machines as they are mind amplification tools (&amp;quot;bicycles for the mind,&amp;quot; as Steve Jobs is fond of saying) and a different kind of expressive medium. As a result, the tools are beginning to look less like machines and more like parts of our minds, and also like other forms of expression such as writing, painting, sculpture, animation, and filmmaking. Object-oriented programming (OOP) is part of this movement toward using the computer as an expressive medium. &amp;quot;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;#34;But computers are not so much machines as they are mind amplification tools (&amp;#34;bicycles for the mind,&amp;#34; as Steve Jobs is fond of saying) and a different kind of expressive medium. As a result, the tools are beginning to look less like machines and more like parts of our minds, and also like other forms of expression such as writing, painting, sculpture, animation, and filmmaking. Object-oriented programming (OOP) is part of this movement toward using the computer as an expressive medium. &amp;#34;
 
 摘錄自：Thinking in Java，3rd
 &lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
@@ -676,8 +676,8 @@
 : 藉這個方法用第一種方式來演奏其實也不難
 : 只是還是想知道要讓自己能夠快速且精準的看譜就能演奏的話應該用哪種方法去學習
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;底下是我的回覆：&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;看起來有點像是 &amp;quot;怎麼熟悉吉他指板上的音名和各調音名&amp;quot;
-和 &amp;quot;怎麼瞭解自己在彈些啥&amp;quot;.
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;看起來有點像是 &amp;#34;怎麼熟悉吉他指板上的音名和各調音名&amp;#34;
+和 &amp;#34;怎麼瞭解自己在彈些啥&amp;#34;.
 
 如果是熟悉各調音名的話, 簡單說就是要工具來輔助.
 最常用的就是五度圈了.
@@ -717,7 +717,7 @@
 大部分的 Key Center 的歌來說,
 吉他用把位平移的概念是 Ok 的, 因為平移就可以做出樣子了.
 可是如果在一些應用有和聲代換的歌曲來說,
-用數字級 (1, 2m, 3m ...) 那樣的方式就無法很清楚表示和聲代換的 &amp;quot;角度變化&amp;quot;
+用數字級 (1, 2m, 3m ...) 那樣的方式就無法很清楚表示和聲代換的 &amp;#34;角度變化&amp;#34;
 例如一個常見的例子:
 
 &amp;gt; | C | F | D/F# G | C |
@@ -730,7 +730,7 @@
 只知道, 2/#4 是大調順階和弦以外的東西.
 
 而和弦名稱就不一樣了, 熟悉五度圈很快就能發現: D 是 G 的五級.
-所以 D/F# -&amp;gt; G 這段是屬和弦 (Ⅴ-I) 的關係, &amp;quot;音階的角度&amp;quot; 已經改變了.
+所以 D/F# -&amp;gt; G 這段是屬和弦 (Ⅴ-I) 的關係, &amp;#34;音階的角度&amp;#34; 已經改變了.
 G -&amp;gt; C 也是屬和弦 (Ⅴ-I) 關係, 角度又改變了,
 在彈奏到這裡時, 音階使用的思考角度也會改變.
 這時候五度圈就真的很重要了,
@@ -802,7 +802,7 @@ G -&amp;gt; C 也是屬和弦 (Ⅴ-I) 關係, 角度又改變了,
         &lt;p&gt;這好像在問 … 如何買一本書？如何看一部電影？如何讀一篇文章？……&lt;/p&gt;
 &lt;p&gt;記得我第一次聽到 Pub 國歌 - Hotel California 的感覺：這是啥阿？然後那張 1994 年 Live  的 CD 就被我丟到一旁，一放就是三年。大概是因為我從小是習慣聽王傑、張雨生、東方快車，還有理查克萊德門、陳冠宇、賴英里、蔡興國、高培華、溫金龍等演奏曲（不要懷疑，我是聽這些東西長大的，我最熟悉的音樂是巴黎日記，不是愛的羅曼史，彈吉他完全是場誤會）。因為環境的關係，身邊幾乎沒有人在聽西洋歌曲，所以第一次聽到 Unplugged 的加州大旅館難怪會有聽沒有懂。&lt;/p&gt;
 &lt;p&gt;以往聽歌大概都是比較單純，直覺的，像是：爽度、主唱正不正、帥不帥、MV好不好看、視覺性聽覺、節奏強弱、歌詞 … 等。像是第一次聽到 Obeo 就迷上那優美的憂鬱音色，基本上蔡興國在吹啥當時我根本聽不懂。&lt;/p&gt;
-&lt;p&gt;後來我買了一套 50 ~ 90年代西洋經典歌曲 (12CD)，算是開始接觸西洋歌曲，之後開始接觸一些70&#39; Rock、藍調、放克、爵士、古典…同時也因為有一段時間都在Cover流行歌曲的MIDI編曲，對於歌曲的架構、音色、樂器特性有一點點認識。隨著年齡的增長、聆聽的東西變多、變廣，音樂上的知識增加，因為這些的經驗讓我對於如何聽歌、或者說如何欣賞一首歌，終於稍微懂一點點了。&lt;/p&gt;
+&lt;p&gt;後來我買了一套 50 ~ 90年代西洋經典歌曲 (12CD)，算是開始接觸西洋歌曲，之後開始接觸一些70&amp;rsquo; Rock、藍調、放克、爵士、古典…同時也因為有一段時間都在Cover流行歌曲的MIDI編曲，對於歌曲的架構、音色、樂器特性有一點點認識。隨著年齡的增長、聆聽的東西變多、變廣，音樂上的知識增加，因為這些的經驗讓我對於如何聽歌、或者說如何欣賞一首歌，終於稍微懂一點點了。&lt;/p&gt;
 &lt;p&gt;以下是一些我的聽歌的參考方向以及簡單分類，第一類大概就是比較技術的東西，也是一般玩樂器、玩音樂的人、音樂比賽評審會比較會留意的。第二類是比較人文的部分，愛樂人(或者說一般大眾)會留意的東西。&lt;/p&gt;
 &lt;h2 id=&#34;技術層次-深度&#34;&gt;技術層次 (深度)&lt;/h2&gt;
 &lt;ul&gt;
@@ -930,7 +930,7 @@ Unanticipated, these free radicals...
 ...engender questions of free will...
 ...creativity and even the nature of what we might call the soul.
 
-What happens in a robot&#39;s brain
+What happens in a robot&amp;#39;s brain
 when it ceases to be useful?
 
 Why is it that robots stored in an empty space...
