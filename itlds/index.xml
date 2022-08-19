@@ -1,0 +1,268 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 唉梯喇滴賽</title>
+    <link>https://www.gtcafe.com/itlds/</link>
+    <description>Recent content in 唉梯喇滴賽 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/itlds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: 拆服務？分類？</title>
+      <link>https://www.gtcafe.com/itlds/20220818/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/20220818/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Source: &lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0Q8KPR6FYgcy81pPJu6ZEL9CHyvq3UnMFwjV8DNkGhr8J4a23QDdz8NqXwvSjRxZZl&#34;&gt;2022/08/18&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#分類 #拆服務 #拆組織&lt;/p&gt;
+&lt;p&gt;物件導向的專有名詞：類別 (Class)，本質上就是 #分類 的概念。換言之，就是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;描述一個類別 (Class, n)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這件事情背後的本質就是在分類 (Classify, v)，也就是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一堆東西，先經過分類 (動作) 之後，定義類別 (名詞)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這個名詞定義的精準程度 (這裡牽涉到語言的字彙程度)，決定領域 (Domain) 涉入的深度。&lt;/p&gt;
+&lt;p&gt;例如，電商領域的會員 (Member) 是領域知識，如果要用一個 Class 描述會員會怎麼描述？&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Member&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String firstName&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String lastName&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String age&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String gender&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;這個例子是結果了，如果反過來，先有一堆東西：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;firstName&lt;/li&gt;
+&lt;li&gt;lastName&lt;/li&gt;
+&lt;li&gt;age&lt;/li&gt;
+&lt;li&gt;gender&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;那會怎麼命名？經過分析可能會有以下 #名詞：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Profile&lt;/li&gt;
+&lt;li&gt;Identity&lt;/li&gt;
+&lt;li&gt;Member&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我的字彙有點少，反正至少有這三個 XDD&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;另外一個我常舉的例子，
+通常是寫 Code 有一定經驗的人一定會 #想做 的:
+(如果你沒感覺就 &amp;hellip;.)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一個 Class 裡有 20 個 Method&lt;/li&gt;
+&lt;li&gt;一個 Method 有 1000 行&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;換個角度，再舉一些例子：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一個組織有 30 個人&lt;/li&gt;
+&lt;li&gt;一個房間有 300 坪&lt;/li&gt;
+&lt;li&gt;一個書櫃有 300 本書&lt;/li&gt;
+&lt;li&gt;一個系統裡有 30 個角色&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;這年代很多架構都是分散式架構，
+大多都要拆服務，拆成微服務、奈米服務
+很多人會說，要用一些方法來拆
+像是現在流行的 #DDD ..&lt;/p&gt;
+&lt;p&gt;其實如果你有從上看到這裡
+大概就會知道我的直接概念就是
+多就拆
+拆就去管理依賴
+不面對這問題
+時間到了
+他就會來面對你&lt;/p&gt;
+&lt;p&gt;至於啥是多？
+需要科學的量化方法？
+還是團隊共識？
+還是主管決？
+只要大家看清楚就好&lt;/p&gt;
+&lt;p&gt;不要真的要給團隊共識決
+不敢決
+決了也不敢負責任&lt;/p&gt;
+&lt;p&gt;或者主管決
+做了不好決策
+該反應又不說
+又靠北主管無能&lt;/p&gt;
+&lt;p&gt;科學化方法自己卻沒有能力量化
+因為連自己寫過多少 Code 都沒能力掌握&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 開發者的環境</title>
+      <link>https://www.gtcafe.com/itlds/20200813/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/20200813/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Source: &lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02KjK2XsgjMF4hbzvnsJjCGnReEPMWPhixPJcnjRSXevJyonwY4rWHbj3PVdGm1yBfl&#34;&gt;2020/08/13&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;朋友提出一個問題：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他是開發者 (Developer) ，跟 SRE / MIS 申請一台 VM 開發用，但公司的政策是：不被允許可以更改作業系統的設定，像是 /etc 底下的東西，這樣是否合理？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—&amp;ndash;&lt;/p&gt;
+&lt;p&gt;我的經驗與觀點是：開發人員必須要有一定的資源與彈性，做探索性的實驗。例如開發過程，需要自己裝一些工具、軟體、語言層級的套件。甚至開發的功能本身就有效能要求，那麼調整系統參數，像是 /etc、/proc 底下的東西、調整 database / cache 的設定，讓開發過程可以有彈性的探索與實驗，這個權限是 理所當然 的。&lt;/p&gt;
+&lt;p&gt;然後開發人員把這種實驗 (lab) 環境弄壞是正常的，沒弄壞代表你對系統沒有做過嘗試，只知道應用層自己的狀況，出了應用層以外的東西都不知道。這寫出來的東西，基本上是無法面對真實世界的，或者是巨大的浪費。&lt;/p&gt;
+&lt;p&gt;以前我在開發時，常會把 linux 搞壞、把 application server (tomcat, was, jboss) 搞壞、把 MySQL、mencached 搞壞、把 eclipse 、Apache 搞壞 &amp;hellip;.. 所以我很常用 VMWare 模擬各種奇怪的環境，甚至是網路。過程會把上述的東西的 config 倒來倒去，import / export (這是我看軟體設計的關鍵檢核點)，同一個版本裝很多個，試看不同的 config ，或者同時裝很多版本，然後餵同樣的 config ，或者資料。&lt;/p&gt;
+&lt;p&gt;這些都是探索。為了這些探索，我會想辦法找資源，公司如果有資源，會盡可能利用。如果資源不夠，那就要靠關係（跟 IT / MIS，當時不叫 SRE / DevOps）搞好關係，再不然，就是投資自己，買好一點的電腦，跑 VM &amp;hellip; 現在還留一些當時特定環境的 VM &amp;hellip;&lt;/p&gt;
+&lt;p&gt;我比較幸運，工作過程曾經有時間，或者說我自己就有這種探索的慾望，所以會做很多類似的實驗。&lt;/p&gt;
+&lt;p&gt;—&amp;ndash;&lt;/p&gt;
+&lt;p&gt;回到問題本身，開發人員申請的開發用的機器，能否自己改作業系統的設定？&lt;/p&gt;
+&lt;p&gt;我的回答：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;當然可以，不然等上線後請 SRE / Ops 幫你找問題？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;開發人員，要自己找出應用程式與系統的關係，甚至是效能的調教。以 Web App 來講，有些需要調教系統的 tcp 參數、openfile 常見的 fd &amp;hellip; 理想的狀況下，這些其實都是 developer 在上線前，必須 benchmark 出來，告訴 SRE / Ops 有哪一些系統參數要注意、 要調整、如何調、怎樣的情境要調整。同樣的，除了系統，應用層自己的參數，也就是一般 AP 層的 config，有哪一些可以調、怎麼調、為什麼調？有哪一些 #開關 可以開、可以關？( Feature Toggle 完全是個舊瓶新裝的東西）。&lt;/p&gt;
+&lt;p&gt;developer 下一棒不是 SRE / Ops，前述的東西 QA 也應該找出來。至少要確認 AP 層的 config 個別是做啥的。&lt;/p&gt;
+&lt;p&gt;Config 描述的是系統架構的介面，通常我看一個系統架構的第一步就是 config 掃過一輪，就大概知道有哪一些內外依賴，他們怎麼通訊的，搞清楚後才往下看資料結構、資料庫、應用框架。&lt;/p&gt;
+&lt;p&gt;—&amp;ndash;&lt;/p&gt;
+&lt;p&gt;不過回到現實，那些作業系統層級的參數幾乎都是 SRE / Ops 找出來的。&lt;/p&gt;
+&lt;p&gt;理想的應該是：Developer 利用 container 的資源限制方式，在本機就可以量測相關的資訊，例如寫一個比對照片的批次程序，量測這個程式的效能。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: Dev 和 Ops 誰有價值？</title>
+      <link>https://www.gtcafe.com/itlds/20190817/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/20190817/</guid>
+      <description>
+        
+        
+        &lt;p&gt;跟朋友聊到這問題的看法：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作曲 跟 演奏哪個有價值？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有點像二元論、雞生蛋蛋生雞的問題。&lt;/p&gt;
+&lt;p&gt;作曲像生孩子，演奏是教育孩子。
+作曲像創造生命，演奏授與靈魂。
+作曲是 0 到 1，演奏是 1 - 100。
+作曲是 developer, 編曲/演奏是 engineer [3]&lt;/p&gt;
+&lt;p&gt;刻板映像：大部分的樂手瞧不起五月天
+因為很芭樂，沒啥深度，也沒啥技術性
+為了取悅而創作
+就像很多開發者瞧不起 Windows
+五月天就是寫給 80% 的人聽得懂的 [1]
+Microsoft 就是為了搶下 80% 的市場
+如此而已。&lt;/p&gt;
+&lt;p&gt;寫歌這件事不難，寫出有共鳴的不容易 [1]
+寫出來的歌是好是壞
+有時候後天的包裝影響很大
+#編曲 則是另一種包裝&lt;/p&gt;
+&lt;p&gt;要賺錢，就要寫 80% 的人聽得懂的。
+要表達自我，通常只有 20% 能接受。
+閃靈這種黑死的風格，在台灣是很少人能接受的，
+所以要賺錢，不會寫這種曲風。 (賺錢跟紅不紅不是絕對)
+但是閃靈的歌 重新編曲成大家聽得懂的風格之後
+接受度是很高的 像是 #暮沉武德殿 [2]&lt;/p&gt;
+&lt;p&gt;我很常用 #詮釋 這個概念
+樂手的工作，就是 詮釋 作曲者想表達的情緒
+而作曲者則要用他的『工具』留下來，
+讓樂手知道怎麼詮釋
+所以樂譜上都會有很多 #表情 符號
+不管是 fff, mf, 漸大漸小 &amp;hellip;. etc&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;同一個角色，都叫做郭靖、或者是張無忌
+但是不同人飾演，就是有不同的味道、樣子
+飾演就是一種對於角色的詮釋
+創造角色的是金庸
+金庸很重要，小說寫歷史
+從歷史中寫小說，創造虛實融合的故事
+但是讀歷史本身就是一件 hardcore ..
+一種技術性的操作&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;所以作曲跟演奏哪個重要？
+如果硬是要比個高下
+作曲還是比較重要  屬於是 DNA
+但有些歌曲很棒  但是經過重新詮釋後
+像是伍佰寫的 #被動 ，原本寫給周華健唱
+但在被伍佰重新編曲在演唱會演唱之前
+應該很少人會喜歡這首歌&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;所以我個人不會給絕對的答案
+不同領域 不同角度有不同看法
+業務的價值 要技術與工程團隊支撐
+技術與工程團隊 需要業務目標來挑戰
+貶抑任一方
+或者想比高下基本上沒啥意義
+Dev &amp;amp; Ops 重點在合作
+不在於誰比較重要&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://www.gtcafe.com/rickmidi/gossip/simple-complex/&#34;&gt;https://www.gtcafe.com/rickmidi/gossip/simple-complex/&lt;/a&gt;
+[2] &lt;a href=&#34;https://www.youtube.com/watch?v=kta4ZAwI6rY&#34;&gt;https://www.youtube.com/watch?v=kta4ZAwI6rY&lt;/a&gt;
+[3] &lt;a href=&#34;https://rickhw.github.io/2017/07/01/Management/Developer-or-Engineer/&#34;&gt;https://rickhw.github.io/2017/07/01/Management/Developer-or-Engineer/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0269uX5QQZxxBBQCFQk9nbp2SnubVsmGdcYzr4u7GNJagbWFkQXULFs8qphUiaN4spl&#34;&gt;2019/08/17 (Backup)&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 語言學習跟軟體開發</title>
+      <link>https://www.gtcafe.com/itlds/20180924/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/20180924/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Source: &lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid07mW2UnPngpEtCjYffckf9JYtf5GY2MX9hJBre88rUaEuVuAbBSskTzrtAWi5DLVRl&#34;&gt;2018/09/24&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這是本來規劃要學的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sprint1: How?&lt;/li&gt;
+&lt;li&gt;Sprint2: How are you?&lt;/li&gt;
+&lt;li&gt;Sprint3: How are you today?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;先學個關鍵字：How
+然後馬上拿去用，
+抓個路人問：How？How？How？How？How？&lt;/p&gt;
+&lt;p&gt;聽不懂，再學第二句：How are you?
+然後馬上拿去用，抓個人說。。。
+馬上聽的懂了！&lt;/p&gt;
+&lt;p&gt;然後加上時間：How are you today?
+這是個完整的句子，
+就像完整的產品，可以上線了。
+終於上線了，人爽心情好，&lt;/p&gt;
+&lt;p&gt;加個形容詞：How are you fxxking today?
+人咩，總是會有情緒咩～～&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;軟體開發其實跟這很像，不過常常卻是這樣：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sprint1 看到：How?&lt;/li&gt;
+&lt;li&gt;Sprint2 看到：How are you?&lt;/li&gt;
+&lt;li&gt;Sprint3 看到：_________you today?     (衝啦，快上線啦，How 是啥東西？能吃嗎？)&lt;/li&gt;
+&lt;li&gt;Sprint4 看到：_____________fxxking today?   (衝衝衝)&lt;/li&gt;
+&lt;li&gt;Sprint5 看到：_____________fxxking? (&amp;hellip;&amp;hellip;&amp;hellip;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;恩，全貌只剩下 fxxking &amp;hellip;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;最近有篇 #天龍八部 類比軟體開發的說明，其實是類似的。。。不過考慮很多人沒讀過 #天龍八部 原著，也不知道創作過程，金庸出差、請倪匡代筆的過程。。。用比較簡單的方式說明類似的問題。。。&lt;/p&gt;
+&lt;p&gt;恩，凡走過，請不要忘記。看文也記得爬文，了解開發過程的原由、因果、來龍去脈 &amp;hellip;.  看到宏觀的整理。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;產品功能會隨時間累加、測試壓力也是累加、部署的複雜度也是累加的、維運的難度與複雜度是指數上升的。所以 #回歸測試 的重要性，在後期（2y+) 後越來越重要。&lt;/p&gt;
+&lt;p&gt;產品理想的情境，在過程中應該持續的 #去蕪存菁 ，也就是不是只有增加功能，同時也有刪去功能。能真的如此，系統會越來越強壯，越來越穩定。
+不過實際的都是，只有加，沒有減，更沒時間重構。所以系統只有越來越肥大，而且不知道肥在哪。最後很難看到全貌，只會看到 fxxking &amp;hellip;
+因為越來越大，但還是要如期交付，所以很多妖魔鬼怪的方法一窩蜂地跑出來，例如：沒有意義的 #自動化測試 ，對，我要再次強調：#沒有意義的自動化測試！ 問題源頭不在自動化，也不在測試，而是沒有回去 去蕪存菁！ 源頭是是垃圾，後面做的再好，都是只是很漂亮的垃圾。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
