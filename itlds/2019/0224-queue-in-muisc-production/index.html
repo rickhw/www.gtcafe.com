@@ -19,7 +19,8 @@
 
 <title>架構與錄音介面 | GTCafe Studio</title><meta property="og:title" content="架構與錄音介面" />
 <meta property="og:description" content="02/24: https://www.facebook.com/rick.kyhwang/posts/10210808014435833 08/24: https://www.facebook.com/rick.kyhwang/posts/10211752258481344 上週跟朋友喇賽，聊到做音樂的一些概念，與系統架構 (Queue) 的對照。
-做音樂時，需要 #錄音介面，專有名詞稱為 Sound Interface，主要有兩個目的：處理數位與類比訊號的轉換，一班稱為 A/D、D/A。DSP 晶片越強大，處理速度就越快。 . 大家要知道一件事情，音樂是時間藝術，換言之，製作音樂（通常是編曲、混音）過程中，聲音的產生是需要即時性的，否則會讓人有延遲感 (Delay)，編曲、錄音過程會很卡。
+做音樂時，需要 #錄音介面，專有名詞稱為 Sound Interface，主要有兩個目的：處理數位與類比訊號的轉換，一班稱為 A/D、D/A。DSP 晶片越強大，處理速度就越快。
+大家要知道一件事情，音樂是時間藝術，換言之，製作音樂（通常是編曲、混音）過程中，聲音的產生是需要即時性的，否則會讓人有延遲感 (Delay)，編曲、錄音過程會很卡。
 什麼叫做 #即時？50ms 叫即時？1ms 叫即時？其實，人類感覺不出來延遲，就叫做即時。但是每個人感覺不一樣，受過訓練的樂手超過 20ms 就感覺得出來，沒訓練過的一班人可能 70ms 都還沒感覺。
 做音樂過程，會在鍵盤上（Keyboard，一般稱為 Controller，可以是鍵盤、電子鼓、DJ 控制器）輸入訊號，透過 MIDI Protocal 產生 MIDI Message 給音源。詳細的流程參閱我的整理文章 1
 音源產生聲音方式有兩種：
@@ -32,18 +33,20 @@
 
 <meta itemprop="name" content="架構與錄音介面">
 <meta itemprop="description" content="02/24: https://www.facebook.com/rick.kyhwang/posts/10210808014435833 08/24: https://www.facebook.com/rick.kyhwang/posts/10211752258481344 上週跟朋友喇賽，聊到做音樂的一些概念，與系統架構 (Queue) 的對照。
-做音樂時，需要 #錄音介面，專有名詞稱為 Sound Interface，主要有兩個目的：處理數位與類比訊號的轉換，一班稱為 A/D、D/A。DSP 晶片越強大，處理速度就越快。 . 大家要知道一件事情，音樂是時間藝術，換言之，製作音樂（通常是編曲、混音）過程中，聲音的產生是需要即時性的，否則會讓人有延遲感 (Delay)，編曲、錄音過程會很卡。
+做音樂時，需要 #錄音介面，專有名詞稱為 Sound Interface，主要有兩個目的：處理數位與類比訊號的轉換，一班稱為 A/D、D/A。DSP 晶片越強大，處理速度就越快。
+大家要知道一件事情，音樂是時間藝術，換言之，製作音樂（通常是編曲、混音）過程中，聲音的產生是需要即時性的，否則會讓人有延遲感 (Delay)，編曲、錄音過程會很卡。
 什麼叫做 #即時？50ms 叫即時？1ms 叫即時？其實，人類感覺不出來延遲，就叫做即時。但是每個人感覺不一樣，受過訓練的樂手超過 20ms 就感覺得出來，沒訓練過的一班人可能 70ms 都還沒感覺。
 做音樂過程，會在鍵盤上（Keyboard，一般稱為 Controller，可以是鍵盤、電子鼓、DJ 控制器）輸入訊號，透過 MIDI Protocal 產生 MIDI Message 給音源。詳細的流程參閱我的整理文章 1
 音源產生聲音方式有兩種：
 #取樣播放：也就是播放錄好的聲音，例如把中央 A 錄起來，然後讀出來播放，吃的是 I/O 與記憶體。 #合成運算：也就是合成器，專有名詞 #Synthesizer 。主要適用 #振盪器 (OSC, LFO, HFO) 加上波形 #產生器 (正玄波、方波、三角波) ，還有 #濾波器 (Filter) 合成的聲音，這吃的是電腦運算，也就是 CPU。用電腦科學來講，就是一種演算法，最有名的就是 #史丹佛大學 的 #FM 2 合成器技術，後來賣給 YAMAHA。 如果是硬體處理，則是 DSP 直接運算處理。
 附圖是我的 Sound Interface 透過電腦當運算單元的設定畫面，在 Logic Pro 可以看到："><meta itemprop="datePublished" content="2019-02-24T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2019-02-24T00:00:00+00:00" />
-<meta itemprop="wordCount" content="84">
+<meta itemprop="wordCount" content="83">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="架構與錄音介面"/>
 <meta name="twitter:description" content="02/24: https://www.facebook.com/rick.kyhwang/posts/10210808014435833 08/24: https://www.facebook.com/rick.kyhwang/posts/10211752258481344 上週跟朋友喇賽，聊到做音樂的一些概念，與系統架構 (Queue) 的對照。
-做音樂時，需要 #錄音介面，專有名詞稱為 Sound Interface，主要有兩個目的：處理數位與類比訊號的轉換，一班稱為 A/D、D/A。DSP 晶片越強大，處理速度就越快。 . 大家要知道一件事情，音樂是時間藝術，換言之，製作音樂（通常是編曲、混音）過程中，聲音的產生是需要即時性的，否則會讓人有延遲感 (Delay)，編曲、錄音過程會很卡。
+做音樂時，需要 #錄音介面，專有名詞稱為 Sound Interface，主要有兩個目的：處理數位與類比訊號的轉換，一班稱為 A/D、D/A。DSP 晶片越強大，處理速度就越快。
+大家要知道一件事情，音樂是時間藝術，換言之，製作音樂（通常是編曲、混音）過程中，聲音的產生是需要即時性的，否則會讓人有延遲感 (Delay)，編曲、錄音過程會很卡。
 什麼叫做 #即時？50ms 叫即時？1ms 叫即時？其實，人類感覺不出來延遲，就叫做即時。但是每個人感覺不一樣，受過訓練的樂手超過 20ms 就感覺得出來，沒訓練過的一班人可能 70ms 都還沒感覺。
 做音樂過程，會在鍵盤上（Keyboard，一般稱為 Controller，可以是鍵盤、電子鼓、DJ 控制器）輸入訊號，透過 MIDI Protocal 產生 MIDI Message 給音源。詳細的流程參閱我的整理文章 1
 音源產生聲音方式有兩種：
@@ -241,7 +244,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">職能轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">質能轉換</a>
         
       
       
@@ -321,7 +324,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">能量轉換</a>
         
       
       
@@ -1081,9 +1084,8 @@
 	<h2 id="0824-httpswwwfacebookcomrickkyhwangposts10211752258481344">02/24: <a href="https://www.facebook.com/rick.kyhwang/posts/10210808014435833">https://www.facebook.com/rick.kyhwang/posts/10210808014435833</a>
 08/24: <a href="https://www.facebook.com/rick.kyhwang/posts/10211752258481344">https://www.facebook.com/rick.kyhwang/posts/10211752258481344</a></h2>
 <p>上週跟朋友喇賽，聊到做音樂的一些概念，與系統架構 (Queue) 的對照。</p>
-<p>做音樂時，需要 #錄音介面，專有名詞稱為 Sound Interface，主要有兩個目的：處理數位與類比訊號的轉換，一班稱為 A/D、D/A。DSP 晶片越強大，處理速度就越快。
-.
-大家要知道一件事情，音樂是時間藝術，換言之，製作音樂（通常是編曲、混音）過程中，聲音的產生是需要即時性的，否則會讓人有延遲感 (Delay)，編曲、錄音過程會很卡。</p>
+<p>做音樂時，需要 #錄音介面，專有名詞稱為 Sound Interface，主要有兩個目的：處理數位與類比訊號的轉換，一班稱為 A/D、D/A。DSP 晶片越強大，處理速度就越快。</p>
+<p>大家要知道一件事情，音樂是時間藝術，換言之，製作音樂（通常是編曲、混音）過程中，聲音的產生是需要即時性的，否則會讓人有延遲感 (Delay)，編曲、錄音過程會很卡。</p>
 <p>什麼叫做 #即時？50ms 叫即時？1ms 叫即時？其實，人類感覺不出來延遲，就叫做即時。但是每個人感覺不一樣，受過訓練的樂手超過 20ms 就感覺得出來，沒訓練過的一班人可能 70ms 都還沒感覺。</p>
 <p>做音樂過程，會在鍵盤上（Keyboard，一般稱為 Controller，可以是鍵盤、電子鼓、DJ 控制器）輸入訊號，透過 MIDI Protocal 產生 MIDI Message 給音源。詳細的流程參閱我的整理文章 <a href="http://rickmidi.blogspot.com/2011/09/concepts-of-music-technology.html">1</a></p>
 <p>音源產生聲音方式有兩種：</p>

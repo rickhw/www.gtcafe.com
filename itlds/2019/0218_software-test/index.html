@@ -19,8 +19,14 @@
 
 <title>部署測試 | GTCafe Studio</title><meta property="og:title" content="部署測試" />
 <meta property="og:description" content="https://www.facebook.com/rick.kyhwang/posts/10210774369514731
-我在 #軟體測試階段 [2] 介紹中，提到一個概念: Deployment Test，也就是那些部署程式自身的測試。在另一篇文章 介紹 #CodeDeploy [3] 時，也點出類似概念：#Pipeline 的 scripts 必須可以進 Git 版控、可以在開發者本機做測試、驗證，而不是被工具綁死。 . 而這個影片 [1] (by AWS) 的標題是同一個概念：Pipelines Should be Managed as Code: How Do You Test Your Pipeline Changes? . 同樣的概念，我在 #軟體開發生命週期 (Software Development Lifecycle, SDLC) [4] 一文的整理中，在 2016 年的版本中，提到 Pipeline 橫跨整個開發週期的想法，同時包含了 Provisioning、Infra as Code、Orchestration 等實務的想法。 . 其他類似想法的整理：
-2018/11/27 [5] 2018/11/07 [6] . 這些差不多就是在說明 #PipelineAsCode 的想法，除了 asCode 這些想法，其實還有一個關鍵點，也是很多人會犯錯的坑：AsCode 之後 Pipeline 所有的 Job 必須可以個別獨立執行，或者由不同角色，個別決定如何執行。否則就會陷入這樣的陷阱： . 飛機飛行都自動化了，但出狀況的時候，機長廣播跟大家說，他不會手動飛行。 ." />
+我在 #軟體測試階段 [2] 介紹中，提到一個概念: Deployment Test，也就是那些部署程式自身的測試。在另一篇文章 介紹 #CodeDeploy [3] 時，也點出類似概念：#Pipeline 的 scripts 必須可以進 Git 版控、可以在開發者本機做測試、驗證，而不是被工具綁死。
+而這個影片 [1] (by AWS) 的標題是同一個概念：Pipelines Should be Managed as Code: How Do You Test Your Pipeline Changes?
+同樣的概念，我在 #軟體開發生命週期 (Software Development Lifecycle, SDLC) [4] 一文的整理中，在 2016 年的版本中，提到 Pipeline 橫跨整個開發週期的想法，同時包含了 Provisioning、Infra as Code、Orchestration 等實務的想法。
+其他類似想法的整理：
+2018/11/27 [5] 2018/11/07 [6] 這些差不多就是在說明 #PipelineAsCode 的想法，除了 asCode 這些想法，其實還有一個關鍵點，也是很多人會犯錯的坑：AsCode 之後 Pipeline 所有的 Job 必須可以個別獨立執行，或者由不同角色，個別決定如何執行。否則就會陷入這樣的陷阱：
+飛機飛行都自動化了，但出狀況的時候，機長廣播跟大家說，他不會手動飛行。
+這概念，大概就是一般設計 #批次程序 時注意的，基本的原則：
+所有的程序可以獨立執行，通常是 command line 程序可以透過 stdin, stdout 串起來，也就是 pipe 程序跟程序之間的資源，不會相互干擾 類似的應用，在很多地方:" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.gtcafe.com/itlds/2019/0218_software-test/" /><meta property="article:section" content="itlds" />
 <meta property="article:published_time" content="2019-02-18T00:00:00+00:00" />
@@ -28,15 +34,27 @@
 
 <meta itemprop="name" content="部署測試">
 <meta itemprop="description" content="https://www.facebook.com/rick.kyhwang/posts/10210774369514731
-我在 #軟體測試階段 [2] 介紹中，提到一個概念: Deployment Test，也就是那些部署程式自身的測試。在另一篇文章 介紹 #CodeDeploy [3] 時，也點出類似概念：#Pipeline 的 scripts 必須可以進 Git 版控、可以在開發者本機做測試、驗證，而不是被工具綁死。 . 而這個影片 [1] (by AWS) 的標題是同一個概念：Pipelines Should be Managed as Code: How Do You Test Your Pipeline Changes? . 同樣的概念，我在 #軟體開發生命週期 (Software Development Lifecycle, SDLC) [4] 一文的整理中，在 2016 年的版本中，提到 Pipeline 橫跨整個開發週期的想法，同時包含了 Provisioning、Infra as Code、Orchestration 等實務的想法。 . 其他類似想法的整理：
-2018/11/27 [5] 2018/11/07 [6] . 這些差不多就是在說明 #PipelineAsCode 的想法，除了 asCode 這些想法，其實還有一個關鍵點，也是很多人會犯錯的坑：AsCode 之後 Pipeline 所有的 Job 必須可以個別獨立執行，或者由不同角色，個別決定如何執行。否則就會陷入這樣的陷阱： . 飛機飛行都自動化了，但出狀況的時候，機長廣播跟大家說，他不會手動飛行。 ."><meta itemprop="datePublished" content="2019-02-18T00:00:00+00:00" />
+我在 #軟體測試階段 [2] 介紹中，提到一個概念: Deployment Test，也就是那些部署程式自身的測試。在另一篇文章 介紹 #CodeDeploy [3] 時，也點出類似概念：#Pipeline 的 scripts 必須可以進 Git 版控、可以在開發者本機做測試、驗證，而不是被工具綁死。
+而這個影片 [1] (by AWS) 的標題是同一個概念：Pipelines Should be Managed as Code: How Do You Test Your Pipeline Changes?
+同樣的概念，我在 #軟體開發生命週期 (Software Development Lifecycle, SDLC) [4] 一文的整理中，在 2016 年的版本中，提到 Pipeline 橫跨整個開發週期的想法，同時包含了 Provisioning、Infra as Code、Orchestration 等實務的想法。
+其他類似想法的整理：
+2018/11/27 [5] 2018/11/07 [6] 這些差不多就是在說明 #PipelineAsCode 的想法，除了 asCode 這些想法，其實還有一個關鍵點，也是很多人會犯錯的坑：AsCode 之後 Pipeline 所有的 Job 必須可以個別獨立執行，或者由不同角色，個別決定如何執行。否則就會陷入這樣的陷阱：
+飛機飛行都自動化了，但出狀況的時候，機長廣播跟大家說，他不會手動飛行。
+這概念，大概就是一般設計 #批次程序 時注意的，基本的原則：
+所有的程序可以獨立執行，通常是 command line 程序可以透過 stdin, stdout 串起來，也就是 pipe 程序跟程序之間的資源，不會相互干擾 類似的應用，在很多地方:"><meta itemprop="datePublished" content="2019-02-18T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2019-02-18T00:00:00+00:00" />
-<meta itemprop="wordCount" content="109">
+<meta itemprop="wordCount" content="97">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="部署測試"/>
 <meta name="twitter:description" content="https://www.facebook.com/rick.kyhwang/posts/10210774369514731
-我在 #軟體測試階段 [2] 介紹中，提到一個概念: Deployment Test，也就是那些部署程式自身的測試。在另一篇文章 介紹 #CodeDeploy [3] 時，也點出類似概念：#Pipeline 的 scripts 必須可以進 Git 版控、可以在開發者本機做測試、驗證，而不是被工具綁死。 . 而這個影片 [1] (by AWS) 的標題是同一個概念：Pipelines Should be Managed as Code: How Do You Test Your Pipeline Changes? . 同樣的概念，我在 #軟體開發生命週期 (Software Development Lifecycle, SDLC) [4] 一文的整理中，在 2016 年的版本中，提到 Pipeline 橫跨整個開發週期的想法，同時包含了 Provisioning、Infra as Code、Orchestration 等實務的想法。 . 其他類似想法的整理：
-2018/11/27 [5] 2018/11/07 [6] . 這些差不多就是在說明 #PipelineAsCode 的想法，除了 asCode 這些想法，其實還有一個關鍵點，也是很多人會犯錯的坑：AsCode 之後 Pipeline 所有的 Job 必須可以個別獨立執行，或者由不同角色，個別決定如何執行。否則就會陷入這樣的陷阱： . 飛機飛行都自動化了，但出狀況的時候，機長廣播跟大家說，他不會手動飛行。 ."/>
+我在 #軟體測試階段 [2] 介紹中，提到一個概念: Deployment Test，也就是那些部署程式自身的測試。在另一篇文章 介紹 #CodeDeploy [3] 時，也點出類似概念：#Pipeline 的 scripts 必須可以進 Git 版控、可以在開發者本機做測試、驗證，而不是被工具綁死。
+而這個影片 [1] (by AWS) 的標題是同一個概念：Pipelines Should be Managed as Code: How Do You Test Your Pipeline Changes?
+同樣的概念，我在 #軟體開發生命週期 (Software Development Lifecycle, SDLC) [4] 一文的整理中，在 2016 年的版本中，提到 Pipeline 橫跨整個開發週期的想法，同時包含了 Provisioning、Infra as Code、Orchestration 等實務的想法。
+其他類似想法的整理：
+2018/11/27 [5] 2018/11/07 [6] 這些差不多就是在說明 #PipelineAsCode 的想法，除了 asCode 這些想法，其實還有一個關鍵點，也是很多人會犯錯的坑：AsCode 之後 Pipeline 所有的 Job 必須可以個別獨立執行，或者由不同角色，個別決定如何執行。否則就會陷入這樣的陷阱：
+飛機飛行都自動化了，但出狀況的時候，機長廣播跟大家說，他不會手動飛行。
+這概念，大概就是一般設計 #批次程序 時注意的，基本的原則：
+所有的程序可以獨立執行，通常是 command line 程序可以透過 stdin, stdout 串起來，也就是 pipe 程序跟程序之間的資源，不會相互干擾 類似的應用，在很多地方:"/>
 
 
 
@@ -229,7 +247,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">職能轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">質能轉換</a>
         
       
       
@@ -309,7 +327,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">能量轉換</a>
         
       
       
@@ -1060,49 +1078,39 @@
     
 	
 	<p><a href="https://www.facebook.com/rick.kyhwang/posts/10210774369514731">https://www.facebook.com/rick.kyhwang/posts/10210774369514731</a></p>
-<p>我在 #軟體測試階段 [2] 介紹中，提到一個概念: Deployment Test，也就是那些部署程式自身的測試。在另一篇文章 介紹 #CodeDeploy [3] 時，也點出類似概念：#Pipeline 的 scripts 必須可以進 Git 版控、可以在開發者本機做測試、驗證，而不是被工具綁死。
-.
-而這個影片 [1] (by AWS) 的標題是同一個概念：Pipelines Should be Managed as Code: How Do You Test Your Pipeline Changes?
-.
-同樣的概念，我在 #軟體開發生命週期 (Software Development Lifecycle, SDLC) [4] 一文的整理中，在 2016 年的版本中，提到 Pipeline 橫跨整個開發週期的想法，同時包含了 Provisioning、Infra as Code、Orchestration 等實務的想法。
-.
-其他類似想法的整理：</p>
+<p>我在 #軟體測試階段 [2] 介紹中，提到一個概念: Deployment Test，也就是那些部署程式自身的測試。在另一篇文章 介紹 #CodeDeploy [3] 時，也點出類似概念：#Pipeline 的 scripts 必須可以進 Git 版控、可以在開發者本機做測試、驗證，而不是被工具綁死。</p>
+<p>而這個影片 [1] (by AWS) 的標題是同一個概念：Pipelines Should be Managed as Code: How Do You Test Your Pipeline Changes?</p>
+<p>同樣的概念，我在 #軟體開發生命週期 (Software Development Lifecycle, SDLC) [4] 一文的整理中，在 2016 年的版本中，提到 Pipeline 橫跨整個開發週期的想法，同時包含了 Provisioning、Infra as Code、Orchestration 等實務的想法。</p>
+<p>其他類似想法的整理：</p>
 <ul>
 <li>2018/11/27 [5]</li>
-<li>2018/11/07 [6]
-.
-這些差不多就是在說明 #PipelineAsCode 的想法，除了 asCode 這些想法，其實還有一個關鍵點，也是很多人會犯錯的坑：AsCode 之後 Pipeline 所有的 Job 必須可以個別獨立執行，或者由不同角色，個別決定如何執行。否則就會陷入這樣的陷阱：
-.</li>
+<li>2018/11/07 [6]</li>
 </ul>
+<p>這些差不多就是在說明 #PipelineAsCode 的想法，除了 asCode 這些想法，其實還有一個關鍵點，也是很多人會犯錯的坑：AsCode 之後 Pipeline 所有的 Job 必須可以個別獨立執行，或者由不同角色，個別決定如何執行。否則就會陷入這樣的陷阱：</p>
 <blockquote>
-<p>飛機飛行都自動化了，但出狀況的時候，機長廣播跟大家說，他不會手動飛行。
-.
-這概念，大概就是一般設計 #批次程序 時注意的，基本的原則：
-.</p>
+<p>飛機飛行都自動化了，但出狀況的時候，機長廣播跟大家說，他不會手動飛行。</p>
 </blockquote>
+<p>這概念，大概就是一般設計 #批次程序 時注意的，基本的原則：</p>
 <ul>
 <li>所有的程序可以獨立執行，通常是 command line</li>
 <li>程序可以透過 stdin, stdout 串起來，也就是 pipe</li>
-<li>程序跟程序之間的資源，不會相互干擾
-.
-類似的應用，在很多地方:
-.</li>
+<li>程序跟程序之間的資源，不會相互干擾</li>
+</ul>
+<p>類似的應用，在很多地方:</p>
+<ul>
 <li>電商的後台交易批次程序</li>
 <li>銀行批次作業</li>
 <li>軟體自動化測試程序</li>
 <li>維運系統的批次程序</li>
-<li>非同步的系統功能 (非同步都是這種)
-.
-.
-#DevOps
-.
-[1] <a href="https://www.youtube.com/watch?v=paiaoRlJZTc">https://www.youtube.com/watch?v=paiaoRlJZTc</a>
+<li>非同步的系統功能 (非同步都是這種)</li>
+</ul>
+<p>#DevOps</p>
+<p>[1] <a href="https://www.youtube.com/watch?v=paiaoRlJZTc">https://www.youtube.com/watch?v=paiaoRlJZTc</a>
 [2] <a href="https://rickhw.github.io/2017/03/18/SQA/Stages-In-Software-Testing/">https://rickhw.github.io/2017/03/18/SQA/Stages-In-Software-Testing/</a>
 [3] <a href="https://rickhw.github.io/2017/08/13/AWS/Study-Notes-CodeDeploy-Preparation/">https://rickhw.github.io/2017/08/13/AWS/Study-Notes-CodeDeploy-Preparation/</a>
 [4] <a href="https://rickhw.github.io/2017/09/14/SoftwareEngineering/Software-Development-Lifecycle/">https://rickhw.github.io/2017/09/14/SoftwareEngineering/Software-Development-Lifecycle/</a>
 [5] <a href="https://www.facebook.com/rick.kyhwang/posts/10210320994260633">https://www.facebook.com/rick.kyhwang/posts/10210320994260633</a>
-[6] <a href="https://www.facebook.com/rick.kyhwang/posts/10210371671407530">https://www.facebook.com/rick.kyhwang/posts/10210371671407530</a></li>
-</ul>
+[6] <a href="https://www.facebook.com/rick.kyhwang/posts/10210371671407530">https://www.facebook.com/rick.kyhwang/posts/10210371671407530</a></p>
 
 	
 	

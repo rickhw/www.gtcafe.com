@@ -19,8 +19,9 @@
 
 <title>VSTS | GTCafe Studio</title><meta property="og:title" content="VSTS" />
 <meta property="og:description" content="https://www.facebook.com/photo.php?fbid=10210768371004772&amp;set=a.1559674051176&amp;type=3
-Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分： .
-#Summary: 也就是看到全貌，包含 Dashboard、Wiki 部分 #Boards: 也就是執行狀況 (Execution)，內容以看板呈現，分成 Work Items, Boards, Sprint, Query 等形式呈現。其實重點在於如何 #執行，有哪些項目、哪一些階段、執行狀況、客制的查詢 等 #Repository: 是開發過程原始碼的分支管理 (Branches)，分成 Source, Commit, Branches, Pushes, Tags, Pull Request .. 等 #Pipeline: 是串接 CI/CD 的控制單元，也是一般 DevOps 在討論 #自動化 的重要區塊, 有 Builds, Release, Libraries, #Test: 測試執行紀錄，分成 Plan, Run, Load Test 三塊. #Artifacts: 產出物管理 . . 依照職業角色的對應，我這樣整理： . Summary, Board：所有人 Boards：Managers / PMs / POs / 所有人 Repository: Developers Pipeline: DevOps / Ops / SRE Test: Testers / QAs / QE / SDET ." />
+Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分：
+#Summary: 也就是看到全貌，包含 Dashboard、Wiki 部分 #Boards: 也就是執行狀況 (Execution)，內容以看板呈現，分成 Work Items, Boards, Sprint, Query 等形式呈現。其實重點在於如何 #執行，有哪些項目、哪一些階段、執行狀況、客制的查詢 等 #Repository: 是開發過程原始碼的分支管理 (Branches)，分成 Source, Commit, Branches, Pushes, Tags, Pull Request .. 等 #Pipeline: 是串接 CI/CD 的控制單元，也是一般 DevOps 在討論 #自動化 的重要區塊, 有 Builds, Release, Libraries, #Test: 測試執行紀錄，分成 Plan, Run, Load Test 三塊. #Artifacts: 產出物管理 依照職業角色的對應，我這樣整理：
+Summary, Board：所有人 Boards：Managers / PMs / POs / 所有人 Repository: Developers Pipeline: DevOps / Ops / SRE Test: Testers / QAs / QE / SDET 基本上，這些概念可以免強對應到我的 SDLC [1] 裡提到的四個 #角色 與 #階段，也就是 Plan, Execution, Acceptance, Go Live." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.gtcafe.com/itlds/2019/0217-vsts/" /><meta property="article:section" content="itlds" />
 <meta property="article:published_time" content="2019-02-17T00:00:00+00:00" />
@@ -28,15 +29,17 @@ Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分： .
 
 <meta itemprop="name" content="VSTS">
 <meta itemprop="description" content="https://www.facebook.com/photo.php?fbid=10210768371004772&amp;set=a.1559674051176&amp;type=3
-Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分： .
-#Summary: 也就是看到全貌，包含 Dashboard、Wiki 部分 #Boards: 也就是執行狀況 (Execution)，內容以看板呈現，分成 Work Items, Boards, Sprint, Query 等形式呈現。其實重點在於如何 #執行，有哪些項目、哪一些階段、執行狀況、客制的查詢 等 #Repository: 是開發過程原始碼的分支管理 (Branches)，分成 Source, Commit, Branches, Pushes, Tags, Pull Request .. 等 #Pipeline: 是串接 CI/CD 的控制單元，也是一般 DevOps 在討論 #自動化 的重要區塊, 有 Builds, Release, Libraries, #Test: 測試執行紀錄，分成 Plan, Run, Load Test 三塊. #Artifacts: 產出物管理 . . 依照職業角色的對應，我這樣整理： . Summary, Board：所有人 Boards：Managers / PMs / POs / 所有人 Repository: Developers Pipeline: DevOps / Ops / SRE Test: Testers / QAs / QE / SDET ."><meta itemprop="datePublished" content="2019-02-17T00:00:00+00:00" />
+Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分：
+#Summary: 也就是看到全貌，包含 Dashboard、Wiki 部分 #Boards: 也就是執行狀況 (Execution)，內容以看板呈現，分成 Work Items, Boards, Sprint, Query 等形式呈現。其實重點在於如何 #執行，有哪些項目、哪一些階段、執行狀況、客制的查詢 等 #Repository: 是開發過程原始碼的分支管理 (Branches)，分成 Source, Commit, Branches, Pushes, Tags, Pull Request .. 等 #Pipeline: 是串接 CI/CD 的控制單元，也是一般 DevOps 在討論 #自動化 的重要區塊, 有 Builds, Release, Libraries, #Test: 測試執行紀錄，分成 Plan, Run, Load Test 三塊. #Artifacts: 產出物管理 依照職業角色的對應，我這樣整理：
+Summary, Board：所有人 Boards：Managers / PMs / POs / 所有人 Repository: Developers Pipeline: DevOps / Ops / SRE Test: Testers / QAs / QE / SDET 基本上，這些概念可以免強對應到我的 SDLC [1] 裡提到的四個 #角色 與 #階段，也就是 Plan, Execution, Acceptance, Go Live."><meta itemprop="datePublished" content="2019-02-17T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2019-02-17T00:00:00+00:00" />
-<meta itemprop="wordCount" content="132">
+<meta itemprop="wordCount" content="120">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="VSTS"/>
 <meta name="twitter:description" content="https://www.facebook.com/photo.php?fbid=10210768371004772&amp;set=a.1559674051176&amp;type=3
-Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分： .
-#Summary: 也就是看到全貌，包含 Dashboard、Wiki 部分 #Boards: 也就是執行狀況 (Execution)，內容以看板呈現，分成 Work Items, Boards, Sprint, Query 等形式呈現。其實重點在於如何 #執行，有哪些項目、哪一些階段、執行狀況、客制的查詢 等 #Repository: 是開發過程原始碼的分支管理 (Branches)，分成 Source, Commit, Branches, Pushes, Tags, Pull Request .. 等 #Pipeline: 是串接 CI/CD 的控制單元，也是一般 DevOps 在討論 #自動化 的重要區塊, 有 Builds, Release, Libraries, #Test: 測試執行紀錄，分成 Plan, Run, Load Test 三塊. #Artifacts: 產出物管理 . . 依照職業角色的對應，我這樣整理： . Summary, Board：所有人 Boards：Managers / PMs / POs / 所有人 Repository: Developers Pipeline: DevOps / Ops / SRE Test: Testers / QAs / QE / SDET ."/>
+Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分：
+#Summary: 也就是看到全貌，包含 Dashboard、Wiki 部分 #Boards: 也就是執行狀況 (Execution)，內容以看板呈現，分成 Work Items, Boards, Sprint, Query 等形式呈現。其實重點在於如何 #執行，有哪些項目、哪一些階段、執行狀況、客制的查詢 等 #Repository: 是開發過程原始碼的分支管理 (Branches)，分成 Source, Commit, Branches, Pushes, Tags, Pull Request .. 等 #Pipeline: 是串接 CI/CD 的控制單元，也是一般 DevOps 在討論 #自動化 的重要區塊, 有 Builds, Release, Libraries, #Test: 測試執行紀錄，分成 Plan, Run, Load Test 三塊. #Artifacts: 產出物管理 依照職業角色的對應，我這樣整理：
+Summary, Board：所有人 Boards：Managers / PMs / POs / 所有人 Repository: Developers Pipeline: DevOps / Ops / SRE Test: Testers / QAs / QE / SDET 基本上，這些概念可以免強對應到我的 SDLC [1] 裡提到的四個 #角色 與 #階段，也就是 Plan, Execution, Acceptance, Go Live."/>
 
 
 
@@ -229,7 +232,7 @@ Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分： .
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">職能轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">質能轉換</a>
         
       
       
@@ -309,7 +312,7 @@ Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分： .
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">能量轉換</a>
         
       
       
@@ -1060,43 +1063,33 @@ Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分： .
     
 	
 	<p><a href="https://www.facebook.com/photo.php?fbid=10210768371004772&amp;set=a.1559674051176&amp;type=3">https://www.facebook.com/photo.php?fbid=10210768371004772&amp;set=a.1559674051176&amp;type=3</a></p>
-<p>Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分：
-.</p>
+<p>Azure DevOps (#VSTS) 每個 Project 左側功能區塊，分成幾個部分：</p>
 <ul>
 <li>#Summary: 也就是看到全貌，包含 Dashboard、Wiki 部分</li>
 <li>#Boards: 也就是執行狀況 (Execution)，內容以看板呈現，分成 Work Items, Boards, Sprint, Query 等形式呈現。其實重點在於如何 #執行，有哪些項目、哪一些階段、執行狀況、客制的查詢 等</li>
 <li>#Repository: 是開發過程原始碼的分支管理 (Branches)，分成 Source, Commit, Branches, Pushes, Tags, Pull Request .. 等</li>
 <li>#Pipeline: 是串接 CI/CD 的控制單元，也是一般 DevOps 在討論 #自動化 的重要區塊, 有 Builds, Release, Libraries,</li>
 <li>#Test: 測試執行紀錄，分成 Plan, Run, Load Test 三塊.</li>
-<li>#Artifacts: 產出物管理
-.
-.
-依照職業角色的對應，我這樣整理：
-.</li>
+<li>#Artifacts: 產出物管理</li>
+</ul>
+<p>依照職業角色的對應，我這樣整理：</p>
+<ul>
 <li>Summary, Board：所有人</li>
 <li>Boards：Managers / PMs / POs / 所有人</li>
 <li>Repository: Developers</li>
 <li>Pipeline: DevOps / Ops / SRE</li>
-<li>Test: Testers / QAs / QE / SDET
-.
-基本上，這些概念可以免強對應到我的 SDLC [1] 裡提到的四個 #角色 與 #階段，也就是 Plan, Execution, Acceptance, Go Live.
-.
-實際上還是有少，例如，Plan 功能太弱，沒有 User Story Mapping；執行過程的通知功能很弱，不容易通知相關人。維運功能太少，沒有部署後的 Dashboard，沒有 E2E 的 Feedback 管理 (類似於客戶關係管理)、沒有系統狀況檢核 (Health Dashboard) &hellip;
-.
-不過相較於其他協作系統，在 #開發階段 ，算是相對完整的。
-.
-.
-我理想的協作系統：
-.</li>
+<li>Test: Testers / QAs / QE / SDET</li>
 </ul>
+<p>基本上，這些概念可以免強對應到我的 SDLC [1] 裡提到的四個 #角色 與 #階段，也就是 Plan, Execution, Acceptance, Go Live.</p>
+<p>實際上還是有少，例如，Plan 功能太弱，沒有 User Story Mapping；執行過程的通知功能很弱，不容易通知相關人。維運功能太少，沒有部署後的 Dashboard，沒有 E2E 的 Feedback 管理 (類似於客戶關係管理)、沒有系統狀況檢核 (Health Dashboard) &hellip;</p>
+<p>不過相較於其他協作系統，在 #開發階段 ，算是相對完整的。</p>
+<p>我理想的協作系統：</p>
 <ol>
 <li>各個層級的 View: 高階主管可以看到年度計畫 (附圖)</li>
 <li>執行面的管理者可以精準掌握年度計畫的同步資訊</li>
-<li>一線執行者 (PO/Dev/QA/Ops)，可以知道年度計畫的變動
-.
-.
-[1] <a href="https://rickhw.github.io/2017/09/14/SoftwareEngineering/Software-Development-Lifecycle/">https://rickhw.github.io/2017/09/14/SoftwareEngineering/Software-Development-Lifecycle/</a></li>
+<li>一線執行者 (PO/Dev/QA/Ops)，可以知道年度計畫的變動</li>
 </ol>
+<p>[1] <a href="https://rickhw.github.io/2017/09/14/SoftwareEngineering/Software-Development-Lifecycle/">https://rickhw.github.io/2017/09/14/SoftwareEngineering/Software-Development-Lifecycle/</a></p>
 
 	
 	

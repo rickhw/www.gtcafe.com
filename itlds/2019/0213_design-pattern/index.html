@@ -19,8 +19,16 @@
 
 <title>Design Pattern | GTCafe Studio</title><meta property="og:title" content="Design Pattern" />
 <meta property="og:description" content="https://www.facebook.com/rick.kyhwang/posts/10210748760634525
-#隨筆 . #DesignPattern 存在的目的，不是為了掉書袋、耍專業的傲慢，而是讓工程師跟工程師之間、開發者跟開發者之間，能夠 #高效溝通。 . 叫兩個不同語言背景的工程師 (Node.js, GoLang) 說明 Observer Pattern，結果應該是一樣的。因為 Design Pattern 講的是抽象觀念，不是實作技術。透過直接使用 Pattern 的溝通會更效率化溝通。 . Design Pattern 是溝通的 #術語，也是專業的體現。如果不知道 Observer Pattern 是啥鬼，那應該要知道回去好好用功，或者好好請教有經驗的人。 . . Design Pattern 是工程師之間的抽象介面術語，是為了高效溝通。而組織跟組織之間的溝通也是一樣，溝通的東西也是抽象介面，而不是自己的技術生態圈。如果管理階層都無法在抽象介面之上，建立良好的抽象協議，那麼所有的溝通實際上是沒意義的。 . . 另外 Design Pattern 不僅止於工程師之間的溝通術語，他的本質與 #系統架構 是一模一樣的概念，換言之，在 Design Pattern 中各個討論 Pattern 的方式與結構，同樣可以套用在溝通 #系統架構 上，同樣的這個溝通也是抽象介面，不談實際的技術實踐。 . 所以： .
-工程師跟工程師之間的高效溝通 系統架構的高效分析 組織跨團隊的高校溝通 組織與系統的對應與高效溝通 (#康威定律) . . 這些本質上都類似，這些都考驗 #抽象化（唬爛）能力。另外可以再加上 OOP 來論述。 . . 今天聽完外部產品經理分享的想法整理，其實這個分享有很多點在我的這篇文章 [1] 裡都有。 . [1] https://rickhw.github.io/2017/11/26/Thinking-in-Essence/ https://openhome.cc/Gossip/StudyGossip/abstractThinking.html " />
+#隨筆
+#DesignPattern 存在的目的，不是為了掉書袋、耍專業的傲慢，而是讓工程師跟工程師之間、開發者跟開發者之間，能夠 #高效溝通。
+叫兩個不同語言背景的工程師 (Node.js, GoLang) 說明 Observer Pattern，結果應該是一樣的。因為 Design Pattern 講的是抽象觀念，不是實作技術。透過直接使用 Pattern 的溝通會更效率化溝通。
+Design Pattern 是溝通的 #術語，也是專業的體現。如果不知道 Observer Pattern 是啥鬼，那應該要知道回去好好用功，或者好好請教有經驗的人。
+Design Pattern 是工程師之間的抽象介面術語，是為了高效溝通。而組織跟組織之間的溝通也是一樣，溝通的東西也是抽象介面，而不是自己的技術生態圈。如果管理階層都無法在抽象介面之上，建立良好的抽象協議，那麼所有的溝通實際上是沒意義的。
+另外 Design Pattern 不僅止於工程師之間的溝通術語，他的本質與 #系統架構 是一模一樣的概念，換言之，在 Design Pattern 中各個討論 Pattern 的方式與結構，同樣可以套用在溝通 #系統架構 上，同樣的這個溝通也是抽象介面，不談實際的技術實踐。
+所以：
+工程師跟工程師之間的高效溝通 系統架構的高效分析 組織跨團隊的高校溝通 組織與系統的對應與高效溝通 (#康威定律) 這些本質上都類似，這些都考驗 #抽象化（唬爛）能力。另外可以再加上 OOP 來論述。
+今天聽完外部產品經理分享的想法整理，其實這個分享有很多點在我的這篇文章 [1] 裡都有。
+[1] https://rickhw.github.io/2017/11/26/Thinking-in-Essence/ https://openhome.cc/Gossip/StudyGossip/abstractThinking.html" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.gtcafe.com/itlds/2019/0213_design-pattern/" /><meta property="article:section" content="itlds" />
 <meta property="article:published_time" content="2019-02-13T00:00:00+00:00" />
@@ -28,15 +36,31 @@
 
 <meta itemprop="name" content="Design Pattern">
 <meta itemprop="description" content="https://www.facebook.com/rick.kyhwang/posts/10210748760634525
-#隨筆 . #DesignPattern 存在的目的，不是為了掉書袋、耍專業的傲慢，而是讓工程師跟工程師之間、開發者跟開發者之間，能夠 #高效溝通。 . 叫兩個不同語言背景的工程師 (Node.js, GoLang) 說明 Observer Pattern，結果應該是一樣的。因為 Design Pattern 講的是抽象觀念，不是實作技術。透過直接使用 Pattern 的溝通會更效率化溝通。 . Design Pattern 是溝通的 #術語，也是專業的體現。如果不知道 Observer Pattern 是啥鬼，那應該要知道回去好好用功，或者好好請教有經驗的人。 . . Design Pattern 是工程師之間的抽象介面術語，是為了高效溝通。而組織跟組織之間的溝通也是一樣，溝通的東西也是抽象介面，而不是自己的技術生態圈。如果管理階層都無法在抽象介面之上，建立良好的抽象協議，那麼所有的溝通實際上是沒意義的。 . . 另外 Design Pattern 不僅止於工程師之間的溝通術語，他的本質與 #系統架構 是一模一樣的概念，換言之，在 Design Pattern 中各個討論 Pattern 的方式與結構，同樣可以套用在溝通 #系統架構 上，同樣的這個溝通也是抽象介面，不談實際的技術實踐。 . 所以： .
-工程師跟工程師之間的高效溝通 系統架構的高效分析 組織跨團隊的高校溝通 組織與系統的對應與高效溝通 (#康威定律) . . 這些本質上都類似，這些都考驗 #抽象化（唬爛）能力。另外可以再加上 OOP 來論述。 . . 今天聽完外部產品經理分享的想法整理，其實這個分享有很多點在我的這篇文章 [1] 裡都有。 . [1] https://rickhw.github.io/2017/11/26/Thinking-in-Essence/ https://openhome.cc/Gossip/StudyGossip/abstractThinking.html "><meta itemprop="datePublished" content="2019-02-13T00:00:00+00:00" />
+#隨筆
+#DesignPattern 存在的目的，不是為了掉書袋、耍專業的傲慢，而是讓工程師跟工程師之間、開發者跟開發者之間，能夠 #高效溝通。
+叫兩個不同語言背景的工程師 (Node.js, GoLang) 說明 Observer Pattern，結果應該是一樣的。因為 Design Pattern 講的是抽象觀念，不是實作技術。透過直接使用 Pattern 的溝通會更效率化溝通。
+Design Pattern 是溝通的 #術語，也是專業的體現。如果不知道 Observer Pattern 是啥鬼，那應該要知道回去好好用功，或者好好請教有經驗的人。
+Design Pattern 是工程師之間的抽象介面術語，是為了高效溝通。而組織跟組織之間的溝通也是一樣，溝通的東西也是抽象介面，而不是自己的技術生態圈。如果管理階層都無法在抽象介面之上，建立良好的抽象協議，那麼所有的溝通實際上是沒意義的。
+另外 Design Pattern 不僅止於工程師之間的溝通術語，他的本質與 #系統架構 是一模一樣的概念，換言之，在 Design Pattern 中各個討論 Pattern 的方式與結構，同樣可以套用在溝通 #系統架構 上，同樣的這個溝通也是抽象介面，不談實際的技術實踐。
+所以：
+工程師跟工程師之間的高效溝通 系統架構的高效分析 組織跨團隊的高校溝通 組織與系統的對應與高效溝通 (#康威定律) 這些本質上都類似，這些都考驗 #抽象化（唬爛）能力。另外可以再加上 OOP 來論述。
+今天聽完外部產品經理分享的想法整理，其實這個分享有很多點在我的這篇文章 [1] 裡都有。
+[1] https://rickhw.github.io/2017/11/26/Thinking-in-Essence/ https://openhome.cc/Gossip/StudyGossip/abstractThinking.html"><meta itemprop="datePublished" content="2019-02-13T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2019-02-13T00:00:00+00:00" />
-<meta itemprop="wordCount" content="69">
+<meta itemprop="wordCount" content="55">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Design Pattern"/>
 <meta name="twitter:description" content="https://www.facebook.com/rick.kyhwang/posts/10210748760634525
-#隨筆 . #DesignPattern 存在的目的，不是為了掉書袋、耍專業的傲慢，而是讓工程師跟工程師之間、開發者跟開發者之間，能夠 #高效溝通。 . 叫兩個不同語言背景的工程師 (Node.js, GoLang) 說明 Observer Pattern，結果應該是一樣的。因為 Design Pattern 講的是抽象觀念，不是實作技術。透過直接使用 Pattern 的溝通會更效率化溝通。 . Design Pattern 是溝通的 #術語，也是專業的體現。如果不知道 Observer Pattern 是啥鬼，那應該要知道回去好好用功，或者好好請教有經驗的人。 . . Design Pattern 是工程師之間的抽象介面術語，是為了高效溝通。而組織跟組織之間的溝通也是一樣，溝通的東西也是抽象介面，而不是自己的技術生態圈。如果管理階層都無法在抽象介面之上，建立良好的抽象協議，那麼所有的溝通實際上是沒意義的。 . . 另外 Design Pattern 不僅止於工程師之間的溝通術語，他的本質與 #系統架構 是一模一樣的概念，換言之，在 Design Pattern 中各個討論 Pattern 的方式與結構，同樣可以套用在溝通 #系統架構 上，同樣的這個溝通也是抽象介面，不談實際的技術實踐。 . 所以： .
-工程師跟工程師之間的高效溝通 系統架構的高效分析 組織跨團隊的高校溝通 組織與系統的對應與高效溝通 (#康威定律) . . 這些本質上都類似，這些都考驗 #抽象化（唬爛）能力。另外可以再加上 OOP 來論述。 . . 今天聽完外部產品經理分享的想法整理，其實這個分享有很多點在我的這篇文章 [1] 裡都有。 . [1] https://rickhw.github.io/2017/11/26/Thinking-in-Essence/ https://openhome.cc/Gossip/StudyGossip/abstractThinking.html "/>
+#隨筆
+#DesignPattern 存在的目的，不是為了掉書袋、耍專業的傲慢，而是讓工程師跟工程師之間、開發者跟開發者之間，能夠 #高效溝通。
+叫兩個不同語言背景的工程師 (Node.js, GoLang) 說明 Observer Pattern，結果應該是一樣的。因為 Design Pattern 講的是抽象觀念，不是實作技術。透過直接使用 Pattern 的溝通會更效率化溝通。
+Design Pattern 是溝通的 #術語，也是專業的體現。如果不知道 Observer Pattern 是啥鬼，那應該要知道回去好好用功，或者好好請教有經驗的人。
+Design Pattern 是工程師之間的抽象介面術語，是為了高效溝通。而組織跟組織之間的溝通也是一樣，溝通的東西也是抽象介面，而不是自己的技術生態圈。如果管理階層都無法在抽象介面之上，建立良好的抽象協議，那麼所有的溝通實際上是沒意義的。
+另外 Design Pattern 不僅止於工程師之間的溝通術語，他的本質與 #系統架構 是一模一樣的概念，換言之，在 Design Pattern 中各個討論 Pattern 的方式與結構，同樣可以套用在溝通 #系統架構 上，同樣的這個溝通也是抽象介面，不談實際的技術實踐。
+所以：
+工程師跟工程師之間的高效溝通 系統架構的高效分析 組織跨團隊的高校溝通 組織與系統的對應與高效溝通 (#康威定律) 這些本質上都類似，這些都考驗 #抽象化（唬爛）能力。另外可以再加上 OOP 來論述。
+今天聽完外部產品經理分享的想法整理，其實這個分享有很多點在我的這篇文章 [1] 裡都有。
+[1] https://rickhw.github.io/2017/11/26/Thinking-in-Essence/ https://openhome.cc/Gossip/StudyGossip/abstractThinking.html"/>
 
 
 
@@ -229,7 +253,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">職能轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">質能轉換</a>
         
       
       
@@ -309,7 +333,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">能量轉換</a>
         
       
       
@@ -1060,37 +1084,23 @@
     
 	
 	<p><a href="https://www.facebook.com/rick.kyhwang/posts/10210748760634525">https://www.facebook.com/rick.kyhwang/posts/10210748760634525</a></p>
-<p>#隨筆
-.
-#DesignPattern 存在的目的，不是為了掉書袋、耍專業的傲慢，而是讓工程師跟工程師之間、開發者跟開發者之間，能夠 #高效溝通。
-.
-叫兩個不同語言背景的工程師 (Node.js, GoLang) 說明 Observer Pattern，結果應該是一樣的。因為 Design Pattern 講的是抽象觀念，不是實作技術。透過直接使用 Pattern 的溝通會更效率化溝通。
-.
-Design Pattern 是溝通的 #術語，也是專業的體現。如果不知道 Observer Pattern 是啥鬼，那應該要知道回去好好用功，或者好好請教有經驗的人。
-.
-.
-Design Pattern 是工程師之間的抽象介面術語，是為了高效溝通。而組織跟組織之間的溝通也是一樣，溝通的東西也是抽象介面，而不是自己的技術生態圈。如果管理階層都無法在抽象介面之上，建立良好的抽象協議，那麼所有的溝通實際上是沒意義的。
-.
-.
-另外 Design Pattern 不僅止於工程師之間的溝通術語，他的本質與 #系統架構 是一模一樣的概念，換言之，在 Design Pattern 中各個討論 Pattern 的方式與結構，同樣可以套用在溝通 #系統架構 上，同樣的這個溝通也是抽象介面，不談實際的技術實踐。
-.
-所以：
-.</p>
+<p>#隨筆</p>
+<p>#DesignPattern 存在的目的，不是為了掉書袋、耍專業的傲慢，而是讓工程師跟工程師之間、開發者跟開發者之間，能夠 #高效溝通。</p>
+<p>叫兩個不同語言背景的工程師 (Node.js, GoLang) 說明 Observer Pattern，結果應該是一樣的。因為 Design Pattern 講的是抽象觀念，不是實作技術。透過直接使用 Pattern 的溝通會更效率化溝通。</p>
+<p>Design Pattern 是溝通的 #術語，也是專業的體現。如果不知道 Observer Pattern 是啥鬼，那應該要知道回去好好用功，或者好好請教有經驗的人。</p>
+<p>Design Pattern 是工程師之間的抽象介面術語，是為了高效溝通。而組織跟組織之間的溝通也是一樣，溝通的東西也是抽象介面，而不是自己的技術生態圈。如果管理階層都無法在抽象介面之上，建立良好的抽象協議，那麼所有的溝通實際上是沒意義的。</p>
+<p>另外 Design Pattern 不僅止於工程師之間的溝通術語，他的本質與 #系統架構 是一模一樣的概念，換言之，在 Design Pattern 中各個討論 Pattern 的方式與結構，同樣可以套用在溝通 #系統架構 上，同樣的這個溝通也是抽象介面，不談實際的技術實踐。</p>
+<p>所以：</p>
 <ol>
 <li>工程師跟工程師之間的高效溝通</li>
 <li>系統架構的高效分析</li>
 <li>組織跨團隊的高校溝通</li>
-<li>組織與系統的對應與高效溝通 (#康威定律)
-.
-.
-這些本質上都類似，這些都考驗 #抽象化（唬爛）能力。另外可以再加上 OOP 來論述。
-.
-.
-今天聽完外部產品經理分享的想法整理，其實這個分享有很多點在我的這篇文章 [1] 裡都有。
-.
-[1] <a href="https://rickhw.github.io/2017/11/26/Thinking-in-Essence/">https://rickhw.github.io/2017/11/26/Thinking-in-Essence/</a>
-<a href="https://openhome.cc/Gossip/StudyGossip/abstractThinking.html">https://openhome.cc/Gossip/StudyGossip/abstractThinking.html</a></li>
+<li>組織與系統的對應與高效溝通 (#康威定律)</li>
 </ol>
+<p>這些本質上都類似，這些都考驗 #抽象化（唬爛）能力。另外可以再加上 OOP 來論述。</p>
+<p>今天聽完外部產品經理分享的想法整理，其實這個分享有很多點在我的這篇文章 [1] 裡都有。</p>
+<p>[1] <a href="https://rickhw.github.io/2017/11/26/Thinking-in-Essence/">https://rickhw.github.io/2017/11/26/Thinking-in-Essence/</a>
+<a href="https://openhome.cc/Gossip/StudyGossip/abstractThinking.html">https://openhome.cc/Gossip/StudyGossip/abstractThinking.html</a></p>
 
 	
 	

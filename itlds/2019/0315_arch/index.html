@@ -19,7 +19,16 @@
 
 <title>滷肉攤架構 | GTCafe Studio</title><meta property="og:title" content="滷肉攤架構" />
 <meta property="og:description" content="source: https://www.facebook.com/rick.kyhwang/posts/10210901702257970
-開一家店，賣滷肉飯 &#43; 貢丸湯， 一個人，獨立服務客人， 這是 #單體 (#Monolithic)。 . 開一家店，讓別人加盟一起賣滷肉飯， 這是 #可擴展 (#Scalable) 。 . 僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA) 擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)， 門口限制進入的數量，這叫做限流 (#RateLimit)， 客人進來平均分配座位，這叫負載平衡 (#LoadBalancer) 這家店只有一個入口，這是 #APIGateway。 . 開一家店， 同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡， 他們有個共用的購買路線、結帳流程、 統一的招牌格式、收盤的程序 &hellip;. 這是 #微服務 (Microservices)。 . . 為了讓每個攤位快速進駐， 用了一套同規格的桌子，這叫 #容器。 可以讓大家快速進駐時，可以方便隨時調整 所以用了動態安排的方法，這叫做編排 (#Orchestration) 每個攤位都可以限流、知道攤位狀況， 這叫做 #ServiceMesh . 一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding) 客人點一顆肉圓，準備兩份，這叫做副本 (#Replication) 一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &hellip; . 用兩個爐子，一個蒸肉圓，一個保溫。 這叫做 #MasterSlave。 . 開兩家店，一家營業， 另一家買一樣的設備，備用， 這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode) ." />
+開一家店，賣滷肉飯 &#43; 貢丸湯， 一個人，獨立服務客人， 這是 #單體 (#Monolithic)。
+開一家店，讓別人加盟一起賣滷肉飯， 這是 #可擴展 (#Scalable) 。
+僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA) 擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)， 門口限制進入的數量，這叫做限流 (#RateLimit)， 客人進來平均分配座位，這叫負載平衡 (#LoadBalancer) 這家店只有一個入口，這是 #APIGateway。
+開一家店， 同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡， 他們有個共用的購買路線、結帳流程、 統一的招牌格式、收盤的程序 &hellip;. 這是 #微服務 (Microservices)。
+為了讓每個攤位快速進駐， 用了一套同規格的桌子，這叫 #容器。 可以讓大家快速進駐時，可以方便隨時調整 所以用了動態安排的方法，這叫做編排 (#Orchestration) 每個攤位都可以限流、知道攤位狀況， 這叫做 #ServiceMesh
+一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding) 客人點一顆肉圓，準備兩份，這叫做副本 (#Replication) 一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &hellip;
+用兩個爐子，一個蒸肉圓，一個保溫。 這叫做 #MasterSlave。
+開兩家店，一家營業， 另一家買一樣的設備，備用， 這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode)
+開一家店， 不用雇人，擺幾台機器抓娃娃，就可以自己賺錢了， 這是 #Serverless &hellip;.
+弄一個賣場，裡面啥都可以擺， 有倉庫，也有動線，有可以客製化的結帳台， 有娃娃機、各式各樣的桌子、 這叫做 #雲服務。。。" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.gtcafe.com/itlds/2019/0315_arch/" /><meta property="article:section" content="itlds" />
 <meta property="article:published_time" content="2019-03-15T00:00:00+00:00" />
@@ -27,13 +36,31 @@
 
 <meta itemprop="name" content="滷肉攤架構">
 <meta itemprop="description" content="source: https://www.facebook.com/rick.kyhwang/posts/10210901702257970
-開一家店，賣滷肉飯 &#43; 貢丸湯， 一個人，獨立服務客人， 這是 #單體 (#Monolithic)。 . 開一家店，讓別人加盟一起賣滷肉飯， 這是 #可擴展 (#Scalable) 。 . 僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA) 擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)， 門口限制進入的數量，這叫做限流 (#RateLimit)， 客人進來平均分配座位，這叫負載平衡 (#LoadBalancer) 這家店只有一個入口，這是 #APIGateway。 . 開一家店， 同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡， 他們有個共用的購買路線、結帳流程、 統一的招牌格式、收盤的程序 &hellip;. 這是 #微服務 (Microservices)。 . . 為了讓每個攤位快速進駐， 用了一套同規格的桌子，這叫 #容器。 可以讓大家快速進駐時，可以方便隨時調整 所以用了動態安排的方法，這叫做編排 (#Orchestration) 每個攤位都可以限流、知道攤位狀況， 這叫做 #ServiceMesh . 一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding) 客人點一顆肉圓，準備兩份，這叫做副本 (#Replication) 一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &hellip; . 用兩個爐子，一個蒸肉圓，一個保溫。 這叫做 #MasterSlave。 . 開兩家店，一家營業， 另一家買一樣的設備，備用， 這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode) ."><meta itemprop="datePublished" content="2019-03-15T00:00:00+00:00" />
+開一家店，賣滷肉飯 &#43; 貢丸湯， 一個人，獨立服務客人， 這是 #單體 (#Monolithic)。
+開一家店，讓別人加盟一起賣滷肉飯， 這是 #可擴展 (#Scalable) 。
+僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA) 擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)， 門口限制進入的數量，這叫做限流 (#RateLimit)， 客人進來平均分配座位，這叫負載平衡 (#LoadBalancer) 這家店只有一個入口，這是 #APIGateway。
+開一家店， 同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡， 他們有個共用的購買路線、結帳流程、 統一的招牌格式、收盤的程序 &hellip;. 這是 #微服務 (Microservices)。
+為了讓每個攤位快速進駐， 用了一套同規格的桌子，這叫 #容器。 可以讓大家快速進駐時，可以方便隨時調整 所以用了動態安排的方法，這叫做編排 (#Orchestration) 每個攤位都可以限流、知道攤位狀況， 這叫做 #ServiceMesh
+一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding) 客人點一顆肉圓，準備兩份，這叫做副本 (#Replication) 一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &hellip;
+用兩個爐子，一個蒸肉圓，一個保溫。 這叫做 #MasterSlave。
+開兩家店，一家營業， 另一家買一樣的設備，備用， 這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode)
+開一家店， 不用雇人，擺幾台機器抓娃娃，就可以自己賺錢了， 這是 #Serverless &hellip;.
+弄一個賣場，裡面啥都可以擺， 有倉庫，也有動線，有可以客製化的結帳台， 有娃娃機、各式各樣的桌子、 這叫做 #雲服務。。。"><meta itemprop="datePublished" content="2019-03-15T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2019-03-15T00:00:00+00:00" />
-<meta itemprop="wordCount" content="103">
+<meta itemprop="wordCount" content="85">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="滷肉攤架構"/>
 <meta name="twitter:description" content="source: https://www.facebook.com/rick.kyhwang/posts/10210901702257970
-開一家店，賣滷肉飯 &#43; 貢丸湯， 一個人，獨立服務客人， 這是 #單體 (#Monolithic)。 . 開一家店，讓別人加盟一起賣滷肉飯， 這是 #可擴展 (#Scalable) 。 . 僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA) 擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)， 門口限制進入的數量，這叫做限流 (#RateLimit)， 客人進來平均分配座位，這叫負載平衡 (#LoadBalancer) 這家店只有一個入口，這是 #APIGateway。 . 開一家店， 同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡， 他們有個共用的購買路線、結帳流程、 統一的招牌格式、收盤的程序 &hellip;. 這是 #微服務 (Microservices)。 . . 為了讓每個攤位快速進駐， 用了一套同規格的桌子，這叫 #容器。 可以讓大家快速進駐時，可以方便隨時調整 所以用了動態安排的方法，這叫做編排 (#Orchestration) 每個攤位都可以限流、知道攤位狀況， 這叫做 #ServiceMesh . 一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding) 客人點一顆肉圓，準備兩份，這叫做副本 (#Replication) 一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &hellip; . 用兩個爐子，一個蒸肉圓，一個保溫。 這叫做 #MasterSlave。 . 開兩家店，一家營業， 另一家買一樣的設備，備用， 這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode) ."/>
+開一家店，賣滷肉飯 &#43; 貢丸湯， 一個人，獨立服務客人， 這是 #單體 (#Monolithic)。
+開一家店，讓別人加盟一起賣滷肉飯， 這是 #可擴展 (#Scalable) 。
+僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA) 擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)， 門口限制進入的數量，這叫做限流 (#RateLimit)， 客人進來平均分配座位，這叫負載平衡 (#LoadBalancer) 這家店只有一個入口，這是 #APIGateway。
+開一家店， 同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡， 他們有個共用的購買路線、結帳流程、 統一的招牌格式、收盤的程序 &hellip;. 這是 #微服務 (Microservices)。
+為了讓每個攤位快速進駐， 用了一套同規格的桌子，這叫 #容器。 可以讓大家快速進駐時，可以方便隨時調整 所以用了動態安排的方法，這叫做編排 (#Orchestration) 每個攤位都可以限流、知道攤位狀況， 這叫做 #ServiceMesh
+一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding) 客人點一顆肉圓，準備兩份，這叫做副本 (#Replication) 一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &hellip;
+用兩個爐子，一個蒸肉圓，一個保溫。 這叫做 #MasterSlave。
+開兩家店，一家營業， 另一家買一樣的設備，備用， 這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode)
+開一家店， 不用雇人，擺幾台機器抓娃娃，就可以自己賺錢了， 這是 #Serverless &hellip;.
+弄一個賣場，裡面啥都可以擺， 有倉庫，也有動線，有可以客製化的結帳台， 有娃娃機、各式各樣的桌子、 這叫做 #雲服務。。。"/>
 
 
 
@@ -226,7 +253,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">職能轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190316_3body" href="/itlds/2019/0316_3body/">質能轉換</a>
         
       
       
@@ -306,7 +333,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">轉換</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190218-transformation" href="/itlds/2019/0218-transformation/">能量轉換</a>
         
       
       
@@ -1059,64 +1086,46 @@
 	<p>source: <a href="https://www.facebook.com/rick.kyhwang/posts/10210901702257970">https://www.facebook.com/rick.kyhwang/posts/10210901702257970</a></p>
 <p>開一家店，賣滷肉飯 + 貢丸湯，
 一個人，獨立服務客人，
-這是 #單體  (#Monolithic)。
-.
-開一家店，讓別人加盟一起賣滷肉飯，
-這是 #可擴展 (#Scalable) 。
-.
-僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA)
+這是 #單體  (#Monolithic)。</p>
+<p>開一家店，讓別人加盟一起賣滷肉飯，
+這是 #可擴展 (#Scalable) 。</p>
+<p>僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA)
 擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)，
 門口限制進入的數量，這叫做限流 (#RateLimit)，
 客人進來平均分配座位，這叫負載平衡 (#LoadBalancer)
-這家店只有一個入口，這是 #APIGateway。
-.
-開一家店，
+這家店只有一個入口，這是 #APIGateway。</p>
+<p>開一家店，
 同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡，
 他們有個共用的購買路線、結帳流程、
 統一的招牌格式、收盤的程序 &hellip;.
-這是 #微服務 (Microservices)。
-.
-.
-為了讓每個攤位快速進駐，
+這是 #微服務 (Microservices)。</p>
+<p>為了讓每個攤位快速進駐，
 用了一套同規格的桌子，這叫 #容器。
 可以讓大家快速進駐時，可以方便隨時調整
 所以用了動態安排的方法，這叫做編排 (#Orchestration)
 每個攤位都可以限流、知道攤位狀況，
-這叫做 #ServiceMesh
-.
-一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding)
+這叫做 #ServiceMesh</p>
+<p>一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding)
 客人點一顆肉圓，準備兩份，這叫做副本 (#Replication)
-一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &hellip;
-.
-用兩個爐子，一個蒸肉圓，一個保溫。
-這叫做 #MasterSlave。
-.
-開兩家店，一家營業，
+一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &hellip;</p>
+<p>用兩個爐子，一個蒸肉圓，一個保溫。
+這叫做 #MasterSlave。</p>
+<p>開兩家店，一家營業，
 另一家買一樣的設備，備用，
-這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode)
-.
-.
-開一家店，
+這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode)</p>
+<p>開一家店，
 不用雇人，擺幾台機器抓娃娃，就可以自己賺錢了，
-這是 #Serverless &hellip;.
-.
-.
-弄一個賣場，裡面啥都可以擺，
+這是 #Serverless &hellip;.</p>
+<p>弄一個賣場，裡面啥都可以擺，
 有倉庫，也有動線，有可以客製化的結帳台，
 有娃娃機、各式各樣的桌子、
-這叫做 #雲服務。。。
-.
-.
-把上面的東西全部擺在一體育館，
-稱為 單體分散微服務 Serverless 架構 (誤）
-.
-.
-店還沒開成，大家吵成一團，
+這叫做 #雲服務。。。</p>
+<p>把上面的東西全部擺在一體育館，
+稱為 單體分散微服務 Serverless 架構 (誤）</p>
+<p>店還沒開成，大家吵成一團，
 一個人出來說：我們一起努力把店開成吧～～
-這個人是 Agile Coach
-.
-.
-&hellip;.. 我掰不下去了。。。。</p>
+這個人是 Agile Coach</p>
+<p>&hellip;.. 我掰不下去了。。。。</p>
 
 	
 	
