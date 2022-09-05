@@ -5,7 +5,7 @@
     <description>Recent content in 2019 on GTCafe Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://www.gtcafe.com/itlds/2019/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,114 @@
         
       
     
+    
+    <item>
+      <title>Itlds: 你的系統架構</title>
+      <link>https://www.gtcafe.com/itlds/2019/0906/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/2019/0906/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0BidiciQ2vG5AvQ2nnWbjTVSZ3eK1ExZnhGzhLUBWCyyPAVTAWsEdT47RdrDhZqnDl&#34;&gt;https://www.facebook.com/rick.kyhwang/posts/pfbid0BidiciQ2vG5AvQ2nnWbjTVSZ3eK1ExZnhGzhLUBWCyyPAVTAWsEdT47RdrDhZqnDl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;你的系統架構&lt;/p&gt;
+&lt;p&gt;—&amp;ndash;&lt;/p&gt;
+&lt;p&gt;很多人看不懂五線譜
+小提琴少一根弦
+鋼琴還沒調音，老闆問：鋼琴要調音？
+明天要去國家音樂廳演出
+鼓手還沒找到 吉他手當鼓手
+吉他手在交響樂團作啥？&lt;/p&gt;
+&lt;p&gt;剛剛作曲打電話來說：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第十五到三四小節他重寫了，製作人要求的
+等一下寄原始檔給你
+他不知道 你跟本沒工具可開檔&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;然後 這天是星期五 星期一上台&lt;/p&gt;
+&lt;p&gt;—&amp;ndash;
+&amp;hellip;.
+我到底在寫啥鬼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0906.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: Dev 和 Ops 誰有價值？</title>
+      <link>https://www.gtcafe.com/itlds/2019/20190817/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/2019/20190817/</guid>
+      <description>
+        
+        
+        &lt;p&gt;跟朋友聊到這問題的看法：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作曲 跟 演奏哪個有價值？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有點像二元論、雞生蛋蛋生雞的問題。&lt;/p&gt;
+&lt;p&gt;作曲像生孩子，演奏是教育孩子。
+作曲像創造生命，演奏授與靈魂。
+作曲是 0 到 1，演奏是 1 - 100。
+作曲是 developer, 編曲/演奏是 engineer [3]&lt;/p&gt;
+&lt;p&gt;刻板映像：大部分的樂手瞧不起五月天
+因為很芭樂，沒啥深度，也沒啥技術性
+為了取悅而創作
+就像很多開發者瞧不起 Windows
+五月天就是寫給 80% 的人聽得懂的 [1]
+Microsoft 就是為了搶下 80% 的市場
+如此而已。&lt;/p&gt;
+&lt;p&gt;寫歌這件事不難，寫出有共鳴的不容易 [1]
+寫出來的歌是好是壞
+有時候後天的包裝影響很大
+#編曲 則是另一種包裝&lt;/p&gt;
+&lt;p&gt;要賺錢，就要寫 80% 的人聽得懂的。
+要表達自我，通常只有 20% 能接受。
+閃靈這種黑死的風格，在台灣是很少人能接受的，
+所以要賺錢，不會寫這種曲風。 (賺錢跟紅不紅不是絕對)
+但是閃靈的歌 重新編曲成大家聽得懂的風格之後
+接受度是很高的 像是 #暮沉武德殿 [2]&lt;/p&gt;
+&lt;p&gt;我很常用 #詮釋 這個概念
+樂手的工作，就是 詮釋 作曲者想表達的情緒
+而作曲者則要用他的『工具』留下來，
+讓樂手知道怎麼詮釋
+所以樂譜上都會有很多 #表情 符號
+不管是 fff, mf, 漸大漸小 &amp;hellip;. etc&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;同一個角色，都叫做郭靖、或者是張無忌
+但是不同人飾演，就是有不同的味道、樣子
+飾演就是一種對於角色的詮釋
+創造角色的是金庸
+金庸很重要，小說寫歷史
+從歷史中寫小說，創造虛實融合的故事
+但是讀歷史本身就是一件 hardcore ..
+一種技術性的操作&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;所以作曲跟演奏哪個重要？
+如果硬是要比個高下
+作曲還是比較重要  屬於是 DNA
+但有些歌曲很棒  但是經過重新詮釋後
+像是伍佰寫的 #被動 ，原本寫給周華健唱
+但在被伍佰重新編曲在演唱會演唱之前
+應該很少人會喜歡這首歌&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;所以我個人不會給絕對的答案
+不同領域 不同角度有不同看法
+業務的價值 要技術與工程團隊支撐
+技術與工程團隊 需要業務目標來挑戰
+貶抑任一方
+或者想比高下基本上沒啥意義
+Dev &amp;amp; Ops 重點在合作
+不在於誰比較重要&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://www.gtcafe.com/rickmidi/gossip/simple-complex/&#34;&gt;https://www.gtcafe.com/rickmidi/gossip/simple-complex/&lt;/a&gt;
+[2] &lt;a href=&#34;https://www.youtube.com/watch?v=kta4ZAwI6rY&#34;&gt;https://www.youtube.com/watch?v=kta4ZAwI6rY&lt;/a&gt;
+[3] &lt;a href=&#34;https://rickhw.github.io/2017/07/01/Management/Developer-or-Engineer/&#34;&gt;https://rickhw.github.io/2017/07/01/Management/Developer-or-Engineer/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0269uX5QQZxxBBQCFQk9nbp2SnubVsmGdcYzr4u7GNJagbWFkQXULFs8qphUiaN4spl&#34;&gt;2019/08/17 (Backup)&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Itlds: 退休</title>
