@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="generator" content="Hugo 0.101.0" /><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta name="generator" content="Hugo 0.111.0"><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 
 <link rel="shortcut icon" href="/favicons/favicon.ico" >
@@ -17,60 +17,19 @@
 <link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
 
-<title>入門 DDB | GTCafe Studio</title><meta property="og:title" content="入門 DDB" />
-<meta property="og:description" content="https://www.facebook.com/rick.kyhwang/posts/10211072729013532
-「嚴格講，把手冊 K 完、做過 lab 只算入門而已，上了戰場才是學習的開始。」
-實務上，大部分的人不用說入門，可能連邊都沾不上。
-— #DynamoDB 是這幾年花時間研究的 #NoSQL，他還滿複雜的、有不少負面的評價、也有很多好的精神在。今天跟同事介紹了基本概念還有 design principle &hellip; 說明的過程又發現自己沒搞清楚的東西，分享過程收獲最多的往往是自己。
-我學東西的原則就是找一個範圍最大的，已經被證明可用的，然後把他學透、當主軸、了解原理、相關資源、了解他的優劣、使用場景、使用情境。熟了之後，才開始橫向擴展學習，開始質疑。
-這種東西通常實作他的會是一群這個領域的專家，通常我比較不會去質疑他能不能做什麼，而是質疑自己能否去了解他、駕馭它、善用它。
-這跟買音樂設備一樣，往往人家的設計是遠超過我們的需求的，大部分的人用到的只是設備功能的 1% 不到，然後多人就會開始下評論。這點好像啥領域都一樣，沒讀完手冊就開始幹樵的一堆。以前我買設備前，通常手冊都 k 過一次了才考慮要不要買 XD
-嚴格講，把手冊 K 完、做過 lab 只算入門而已，上了戰場才是學習的開始。
-這跟 #SRE 講到的想法一致：『值得警惕的是，理解一個系統應該如何工作並不能使人成為專家。只有靠調查系統為何不能正常工作才行。』
-PS: 文中提到 AWS CTO 的論文我 k 過，大部分看不懂 XD
-https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
-#AWS #NoSQL #RDBMS" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.gtcafe.com/itlds/2019/0419-ddb/" /><meta property="article:section" content="itlds" />
-<meta property="article:published_time" content="2019-04-19T00:00:00+00:00" />
-<meta property="article:modified_time" content="2019-04-19T00:00:00+00:00" />
-
-<meta itemprop="name" content="入門 DDB">
-<meta itemprop="description" content="https://www.facebook.com/rick.kyhwang/posts/10211072729013532
-「嚴格講，把手冊 K 完、做過 lab 只算入門而已，上了戰場才是學習的開始。」
-實務上，大部分的人不用說入門，可能連邊都沾不上。
-— #DynamoDB 是這幾年花時間研究的 #NoSQL，他還滿複雜的、有不少負面的評價、也有很多好的精神在。今天跟同事介紹了基本概念還有 design principle &hellip; 說明的過程又發現自己沒搞清楚的東西，分享過程收獲最多的往往是自己。
-我學東西的原則就是找一個範圍最大的，已經被證明可用的，然後把他學透、當主軸、了解原理、相關資源、了解他的優劣、使用場景、使用情境。熟了之後，才開始橫向擴展學習，開始質疑。
-這種東西通常實作他的會是一群這個領域的專家，通常我比較不會去質疑他能不能做什麼，而是質疑自己能否去了解他、駕馭它、善用它。
-這跟買音樂設備一樣，往往人家的設計是遠超過我們的需求的，大部分的人用到的只是設備功能的 1% 不到，然後多人就會開始下評論。這點好像啥領域都一樣，沒讀完手冊就開始幹樵的一堆。以前我買設備前，通常手冊都 k 過一次了才考慮要不要買 XD
-嚴格講，把手冊 K 完、做過 lab 只算入門而已，上了戰場才是學習的開始。
-這跟 #SRE 講到的想法一致：『值得警惕的是，理解一個系統應該如何工作並不能使人成為專家。只有靠調查系統為何不能正常工作才行。』
-PS: 文中提到 AWS CTO 的論文我 k 過，大部分看不懂 XD
-https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
-#AWS #NoSQL #RDBMS"><meta itemprop="datePublished" content="2019-04-19T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2019-04-19T00:00:00+00:00" />
-<meta itemprop="wordCount" content="43">
-<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="入門 DDB"/>
-<meta name="twitter:description" content="https://www.facebook.com/rick.kyhwang/posts/10211072729013532
-「嚴格講，把手冊 K 完、做過 lab 只算入門而已，上了戰場才是學習的開始。」
-實務上，大部分的人不用說入門，可能連邊都沾不上。
-— #DynamoDB 是這幾年花時間研究的 #NoSQL，他還滿複雜的、有不少負面的評價、也有很多好的精神在。今天跟同事介紹了基本概念還有 design principle &hellip; 說明的過程又發現自己沒搞清楚的東西，分享過程收獲最多的往往是自己。
-我學東西的原則就是找一個範圍最大的，已經被證明可用的，然後把他學透、當主軸、了解原理、相關資源、了解他的優劣、使用場景、使用情境。熟了之後，才開始橫向擴展學習，開始質疑。
-這種東西通常實作他的會是一群這個領域的專家，通常我比較不會去質疑他能不能做什麼，而是質疑自己能否去了解他、駕馭它、善用它。
-這跟買音樂設備一樣，往往人家的設計是遠超過我們的需求的，大部分的人用到的只是設備功能的 1% 不到，然後多人就會開始下評論。這點好像啥領域都一樣，沒讀完手冊就開始幹樵的一堆。以前我買設備前，通常手冊都 k 過一次了才考慮要不要買 XD
-嚴格講，把手冊 K 完、做過 lab 只算入門而已，上了戰場才是學習的開始。
-這跟 #SRE 講到的想法一致：『值得警惕的是，理解一個系統應該如何工作並不能使人成為專家。只有靠調查系統為何不能正常工作才行。』
-PS: 文中提到 AWS CTO 的論文我 k 過，大部分看不懂 XD
-https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
-#AWS #NoSQL #RDBMS"/>
+<title>入門 DDB | GTCafe Studio</title>
 
 
 
 
 
-<link rel="preload" href="/scss/main.min.ec9d113ab8eb191e114f47cdf044e364e853f98e29f4ec8c1d0d9f49ea383d45.css" as="style">
-<link href="/scss/main.min.ec9d113ab8eb191e114f47cdf044e364e853f98e29f4ec8c1d0d9f49ea383d45.css" rel="stylesheet" integrity="">
+
+
+
+
+
+<link rel="preload" href="/scss/main.min.0c724ccbe132862c5cba431d9eec9c0a6ddd5ec8169d48f767daffc440285599.css" as="style">
+<link href="/scss/main.min.0c724ccbe132862c5cba431d9eec9c0a6ddd5ec8169d48f767daffc440285599.css" rel="stylesheet" integrity="">
 
 
 <script
@@ -530,7 +489,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/arpeggios" class="tagcloud-item"
-        style="font-size: 1.1492457200086548rem;">
+        style="font-size: 1.1520375066863737rem;">
         arpeggios<sup>3</sup>
     </a>
     
@@ -593,7 +552,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/daw" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         daw<sup>2</sup>
     </a>
     
@@ -620,7 +579,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/dominant" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         dominant<sup>2</sup>
     </a>
     
@@ -638,8 +597,8 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/final-fantasy" class="tagcloud-item"
-        style="font-size: 1rem;">
-        final-fantasy<sup>1</sup>
+        style="font-size: 1.0959249866272525rem;">
+        final-fantasy<sup>2</sup>
     </a>
     
     
@@ -665,7 +624,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/how-to" class="tagcloud-item"
-        style="font-size: 1.1883271306933105rem;">
+        style="font-size: 1.1918499732545051rem;">
         how-to<sup>4</sup>
     </a>
     
@@ -674,7 +633,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/interval" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         interval<sup>2</sup>
     </a>
     
@@ -692,7 +651,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/jack-thammarat" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         jack-thammarat<sup>2</sup>
     </a>
     
@@ -710,7 +669,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/midi" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         midi<sup>2</sup>
     </a>
     
@@ -800,7 +759,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/secondary-dominant" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         secondary-dominant<sup>2</sup>
     </a>
     
@@ -881,7 +840,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92" class="tagcloud-item"
-        style="font-size: 1.1883271306933105rem;">
+        style="font-size: 1.1918499732545051rem;">
         刻意練習<sup>4</sup>
     </a>
     
@@ -890,7 +849,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E5%8E%9F%E5%AD%90%E7%BF%92%E6%85%A3" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         原子習慣<sup>2</sup>
     </a>
     
@@ -899,7 +858,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E5%90%89%E4%BB%96" class="tagcloud-item"
-        style="font-size: 1.2984914400173095rem;">
+        style="font-size: 1.3040750133727474rem;">
         吉他<sup>9</sup>
     </a>
     
@@ -908,7 +867,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E5%92%8C%E5%BC%A6" class="tagcloud-item"
-        style="font-size: 1.2824906960399658rem;">
+        style="font-size: 1.2877749598817576rem;">
         和弦<sup>8</sup>
     </a>
     
@@ -917,7 +876,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E5%92%8C%E8%81%B2" class="tagcloud-item"
-        style="font-size: 1.1492457200086548rem;">
+        style="font-size: 1.1520375066863737rem;">
         和聲<sup>3</sup>
     </a>
     
@@ -953,7 +912,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E6%A8%82%E5%9C%98%E7%B6%93%E7%87%9F" class="tagcloud-item"
-        style="font-size: 1.2824906960399658rem;">
+        style="font-size: 1.2877749598817576rem;">
         樂團經營<sup>8</sup>
     </a>
     
@@ -962,7 +921,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E6%A8%82%E7%90%86" class="tagcloud-item"
-        style="font-size: 1.3128045932398162rem;">
+        style="font-size: 1.3186559080787648rem;">
         樂理<sup>10</sup>
     </a>
     
@@ -971,8 +930,8 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E7%A7%81%E6%88%BF%E6%AD%8C" class="tagcloud-item"
-        style="font-size: 1.1492457200086548rem;">
-        私房歌<sup>3</sup>
+        style="font-size: 1.2877749598817576rem;">
+        私房歌<sup>8</sup>
     </a>
     
     
@@ -998,8 +957,8 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E8%81%8A%E5%A4%A9" class="tagcloud-item"
-        style="font-size: 1.3926550053639648rem;">
-        聊天<sup>18</sup>
+        style="font-size: 1.3920898183863306rem;">
+        聊天<sup>17</sup>
     </a>
     
     
@@ -1007,8 +966,8 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E8%81%BD%E9%9F%B3%E6%A8%82" class="tagcloud-item"
-        style="font-size: 1.1492457200086548rem;">
-        聽音樂<sup>3</sup>
+        style="font-size: 1.2877749598817576rem;">
+        聽音樂<sup>8</sup>
     </a>
     
     
@@ -1016,7 +975,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E8%AA%BF%E5%BC%8F" class="tagcloud-item"
-        style="font-size: 1.218641027893161rem;">
+        style="font-size: 1.2227309214515123rem;">
         調式<sup>5</sup>
     </a>
     
@@ -1034,7 +993,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E9%9F%B3%E7%A8%8B" class="tagcloud-item"
-        style="font-size: 1.2824906960399658rem;">
+        style="font-size: 1.2877749598817576rem;">
         音程<sup>8</sup>
     </a>
     
@@ -1043,7 +1002,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
     
     
     <a href="/%20/tags/%E9%9F%B3%E9%9A%8E" class="tagcloud-item"
-        style="font-size: 1.3257524152838387rem;">
+        style="font-size: 1.3318459317556774rem;">
         音階<sup>11</sup>
     </a>
     
@@ -1159,7 +1118,7 @@ https://rickhw.github.io/2016/08/17/AWS/Study-Notes-DynamoDB/
         
       </div>
       <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
-        <small class="text-white">&copy; 2022 Rick KY Hwang All Rights Reserved</small>
+        <small class="text-white">&copy; 2023 Rick KY Hwang All Rights Reserved</small>
         
 	
 		

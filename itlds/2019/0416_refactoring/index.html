@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="generator" content="Hugo 0.101.0" /><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta name="generator" content="Hugo 0.111.0"><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 
 <link rel="shortcut icon" href="/favicons/favicon.ico" >
@@ -17,48 +17,19 @@
 <link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
 
-<title>重構 | GTCafe Studio</title><meta property="og:title" content="重構" />
-<meta property="og:description" content="https://rickhw.github.io/2017/11/04/Management/Re-org/
-#重構 (#Refactoring) 是軟體工程的名詞，也是本經典的著作（現在已經第二版）。簡言之就是透過系統性的 #實踐方法，讓程式碼更容易維護、更容易閱讀，但不影響產出結果。
-我把程式碼當作文章的一種，換言之寫文章不難，寫出好文章、有深度內容的，但能讓別人容易閱讀、理解的不容易。讀和寫是兩個能力，而寫是為了之後的閱讀，所以寫好文章的能力很重要，但只要花時間調整，文章會越來越好。而重構的目的就是讓下次的閱讀者，能夠更了解其中的意涵。
-實際上，重構在生活中到處都有，每個人每年都要重構自己，包含 各種人事物的斷捨離、歲末大掃除、企業組織重整、書架、生涯規劃、自己的作品、人際網路 &hellip;. 重構的感覺是什麼？大概就是把整年沒打掃的房間，打掃之後的舒暢感。
-#去蕪存菁，#斷捨離
-重構會讓程式更好維護、更容易閱讀。
-執行重構，我第一件會做的是：變數與函式的命名。我自己的原則是：
-語意重要性優先於變數的長度 (講清楚優先) 每行程式長度 80 chars 以內 可區分邏輯區塊與段落 用詞詞性要思考 單一原則 商業功能：流程 &gt; 邏輯 效能功能：邏輯 &gt; 流程 重構這本書提到很多人使用 IDE 寫扣的關鍵，是因為 #重構 功能的完整性。有時候我為啥還會開 Eclipse 寫東西，除了熟悉之外，重構是很重要的因素之ㄧ。" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.gtcafe.com/itlds/2019/0416_refactoring/" /><meta property="article:section" content="itlds" />
-<meta property="article:published_time" content="2019-04-16T00:00:00+00:00" />
-<meta property="article:modified_time" content="2019-04-16T00:00:00+00:00" />
-
-<meta itemprop="name" content="重構">
-<meta itemprop="description" content="https://rickhw.github.io/2017/11/04/Management/Re-org/
-#重構 (#Refactoring) 是軟體工程的名詞，也是本經典的著作（現在已經第二版）。簡言之就是透過系統性的 #實踐方法，讓程式碼更容易維護、更容易閱讀，但不影響產出結果。
-我把程式碼當作文章的一種，換言之寫文章不難，寫出好文章、有深度內容的，但能讓別人容易閱讀、理解的不容易。讀和寫是兩個能力，而寫是為了之後的閱讀，所以寫好文章的能力很重要，但只要花時間調整，文章會越來越好。而重構的目的就是讓下次的閱讀者，能夠更了解其中的意涵。
-實際上，重構在生活中到處都有，每個人每年都要重構自己，包含 各種人事物的斷捨離、歲末大掃除、企業組織重整、書架、生涯規劃、自己的作品、人際網路 &hellip;. 重構的感覺是什麼？大概就是把整年沒打掃的房間，打掃之後的舒暢感。
-#去蕪存菁，#斷捨離
-重構會讓程式更好維護、更容易閱讀。
-執行重構，我第一件會做的是：變數與函式的命名。我自己的原則是：
-語意重要性優先於變數的長度 (講清楚優先) 每行程式長度 80 chars 以內 可區分邏輯區塊與段落 用詞詞性要思考 單一原則 商業功能：流程 &gt; 邏輯 效能功能：邏輯 &gt; 流程 重構這本書提到很多人使用 IDE 寫扣的關鍵，是因為 #重構 功能的完整性。有時候我為啥還會開 Eclipse 寫東西，除了熟悉之外，重構是很重要的因素之ㄧ。"><meta itemprop="datePublished" content="2019-04-16T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2019-04-16T00:00:00+00:00" />
-<meta itemprop="wordCount" content="35">
-<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="重構"/>
-<meta name="twitter:description" content="https://rickhw.github.io/2017/11/04/Management/Re-org/
-#重構 (#Refactoring) 是軟體工程的名詞，也是本經典的著作（現在已經第二版）。簡言之就是透過系統性的 #實踐方法，讓程式碼更容易維護、更容易閱讀，但不影響產出結果。
-我把程式碼當作文章的一種，換言之寫文章不難，寫出好文章、有深度內容的，但能讓別人容易閱讀、理解的不容易。讀和寫是兩個能力，而寫是為了之後的閱讀，所以寫好文章的能力很重要，但只要花時間調整，文章會越來越好。而重構的目的就是讓下次的閱讀者，能夠更了解其中的意涵。
-實際上，重構在生活中到處都有，每個人每年都要重構自己，包含 各種人事物的斷捨離、歲末大掃除、企業組織重整、書架、生涯規劃、自己的作品、人際網路 &hellip;. 重構的感覺是什麼？大概就是把整年沒打掃的房間，打掃之後的舒暢感。
-#去蕪存菁，#斷捨離
-重構會讓程式更好維護、更容易閱讀。
-執行重構，我第一件會做的是：變數與函式的命名。我自己的原則是：
-語意重要性優先於變數的長度 (講清楚優先) 每行程式長度 80 chars 以內 可區分邏輯區塊與段落 用詞詞性要思考 單一原則 商業功能：流程 &gt; 邏輯 效能功能：邏輯 &gt; 流程 重構這本書提到很多人使用 IDE 寫扣的關鍵，是因為 #重構 功能的完整性。有時候我為啥還會開 Eclipse 寫東西，除了熟悉之外，重構是很重要的因素之ㄧ。"/>
+<title>重構 | GTCafe Studio</title>
 
 
 
 
 
-<link rel="preload" href="/scss/main.min.ec9d113ab8eb191e114f47cdf044e364e853f98e29f4ec8c1d0d9f49ea383d45.css" as="style">
-<link href="/scss/main.min.ec9d113ab8eb191e114f47cdf044e364e853f98e29f4ec8c1d0d9f49ea383d45.css" rel="stylesheet" integrity="">
+
+
+
+
+
+<link rel="preload" href="/scss/main.min.0c724ccbe132862c5cba431d9eec9c0a6ddd5ec8169d48f767daffc440285599.css" as="style">
+<link href="/scss/main.min.0c724ccbe132862c5cba431d9eec9c0a6ddd5ec8169d48f767daffc440285599.css" rel="stylesheet" integrity="">
 
 
 <script
@@ -518,7 +489,7 @@
     
     
     <a href="/%20/tags/arpeggios" class="tagcloud-item"
-        style="font-size: 1.1492457200086548rem;">
+        style="font-size: 1.1520375066863737rem;">
         arpeggios<sup>3</sup>
     </a>
     
@@ -581,7 +552,7 @@
     
     
     <a href="/%20/tags/daw" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         daw<sup>2</sup>
     </a>
     
@@ -608,7 +579,7 @@
     
     
     <a href="/%20/tags/dominant" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         dominant<sup>2</sup>
     </a>
     
@@ -626,8 +597,8 @@
     
     
     <a href="/%20/tags/final-fantasy" class="tagcloud-item"
-        style="font-size: 1rem;">
-        final-fantasy<sup>1</sup>
+        style="font-size: 1.0959249866272525rem;">
+        final-fantasy<sup>2</sup>
     </a>
     
     
@@ -653,7 +624,7 @@
     
     
     <a href="/%20/tags/how-to" class="tagcloud-item"
-        style="font-size: 1.1883271306933105rem;">
+        style="font-size: 1.1918499732545051rem;">
         how-to<sup>4</sup>
     </a>
     
@@ -662,7 +633,7 @@
     
     
     <a href="/%20/tags/interval" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         interval<sup>2</sup>
     </a>
     
@@ -680,7 +651,7 @@
     
     
     <a href="/%20/tags/jack-thammarat" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         jack-thammarat<sup>2</sup>
     </a>
     
@@ -698,7 +669,7 @@
     
     
     <a href="/%20/tags/midi" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         midi<sup>2</sup>
     </a>
     
@@ -788,7 +759,7 @@
     
     
     <a href="/%20/tags/secondary-dominant" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         secondary-dominant<sup>2</sup>
     </a>
     
@@ -869,7 +840,7 @@
     
     
     <a href="/%20/tags/%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92" class="tagcloud-item"
-        style="font-size: 1.1883271306933105rem;">
+        style="font-size: 1.1918499732545051rem;">
         刻意練習<sup>4</sup>
     </a>
     
@@ -878,7 +849,7 @@
     
     
     <a href="/%20/tags/%E5%8E%9F%E5%AD%90%E7%BF%92%E6%85%A3" class="tagcloud-item"
-        style="font-size: 1.0941635653466553rem;">
+        style="font-size: 1.0959249866272525rem;">
         原子習慣<sup>2</sup>
     </a>
     
@@ -887,7 +858,7 @@
     
     
     <a href="/%20/tags/%E5%90%89%E4%BB%96" class="tagcloud-item"
-        style="font-size: 1.2984914400173095rem;">
+        style="font-size: 1.3040750133727474rem;">
         吉他<sup>9</sup>
     </a>
     
@@ -896,7 +867,7 @@
     
     
     <a href="/%20/tags/%E5%92%8C%E5%BC%A6" class="tagcloud-item"
-        style="font-size: 1.2824906960399658rem;">
+        style="font-size: 1.2877749598817576rem;">
         和弦<sup>8</sup>
     </a>
     
@@ -905,7 +876,7 @@
     
     
     <a href="/%20/tags/%E5%92%8C%E8%81%B2" class="tagcloud-item"
-        style="font-size: 1.1492457200086548rem;">
+        style="font-size: 1.1520375066863737rem;">
         和聲<sup>3</sup>
     </a>
     
@@ -941,7 +912,7 @@
     
     
     <a href="/%20/tags/%E6%A8%82%E5%9C%98%E7%B6%93%E7%87%9F" class="tagcloud-item"
-        style="font-size: 1.2824906960399658rem;">
+        style="font-size: 1.2877749598817576rem;">
         樂團經營<sup>8</sup>
     </a>
     
@@ -950,7 +921,7 @@
     
     
     <a href="/%20/tags/%E6%A8%82%E7%90%86" class="tagcloud-item"
-        style="font-size: 1.3128045932398162rem;">
+        style="font-size: 1.3186559080787648rem;">
         樂理<sup>10</sup>
     </a>
     
@@ -959,8 +930,8 @@
     
     
     <a href="/%20/tags/%E7%A7%81%E6%88%BF%E6%AD%8C" class="tagcloud-item"
-        style="font-size: 1.1492457200086548rem;">
-        私房歌<sup>3</sup>
+        style="font-size: 1.2877749598817576rem;">
+        私房歌<sup>8</sup>
     </a>
     
     
@@ -986,8 +957,8 @@
     
     
     <a href="/%20/tags/%E8%81%8A%E5%A4%A9" class="tagcloud-item"
-        style="font-size: 1.3926550053639648rem;">
-        聊天<sup>18</sup>
+        style="font-size: 1.3920898183863306rem;">
+        聊天<sup>17</sup>
     </a>
     
     
@@ -995,8 +966,8 @@
     
     
     <a href="/%20/tags/%E8%81%BD%E9%9F%B3%E6%A8%82" class="tagcloud-item"
-        style="font-size: 1.1492457200086548rem;">
-        聽音樂<sup>3</sup>
+        style="font-size: 1.2877749598817576rem;">
+        聽音樂<sup>8</sup>
     </a>
     
     
@@ -1004,7 +975,7 @@
     
     
     <a href="/%20/tags/%E8%AA%BF%E5%BC%8F" class="tagcloud-item"
-        style="font-size: 1.218641027893161rem;">
+        style="font-size: 1.2227309214515123rem;">
         調式<sup>5</sup>
     </a>
     
@@ -1022,7 +993,7 @@
     
     
     <a href="/%20/tags/%E9%9F%B3%E7%A8%8B" class="tagcloud-item"
-        style="font-size: 1.2824906960399658rem;">
+        style="font-size: 1.2877749598817576rem;">
         音程<sup>8</sup>
     </a>
     
@@ -1031,7 +1002,7 @@
     
     
     <a href="/%20/tags/%E9%9F%B3%E9%9A%8E" class="tagcloud-item"
-        style="font-size: 1.3257524152838387rem;">
+        style="font-size: 1.3318459317556774rem;">
         音階<sup>11</sup>
     </a>
     
@@ -1149,7 +1120,7 @@
         
       </div>
       <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
-        <small class="text-white">&copy; 2022 Rick KY Hwang All Rights Reserved</small>
+        <small class="text-white">&copy; 2023 Rick KY Hwang All Rights Reserved</small>
         
 	
 		
