@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 程序</title>
+    <link>https://www.gtcafe.com/tags/%E7%A8%8B%E5%BA%8F/</link>
+    <description>Recent content in 程序 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/tags/%E7%A8%8B%E5%BA%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: 上下文背後的意思</title>
+      <link>https://www.gtcafe.com/itlds/2023/0203_context/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/2023/0203_context/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#Context (上下文 / 前後文)&lt;/p&gt;
+&lt;p&gt;簡言之，有時間序列
+有序列，代表有個清單
+清單裡面有一些集合事件 / 任務 / 情境
+例如情境 A, B, C, D, E ..&lt;/p&gt;
+&lt;p&gt;所謂的 Context 就是 A ~ E 的次序或者關係
+次序代表的是 #循序的，
+像是: E -&amp;gt; D -&amp;gt; A -&amp;gt; C &amp;hellip; (一個 linkedlist)
+或者是 #關係次序，就是 Tree:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A -&amp;gt; (B, C)&lt;/li&gt;
+&lt;li&gt;B -&amp;gt; E&lt;/li&gt;
+&lt;li&gt;C-&amp;gt; F&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不管是 #循序, 還是 #關聯次序
+確立這些概念的，稱為 #領域知識
+像是晶圓製造工序 、軟體開發流程 (SDLC)、音樂製作程序 &amp;hellip;. etc&lt;/p&gt;
+&lt;p&gt;#DDD&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/02/03&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0uCk93gysNDejvsp4geaX1nM7hVfS7m8YcJjWRBdoNagSds29xQMLo19TWc4wQoddl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

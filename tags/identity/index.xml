@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – Identity</title>
+    <link>https://www.gtcafe.com/tags/identity/</link>
+    <description>Recent content in Identity on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/tags/identity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: 識別的本質</title>
+      <link>https://www.gtcafe.com/itlds/2023/0201_identity/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/2023/0201_identity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#識別 (Identity) 這個議題
+在未來會越來越重要
+特別是 AI 真的流行起來之後&lt;/p&gt;
+&lt;p&gt;#識別 簡單說像 身分證、指紋辨識、FaceId
+藍勾勾、網址的憑證、軟體版本唯一性 … etc
+總之，證明 “Who” 的，
+具備唯一性
+就是識別&lt;/p&gt;
+&lt;p&gt;識別 除了用在單一個人
+概念延伸的就是一種 #認可 #認同 #信任 概念
+生活中常見的就是各式各樣的證書 (Certificate)
+畢業證書, 離職證明, 聘書
+鈔票, 貨幣, 法幣 … 都算
+貨幣代表國民認同國家
+這個國家的群體認同與信任的
+不然鈔票就只是個沒意義的紙或者銅板&lt;/p&gt;
+&lt;p&gt;識別一個人是不是 Rick
+就是透過一些特徵值判斷
+專業的說法: #圖靈測試
+只要著 Facebook 上面
+然後判斷 Rick 帳號發出來廢文的特徵
+就可以確定
+那是 Rick 本人發的廢文
+那些特徵值就是 識別 Rick
+的方法 …&lt;/p&gt;
+&lt;p&gt;—
+這篇廢文值一塊兩毛五 …&lt;/p&gt;
+&lt;p&gt;—
+一直覺得
+好像跟某個同事說過類似的廢文 @@ …&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/02/01&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0PznaN7HdRiV7KguRnZD99haEb8AcemfnHBx45miGVcH7AF7X5ExNFypB6mxM4n8ol&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

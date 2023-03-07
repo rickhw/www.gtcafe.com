@@ -1,0 +1,175 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 軟體工程</title>
+    <link>https://www.gtcafe.com/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B/</link>
+    <description>Recent content in 軟體工程 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: 聊聊需求分析、系統分析、系統設計</title>
+      <link>https://www.gtcafe.com/itlds/2023/0207_system-analysis/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/2023/0207_system-analysis/</guid>
+      <description>
+        
+        
+        &lt;p&gt;跟朋友聊到 軟體設計與開發的流程
+log 一些口述的東西&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;原則：&lt;/p&gt;
+&lt;p&gt;規格只要有 60 分就可以開工了
+細節是討論出來的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;規格是 requirement &amp;amp; system analysis, system design 的產出&lt;/p&gt;
+&lt;p&gt;需求分析會展開:
+0. 依照 需求訪談, 分析需求的種類, 目的, 預期結論&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;使用者定義: 哪些角色 (role)&lt;/li&gt;
+&lt;li&gt;故事定義: 情境, 故事&lt;/li&gt;
+&lt;li&gt;使用者故事定義: role x story, 我稱為 #使用者故事矩陣&lt;/li&gt;
+&lt;li&gt;確立目標: 各個時間點的 DAU, 三個月 1k, 半年 100k &amp;hellip; 用以評估架構&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;系統分析:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;依照需求分析結論, 長出系統架構的選項, 至少要有三個&lt;/li&gt;
+&lt;li&gt;找出 三種架構各自的 Pros &amp;amp; Cons&lt;/li&gt;
+&lt;li&gt;決策與取捨&lt;/li&gt;
+&lt;li&gt;用 psuedo code 溝通&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;系統設計:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;產出可以給工程師開發的參照, 最理想的例子是 RFC&lt;/li&gt;
+&lt;li&gt;依照 #使用者故事矩陣 展開各種 #內外介面, ex: API / Config / Protocol&lt;/li&gt;
+&lt;li&gt;依照 #使用者故事矩陣 展開 sequence diagram&lt;/li&gt;
+&lt;li&gt;到 2) 就可以開始 PoC 了, 準備跟 TA / Stakeholder Demo&lt;/li&gt;
+&lt;li&gt;系統設計最後生出來的東西稱為 #規格 (Spec)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;案例：&lt;/p&gt;
+&lt;p&gt;之前設計底層的技術規格 (類似 RFC)
+系統分析與設計大概 30% 的時候
+就會寫 Pseudo code
+重點是讓真的開發的工程師快速理解抽象概念
+(分析與設計是同步進行的)&lt;/p&gt;
+&lt;p&gt;規格大概 60%，大方向確立
+就會讓工程師開始 PoC
+然後核心的 User Stories 為主
+跟 TA / Stakeholder Demo&lt;/p&gt;
+&lt;p&gt;沒啥問題後
+才開始寫規格的細節
+工程師實作過程
+也會跟我討論細節
+例如有一些砸揍演算法應該用哪一個？
+這種東西如果不是核心的規格
+就會直接讓工程師去發揮&lt;/p&gt;
+&lt;p&gt;最後整個規格差不多 80%
+實作也都完成核心的 User Stories
+基本上已經上線了&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/02/07&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0a6hTgBoQHo5Zu5jXGSQZJijiQ3MdM12eXVNP4bfGQM7ArCEdDUFDdvYSSqz1ZoW7l&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 需求分析 - 生活中的案例</title>
+      <link>https://www.gtcafe.com/itlds/2023/0207_system-analysis-in-life/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/2023/0207_system-analysis-in-life/</guid>
+      <description>
+        
+        
+        &lt;p&gt;繼續上一篇 [1] 軟體設計與開發流程，
+提到的需求分析
+紀錄這個比較生活中的案例
+也是跟朋友會聊到的&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;需求分析案例&lt;/p&gt;
+&lt;p&gt;需求是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要去日本旅行&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;沒了&lt;/p&gt;
+&lt;p&gt;Google 老闆的需求：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我也要一個 ChatGPT ..&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;大概就這樣。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;需求分析做什麼？
+至少問你的 Stakeholder 這些問題，&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;這個需求的 #使用者 有誰？&lt;/li&gt;
+&lt;li&gt;有哪些 #故事&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;使用者可能會有你, 家人, 女友/男友,
+老婆/先生, 老媽/老爸, 隔壁的王杯杯?&lt;/p&gt;
+&lt;p&gt;故事有幾個角度：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;是去日本，但是去哪？可能有北海道、東京、關西、沖繩 ..&lt;/li&gt;
+&lt;li&gt;怎麼去？坐飛機？坐船？划水？做太空船？&lt;/li&gt;
+&lt;li&gt;酒店住啥？五星級？民宿？還是露宿街頭？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;把 User x Story 就形成 #使用者故事矩陣
+例如，分析出來的 User 一共有 5 種 (Role)
+Story 有 10 個，
+邏輯上的 User Story 排列組合就有 5 x 10 = 50 個
+但 這 50 個有很明顯有很多不合邏輯的&lt;/p&gt;
+&lt;p&gt;例如，使用者應該會一起，不會分開
+不會出現你坐飛機，你爸做船過去日本
+更不會出現，你去北海道，你老婆去沖繩的 ..&lt;/p&gt;
+&lt;p&gt;User Story 是否合理，
+由 PO vs Stakeholder 討論出來&lt;/p&gt;
+&lt;p&gt;這個矩陣會呈現所有的排列組合
+合理與不合理
+找出最重要的三個 (Happy Paths)。
+剩下的，未來遇到再做就好。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;找出 #使用者矩陣最核心的故事，假設有以下三個：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;去北海道, 住民宿, 做華航&lt;/li&gt;
+&lt;li&gt;去東京, 住五星級, 做船&lt;/li&gt;
+&lt;li&gt;去沖繩, 露宿街頭, 滑水&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;有了這三個，那大家就來專注討論系統分析吧。。。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;需求分析的重點，就是搞清楚 User 有哪些人？
+Story 有哪些，這些交成出來故事的合理性？以及重要性&lt;/p&gt;
+&lt;p&gt;需求分析不重要？&lt;/p&gt;
+&lt;p&gt;分析得好不好，看 User / Story 定義的大概會有個譜
+有可以知道範圍大小&lt;/p&gt;
+&lt;p&gt;—
+「User 常常搞不清楚」在中文語意上常常是被忽略的
+也就 #主詞 中文語意的盲點
+所以只要用中文在溝通需求
+很容易就會忘記 “User” 到底是誰
+是什麼角色 (Role)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/02/07&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02mVCZQhYBdoNgjLqnw9dTDUFbfE2nwvB7XQ2GCJ4KXMzd7JECp21RcgG5w4832VZLl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
