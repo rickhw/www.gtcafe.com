@@ -1,0 +1,127 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 2020</title>
+    <link>https://www.gtcafe.com/itlds/2020/</link>
+    <description>Recent content in 2020 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/itlds/2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: 隨機論 還是 決定論</title>
+      <link>https://www.gtcafe.com/itlds/2020/0816/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/2020/0816/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;code&gt;隨機論&lt;/code&gt; 還是 &lt;code&gt;決定論&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;決定論：早就在哪邊等你了，必然的，因果，命運&lt;/li&gt;
+&lt;li&gt;隨機論：無法預測的，偶然的，量子力學&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;無理數&#34;&gt;無理數&lt;/h2&gt;
+&lt;p&gt;邊長為 1 的直角三角形，他的斜邊長度為  √2，讀作 #根號二，把這個數展開會得到一個沒有規則、且無法窮舉的數列，大約是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1.414213562373095048801688724209 ..&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;類似於這種特別 &amp;ldquo;數&amp;rdquo;，還有像是 &lt;code&gt;圓周率 (pi)&lt;/code&gt;、&lt;a href=&#34;https://zh.wikipedia.org/wiki/E_(%E6%95%B0%E5%AD%A6%E5%B8%B8%E6%95%B0)&#34;&gt;自然對數底 (歐拉數 e)&lt;/a&gt; &amp;hellip;. 在數學上稱為 #無理數&lt;/p&gt;
+&lt;p&gt;兩邊為 1 的直角三角形，透過工具可以畫得出來，也可以用工具量測出斜邊長約 1.414 &amp;hellip; 雖然可以具象的表達這個關係，但是理論上他是一個無法窮舉、永遠講不清的概念。&lt;/p&gt;
+&lt;p&gt;前述提到 &lt;code&gt;畢氏定理&lt;/code&gt;、&lt;code&gt;無理數&lt;/code&gt; 的概念，數學講究 &lt;code&gt;證明&lt;/code&gt; ，也就 是說畢氏定理之所以是定理，需要被證明；同理，為什麼 √2 是無理數？也需要被證明。&lt;/p&gt;
+&lt;p&gt;在邏輯上，這裡有個先後關係的概念：需要被證明，代表著這些定理、這些特殊的數早就已經存在，而且早就在哪裡等你了。所有的數學家都只是發現這些東西，然後用自己的工具證明，他發現這個定理。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;音樂的窮舉&#34;&gt;音樂的窮舉？&lt;/h2&gt;
+&lt;p&gt;以前在音樂論壇看過這樣的討論：&lt;/p&gt;
+&lt;p&gt;音樂理論本身是有限的，像是音階的數量、節拍的數量、歌曲的長度。基於這些有限的概念，可以推論出一個結論：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人類可以創作的歌曲數總量是有上限的，只是那個上限很大而已。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;聽起來好像有這麼回事。例如音階用鋼琴 88 鍵當作上限，節拍用最小的 32 分音符當最小單位，歌曲長度用 1 秒到 30 分鐘做單位、音軌用 1 ~ 300 做範圍。依照這樣的數量及，可以透過數學方法歸納出一個可以創作的歌曲數總量。&lt;/p&gt;
+&lt;p&gt;看起來，音樂是個 &lt;code&gt;有理數&lt;/code&gt;，所以音樂是決定論。也就是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不是有什麼歌曲會被誰創作，而是歌曲早就在哪裡，等著被發現。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;同樣的邏輯，套用在笑話上。人類的語言可以講幾個笑話？能否歸納出一個總量數字？好像可以。&lt;/p&gt;
+&lt;p&gt;用中文來說，&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8&#34;&gt;康熙字典&lt;/a&gt; 的字有 47,000+ 個，算 50,000 好了。一篇笑話需要用到約 30 ~ 300 個字當範圍。基於這樣的條件，利用窮舉法，透過 AI 演算法可以把全世界的笑話都寫完。&lt;/p&gt;
+&lt;p&gt;所以人類的笑話總數也是個有理數，他是決定論。因為笑話早就準備在哪裡，而不是等著被誰想出來。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;計算機的命定論&#34;&gt;計算機的命定論？&lt;/h2&gt;
+&lt;p&gt;計算機透過二進位計算所有的東西，包含我們現在使用的各種軟體應用、或者通訊。&lt;/p&gt;
+&lt;p&gt;在邏輯上來講，計算機上所有的東西都是可以經過運算得到定論的，不管是應用軟體的邏輯、還是密碼學裡面很多複雜的演算法，只要是在現代計算機上跑的程式，結果都已經是必然，早就已經決定的。&lt;/p&gt;
+&lt;p&gt;人類的 DNA 是以四進位的 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%9B%9B%E9%80%B2%E4%BD%8D&#34;&gt;遺傳密碼&lt;/a&gt; 表示，而量子計算機是三態，姑且想像成三進位。但不管是否是二進位、三進位、還是四進位，是否都代表著，這是一個可以被窮舉的排列組合，換言之：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人生是可以被演算出來的，生命並不存在&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;也就是你現在所有的動作、所有的決定、腦袋想的事情，早就都已經是既定的事實在那邊，而你在做的只是像放音機那樣，有另一個高級的生命體幫你按下 Play 的按鈕，照著這些排列組合走而已。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/E_(%E6%95%B0%E5%AD%A6%E5%B8%B8%E6%95%B0)&#34;&gt;自然對數底 (歐拉數 e)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%9B%9B%E9%80%B2%E4%BD%8D&#34;&gt;遺傳密碼&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8&#34;&gt;康熙字典&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2020/08/16&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid023uJ5c1reS5CU72Z9bk8wacZUDHVubzgtvuKzY2kGM4HYdmrBaKF73sM2cRcdpRbLl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 開發者的環境</title>
+      <link>https://www.gtcafe.com/itlds/2020/0813_dev-env/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/2020/0813_dev-env/</guid>
+      <description>
+        
+        
+        &lt;p&gt;朋友提出一個問題：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他是開發者 (Developer) ，跟 SRE / MIS 申請一台 VM 開發用，但公司的政策是：不被允許可以更改作業系統的設定，像是 /etc 底下的東西，這樣是否合理？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;我的經驗與觀點是：開發人員必須要有一定的資源與彈性，做探索性的實驗。例如開發過程，需要自己裝一些工具、軟體、語言層級的套件。甚至開發的功能本身就有效能要求，那麼調整系統參數，像是 /etc、/proc 底下的東西、調整 database / cache 的設定，讓開發過程可以有彈性的探索與實驗，這個權限是 理所當然 的。&lt;/p&gt;
+&lt;p&gt;然後開發人員把這種實驗 (lab) 環境弄壞是正常的，沒弄壞代表你對系統沒有做過嘗試，只知道應用層自己的狀況，出了應用層以外的東西都不知道。這寫出來的東西，基本上是無法面對真實世界的，或者是巨大的浪費。&lt;/p&gt;
+&lt;p&gt;以前我在開發時，常會把 linux 搞壞、把 application server (tomcat, was, jboss) 搞壞、把 MySQL、mencached 搞壞、把 eclipse 、Apache 搞壞 &amp;hellip;.. 所以我很常用 VMWare 模擬各種奇怪的環境，甚至是網路。過程會把上述的東西的 config 倒來倒去，import / export (這是我看軟體設計的關鍵檢核點)，同一個版本裝很多個，試看不同的 config ，或者同時裝很多版本，然後餵同樣的 config ，或者資料。&lt;/p&gt;
+&lt;p&gt;這些都是探索。為了這些探索，我會想辦法找資源，公司如果有資源，會盡可能利用。如果資源不夠，那就要靠關係（跟 IT / MIS，當時不叫 SRE / DevOps）搞好關係，再不然，就是投資自己，買好一點的電腦，跑 VM &amp;hellip; 現在還留一些當時特定環境的 VM &amp;hellip;&lt;/p&gt;
+&lt;p&gt;我比較幸運，工作過程曾經有時間，或者說我自己就有這種探索的慾望，所以會做很多類似的實驗。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;回到問題本身，開發人員申請的開發用的機器，能否自己改作業系統的設定？&lt;/p&gt;
+&lt;p&gt;我的回答：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;當然可以，不然等上線後請 SRE / Ops 幫你找問題？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;開發人員，要自己找出應用程式與系統的關係，甚至是效能的調教。以 Web App 來講，有些需要調教系統的 tcp 參數、openfile 常見的 fd &amp;hellip; 理想的狀況下，這些其實都是 developer 在上線前，必須 benchmark 出來，告訴 SRE / Ops 有哪一些系統參數要注意、 要調整、如何調、怎樣的情境要調整。同樣的，除了系統，應用層自己的參數，也就是一般 AP 層的 config，有哪一些可以調、怎麼調、為什麼調？有哪一些 #開關 可以開、可以關？( Feature Toggle 完全是個舊瓶新裝的東西）。&lt;/p&gt;
+&lt;p&gt;developer 下一棒不是 SRE / Ops，前述的東西 QA 也應該找出來。至少要確認 AP 層的 config 個別是做啥的。&lt;/p&gt;
+&lt;p&gt;Config 描述的是系統架構的介面，通常我看一個系統架構的第一步就是 config 掃過一輪，就大概知道有哪一些內外依賴，他們怎麼通訊的，搞清楚後才往下看資料結構、資料庫、應用框架。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;不過回到現實，那些作業系統層級的參數幾乎都是 SRE / Ops 找出來的。&lt;/p&gt;
+&lt;p&gt;理想的應該是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Developer 利用 container 的資源限制方式，在本機就可以量測相關的資訊，例如寫一個比對照片的批次程序，量測這個程式的效能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2020/08/13&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02KjK2XsgjMF4hbzvnsJjCGnReEPMWPhixPJcnjRSXevJyonwY4rWHbj3PVdGm1yBfl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
