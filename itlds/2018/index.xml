@@ -1,0 +1,70 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 2018</title>
+    <link>https://www.gtcafe.com/itlds/2018/</link>
+    <description>Recent content in 2018 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/itlds/2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: 語言學習跟軟體開發</title>
+      <link>https://www.gtcafe.com/itlds/2018/0924/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/itlds/2018/0924/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Source: &lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid07mW2UnPngpEtCjYffckf9JYtf5GY2MX9hJBre88rUaEuVuAbBSskTzrtAWi5DLVRl&#34;&gt;2018/09/24&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這是本來規劃要學的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sprint1: How?&lt;/li&gt;
+&lt;li&gt;Sprint2: How are you?&lt;/li&gt;
+&lt;li&gt;Sprint3: How are you today?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;先學個關鍵字：How
+然後馬上拿去用，
+抓個路人問：How？How？How？How？How？&lt;/p&gt;
+&lt;p&gt;聽不懂，再學第二句：How are you?
+然後馬上拿去用，抓個人說。。。
+馬上聽的懂了！&lt;/p&gt;
+&lt;p&gt;然後加上時間：How are you today?
+這是個完整的句子，
+就像完整的產品，可以上線了。
+終於上線了，人爽心情好，&lt;/p&gt;
+&lt;p&gt;加個形容詞：How are you fxxking today?
+人咩，總是會有情緒咩～～&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;軟體開發其實跟這很像，不過常常卻是這樣：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sprint1 看到：How?&lt;/li&gt;
+&lt;li&gt;Sprint2 看到：How are you?&lt;/li&gt;
+&lt;li&gt;Sprint3 看到：_________you today?     (衝啦，快上線啦，How 是啥東西？能吃嗎？)&lt;/li&gt;
+&lt;li&gt;Sprint4 看到：_____________fxxking today?   (衝衝衝)&lt;/li&gt;
+&lt;li&gt;Sprint5 看到：_____________fxxking? (&amp;hellip;&amp;hellip;&amp;hellip;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;恩，全貌只剩下 fxxking &amp;hellip;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;最近有篇 #天龍八部 類比軟體開發的說明，其實是類似的。。。不過考慮很多人沒讀過 #天龍八部 原著，也不知道創作過程，金庸出差、請倪匡代筆的過程。。。用比較簡單的方式說明類似的問題。。。&lt;/p&gt;
+&lt;p&gt;恩，凡走過，請不要忘記。看文也記得爬文，了解開發過程的原由、因果、來龍去脈 &amp;hellip;.  看到宏觀的整理。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;產品功能會隨時間累加、測試壓力也是累加、部署的複雜度也是累加的、維運的難度與複雜度是指數上升的。所以 #回歸測試 的重要性，在後期（2y+) 後越來越重要。&lt;/p&gt;
+&lt;p&gt;產品理想的情境，在過程中應該持續的 #去蕪存菁 ，也就是不是只有增加功能，同時也有刪去功能。能真的如此，系統會越來越強壯，越來越穩定。
+不過實際的都是，只有加，沒有減，更沒時間重構。所以系統只有越來越肥大，而且不知道肥在哪。最後很難看到全貌，只會看到 fxxking &amp;hellip;
+因為越來越大，但還是要如期交付，所以很多妖魔鬼怪的方法一窩蜂地跑出來，例如：沒有意義的 #自動化測試 ，對，我要再次強調：#沒有意義的自動化測試！ 問題源頭不在自動化，也不在測試，而是沒有回去 去蕪存菁！ 源頭是是垃圾，後面做的再好，都是只是很漂亮的垃圾。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

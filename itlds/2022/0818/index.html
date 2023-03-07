@@ -17,7 +17,7 @@
 <link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
 
-<title>SQA 面試題目 | GTCafe Studio</title>
+<title>拆服務？分類？ | GTCafe Studio</title>
 
 
 
@@ -198,10 +198,10 @@
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
-    <a  href="/itlds/2022/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">2022</a>
+    <a  href="/itlds/2022/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">2022</a>
   </li>
   <ul>
-    <li class="collapse " id="itlds2022">
+    <li class="collapse show" id="itlds2022">
       
       
       
@@ -209,7 +209,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20220818" href="/itlds/2022/0818/">拆服務？分類？</a>
+          <a class="td-sidebar-link td-sidebar-link__page  active" id="m-itlds20220818" href="/itlds/2022/0818/">拆服務？分類？</a>
         
       
       
@@ -272,10 +272,10 @@
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
-    <a  href="/itlds/2019/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">2019</a>
+    <a  href="/itlds/2019/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">2019</a>
   </li>
   <ul>
-    <li class="collapse show" id="itlds2019">
+    <li class="collapse " id="itlds2019">
       
       
       
@@ -379,7 +379,7 @@
         
           
           
-          <a class="td-sidebar-link td-sidebar-link__page  active" id="m-itlds20190224-interview-sqa" href="/itlds/2019/0224-interview-sqa/">SQA 面試題目</a>
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-itlds20190224-interview-sqa" href="/itlds/2019/0224-interview-sqa/">SQA 面試題目</a>
         
       
       
@@ -1171,14 +1171,14 @@
 
 
 <li class="breadcrumb-item" >
-	<a href="https://www.gtcafe.com/itlds/2019/">2019</a>
+	<a href="https://www.gtcafe.com/itlds/2022/">2022</a>
 </li>
 
 
 
 
 <li class="breadcrumb-item active" aria-current="page">
-	<a href="https://www.gtcafe.com/itlds/2019/0224-interview-sqa/">SQA 面試題目</a>
+	<a href="https://www.gtcafe.com/itlds/2022/0818/">拆服務？分類？</a>
 </li>
 
 	</ol>
@@ -1186,18 +1186,88 @@
 
             
 <div class="td-content">
-	<h1>SQA 面試題目</h1>
+	<h1>拆服務？分類？</h1>
 
     
 	
-	<p><a href="https://www.facebook.com/rick.kyhwang/posts/10210807880992497">https://www.facebook.com/rick.kyhwang/posts/10210807880992497</a></p>
-<p>上週 SRE 聚會聊到面試考題，分享我上一個工作 (SQA Manager, 2012~2015) 的面試考題。。。面試角色有兩種： SQA、SDET (Java)，共同考題：英文閱讀</p>
-<p>難易度，我個人評分是 2/5 (5 最難)</p>
-<p>資科、資工畢業的，應該九成輕鬆答對。然後，不要懷疑，這是我認定 QA 該具備的基本能力。</p>
+	<p>Source: <a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0Q8KPR6FYgcy81pPJu6ZEL9CHyvq3UnMFwjV8DNkGhr8J4a23QDdz8NqXwvSjRxZZl">2022/08/18</a></p>
+<p>#分類 #拆服務 #拆組織</p>
+<p>物件導向的專有名詞：類別 (Class)，本質上就是 #分類 的概念。換言之，就是：</p>
+<blockquote>
+<p>描述一個類別 (Class, n)</p>
+</blockquote>
+<p>這件事情背後的本質就是在分類 (Classify, v)，也就是：</p>
+<blockquote>
+<p>一堆東西，先經過分類 (動作) 之後，定義類別 (名詞)</p>
+</blockquote>
+<p>這個名詞定義的精準程度 (這裡牽涉到語言的字彙程度)，決定領域 (Domain) 涉入的深度。</p>
+<p>例如，電商領域的會員 (Member) 是領域知識，如果要用一個 Class 描述會員會怎麼描述？</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-java" data-lang="java"><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Member</span> <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    String firstName<span style="color:#f92672">;</span>
+</span></span><span style="display:flex;"><span>    String lastName<span style="color:#f92672">;</span>
+</span></span><span style="display:flex;"><span>    String age<span style="color:#f92672">;</span>
+</span></span><span style="display:flex;"><span>    String gender<span style="color:#f92672">;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span></code></pre></div><p>這個例子是結果了，如果反過來，先有一堆東西：</p>
+<ul>
+<li>firstName</li>
+<li>lastName</li>
+<li>age</li>
+<li>gender</li>
+</ul>
+<p>那會怎麼命名？經過分析可能會有以下 #名詞：</p>
+<ul>
+<li>Profile</li>
+<li>Identity</li>
+<li>Member</li>
+</ul>
+<p>我的字彙有點少，反正至少有這三個 XDD</p>
+<hr>
+<p>另外一個我常舉的例子，
+通常是寫 Code 有一定經驗的人一定會 #想做 的:
+(如果你沒感覺就 &hellip;.)</p>
+<ol>
+<li>一個 Class 裡有 20 個 Method</li>
+<li>一個 Method 有 1000 行</li>
+</ol>
+<p>換個角度，再舉一些例子：</p>
+<ol>
+<li>一個組織有 30 個人</li>
+<li>一個房間有 300 坪</li>
+<li>一個書櫃有 300 本書</li>
+<li>一個系統裡有 30 個角色</li>
+<li>&hellip;</li>
+</ol>
+<hr>
+<p>這年代很多架構都是分散式架構，
+大多都要拆服務，拆成微服務、奈米服務
+很多人會說，要用一些方法來拆
+像是現在流行的 #DDD ..</p>
+<p>其實如果你有從上看到這裡
+大概就會知道我的直接概念就是
+多就拆
+拆就去管理依賴
+不面對這問題
+時間到了
+他就會來面對你</p>
+<p>至於啥是多？
+需要科學的量化方法？
+還是團隊共識？
+還是主管決？
+只要大家看清楚就好</p>
+<p>不要真的要給團隊共識決
+不敢決
+決了也不敢負責任</p>
+<p>或者主管決
+做了不好決策
+該反應又不說
+又靠北主管無能</p>
+<p>科學化方法自己卻沒有能力量化
+因為連自己寫過多少 Code 都沒能力掌握</p>
 
 	
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 2019/02/24
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 2022/08/18
 </div>
 </div>
 
