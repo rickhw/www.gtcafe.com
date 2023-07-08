@@ -6,6 +6,35 @@
 <meta name="generator" content="Hugo 0.115.0"><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 
+
+
+
+
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="article">
+<meta property="og:title" content="開發者的環境 &middot; GTCafe Studio">
+<meta property="og:description" content="朋友提出一個問題：
+他是開發者 (Developer) ，跟 SRE / MIS 申請一台 VM 開發用，但公司的政策是：不被允許可以更改作業系統的設定，像是 /etc 底下的東西，這樣是否合理？
+我的經驗與觀點是：開發人員必須要有一定的資源與彈性，做探索性的實驗。例如開發過程，需要自己裝一些工具、軟體、語言層級的套件。甚至開發的功能本身就有效能要求，那麼調整系統參數，像是 /etc、/proc 底下的東西、調整 database / cache 的設定，讓開發過程可以有彈性的探索與實驗，這個權限是 理所當然 的。
+然後開發人員把這種實驗 (lab) 環境弄壞是正常的，沒弄壞代表你對系統沒有做過嘗試，只知道應用層自己的狀況，出了應用層以外的東西都不知道。這寫出來的東西，基本上是無法面對真實世界的，或者是巨大的浪費。
+以前我在開發時，常會把 linux 搞壞、把 application server (tomcat, was, jboss) 搞壞、把 MySQL、mencached 搞壞、把 eclipse 、Apache 搞壞 &amp;amp;hellip;.. 所以我很常用 VMWare 模擬各種奇怪的環境，甚至是網路。過程會把上述的東西的 config 倒來倒去，import / export (這是我看軟體設計的關鍵檢核點)，同一個版本裝很多個，試看不同的 config ，或者同時裝很多版本，然後餵同樣的 config ，或者資料。
+這些都是探索。為了這些探索，我會想辦法找資源，公司如果有資源，會盡可能利用。如果資源不夠，那就要靠關係（跟 IT / MIS，當時不叫 SRE / DevOps）搞好關係，再不然，就是投資自己，買好一點的電腦，跑 VM &amp;amp;hellip; 現在還留一些當時特定環境的 VM &amp;amp;hellip;
+我比較幸運，工作過程曾經有時間，或者說我自己就有這種探索的慾望，所以會做很多類似的實驗。
+回到問題本身，開發人員申請的開發用的機器，能否自己改作業系統的設定？
+我的回答：
+當然可以，不然等上線後請 SRE / Ops 幫你找問題？">
+<meta property="og:url" content="https://www.gtcafe.com/itlds/2020/0813_dev-env/">
+<meta property="og:site_name" content="GTCafe Studio">
+
+
+
+<meta property="article:published_time" content="2020-08-13T00:00:00Z">
+
+
+
+
+
+
 <link rel="shortcut icon" href="/favicons/favicon.ico" >
 <link rel="apple-touch-icon" href="/favicons/apple-touch-icon-180x180.png" sizes="180x180">
 <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">

@@ -7,6 +7,30 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 
+
+
+
+
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Using External MIDI Devices in Logic Pro &middot; GTCafe Studio">
+<meta property="og:description" content="紀錄如何在 Logic Pro 上設定 MIDI Message，特別是 Program Change 與 Control 兩種 Message，外部設備則是 Yamaha MOTIF XS8 。
+整個工作流程與驗證方式：
+確認需要音色 (Patch)：找尋音源設備的 Data Sheet (Yamaha 稱 Data List)，找到相關音色的 MSB / LSB 將 Sound Module 切換到 Sequencer Mode。依照設備，名稱會有所不同，通常就是類似多軌模式、或者編曲模式之類的。 在 DAW 對應的 Channel 上設定初始的 Control Message 驗證設定正確性：重新開啟檔案，確認 Sound Module 上的音色符合設定。 這裡我使用的設備資訊如下：
+Sound Module: Yamaha Motif XS8，底下簡稱 XS8 DAW: Logic Pro 1. 確認需要的音色 首先就是把想要用的音色相關的 MSB / LSB 找出來，底下是我想要用的音色，以及他們的 MSB / LSB：
+Channel Patch Name MBS LSB Number 1 Rock Grand Piano 63 0 2 2 StraightFinger AF1&amp;amp;amp;2 63 2 24 3 Hyper Standard Kit 63 32 2 這些資訊可以在 Sound Module 的 Data Sheet 找到，以 XS8 的資訊如下：">
+<meta property="og:url" content="https://www.gtcafe.com/rickmidi/production/using-external-midi-devices-in-logic-pro/">
+<meta property="og:site_name" content="GTCafe Studio">
+
+
+
+<meta property="article:published_time" content="2022-05-01T00:00:00Z">
+
+
+
+
+
+
 <link rel="shortcut icon" href="/favicons/favicon.ico" >
 <link rel="apple-touch-icon" href="/favicons/apple-touch-icon-180x180.png" sizes="180x180">
 <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">

@@ -7,6 +7,35 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 
+
+
+
+
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="website">
+<meta property="og:title" content="概述『和聲分析』演算法 &middot; GTCafe Studio">
+<meta property="og:description" content="下面這段影片介紹了一個分析和弦的工具，跟『科技與音樂』一文介紹的東西其實是類似的技術。
+我曾經寫過一個小程式，目的是用來歌曲分析，當時也有做過類似的事情。最近也有朋友問我想關的問題，我把當時寫『和弦分析』程式的一些方法記錄下來給有興趣的人參考。
+這個程式的主要目的用來幫忙找歌曲的調性跟和弦，雖然是描述一個『程式』，不過音樂上的思考過程，基本上還是要具備基礎的樂理知識，反而不會提到太多的程式設計的概念。
+這段文字除了是在描述程式設計的和聲分析方法，其實也是在描述一般樂手『採譜』的基本概念。
+要寫這種工具，要做幾件事情，分兩個部分：音頻分析 和 和聲分析。本文著重的描述是第二個部分，第一部分偏向數位訊號處理 (DSP) 應用。
+和聲分析我是假設用 MIDI SMF (Standard MIDI Files) 當作輸入，而不是 Digital Audio (像是 MP3、WAVE)，如此可以省去音頻分析部分。步驟如下：
+一、建立基本定義資料庫 定義音名 Notation 以及表示法 (Expression)，像是 CDEFGAB 以及八度音表示法、升降記號，像是 A1、C6、C#3 &amp;amp;hellip; 等，這邊的數字表示第幾個八度音。 音程關係 Interval、數字系統 (Numbered) 調性定義：大調音階、小調音階、其他音階的音程關係，就是音階基礎描述的東西。 和弦屬性：大和弦、小和弦、增和弦、減和弦、七和弦系列、延伸和弦 &amp;amp;hellip; 等。大概就是和弦基礎描述的東西。 順階和弦與和弦功能：順階和弦的運算函式、定義主和弦、下屬和弦、屬和弦 二、和弦辨識函式 在這之前，必須具備的條件就是，已經知道歌曲的速度、小節數、每個小節裡用到哪一些音符，但是不知道和弦、調性等。這部分都是屬於音頻分析的範疇。
+在步驟一描述的，都是定義，也就是分析前需要知道的，根據音頻分析的結果，知道音符的定義名稱，像是：第五小節有音符 A4、C3、D4 等音符，這些音符個別有自己的音符長度 (Duration)、甚至是分析出強弱 (Velocity、CC#7)、各種演奏表情 (Expressions)。所以最方便的方法，就是直接用 MIDI 的 SMF (Standard MIDI Files) 分析。
+基本的功能就是：輸入一堆音名，找出『可能的』和弦名稱，基本的步驟如下：
+把這些音符全部放在一個八度音之內，找出他們的音程關係。例如找到一堆音符是：A3 C 根據上一步驟找出根音、三度音、五度音，影片中 (00:15) 顯示百分比大概就是這段。 實際上編曲越複雜的歌曲，所輸入的音符往往會超過一般和弦的定義，也就是, 我們聽到一小節裡面，同時會包含旋律 &#43; 和弦 &#43; 其他經過音/插音 (ex: 弦樂), 或者節奏樂器的噪音。如果分析的歌曲對象是單一樂器獨奏，則準確性則會高很多。 根據上一步驟的結果，判定和弦屬性是：大和弦、小和弦、減和弦、or 增和弦 找出七度音 (如果有的話), 再根據 (2.">
+<meta property="og:url" content="https://www.gtcafe.com/rickmidi/gossip/algorithm-for-songs/">
+<meta property="og:site_name" content="GTCafe Studio">
+
+
+
+<meta property="article:published_time" content="2014-09-27T00:00:00Z">
+
+
+
+
+
+
 <link rel="shortcut icon" href="/favicons/favicon.ico" >
 <link rel="apple-touch-icon" href="/favicons/apple-touch-icon-180x180.png" sizes="180x180">
 <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">
