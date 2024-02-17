@@ -1,0 +1,44 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 管理</title>
+    <link>https://www.gtcafe.com/portal/tags/%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 管理 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/tags/%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: 依賴反轉</title>
+      <link>https://www.gtcafe.com/portal/itlds/2019/0302-di/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2019/0302-di/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#done&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/10210837105563093&#34;&gt;https://www.facebook.com/rick.kyhwang/posts/10210837105563093&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#坐車隨筆&lt;/p&gt;
+&lt;p&gt;#依賴反轉 (Dependency Inversion, DI) 是軟體工程裡的一種原則，目的是解構兩個軟體元件之間的強關係、高耦合的現象，透過反轉的特性，讓高層次介面自行決定如何依賴其他元件，達到 #控制反轉 (#IoC, Inversion of Control) 的效果。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DI 最有名的說法：&amp;ldquo;Don’t call me, I’ll call you&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;同樣的概念，應用在軟體，也可以應用在 #管理團隊 的協作，也就是把團隊之間依賴的特質，反轉回去。舉例來說，A 團隊執行任務，但依賴於 X 與 Y 團隊，B 團隊依賴於 Y 與 Z 團隊，A / B 兩團隊需要同時間交付任務，最後的 Battleneck  一定會出現在 Y 團隊，然後就會出現 Lock 現象。&lt;/p&gt;
+&lt;p&gt;執行的任務與需求，只要透過依賴反轉的方式，例如讓 Y 團隊開發工具 (SDK / CLI / API)，給 A / B 團隊使用，讓這兩個團隊自行決定如何使用，然後就會得到結果，而不需要過度依賴於 Y 團隊，影響專案進行，也影響團隊士氣。&lt;/p&gt;
+&lt;p&gt;而 A / B 兩團隊要使用 Y 團隊開發的工具，前提必須在這三個團隊之間定義 #介面 (#Interface)，也就是彼此協作的 #協議 (#Protocol)。透過這個協議，#解偶 任務執行過程中的 #阻塞現象 (Blocking)，然後以 #非同步方式 (Async) 執行任務，讓 A / B 之間不要因為排隊、或者強佔 Y 團隊的資源，造成 Lock 現象。&lt;/p&gt;
+&lt;p&gt;Interface 與 Protocol 的定義是團隊跟團隊協作的必要，而這是管理者的工作，因為只有在資訊條件充裕的狀況之下，方能定義出這些東西。&lt;/p&gt;
+&lt;p&gt;這些概念，在計算機科學裡，都有對應的模型與機制 (I/O Models)，而在人與人之間的協作，其實也有一模一樣的現象。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

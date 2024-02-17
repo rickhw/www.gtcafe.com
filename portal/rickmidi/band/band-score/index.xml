@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 關於樂團總譜</title>
+    <link>https://www.gtcafe.com/portal/rickmidi/band/band-score/</link>
+    <description>Recent content in 關於樂團總譜 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/rickmidi/band/band-score/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

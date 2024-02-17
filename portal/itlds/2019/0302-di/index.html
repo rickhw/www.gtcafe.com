@@ -1,0 +1,1650 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.121.2"><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
+
+
+
+
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="article">
+<meta property="og:title" content="依賴反轉 &middot; GTCafe Studio">
+<meta property="og:description" content="#done
+https://www.facebook.com/rick.kyhwang/posts/10210837105563093
+#坐車隨筆
+#依賴反轉 (Dependency Inversion, DI) 是軟體工程裡的一種原則，目的是解構兩個軟體元件之間的強關係、高耦合的現象，透過反轉的特性，讓高層次介面自行決定如何依賴其他元件，達到 #控制反轉 (#IoC, Inversion of Control) 的效果。
+DI 最有名的說法：&amp;amp;ldquo;Don’t call me, I’ll call you&amp;amp;rdquo;
+同樣的概念，應用在軟體，也可以應用在 #管理團隊 的協作，也就是把團隊之間依賴的特質，反轉回去。舉例來說，A 團隊執行任務，但依賴於 X 與 Y 團隊，B 團隊依賴於 Y 與 Z 團隊，A / B 兩團隊需要同時間交付任務，最後的 Battleneck 一定會出現在 Y 團隊，然後就會出現 Lock 現象。
+執行的任務與需求，只要透過依賴反轉的方式，例如讓 Y 團隊開發工具 (SDK / CLI / API)，給 A / B 團隊使用，讓這兩個團隊自行決定如何使用，然後就會得到結果，而不需要過度依賴於 Y 團隊，影響專案進行，也影響團隊士氣。
+而 A / B 兩團隊要使用 Y 團隊開發的工具，前提必須在這三個團隊之間定義 #介面 (#Interface)，也就是彼此協作的 #協議 (#Protocol)。透過這個協議，#解偶 任務執行過程中的 #阻塞現象 (Blocking)，然後以 #非同步方式 (Async) 執行任務，讓 A / B 之間不要因為排隊、或者強佔 Y 團隊的資源，造成 Lock 現象。">
+<meta property="og:url" content="https://www.gtcafe.com/portal/itlds/2019/0302-di/">
+<meta property="og:site_name" content="GTCafe Studio">
+
+
+
+<meta property="article:published_time" content="2019-03-02T00:00:00Z">
+
+
+
+
+
+
+<link rel="shortcut icon" href="/portal/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/portal/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/portal/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/portal/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/portal/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/portal/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/portal/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/portal/favicons/android-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/portal/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/portal/favicons/android-192x192.png" sizes="192x192">
+
+<title>依賴反轉 | GTCafe Studio</title>
+
+
+
+
+
+
+
+
+
+
+<link rel="preload" href="/portal/scss/main.min.e6acd1004bb7430e4755abb55e5fba9bdd5e713cc70e5d97c46c0b1f0025d184.css" as="style">
+<link href="/portal/scss/main.min.e6acd1004bb7430e4755abb55e5fba9bdd5e713cc70e5d97c46c0b1f0025d184.css" rel="stylesheet" integrity="">
+
+
+<script
+  src="https://code.jquery.com/jquery-3.5.1.min.js"
+  integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+  crossorigin="anonymous"></script>
+
+
+
+
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous"
+  src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v13.0&appId=630524736992306&autoLogAppEvents=1"
+  nonce="iDcZuooI"></script>
+
+
+
+
+  </head>
+  <body class="td-page">
+    <header>
+      
+<nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/portal/">
+		<span class="navbar-logo"></span><span class="text-uppercase font-weight-bold">GTCafe Studio</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				<a  class="nav-link" href="/portal/rickmidi/" ><span>喝咖啡 聊音樂</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				<a  class="nav-link active" href="/portal/itlds/" ><span class="active">唉梯喇滴賽</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				<a  class="nav-link" href="https://rickhw.github.io/" target="_blank" ><span>Complete Think</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				<a  class="nav-link" href="https://www.gtcafe.com/study-area/v1/" target="_blank" ><span>Study Area</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				<a  class="nav-link" href="/portal/books/" ><span>個人著作</span></a>
+			</li>
+			
+			
+			
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+</div>
+</nav>
+
+    </header>
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+            
+
+
+
+
+<div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <div id="content-mobile">
+  <form class="td-sidebar__search d-flex align-items-center">
+    
+
+    <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    </button>
+  </form>
+  </div>
+  <div id="content-desktop"></div>
+  
+  <nav class="collapse td-sidebar-nav" id="td-section-nav">
+    
+    
+    
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/portal/itlds/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">唉梯喇滴賽</a>
+  </li>
+  <ul>
+    <li class="collapse show" id="portalitlds">
+      
+      
+      
+      
+        
+          
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/portal/itlds/2023/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">2023</a>
+  </li>
+  <ul>
+    <li class="collapse " id="portalitlds2023">
+      
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230227_layers-in-life" href="/portal/itlds/2023/0227_layers-in-life/">掌握人生「局」的三種層次</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230223_reading" href="/portal/itlds/2023/0223_reading/">閱讀習慣的由來</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230207_system-analysis" href="/portal/itlds/2023/0207_system-analysis/">聊聊需求分析、系統分析、系統設計</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230207_system-analysis-in-life" href="/portal/itlds/2023/0207_system-analysis-in-life/">需求分析 - 生活中的案例</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230205_how-the-world-works" href="/portal/itlds/2023/0205_how-the-world-works/">成熟的人</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230205_compound-interest" href="/portal/itlds/2023/0205_compound-interest/">複利人生</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230203_context" href="/portal/itlds/2023/0203_context/">上下文背後的意思</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230203_throws-ball" href="/portal/itlds/2023/0203_throws-ball/">丟球 - 有效的溝通與說服力</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230201_identity" href="/portal/itlds/2023/0201_identity/">識別的本質</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230126_meditation" href="/portal/itlds/2023/0126_meditation/">識別的本質</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230123_crash-guitar" href="/portal/itlds/2023/0123_crash-guitar/">砸吉他 燒開水</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20230120_learning-path-of-music" href="/portal/itlds/2023/0120_learning-path-of-music/">聊聊個人音樂的學習故事</a>
+        
+      
+      
+    </li>
+  </ul>
+</ul>
+
+        
+      
+      
+      
+        
+          
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/portal/itlds/2022/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">2022</a>
+  </li>
+  <ul>
+    <li class="collapse " id="portalitlds2022">
+      
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20221129_meditation" href="/portal/itlds/2022/1129_meditation/">拆服務？分類？</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20220818" href="/portal/itlds/2022/0818/">拆服務？分類？</a>
+        
+      
+      
+    </li>
+  </ul>
+</ul>
+
+        
+      
+      
+      
+        
+          
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/portal/itlds/2020/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">2020</a>
+  </li>
+  <ul>
+    <li class="collapse " id="portalitlds2020">
+      
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20200816" href="/portal/itlds/2020/0816/">隨機論 還是 決定論</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20200813_dev-env" href="/portal/itlds/2020/0813_dev-env/">開發者的環境</a>
+        
+      
+      
+    </li>
+  </ul>
+</ul>
+
+        
+      
+      
+      
+        
+          
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/portal/itlds/2019/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">2019</a>
+  </li>
+  <ul>
+    <li class="collapse show" id="portalitlds2019">
+      
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190906" href="/portal/itlds/2019/0906/">你的系統架構</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds201920190817" href="/portal/itlds/2019/20190817/">Dev 和 Ops 誰有價值？</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190420_retirement" href="/portal/itlds/2019/0420_retirement/">退休</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190419-ddb" href="/portal/itlds/2019/0419-ddb/">入門 DDB</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190416_refactoring" href="/portal/itlds/2019/0416_refactoring/">重構</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds2019blogged__0316-jinyoung" href="/portal/itlds/2019/blogged__0316-jinyoung/">金庸</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190319_problems" href="/portal/itlds/2019/0319_problems/">開發鬼笑話</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190316_3body" href="/portal/itlds/2019/0316_3body/">質能轉換</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190315_arch" href="/portal/itlds/2019/0315_arch/">滷肉攤架構</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190308_org" href="/portal/itlds/2019/0308_org/">組織政治</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190303-reading" href="/portal/itlds/2019/0303-reading/">人類簡史 閱讀筆記</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page  active" id="m-portalitlds20190302-di" href="/portal/itlds/2019/0302-di/">依賴反轉</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190224-interview-sqa" href="/portal/itlds/2019/0224-interview-sqa/">SQA 面試題目</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190224-queue-in-muisc-production" href="/portal/itlds/2019/0224-queue-in-muisc-production/">架構與錄音介面</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190220-good-software" href="/portal/itlds/2019/0220-good-software/">好軟體</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190220" href="/portal/itlds/2019/0220/">看狀況，Context</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190219-software-engineering" href="/portal/itlds/2019/0219-software-engineering/">管理者的軟體工程</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190218-transformation" href="/portal/itlds/2019/0218-transformation/">能量轉換</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190218_software-test" href="/portal/itlds/2019/0218_software-test/">部署測試</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190217-vsts" href="/portal/itlds/2019/0217-vsts/">VSTS</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190216-lead" href="/portal/itlds/2019/0216-lead/">紀律</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190213-auto-ops" href="/portal/itlds/2019/0213-auto-ops/">Auto Ops？</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190213_design-pattern" href="/portal/itlds/2019/0213_design-pattern/">Design Pattern</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190213-autotest" href="/portal/itlds/2019/0213-autotest/">自動化？程序化？</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190212-vpc" href="/portal/itlds/2019/0212-vpc/">規劃網路 - AWS VPC</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190211" href="/portal/itlds/2019/0211/">Jsonnet</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190206-draft" href="/portal/itlds/2019/0206-draft/">自我？自由意識存在？</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20190119_test-concept" href="/portal/itlds/2019/0119_test-concept/">軟體測試？</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds2019blogged__0316-jinyoung2" href="/portal/itlds/2019/blogged__0316-jinyoung2/"></a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds2019blogged__0330-end-of-q" href="/portal/itlds/2019/blogged__0330-end-of-q/"></a>
+        
+      
+      
+    </li>
+  </ul>
+</ul>
+
+        
+      
+      
+      
+        
+          
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/portal/itlds/2018/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">2018</a>
+  </li>
+  <ul>
+    <li class="collapse " id="portalitlds2018">
+      
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20180924" href="/portal/itlds/2018/0924/">語言學習跟軟體開發</a>
+        
+      
+      
+    </li>
+  </ul>
+</ul>
+
+        
+      
+      
+    </li>
+  </ul>
+</ul>
+
+  </nav>
+</div>
+
+
+
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+            
+
+
+
+
+
+
+
+
+
+
+<h5 class="taxonomy-title">Table of Contents</h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr />
+<h5 class="taxonomy-title">Tags</h5>
+<div class="container tagcloud">
+    
+        
+        
+        
+        
+        
+        
+        
+
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/arpeggios" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
+                arpeggios<sup>3</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/augmented" class="tagcloud-item" style="font-size: 1rem;">
+                augmented<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/basetone" class="tagcloud-item" style="font-size: 1rem;">
+                basetone<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/bichord" class="tagcloud-item" style="font-size: 1rem;">
+                bichord<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/chord-voicing" class="tagcloud-item" style="font-size: 1rem;">
+                chord-voicing<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/closed-voicing" class="tagcloud-item" style="font-size: 1rem;">
+                closed-voicing<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/comping" class="tagcloud-item" style="font-size: 1rem;">
+                comping<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/context" class="tagcloud-item" style="font-size: 1rem;">
+                context<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/daw" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                daw<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/delay" class="tagcloud-item" style="font-size: 1rem;">
+                delay<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/diminished" class="tagcloud-item" style="font-size: 1rem;">
+                diminished<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/dominant" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                dominant<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/echo" class="tagcloud-item" style="font-size: 1rem;">
+                echo<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/final-fantasy" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                final-fantasy<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/guide-tone" class="tagcloud-item" style="font-size: 1rem;">
+                guide-tone<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/harmony" class="tagcloud-item" style="font-size: 1rem;">
+                harmony<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/how-to" class="tagcloud-item" style="font-size: 1.1851025705278073rem;">
+                how-to<sup>4</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/identity" class="tagcloud-item" style="font-size: 1rem;">
+                identity<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/interval" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                interval<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/irs" class="tagcloud-item" style="font-size: 1rem;">
+                irs<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/jack-thammarat" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                jack-thammarat<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/lsb" class="tagcloud-item" style="font-size: 1rem;">
+                lsb<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/meditation" class="tagcloud-item" style="font-size: 1rem;">
+                meditation<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/midi" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                midi<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/modal-interchange" class="tagcloud-item" style="font-size: 1rem;">
+                modal-interchange<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/motifxs8" class="tagcloud-item" style="font-size: 1rem;">
+                motifxs8<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/msb" class="tagcloud-item" style="font-size: 1rem;">
+                msb<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/musical-tone" class="tagcloud-item" style="font-size: 1rem;">
+                musical-tone<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/open-voicing" class="tagcloud-item" style="font-size: 1rem;">
+                open-voicing<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/overtone" class="tagcloud-item" style="font-size: 1rem;">
+                overtone<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/passing-tone" class="tagcloud-item" style="font-size: 1rem;">
+                passing-tone<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/personal" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
+                personal<sup>3</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/polychord" class="tagcloud-item" style="font-size: 1rem;">
+                polychord<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/reverb" class="tagcloud-item" style="font-size: 1rem;">
+                reverb<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/secondary-dominant" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                secondary-dominant<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/shell-chord" class="tagcloud-item" style="font-size: 1rem;">
+                shell-chord<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/sound-module" class="tagcloud-item" style="font-size: 1rem;">
+                sound-module<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/substitute-chord" class="tagcloud-item" style="font-size: 1rem;">
+                substitute-chord<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/suspended" class="tagcloud-item" style="font-size: 1rem;">
+                suspended<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/system-analysis" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                system-analysis<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/system-design" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                system-design<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/tritone" class="tagcloud-item" style="font-size: 1rem;">
+                tritone<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/tritone-substitute" class="tagcloud-item" style="font-size: 1rem;">
+                tritone-substitute<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/user-story" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                user-story<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/zelda" class="tagcloud-item" style="font-size: 1rem;">
+                zelda<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E4%BA%94%E8%81%B2%E9%9F%B3%E9%9A%8E" class="tagcloud-item" style="font-size: 1rem;">
+                五聲音階<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E4%BE%AF%E6%96%87%E8%A9%A0" class="tagcloud-item" style="font-size: 1rem;">
+                侯文詠<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%80%9A%E5%A4%A9%E5%B1%A0%E9%BE%8D%E8%A8%98" class="tagcloud-item" style="font-size: 1rem;">
+                倚天屠龍記<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%86%A5%E6%83%B3" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                冥想<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92" class="tagcloud-item" style="font-size: 1.1851025705278073rem;">
+                刻意練習<sup>4</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%8E%9F%E5%AD%90%E7%BF%92%E6%85%A3" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                原子習慣<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%90%89%E4%BB%96" class="tagcloud-item" style="font-size: 1.3201748425874684rem;">
+                吉他<sup>11</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%92%8C%E5%BC%A6" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
+                和弦<sup>8</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%92%8C%E8%81%B2" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
+                和聲<sup>3</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%94%B1%E5%90%8D" class="tagcloud-item" style="font-size: 1rem;">
+                唱名<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%9C%96%E9%9D%88%E6%B8%AC%E8%A9%A6" class="tagcloud-item" style="font-size: 1rem;">
+                圖靈測試<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%A4%A9%E9%BE%8D%E5%85%AB%E9%83%A8" class="tagcloud-item" style="font-size: 1rem;">
+                天龍八部<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E5%82%B3" class="tagcloud-item" style="font-size: 1rem;">
+                射雕英雄傳<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%B0%8F%E8%AA%AA" class="tagcloud-item" style="font-size: 1rem;">
+                小說<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%BB%A3%E6%92%AD" class="tagcloud-item" style="font-size: 1rem;">
+                廣播<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%95%B8%E5%AD%B8" class="tagcloud-item" style="font-size: 1rem;">
+                數學<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%9B%A0%E9%87%8E%E4%B9%8B%E6%81%AF" class="tagcloud-item" style="font-size: 1rem;">
+                曠野之息<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%9C%89%E8%81%B2%E6%9B%B8" class="tagcloud-item" style="font-size: 1rem;">
+                有聲書<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%9C%AC%E8%B3%AA" class="tagcloud-item" style="font-size: 1rem;">
+                本質<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%A8%82%E5%9C%98%E7%B6%93%E7%87%9F" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
+                樂團經營<sup>8</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%A8%82%E7%90%86" class="tagcloud-item" style="font-size: 1.3074487147360963rem;">
+                樂理<sup>10</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%AC%A1%E5%BA%8F" class="tagcloud-item" style="font-size: 1rem;">
+                次序<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%B1%BA%E5%AE%9A%E8%AB%96" class="tagcloud-item" style="font-size: 1rem;">
+                決定論<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%BA%9D%E9%80%9A" class="tagcloud-item" style="font-size: 1rem;">
+                溝通<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E7%94%9F%E6%B4%BB" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                生活<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E7%A5%9E%E9%9B%95%E4%BF%A0%E4%BE%B6" class="tagcloud-item" style="font-size: 1rem;">
+                神雕俠侶<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E7%A7%81%E6%88%BF%E6%AD%8C" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
+                私房歌<sup>8</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E7%A8%8B%E5%BA%8F" class="tagcloud-item" style="font-size: 1rem;">
+                程序<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96" class="tagcloud-item" style="font-size: 1rem;">
+                笑傲江湖<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E7%AE%A1%E7%90%86" class="tagcloud-item" style="font-size: 1rem;">
+                管理<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                系統設計<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E7%B7%B4%E7%BF%92" class="tagcloud-item" style="font-size: 1rem;">
+                練習<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E7%BF%92%E6%85%A3" class="tagcloud-item" style="font-size: 1rem;">
+                習慣<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E8%81%8A%E5%A4%A9" class="tagcloud-item" style="font-size: 1.3931511510771022rem;">
+                聊天<sup>19</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E8%81%BD%E9%9F%B3%E6%A8%82" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
+                聽音樂<sup>8</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA" class="tagcloud-item" style="font-size: 1rem;">
+                薩爾達傳說<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E4%BA%BA%E7%94%9F" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                複利人生<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E5%AF%AB%E4%BD%9C" class="tagcloud-item" style="font-size: 1rem;">
+                複利寫作<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E6%95%88%E6%87%89" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                複利效應<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E8%AA%BF%E5%BC%8F" class="tagcloud-item" style="font-size: 1.2148974294721926rem;">
+                調式<sup>5</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E8%AD%98%E5%88%A5" class="tagcloud-item" style="font-size: 1rem;">
+                識別<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                軟體工程<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%81%8B%E4%BD%9C" class="tagcloud-item" style="font-size: 1rem;">
+                運作<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%87%91%E5%BA%B8" class="tagcloud-item" style="font-size: 1rem;">
+                金庸<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%8B%BC%E7%90%B4" class="tagcloud-item" style="font-size: 1rem;">
+                鋼琴<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%9A%A8%E6%A9%9F%E8%AB%96" class="tagcloud-item" style="font-size: 1rem;">
+                隨機論<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                需求分析<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%9F%B3%E6%84%9F" class="tagcloud-item" style="font-size: 1rem;">
+                音感<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%9F%B3%E7%A8%8B" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
+                音程<sup>8</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%9F%B3%E9%9A%8E" class="tagcloud-item" style="font-size: 1.3201748425874684rem;">
+                音階<sup>11</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%A2%A8%E7%90%B4" class="tagcloud-item" style="font-size: 1rem;">
+                風琴<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%B9%BF%E9%BC%8E%E8%A8%98" class="tagcloud-item" style="font-size: 1rem;">
+                鹿鼎記<sup>1</sup>
+            </a>
+        
+    
+</div>
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            
+  
+
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	<ol class="breadcrumb spb-1">
+		
+
+
+
+
+
+
+
+
+
+
+<li class="breadcrumb-item" >
+	<a href="https://www.gtcafe.com/portal/itlds/">唉梯喇滴賽</a>
+</li>
+
+
+
+
+<li class="breadcrumb-item" >
+	<a href="https://www.gtcafe.com/portal/itlds/2019/">2019</a>
+</li>
+
+
+
+
+<li class="breadcrumb-item active" aria-current="page">
+	<a href="https://www.gtcafe.com/portal/itlds/2019/0302-di/">依賴反轉</a>
+</li>
+
+	</ol>
+</nav	>
+
+            
+<div class="td-content">
+	<h1>依賴反轉</h1>
+
+    
+	
+	<p>#done</p>
+<p><a href="https://www.facebook.com/rick.kyhwang/posts/10210837105563093">https://www.facebook.com/rick.kyhwang/posts/10210837105563093</a></p>
+<p>#坐車隨筆</p>
+<p>#依賴反轉 (Dependency Inversion, DI) 是軟體工程裡的一種原則，目的是解構兩個軟體元件之間的強關係、高耦合的現象，透過反轉的特性，讓高層次介面自行決定如何依賴其他元件，達到 #控制反轉 (#IoC, Inversion of Control) 的效果。</p>
+<blockquote>
+<p>DI 最有名的說法：&ldquo;Don’t call me, I’ll call you&rdquo;</p>
+</blockquote>
+<p>同樣的概念，應用在軟體，也可以應用在 #管理團隊 的協作，也就是把團隊之間依賴的特質，反轉回去。舉例來說，A 團隊執行任務，但依賴於 X 與 Y 團隊，B 團隊依賴於 Y 與 Z 團隊，A / B 兩團隊需要同時間交付任務，最後的 Battleneck  一定會出現在 Y 團隊，然後就會出現 Lock 現象。</p>
+<p>執行的任務與需求，只要透過依賴反轉的方式，例如讓 Y 團隊開發工具 (SDK / CLI / API)，給 A / B 團隊使用，讓這兩個團隊自行決定如何使用，然後就會得到結果，而不需要過度依賴於 Y 團隊，影響專案進行，也影響團隊士氣。</p>
+<p>而 A / B 兩團隊要使用 Y 團隊開發的工具，前提必須在這三個團隊之間定義 #介面 (#Interface)，也就是彼此協作的 #協議 (#Protocol)。透過這個協議，#解偶 任務執行過程中的 #阻塞現象 (Blocking)，然後以 #非同步方式 (Async) 執行任務，讓 A / B 之間不要因為排隊、或者強佔 Y 團隊的資源，造成 Lock 現象。</p>
+<p>Interface 與 Protocol 的定義是團隊跟團隊協作的必要，而這是管理者的工作，因為只有在資訊條件充裕的狀況之下，方能定義出這些東西。</p>
+<p>這些概念，在計算機科學裡，都有對應的模型與機制 (I/O Models)，而在人與人之間的協作，其實也有一模一樣的現象。</p>
+
+	
+	
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 2019/03/02
+</div>
+</div>
+
+
+          </main>
+        </div>
+      </div>
+      
+<footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        
+        
+        
+<ul class="list-inline mb-0">
+  
+  <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="Complete Think" aria-label="Complete Think">
+    <a class="text-white" target="_blank" rel="noopener noreferrer" href="https://rickhw.github.io">
+      <i class="fa fa-blog"></i>
+    </a>
+  </li>
+  
+  <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="Facebook 音樂社群" aria-label="Facebook 音樂社群">
+    <a class="text-white" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/gtcafe">
+      <i class="fab fa-facebook"></i>
+    </a>
+  </li>
+  
+</ul>
+
+        
+        
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        
+        
+        
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small class="text-white">&copy; 2024 Rick KY Hwang All Rights Reserved</small>
+        
+	
+		
+	
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    </div>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script src="/portal/js/main.min.f963b2605996b20052de9a81bf63f92c3d54444268aaec24bc2344d4dafe7252.js" integrity="sha256-&#43;WOyYFmWsgBS3pqBv2P5LD1UREJoquwkvCNE1Nr&#43;clI=" crossorigin="anonymous"></script>
+
+
+
+
+  </body>
+</html>

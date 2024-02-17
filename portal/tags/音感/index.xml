@@ -1,0 +1,77 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 音感</title>
+    <link>https://www.gtcafe.com/portal/tags/%E9%9F%B3%E6%84%9F/</link>
+    <description>Recent content in 音感 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 10 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/tags/%E9%9F%B3%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Rickmidi: 相對、絕對音感</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/gossip/relative-absolute/</link>
+      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/gossip/relative-absolute/</guid>
+      <description>
+        
+        
+        &lt;p&gt;這是老梗話題了，不過之所為老梗，表示有話題性，沒有正確答案，或者已經積非成是，和 &lt;code&gt;速度&lt;/code&gt;、&lt;code&gt;Tone&lt;/code&gt;、&lt;code&gt;金庸裡誰最強&lt;/code&gt;、&lt;code&gt;Windows 和 Linux 誰好 (效能 and 便利的問題)&lt;/code&gt;、&lt;code&gt;iOS 和 Android 誰強&lt;/code&gt;、先&lt;code&gt;有雞先有蛋&lt;/code&gt; … 等二元論，差不多等級，在這些領域裡，差不多一段時間就會出現一次。不過還是值得拿出來聊天，茶餘飯後，哈啦 …&lt;/p&gt;
+&lt;h2 id=&#34;相對音感-relative-pitch&#34;&gt;相對音感 (Relative Pitch)&lt;/h2&gt;
+&lt;p&gt;簡單說，可以用耳朵聽出音程的關係，聽的是 &lt;code&gt;一群音符 (和弦)&lt;/code&gt; 或一個調的感覺，大部分聽的會是自然大小調兩種。這種聽的是音樂上的相對概念，判斷的是兩個音符以上的關係，彼此的距離，音樂術語就是 &amp;ldquo;音程 (Interval)&amp;rdquo; 的關係。但是無法直接判斷出兩個音個別的物理頻率高低。&lt;/p&gt;
+&lt;p&gt;相對音感的缺點是，只聽到單一個音的時候，那個音是沒意義的，必須兩個音同時存在，透過音程的倚賴關係，就可以找到對應的音程。他們聽到的東西會類似 &lt;code&gt;Do-Fa&lt;/code&gt;、&lt;code&gt;Do-Ti&lt;/code&gt;、&lt;code&gt;Do-Mi&lt;/code&gt; &amp;hellip; 等，這種唱名，或者說音程的關係。所以吉他手，是最適合這種相對音感，因為吉他本身就是一個相對音程的樂器，弦跟弦之間的音，互相依賴，互相牽引，所以才會有所謂相對調音法。&lt;/p&gt;
+&lt;h2 id=&#34;絕對音感-absolute-pitch&#34;&gt;絕對音感 (Absolute Pitch)&lt;/h2&gt;
+&lt;p&gt;用耳朵直接辨識頻率在物理上的定義。我們把 A4 定義的物理頻率是 440Hz (更多請參閱附錄 &amp;ldquo;樂器音階頻率對應表&amp;rdquo;)，具備絕對音感的人 (我管他們叫 &amp;ldquo;人體調音器&amp;rdquo;)，可以聽到每一個音符物理頻率和音名的直接對映。&lt;/p&gt;
+&lt;p&gt;例如，樂手們的笑話：一把湯匙掉到地上，然後他就聽出來這個音是 F4 (中央 F) … 鍵盤樂器、提琴類、無格琴，通常適合這種訓練。&lt;/p&gt;
+&lt;p&gt;絕對音感雖然是可以聽的出來直接的音名關係，但是當聽到一推音的時候，辨識出來之後，例如：A E C# F &amp;hellip; 在還沒有理解各調音程關係的時候，這些音符即使是同時出現也是沒有意義的。所以通常他們必須熟練各個調，搭配五度圈，各調音階，順接和弦表，然後來辨識那些音符實質上的意義。&lt;/p&gt;
+&lt;p&gt;上述的兩個概念，基本上跟 &amp;ldquo;固定唱名？還是首調唱名？&amp;rdquo; 和 &amp;ldquo;關於唱名&amp;rdquo; 是類似的概念。&lt;/p&gt;
+&lt;h2 id=&#34;哪個比較強&#34;&gt;哪個比較強？&lt;/h2&gt;
+&lt;p&gt;最常在討論區看到關於這兩種音感討論的內容是：哪一種比較強？一般大家會覺得絕對音感比較強？刻板的印象似乎是如此？！而且常常把他們神話了 …&lt;/p&gt;
+&lt;p&gt;我個人覺得兩者都只是學習的一種過程，誰強要看應用，思考，反應的靈活度。兩者一個是由內而外，由點生面；另一個是由外而內，由面找點。兩者最終目的都是可以在點、線、面來去自如。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;絕對音感&lt;/strong&gt; 的優勢在於，對於音高的辨識準確度高，剛開始練習採譜很有幫助。但因為聽的東西是屬於單一面向的音符資訊，而不是群體的音程概念，所以如果沒有相關理論基礎理解，那最後真的只會是人體調音器，變成學而無思的現象。但是只要能分析思考，理解理論基礎，加上絕佳的音符辨識能力，那真的是如虎添翼，威不可當！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相對音感&lt;/strong&gt; 的好處是，他們聽到的是音樂的音程概念，&amp;ldquo;音程&amp;quot;我個人認為是音樂裡非常重要的概念，因為他幾乎掌握了音樂的 &amp;ldquo;感覺&amp;quot;和&amp;quot;輪廓&amp;rdquo;，絕對音感聽到的比較會是一個點。缺點是，如果剛開始學習的時候，無法理解音程基礎概念，那麼在學習的過程中會抓不到重點。但是只要能夠抓住音程概念，加以應用，那麼最後也會非常有看頭。&lt;/p&gt;
+&lt;p&gt;多年前，我自己在工作之娛無聊嘗試開發一個自動作曲、樂曲分析的工具，一開始遇到要定義音樂基本術語的問題。最讓我頭大的，不會是單一個音符怎的定義，或者音名跟MIDI訊號之先的對應，這些只要知道基本物理現象就可以算出來 (請參閱 &amp;ldquo;可以自行創造音階?&amp;rdquo; 的介紹)&lt;/p&gt;
+&lt;p&gt;複雜的是，怎麼把那 128 個 MIDI 音符，透過一些物件封裝的概念，和演算法計算出所有音程，音階，調性，和弦的關係，最後還有表示法。這些東西，簡單說，就是一些相對音符的演算。&lt;/p&gt;
+&lt;p&gt;當然這還算容易，真正難的是，我要開始寫辨識一堆音符，像是D3 A4 E3 F4 F3 F3# A4 E3…是什麼調，他的Do是哪一個的時候&amp;hellip;還真的不容易。因為很多時候，不是輸入的音符太少，所以觸發 (Trigger) 到很多組音階音程的定義，不然就是輸入音符太多，辨識出很多結果，所以無法正確比對出到底屬於哪一組音階，就算比對出來的，結果，也不見得都很讓人滿意。&lt;/p&gt;
+&lt;p&gt;但是，絕對的音符，就真的沒啥好寫的，資料類別封裝好，定義好就結束了。&lt;/p&gt;
+&lt;p&gt;所以大家應該不難發現一件事情，市面上的產品，都可以辨識出絕對音名/物理頻率，然後作成所謂的調音器。但是卻很少有產品是 … 你彈出幾個音符，然後他告訴你這是啥調？Do 在哪裡&lt;/p&gt;
+&lt;p&gt;即使是現在軟體音源這麼發達，物理模型演算法發展到一定的程度，但是，當你取樣好聲音之後，載入到取樣機 (Sampler) 裡，你還是必須告訴取樣機，現在載入的這個音符的音高是什麼？因為背後牽涉到很多高等工程數學的分析，演算法，物理概念等。相關概念就到這邊收筆。不過還是有類似的產品雛型在開發種，像是：微軟的自動伴奏系統，請參閱 &amp;ldquo;科技與音樂&amp;rdquo; 的描述。&lt;/p&gt;
+&lt;p&gt;回到音感的訓練上面，絕對音感如果不是從幼童訓練，基本上，成年之後，大部分都必須從相對音感開始訓練。&lt;/p&gt;
+&lt;p&gt;有很多音樂家是有絕對音感，特別是古典音樂家，他們聽到音樂時，腦袋裡浮現的大概就是一堆音名。但是我很好奇，他們聽到像藍調這種屬於音就是不準的東西，腦袋裡呈現的會是啥？&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;固定唱名？還是首調唱名？&lt;/li&gt;
+&lt;li&gt;關於唱名&lt;/li&gt;
+&lt;li&gt;科技與音樂&lt;/li&gt;
+&lt;li&gt;樂器音階頻率對應表&lt;/li&gt;
+&lt;li&gt;可以自行創造音階?&lt;/li&gt;
+&lt;li&gt;關於速度&lt;/li&gt;
+&lt;li&gt;再談『首調、固定唱名』與『相對、絕對音感』&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;關於絕對與相對音感 (當代樂手)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../brain-psy13.pdf&#34;&gt;絕對音感認知心理學&lt;/a&gt; - 蔡振家（國立臺北藝術大學傳統藝術研究所兼任助理教授）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：http://rickmidi.blogspot.tw/2009/04/blog-post.html&lt;/li&gt;
+&lt;li&gt;初稿：2009/04/10&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – delay</title>
+    <link>https://www.gtcafe.com/portal/tags/delay/</link>
+    <description>Recent content in delay on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 24 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/tags/delay/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Rickmidi: 聊聊即時與立即 - Echo / Delay / Reverb</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/gossip/echo-delay-reverb/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/gossip/echo-delay-reverb/</guid>
+      <description>
+        
+        
+        &lt;p&gt;人類對於 &lt;code&gt;即時、立即&lt;/code&gt; 的感覺，我的經驗值是 20ms ~ 50ms，只要大於 50ms 就可以感覺到 &amp;ldquo;延遲&amp;rdquo;。 &lt;code&gt;聲學&lt;/code&gt; 裡有三個名詞是跟延遲有關係的，分別是 &lt;code&gt;echo / delay / reverb&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;　　　※&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Echo&lt;/code&gt; 中文翻譯成 &lt;code&gt;迴聲、反響&lt;/code&gt;，有返回的意思，大部分口語不會特別用中文。&lt;code&gt;返回&lt;/code&gt; 表示達到某一個臨界條件之後，發生的動作，物理特性原理指的是聲波經由 &lt;code&gt;介質&lt;/code&gt; 的反射 (Reflection) 聲音。依照障礙物的材質差異、角度，反射的能量與波形依照空間大小會有所差異。&lt;/p&gt;
+&lt;p&gt;在混音領域，會利用不同的反射介質，模擬出各種 &lt;code&gt;效果 (Effect, FX)&lt;/code&gt;。Echo 實際要聽到效果，通常要一定的空間以上。依照 25 度攝氏度，聲音的傳播速度 343m/s 計算，人類要能夠察覺 echo ，必須至少要 17.2 米長的空間，才有有所謂的 echo。依此可以計算出 echo 的時間約 100ms.&lt;/p&gt;
+&lt;p&gt;echo 的概念，就是反射。很多時候在 KTV 唱歌時，大家都喜歡加 echo ，聽起來才夠台。其實那不叫 echo，那叫做 delay。而 echo 的實作，通常是透過 delay 做出來的，原理後述。&lt;/p&gt;
+&lt;p&gt;然後 echo 會依照介質不同，依照物質的角度差異（嚴格講還有溫度與濕度），呈現不同的音色，只是大部分的人是無法察覺，通常在錄音軟體裡都有相關參數可以調整，達到模擬效果。&lt;/p&gt;
+&lt;p&gt;　　　※&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Delay&lt;/code&gt; 相對於 Echo 就單純了，算是被人類發明出來的東西。基本概念就是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;把原始聲音複製一段&lt;/li&gt;
+&lt;li&gt;然後延後播放。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不牽扯真實的空間波形傳遞的問題。所以 Delay 是可以製造出來的，而且也可以模擬 echo 。&lt;/p&gt;
+&lt;p&gt;我剛開始在&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/10210808014435833&#34;&gt;玩 MIDI 編曲&lt;/a&gt; 時，沒有什麼硬體資源，只有簡單的 SB16 聲霸卡（那時候我還沒買音源卡），一開始也不知道啥叫效果器，但是知道聽的音樂中有那種很有空間感的、短暫的反覆旋律的聲音，不管反覆的是人聲、還是樂器聲音。所以， 我就在編曲時：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;複製同一個音軌，把聲音調小&lt;/li&gt;
+&lt;li&gt;整個音軌往後搬 16 分個音符&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這就是我人工製造出來的 delay。直到後來買了 DB50XG 音源子卡，才知道原來世上有效果器這種東西。&lt;/p&gt;
+&lt;p&gt;不過在數位設備還不流行的年代，這種複製整個音軌是很大的成本，因為那年代的設備都是類比的，就算用數位 Audio，記憶體也很貴。&lt;/p&gt;
+&lt;p&gt;Delay 和 Echo 其實差異很大，Echo 在技術上的定義，約莫在 35ms ~ 100ms ，但是 Delay 可以玩很大，甚至有 #無限延伸 的技術，讓一個音符無限的長度，著名的吉他手 Santana 就很喜歡玩這東西。&lt;/p&gt;
+&lt;p&gt;　　　※&lt;/p&gt;
+&lt;p&gt;Reverb 中文翻譯成 &lt;code&gt;殘響&lt;/code&gt;，指的是訊號源 (例如 小提琴) 發射出去之後，撞到介質，然後介質反射新的 echo 能量，此能量再撞到其他介質，再次產生新的能量，如此反覆循環產生的物理現象，稱為 Reverb。真實的世界，到處都是 Reverb，但是要感覺到他麼存在，必須在相對空曠的空間才行。&lt;/p&gt;
+&lt;p&gt;Reverb 對人類的聽覺效果是產生具體的空間感，像是小舞台、大型巨蛋、或者是表演廳等。不同的空間又會因為建築材質，音樂廳的反射板設計差異，會有不同的反射。&lt;/p&gt;
+&lt;p&gt;Reverb 對人類聽覺另一個感覺叫做真實感，混音的術語稱為 Wet Sound (濕的聲音)，原始訊號稱為 Dry Sound (乾的聲音)。 Dry + Wet Sound 構成真實的聲音。&lt;/p&gt;
+&lt;p&gt;在錄音室錄音的目的，是要取得原始聲音訊號 (不管是樂器還是人聲) 的 Dry Sound，也就是沒有殘響的聲音。通常錄音室需要聽過特別的聲學與建築設計，達到最佳的 S/N Ratio (訊號與噪音比)，讓錄音師在錄音過程中，可以取得最佳的 Dry Sound，而 Wet Sound 則在混音階段處理。&lt;/p&gt;
+&lt;p&gt;不過就在地球上來講，理論上無法取的 S/N 比只要 Singal 的聲音，也就是一定會有 reverb ，只是多少而已。&lt;/p&gt;
+&lt;p&gt;除了反射造成的 Reverb 現象，另一個更重要的現象就是，這些 殘響 頻率之間的共振，如果剛好是倍頻關係，例如 Source: 220Hz，因為介質差異，產生了 440Hz 或者 5/4 倍、4/3 &amp;hellip; 等倍頻，最後會產生 &lt;code&gt;Overtone&lt;/code&gt;，中文稱為 &lt;code&gt;泛音&lt;/code&gt;。而原始聲音稱為 &lt;code&gt;基音 (Base Tone)&lt;/code&gt; ，加上 泛音，則是我們在地表上能夠聽得到自然音。如果只有基音，通常也會叫做 #純音 (Pure Tone)，但是在地表，理論上不會有純音。因為泛音的存在，使得聲音變成可聽性，這樣的聲音稱為 &lt;code&gt;樂音 (Musical Tone)&lt;/code&gt;，樂器會依照此特性製造。&lt;/p&gt;
+&lt;p&gt;Reverb 是個非常複雜的技術，特別是那些想要呈現演唱會後製專輯的處理，要達到 &lt;code&gt;自然&lt;/code&gt;，或者還原現場溫度，Reverb 的處理是非常關鍵的。&lt;/p&gt;
+&lt;p&gt;　　　※&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://a85115230.pixnet.net/blog/post/390104224-%E9%9B%95%E5%A1%91%E6%9B%B4%E7%9C%9F%E5%AF%A6%E8%B2%BC%E5%88%87%E7%9A%84%E7%A9%BA%E9%96%93%E5%8F%96%E6%A8%A3%E9%97%9C%E9%8D%B5%EF%BC%8Dimpulse-respons&#34;&gt;脈衝響應 (Impulse Responses, IRs)&lt;/a&gt; 是記錄聲音訊號在系統中的動態反應、外部空間的變化、額外時間的改變。&lt;/p&gt;
+&lt;p&gt;也就是說在一個固定空間裡，例如雪梨歌劇院，不同的區域的不同座位，都有上述的值可以記錄，然後只要在雪梨歌劇院裡每個座位都做 IRs 數據的採樣， 最後透過演算法就可以呈現出特定地方的音場特性，包含計算出 Reverb、Delay、Echo &amp;hellip; 等。&lt;/p&gt;
+&lt;p&gt;音樂製作很多產品，以此為主要概念，設計很多產品，軟體、硬體都有。裡面通常會提供大量的資料庫、參數，像是雪梨歌劇院就是著名的 waves 裡的 IRs 參數。&lt;/p&gt;
+&lt;p&gt;　　　※&lt;/p&gt;
+&lt;p&gt;文章開頭提到我對於 &amp;ldquo;即時&amp;rdquo; 的感覺，其實是源自於以前編曲時，設備不好，那時候用很多軟體取樣音源，音源檔案是放在硬碟，透過 MIDI 訊號發出，經過電腦運算、取得音源檔、送到錄音介面播放出來，經常感覺會 delay，後來透過 &lt;code&gt;ASIO (一個標準協議)&lt;/code&gt; 得知 Buffer Size 太大，換言之，聲音訊息會 Buffering 在電腦的時間太久，造成最後送到 錄音介面 (D to A) 的時間太久，導致從鍵盤按下一個音，到聽到的時間，感覺不是即時。經過很多次的實驗，最後才歸納出 20ms ~ 50ms 這個時間區間，是我自己定義的 &amp;ldquo;即時&amp;rdquo; &amp;hellip;.&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
