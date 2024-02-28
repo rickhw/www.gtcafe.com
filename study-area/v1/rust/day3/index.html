@@ -638,6 +638,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#println-string-format" class="md-nav__link">
+    <span class="md-ellipsis">
+      println, String Format
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#_2" class="md-nav__link">
     <span class="md-ellipsis">
       摘要
@@ -905,6 +914,15 @@
   <a href="#explain-receiving-user-input" class="md-nav__link">
     <span class="md-ellipsis">
       Explain: Receiving User Input
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#println-string-format" class="md-nav__link">
+    <span class="md-ellipsis">
+      println, String Format
     </span>
   </a>
   
@@ -1275,6 +1293,19 @@
 <a id="__codelineno-18-12" name="__codelineno-18-12" href="#__codelineno-18-12"></a>warning:<span class="w"> </span><span class="sb">`</span>guessing_game<span class="sb">`</span><span class="w"> </span><span class="o">(</span>bin<span class="w"> </span><span class="s2">&quot;guessing_game&quot;</span><span class="o">)</span><span class="w"> </span>generated<span class="w"> </span><span class="m">1</span><span class="w"> </span>warning
 <a id="__codelineno-18-13" name="__codelineno-18-13" href="#__codelineno-18-13"></a><span class="w">    </span>Finished<span class="w"> </span>dev<span class="w"> </span><span class="o">[</span>unoptimized<span class="w"> </span>+<span class="w"> </span>debuginfo<span class="o">]</span><span class="w"> </span>target<span class="o">(</span>s<span class="o">)</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">0</span>.59s
 </code></pre></div>
+<h2 id="println-string-format">println, String Format</h2>
+<p>最後是 println 和 String Format 的功能：<code>Placeholder</code>, 用法如下：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-19-1" name="__codelineno-19-1" href="#__codelineno-19-1"></a><span class="fm">println!</span><span class="p">(</span><span class="s">&quot;You guessed: {}&quot;</span><span class="p">,</span><span class="w"> </span><span class="n">guess</span><span class="p">);</span>
+<a id="__codelineno-19-2" name="__codelineno-19-2" href="#__codelineno-19-2"></a><span class="fm">println!</span><span class="p">(</span><span class="s">&quot;You guessed: {guess}&quot;</span><span class="p">);</span>
+</code></pre></div>
+<p>解釋：</p>
+<ul>
+<li><a href="https://doc.rust-lang.org/std/macro.println.html">println</a> 在 rust 裡是一種 macro</li>
+<li>使用一組大括弧 <code>{}</code> 當作 placeholder</li>
+<li>也可以在大括弧裡直接指定變數名稱</li>
+<li>不需要像 c or java 要指定變數型別, 像是 <code>%s</code>, <code>%d</code> .. 之類的.</li>
+<li><a href="https://doc.rust-lang.org/std/macro.println.html">println</a> 使用 module <a href="https://doc.rust-lang.org/std/fmt/index.html">fmt</a> 做字串的格式化，需要更細緻的排版 (固定長度, 數字格式 ...etc) 一樣可以做到.</li>
+</ul>
 <hr />
 <h2 id="_2">摘要</h2>
 <p>官方的範例，帶出了 rust 背後設計的幾個想法:</p>
@@ -1292,6 +1323,8 @@
 <li>types:<ul>
 <li><a href="https://doc.rust-lang.org/std/string/struct.String.html">String</a></li>
 <li><a href="https://doc.rust-lang.org/std/result/enum.Result.html">Result</a></li>
+<li><a href="https://doc.rust-lang.org/std/macro.println.html">println</a></li>
+<li><a href="https://doc.rust-lang.org/std/fmt/index.html">fmt</a></li>
 </ul>
 </li>
 </ul>
