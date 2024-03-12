@@ -8,24 +8,28 @@
       
       
       
-        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/rust/day4/">
+        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/springboot/exception-handler/overview/">
       
       
+        <link rel="prev" href="../../../git/">
       
       
-      <link rel="icon" href="../../assets/images/favicon.png">
+        <link rel="next" href="../global-exception/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.13">
     
     
       
-        <title>Day 4: Guessing Game - Part 2 - Study Notes @ GTCafe</title>
+        <title>Overview - Study Notes @ GTCafe</title>
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.7e359304.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.7e359304.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
       
       
 
@@ -44,9 +48,9 @@
       
     
     
-      <link rel="stylesheet" href="../../stylesheets/extra.css">
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
     
-    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
@@ -70,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#day-4-guessing-game-part-2" class="md-skip">
+        <a href="#exception-format-and-structure" class="md-skip">
           Skip to content
         </a>
       
@@ -90,7 +94,7 @@
 
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="Study Notes @ GTCafe" class="md-header__button md-logo" aria-label="Study Notes @ GTCafe" data-md-component="logo">
+    <a href="../../.." title="Study Notes @ GTCafe" class="md-header__button md-logo" aria-label="Study Notes @ GTCafe" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
@@ -110,7 +114,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Day 4: Guessing Game - Part 2
+              Overview
             
           </span>
         </div>
@@ -138,7 +142,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../.." class="md-tabs__link">
+        <a href="../../.." class="md-tabs__link">
           
   
   Index
@@ -156,7 +160,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../day1/" class="md-tabs__link">
+        <a href="../../../rust/day1/" class="md-tabs__link">
           
   
   Rust
@@ -174,7 +178,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../misc/" class="md-tabs__link">
+        <a href="../../../misc/" class="md-tabs__link">
           
   
   Misc
@@ -188,17 +192,21 @@
         
   
   
+    
+  
   
     
     
       
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../../springboot/exception-handler/overview/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
           
   
   Springboot
@@ -257,7 +265,7 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="Study Notes @ GTCafe" class="md-nav__button md-logo" aria-label="Study Notes @ GTCafe" data-md-component="logo">
+    <a href="../../.." title="Study Notes @ GTCafe" class="md-nav__button md-logo" aria-label="Study Notes @ GTCafe" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
@@ -317,7 +325,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../.." class="md-nav__link">
+      <a href="../../.." class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -338,7 +346,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../changelog/" class="md-nav__link">
+      <a href="../../../changelog/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -359,7 +367,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../principle/" class="md-nav__link">
+      <a href="../../../principle/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -380,7 +388,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../tags/" class="md-nav__link">
+      <a href="../../../tags/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -450,7 +458,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../day1/" class="md-nav__link">
+      <a href="../../../rust/day1/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -471,7 +479,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../day2/" class="md-nav__link">
+      <a href="../../../rust/day2/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -492,7 +500,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../day3/" class="md-nav__link">
+      <a href="../../../rust/day3/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -562,7 +570,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../misc/" class="md-nav__link">
+      <a href="../../../misc/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -583,7 +591,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../git/" class="md-nav__link">
+      <a href="../../../git/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -608,27 +616,30 @@
       
   
   
+    
   
   
+  
     
     
     
+      
+        
+        
       
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
         
           
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
-        
-          
-          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
             
   
   <span class="md-ellipsis">
@@ -639,7 +650,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
             Springboot
@@ -650,27 +661,30 @@
                 
   
   
+    
   
   
+  
     
     
     
       
       
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
         
           
+          
         
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4_1" >
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" checked>
         
           
-          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="">
             
   
   <span class="md-ellipsis">
@@ -681,7 +695,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_4_1">
             <span class="md-nav__icon md-icon"></span>
             Exception Handler
@@ -692,10 +706,19 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../springboot/exception-handler/overview/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -704,6 +727,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -716,7 +740,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../springboot/exception-handler/global-exception/" class="md-nav__link">
+      <a href="../global-exception/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -737,7 +761,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../springboot/exception-handler/payload-structure/" class="md-nav__link">
+      <a href="../payload-structure/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -758,7 +782,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../springboot/exception-handler/payload-validation/" class="md-nav__link">
+      <a href="../payload-validation/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -827,41 +851,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      前言
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      摘要
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#reference" class="md-nav__link">
-    <span class="md-ellipsis">
-      Reference
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -875,15 +864,16 @@
                   
 
 
-<h1 id="day-4-guessing-game-part-2">Day 4: Guessing Game - Part 2</h1>
-<h2 id="_1">前言</h2>
+<h1 id="exception-format-and-structure">Exception Format and Structure</h1>
 <ul>
-<li>m</li>
+<li>Global Exception Handler<ul>
+<li>Exception Format and Structure</li>
 </ul>
-<hr />
-<h2 id="_2">摘要</h2>
-<hr />
-<h2 id="reference">Reference</h2>
+</li>
+<li>REST Payload Validation</li>
+<li>Business Logic Exception Handler</li>
+<li>Unit Test</li>
+</ul>
 
 
 
@@ -932,10 +922,10 @@
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "../..", "features": ["content.tabs.link", "navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "navigation.instant.prefetch", "navigation.sections", "navigation.expand", "navigation.path"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": {"provider": "mike"}}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["content.tabs.link", "navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "navigation.instant.prefetch", "navigation.sections", "navigation.expand", "navigation.path"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": {"provider": "mike"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.c8d2eff1.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.c8d2eff1.min.js"></script>
       
     
   </body>

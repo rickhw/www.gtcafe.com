@@ -8,7 +8,7 @@
       
       
       
-        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/rust/day4/">
+        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/java/spring/">
       
       
       
@@ -18,7 +18,7 @@
     
     
       
-        <title>Day 4: Guessing Game - Part 2 - Study Notes @ GTCafe</title>
+        <title>SpringBoot - Study Notes @ GTCafe</title>
       
     
     
@@ -70,7 +70,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#day-4-guessing-game-part-2" class="md-skip">
+        <a href="#springboot" class="md-skip">
           Skip to content
         </a>
       
@@ -110,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Day 4: Guessing Game - Part 2
+              SpringBoot
             
           </span>
         </div>
@@ -156,7 +156,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../day1/" class="md-tabs__link">
+        <a href="../../rust/day1/" class="md-tabs__link">
           
   
   Rust
@@ -450,7 +450,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../day1/" class="md-nav__link">
+      <a href="../../rust/day1/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -471,7 +471,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../day2/" class="md-nav__link">
+      <a href="../../rust/day2/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -492,7 +492,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../day3/" class="md-nav__link">
+      <a href="../../rust/day3/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -827,41 +827,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      前言
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      摘要
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#reference" class="md-nav__link">
-    <span class="md-ellipsis">
-      Reference
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -875,15 +840,38 @@
                   
 
 
-<h1 id="day-4-guessing-game-part-2">Day 4: Guessing Game - Part 2</h1>
-<h2 id="_1">前言</h2>
-<ul>
-<li>m</li>
-</ul>
-<hr />
-<h2 id="_2">摘要</h2>
-<hr />
-<h2 id="reference">Reference</h2>
+<h1 id="springboot">SpringBoot</h1>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="c1"># see: https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-cli.html</span>
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>spring<span class="w"> </span>init<span class="w"> </span>--list
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>
+<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="c1">## new project</span>
+<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a>spring<span class="w"> </span>init<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="w">    </span>--dependencies<span class="o">=</span>web,data-jpa<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a><span class="w">    </span>my-project
+<a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a>
+<a id="__codelineno-0-10" name="__codelineno-0-10" href="#__codelineno-0-10"></a>spring<span class="w"> </span>init<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-11" name="__codelineno-0-11" href="#__codelineno-0-11"></a><span class="w">    </span>--build<span class="o">=</span>maven<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-12" name="__codelineno-0-12" href="#__codelineno-0-12"></a><span class="w">    </span>--java-version<span class="o">=</span><span class="m">17</span><span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-13" name="__codelineno-0-13" href="#__codelineno-0-13"></a><span class="w">    </span>--dependencies<span class="o">=</span>web,data-jpa<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-14" name="__codelineno-0-14" href="#__codelineno-0-14"></a><span class="w">    </span>exception-handler
+<a id="__codelineno-0-15" name="__codelineno-0-15" href="#__codelineno-0-15"></a>
+<a id="__codelineno-0-16" name="__codelineno-0-16" href="#__codelineno-0-16"></a>
+<a id="__codelineno-0-17" name="__codelineno-0-17" href="#__codelineno-0-17"></a>spring<span class="w"> </span>init<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-18" name="__codelineno-0-18" href="#__codelineno-0-18"></a><span class="w">    </span>--build<span class="o">=</span>gradle<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-19" name="__codelineno-0-19" href="#__codelineno-0-19"></a><span class="w">    </span>--java-version<span class="o">=</span><span class="m">1</span>.8<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-20" name="__codelineno-0-20" href="#__codelineno-0-20"></a><span class="w">    </span>--dependencies<span class="o">=</span>websocket<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-21" name="__codelineno-0-21" href="#__codelineno-0-21"></a><span class="w">    </span>--packaging<span class="o">=</span>war<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-22" name="__codelineno-0-22" href="#__codelineno-0-22"></a><span class="w">    </span>sample-app.zip
+<a id="__codelineno-0-23" name="__codelineno-0-23" href="#__codelineno-0-23"></a>
+<a id="__codelineno-0-24" name="__codelineno-0-24" href="#__codelineno-0-24"></a>
+<a id="__codelineno-0-25" name="__codelineno-0-25" href="#__codelineno-0-25"></a>spring<span class="w"> </span>init<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-26" name="__codelineno-0-26" href="#__codelineno-0-26"></a><span class="w">    </span>--build<span class="o">=</span>gradle<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-27" name="__codelineno-0-27" href="#__codelineno-0-27"></a><span class="w">    </span>--java-version<span class="o">=</span><span class="m">1</span>.8<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-28" name="__codelineno-0-28" href="#__codelineno-0-28"></a><span class="w">    </span>--dependencies<span class="o">=</span>websocket<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-29" name="__codelineno-0-29" href="#__codelineno-0-29"></a><span class="w">    </span>--packaging<span class="o">=</span>war<span class="w"> </span><span class="se">\</span>
+<a id="__codelineno-0-30" name="__codelineno-0-30" href="#__codelineno-0-30"></a><span class="w">    </span>sample-app.zip
+</code></pre></div>
 
 
 

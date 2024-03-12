@@ -8,9 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/api/development/codegen/">
+        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/springboot/exception-handler/global-exception/">
       
       
+        <link rel="prev" href="../overview/">
+      
+      
+        <link rel="next" href="../payload-structure/">
       
       
       <link rel="icon" href="../../../assets/images/favicon.png">
@@ -18,7 +22,7 @@
     
     
       
-        <title>OpenAPI Generator for Java Springboot - Study Notes @ GTCafe</title>
+        <title>Global Exception - Study Notes @ GTCafe</title>
       
     
     
@@ -70,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#openapi-generator-for-java-springboot" class="md-skip">
+        <a href="#controlleradvice-exceptionhandler" class="md-skip">
           Skip to content
         </a>
       
@@ -110,7 +114,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              OpenAPI Generator for Java Springboot
+              Global Exception
             
           </span>
         </div>
@@ -188,17 +192,21 @@
         
   
   
+    
+  
   
     
     
       
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../../../springboot/exception-handler/overview/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../overview/" class="md-tabs__link">
           
   
   Springboot
@@ -608,27 +616,30 @@
       
   
   
+    
   
   
+  
     
     
     
+      
+        
+        
       
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
         
           
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
-        
-          
-          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
             
   
   <span class="md-ellipsis">
@@ -639,7 +650,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
             Springboot
@@ -650,27 +661,30 @@
                 
   
   
+    
   
   
+  
     
     
     
       
       
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
         
           
+          
         
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4_1" >
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" checked>
         
           
-          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="">
             
   
   <span class="md-ellipsis">
@@ -681,7 +695,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_4_1">
             <span class="md-nav__icon md-icon"></span>
             Exception Handler
@@ -695,7 +709,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../springboot/exception-handler/overview/" class="md-nav__link">
+      <a href="../overview/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -713,10 +727,28 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../../springboot/exception-handler/global-exception/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Global Exception
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -725,6 +757,69 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#controlleradvice-exceptionhandler" class="md-nav__link">
+    <span class="md-ellipsis">
+      ControllerAdvice / ExceptionHandler
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#controller" class="md-nav__link">
+    <span class="md-ellipsis">
+      Controller
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#result" class="md-nav__link">
+    <span class="md-ellipsis">
+      Result
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#exception" class="md-nav__link">
+    <span class="md-ellipsis">
+      攔截其他 Exception
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reference" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reference
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -737,7 +832,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../springboot/exception-handler/payload-structure/" class="md-nav__link">
+      <a href="../payload-structure/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -758,7 +853,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../springboot/exception-handler/payload-validation/" class="md-nav__link">
+      <a href="../payload-validation/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -824,8 +919,6 @@
   
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -834,51 +927,45 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#_1" class="md-nav__link">
+  <a href="#controlleradvice-exceptionhandler" class="md-nav__link">
     <span class="md-ellipsis">
-      前置條件
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="前置條件">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      環境與工具
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      依賴版本
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      建立初始專案
+      ControllerAdvice / ExceptionHandler
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#_5" class="md-nav__link">
+  <a href="#controller" class="md-nav__link">
     <span class="md-ellipsis">
-      參考資料
+      Controller
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#result" class="md-nav__link">
+    <span class="md-ellipsis">
+      Result
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#exception" class="md-nav__link">
+    <span class="md-ellipsis">
+      攔截其他 Exception
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reference" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reference
     </span>
   </a>
   
@@ -897,46 +984,135 @@
               <article class="md-content__inner md-typeset">
                 
                   
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#java-17" class="md-tag">Java 17</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#springboot-31x" class="md-tag">SpringBoot 3.1.x</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#exception-handler" class="md-tag">Exception Handler</a>
+    
+  
+</nav>
 
 
-<h1 id="openapi-generator-for-java-springboot">OpenAPI Generator for Java Springboot</h1>
-<h2 id="_1">前置條件</h2>
-<h3 id="_2">環境與工具</h3>
-<ul>
-<li>macOS 13.4.1 (c) s</li>
-<li>sdkman v5.18.2<ul>
-<li>java: <code>sdk install java 11.0.19-amzn</code> </li>
-<li>springboot: <code>sdk install springboot</code></li>
-</ul>
-</li>
-<li>openapi-generator: <code>brew install openapi-generator</code></li>
-</ul>
-<h3 id="_3">依賴版本</h3>
-<ul>
-<li>Java version 11</li>
-<li>Springboot version: 2.7.7</li>
-<li>OpenAPI generator: 6.6.0</li>
-</ul>
-<h2 id="_4">建立初始專案</h2>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>spring<span class="w"> </span>init<span class="w"> </span>-d<span class="o">=</span>web<span class="w"> </span>--build<span class="o">=</span>maven
+
+  <h1>Global Exception</h1>
+
+<h2 id="controlleradvice-exceptionhandler">ControllerAdvice / ExceptionHandler</h2>
+<p>透過 <code>ControllerAdvice</code> </p>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-0-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-0-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-0-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-0-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-0-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-0-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-0-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-0-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-0-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-0-10">10</a></span>
+<span class="normal"><a href="#__codelineno-0-11">11</a></span>
+<span class="normal"><a href="#__codelineno-0-12">12</a></span>
+<span class="normal"><a href="#__codelineno-0-13">13</a></span>
+<span class="normal"><a href="#__codelineno-0-14">14</a></span>
+<span class="normal"><a href="#__codelineno-0-15">15</a></span>
+<span class="normal"><a href="#__codelineno-0-16">16</a></span>
+<span class="normal"><a href="#__codelineno-0-17">17</a></span>
+<span class="normal"><a href="#__codelineno-0-18">18</a></span>
+<span class="normal"><a href="#__codelineno-0-19">19</a></span>
+<span class="normal"><a href="#__codelineno-0-20">20</a></span>
+<span class="normal"><a href="#__codelineno-0-21">21</a></span>
+<span class="normal"><a href="#__codelineno-0-22">22</a></span>
+<span class="normal"><a href="#__codelineno-0-23">23</a></span>
+<span class="normal"><a href="#__codelineno-0-24">24</a></span>
+<span class="normal"><a href="#__codelineno-0-25">25</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.*</span><span class="p">;</span>
+<a id="__codelineno-0-2" name="__codelineno-0-2"></a>
+<a id="__codelineno-0-3" name="__codelineno-0-3"></a><span class="kn">import</span><span class="w"> </span><span class="nn">org.slf4j.*</span><span class="p">;</span>
+<a id="__codelineno-0-4" name="__codelineno-0-4"></a><span class="kn">import</span><span class="w"> </span><span class="nn">org.springframework.http.*</span><span class="p">;</span>
+<a id="__codelineno-0-5" name="__codelineno-0-5"></a><span class="kn">import</span><span class="w"> </span><span class="nn">org.springframework.web.bind.annotation.*</span><span class="p">;</span>
+<a id="__codelineno-0-6" name="__codelineno-0-6"></a>
+<a id="__codelineno-0-7" name="__codelineno-0-7"></a><span class="kn">import</span><span class="w"> </span><span class="nn">jakarta.servlet.http.*</span><span class="p">;</span>
+<a id="__codelineno-0-8" name="__codelineno-0-8"></a>
+<a id="__codelineno-0-9" name="__codelineno-0-9"></a><span class="hll"><span class="nd">@ControllerAdvice</span>
+</span><a id="__codelineno-0-10" name="__codelineno-0-10"></a><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">GlobalExceptionHandler</span><span class="w"> </span><span class="p">{</span>
+<a id="__codelineno-0-11" name="__codelineno-0-11"></a>
+<a id="__codelineno-0-12" name="__codelineno-0-12"></a><span class="hll"><span class="w">    </span><span class="nd">@ExceptionHandler</span><span class="p">(</span><span class="n">Exception</span><span class="p">.</span><span class="na">class</span><span class="p">)</span>
+</span><a id="__codelineno-0-13" name="__codelineno-0-13"></a><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">ResponseEntity</span><span class="o">&lt;?&gt;</span><span class="w"> </span><span class="n">handleDefaultException</span><span class="p">(</span>
+<a id="__codelineno-0-14" name="__codelineno-0-14"></a><span class="w">            </span><span class="n">HttpServletRequest</span><span class="w"> </span><span class="n">request</span><span class="p">,</span>
+<a id="__codelineno-0-15" name="__codelineno-0-15"></a><span class="w">            </span><span class="n">HttpServletResponse</span><span class="w"> </span><span class="n">response</span><span class="p">,</span><span class="w"> </span>
+<a id="__codelineno-0-16" name="__codelineno-0-16"></a><span class="hll"><span class="w">            </span><span class="n">Exception</span><span class="w"> </span><span class="n">ex</span>
+</span><a id="__codelineno-0-17" name="__codelineno-0-17"></a><span class="w">        </span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<a id="__codelineno-0-18" name="__codelineno-0-18"></a>
+<a id="__codelineno-0-19" name="__codelineno-0-19"></a><span class="hll"><span class="w">        </span><span class="n">Map</span><span class="o">&lt;</span><span class="n">String</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">result</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">HashMap</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+</span><a id="__codelineno-0-20" name="__codelineno-0-20"></a><span class="hll"><span class="w">        </span><span class="n">result</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">&quot;class&quot;</span><span class="p">,</span><span class="w"> </span><span class="n">ex</span><span class="p">.</span><span class="na">getClass</span><span class="p">().</span><span class="na">getName</span><span class="p">());</span>
+</span><a id="__codelineno-0-21" name="__codelineno-0-21"></a><span class="hll"><span class="w">        </span><span class="n">result</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">&quot;message&quot;</span><span class="p">,</span><span class="w"> </span><span class="n">ex</span><span class="p">.</span><span class="na">getMessage</span><span class="p">());</span>
+</span><a id="__codelineno-0-22" name="__codelineno-0-22"></a>
+<a id="__codelineno-0-23" name="__codelineno-0-23"></a><span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ResponseEntity</span><span class="o">&lt;&gt;</span><span class="p">(</span><span class="n">result</span><span class="p">,</span><span class="w"> </span><span class="n">HttpStatus</span><span class="p">.</span><span class="na">BAD_REQUEST</span><span class="p">);</span>
+<a id="__codelineno-0-24" name="__codelineno-0-24"></a><span class="w">    </span><span class="p">}</span>
+<a id="__codelineno-0-25" name="__codelineno-0-25"></a><span class="p">}</span>
+</code></pre></div></td></tr></table></div>
+<h2 id="controller">Controller</h2>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-1-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-1-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-1-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-1-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-1-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-1-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-1-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-1-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-1-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-1-10">10</a></span>
+<span class="normal"><a href="#__codelineno-1-11">11</a></span>
+<span class="normal"><a href="#__codelineno-1-12">12</a></span>
+<span class="normal"><a href="#__codelineno-1-13">13</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">org.slf4j.*</span><span class="p">;</span>
+<a id="__codelineno-1-2" name="__codelineno-1-2"></a><span class="kn">import</span><span class="w"> </span><span class="nn">org.springframework.http.*</span><span class="p">;</span>
+<a id="__codelineno-1-3" name="__codelineno-1-3"></a><span class="kn">import</span><span class="w"> </span><span class="nn">org.springframework.web.bind.annotation.*</span><span class="p">;</span>
+<a id="__codelineno-1-4" name="__codelineno-1-4"></a>
+<a id="__codelineno-1-5" name="__codelineno-1-5"></a><span class="nd">@RestController</span>
+<a id="__codelineno-1-6" name="__codelineno-1-6"></a><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">ExceptionController</span><span class="w"> </span><span class="p">{</span>
+<a id="__codelineno-1-7" name="__codelineno-1-7"></a>
+<a id="__codelineno-1-8" name="__codelineno-1-8"></a><span class="w">  </span><span class="nd">@GetMapping</span><span class="p">(</span><span class="s">&quot;/throws-exception&quot;</span><span class="p">)</span>
+<a id="__codelineno-1-9" name="__codelineno-1-9"></a><span class="hll"><span class="w">  </span><span class="kd">public</span><span class="w"> </span><span class="n">ResponseEntity</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">throwDefaultExceptions</span><span class="p">()</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+</span><a id="__codelineno-1-10" name="__codelineno-1-10"></a><span class="hll"><span class="w">    </span><span class="k">throw</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Exception</span><span class="p">(</span><span class="s">&quot;unexpected exception&quot;</span><span class="p">);</span>
+</span><a id="__codelineno-1-11" name="__codelineno-1-11"></a><span class="w">  </span><span class="p">}</span>
+<a id="__codelineno-1-12" name="__codelineno-1-12"></a>
+<a id="__codelineno-1-13" name="__codelineno-1-13"></a><span class="p">}</span>
+</code></pre></div></td></tr></table></div>
+<h2 id="result">Result</h2>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="err">$</span><span class="w"> </span><span class="err">curl</span><span class="w"> </span><span class="err">h</span><span class="kc">tt</span><span class="err">p</span><span class="p">:</span><span class="c1">//localhost:8080/throws-exception</span>
 </code></pre></div>
-<p>http://localhost:8080/swagger-ui/index.html</p>
+<p>結果：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="p">{</span>
+<a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a><span class="w">  </span><span class="nt">&quot;message&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;unexpected exception&quot;</span><span class="p">,</span>
+<a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a><span class="w">  </span><span class="nt">&quot;class&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;java.lang.Exception&quot;</span>
+<a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a><span class="p">}</span>
+</code></pre></div>
 <hr />
-<h2 id="_5">參考資料</h2>
-<ul>
-<li><a href="https://openapi-generator.tech/docs/configuration/">OpenAPI Generator</a><ul>
-<li><a href="https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator-maven-plugin">Maven Plugin</a></li>
-</ul>
-</li>
-<li>https://www.baeldung.com/java-openapi-generator-server</li>
-<li><a href="https://www.youtube.com/watch?v=GJOwJrqIV-8">OpenAPI Generator Demo for Spring Boo</a>, <a href="https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator-maven-plugin">Demo Code</a></li>
-</ul>
+<h2 id="exception">攔截其他 Exception</h2>
+<p>最上層的例外是 <code>Exception</code>，除了這個之外，還可以攔截特定的 Exception，像是以下的：</p>
+<hr />
+<h2 id="reference">Reference</h2>
 
 
 
 
 
 
+
+  
+  
 
 
 
