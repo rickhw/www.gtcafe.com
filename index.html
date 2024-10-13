@@ -1,16 +1,71 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
-        <title>GTCafe Studio</title>
+        <meta charset="UTF-8">
         <meta http-equiv="refresh" content="3; url=/portal">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>GTCafe Studio</title>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: #f5f5f5;
+                font-family: Arial, sans-serif;
+            }
+
+            .loading-container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .circle {
+                position: relative;
+                width: 100px;
+                height: 100px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .circle::before {
+                content: "";
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                border: 10px solid #f3f3f3;
+                border-top: 10px solid #3498db;
+                border-radius: 50%;
+                animation: spin 1s linear infinite;
+            }
+
+            .circle span {
+                font-size: 16px;
+                color: #3498db;
+                z-index: 1; /* 保證文字在圓圈之上 */
+            }
+
+            @keyframes spin {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
+
+            h1, h2 {
+                margin: 10px 0;
+                text-align: center;
+            }
+        </style>
     </head>
     <body>
-        <h1>Welcome to GTCafe Studio</h1>
-        
-        <h2>... Landing ...</h2>
-        
+        <div class="loading-container">
+            <h1>Welcome to GTCafe Studio</h1>
+            <div class="circle">
+                <span>Loading</span>
+            </div>
+        </div>
     </body>
-
 </html>
-
