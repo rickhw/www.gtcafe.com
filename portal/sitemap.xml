@@ -75,6 +75,9 @@
     <loc>https://www.gtcafe.com/portal/rickmidi/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.gtcafe.com/portal/principles/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.gtcafe.com/portal/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -159,10 +162,10 @@
     <loc>https://www.gtcafe.com/portal/itlds/2023/0205_how-the-world-works/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gtcafe.com/portal/tags/%E8%A4%87%E5%88%A9%E4%BA%BA%E7%94%9F/</loc>
+    <loc>https://www.gtcafe.com/portal/itlds/2023/0205_compound-interest/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gtcafe.com/portal/itlds/2023/0205_compound-interest/</loc>
+    <loc>https://www.gtcafe.com/portal/tags/%E8%A4%87%E5%88%A9%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/portal/tags/%E8%A4%87%E5%88%A9%E5%AF%AB%E4%BD%9C/</loc>
@@ -278,6 +281,18 @@
   </url><url>
     <loc>https://www.gtcafe.com/portal/itlds/2020/0816/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/portal/tags/%E5%82%BE%E8%81%BD/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/portal/principles/20200814/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/portal/tags/%E5%9B%A0%E6%9E%9C/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/portal/tags/%E9%97%9C%E4%BF%82/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/portal/itlds/2020/0813_dev-env/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
@@ -420,7 +435,13 @@
     <loc>https://www.gtcafe.com/portal/itlds/2018/0924/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gtcafe.com/portal/life/20180819/</loc>
+    <loc>https://www.gtcafe.com/portal/principles/20240331/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/portal/tags/%E6%96%B7%E6%8D%A8%E9%9B%A2/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/portal/principles/20180819/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/portal/rickmidi/songs/survival-dance/</loc>
@@ -530,6 +551,9 @@
   </url><url>
     <loc>https://www.gtcafe.com/portal/rickmidi/gossip/protect-ears/</loc>
     <lastmod>2011-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gtcafe.com/portal/rickmidi/band/band-score/</loc>
+    <lastmod>2011-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gtcafe.com/portal/tags/%E8%AA%BF%E5%BC%8F/</loc>
     <lastmod>2010-11-20T00:00:00+00:00</lastmod>
@@ -720,7 +744,5 @@
     <loc>https://www.gtcafe.com/portal/search/</loc>
   </url><url>
     <loc>https://www.gtcafe.com/portal/series/</loc>
-  </url><url>
-    <loc>https://www.gtcafe.com/portal/rickmidi/band/band-score/</loc>
   </url>
 </urlset>

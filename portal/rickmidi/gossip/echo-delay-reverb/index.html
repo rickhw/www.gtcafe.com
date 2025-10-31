@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="generator" content="Hugo 0.123.4"><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta name="generator" content="Hugo 0.152.2"><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 
 
@@ -13,16 +13,22 @@
 <meta property="og:locale" content="en_GB">
 <meta property="og:type" content="article">
 <meta property="og:title" content="聊聊即時與立即 - Echo / Delay / Reverb &middot; GTCafe Studio">
-<meta property="og:description" content="人類對於 即時、立即 的感覺，我的經驗值是 20ms ~ 50ms，只要大於 50ms 就可以感覺到 &amp;amp;ldquo;延遲&amp;amp;rdquo;。 聲學 裡有三個名詞是跟延遲有關係的，分別是 echo / delay / reverb。
-※
-Echo 中文翻譯成 迴聲、反響，有返回的意思，大部分口語不會特別用中文。返回 表示達到某一個臨界條件之後，發生的動作，物理特性原理指的是聲波經由 介質 的反射 (Reflection) 聲音。依照障礙物的材質差異、角度，反射的能量與波形依照空間大小會有所差異。
-在混音領域，會利用不同的反射介質，模擬出各種 效果 (Effect, FX)。Echo 實際要聽到效果，通常要一定的空間以上。依照 25 度攝氏度，聲音的傳播速度 343m/s 計算，人類要能夠察覺 echo ，必須至少要 17.2 米長的空間，才有有所謂的 echo。依此可以計算出 echo 的時間約 100ms.
-echo 的概念，就是反射。很多時候在 KTV 唱歌時，大家都喜歡加 echo ，聽起來才夠台。其實那不叫 echo，那叫做 delay。而 echo 的實作，通常是透過 delay 做出來的，原理後述。
-然後 echo 會依照介質不同，依照物質的角度差異（嚴格講還有溫度與濕度），呈現不同的音色，只是大部分的人是無法察覺，通常在錄音軟體裡都有相關參數可以調整，達到模擬效果。
-※
-Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基本概念就是：
-把原始聲音複製一段 然後延後播放。 不牽扯真實的空間波形傳遞的問題。所以 Delay 是可以製造出來的，而且也可以模擬 echo 。
-我剛開始在玩 MIDI 編曲 時，沒有什麼硬體資源，只有簡單的 SB16 聲霸卡（那時候我還沒買音源卡），一開始也不知道啥叫效果器，但是知道聽的音樂中有那種很有空間感的、短暫的反覆旋律的聲音，不管反覆的是人聲、還是樂器聲音。所以， 我就在編曲時：">
+<meta property="og:description" content="&amp;lt;p&amp;gt;人類對於 &amp;lt;code&amp;gt;即時、立即&amp;lt;/code&amp;gt; 的感覺，我的經驗值是 20ms ~ 50ms，只要大於 50ms 就可以感覺到 &amp;amp;ldquo;延遲&amp;amp;rdquo;。 &amp;lt;code&amp;gt;聲學&amp;lt;/code&amp;gt; 裡有三個名詞是跟延遲有關係的，分別是 &amp;lt;code&amp;gt;echo / delay / reverb&amp;lt;/code&amp;gt;。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;　　　※&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;Echo&amp;lt;/code&amp;gt; 中文翻譯成 &amp;lt;code&amp;gt;迴聲、反響&amp;lt;/code&amp;gt;，有返回的意思，大部分口語不會特別用中文。&amp;lt;code&amp;gt;返回&amp;lt;/code&amp;gt; 表示達到某一個臨界條件之後，發生的動作，物理特性原理指的是聲波經由 &amp;lt;code&amp;gt;介質&amp;lt;/code&amp;gt; 的反射 (Reflection) 聲音。依照障礙物的材質差異、角度，反射的能量與波形依照空間大小會有所差異。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;在混音領域，會利用不同的反射介質，模擬出各種 &amp;lt;code&amp;gt;效果 (Effect, FX)&amp;lt;/code&amp;gt;。Echo 實際要聽到效果，通常要一定的空間以上。依照 25 度攝氏度，聲音的傳播速度 343m/s 計算，人類要能夠察覺 echo ，必須至少要 17.2 米長的空間，才有有所謂的 echo。依此可以計算出 echo 的時間約 100ms.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;echo 的概念，就是反射。很多時候在 KTV 唱歌時，大家都喜歡加 echo ，聽起來才夠台。其實那不叫 echo，那叫做 delay。而 echo 的實作，通常是透過 delay 做出來的，原理後述。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;然後 echo 會依照介質不同，依照物質的角度差異（嚴格講還有溫度與濕度），呈現不同的音色，只是大部分的人是無法察覺，通常在錄音軟體裡都有相關參數可以調整，達到模擬效果。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;　　　※&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;Delay&amp;lt;/code&amp;gt; 相對於 Echo 就單純了，算是被人類發明出來的東西。基本概念就是：&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;把原始聲音複製一段&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;然後延後播放。&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&amp;lt;/blockquote&amp;gt;
+&amp;lt;p&amp;gt;不牽扯真實的空間波形傳遞的問題。所以 Delay 是可以製造出來的，而且也可以模擬 echo 。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;我剛開始在&amp;lt;a href=&amp;#34;https://www.facebook.com/rick.kyhwang/posts/10210808014435833&amp;#34;&amp;gt;玩 MIDI 編曲&amp;lt;/a&amp;gt; 時，沒有什麼硬體資源，只有簡單的 SB16 聲霸卡（那時候我還沒買音源卡），一開始也不知道啥叫效果器，但是知道聽的音樂中有那種很有空間感的、短暫的反覆旋律的聲音，不管反覆的是人聲、還是樂器聲音。所以， 我就在編曲時：&amp;lt;/p&amp;gt;">
 <meta property="og:url" content="https://www.gtcafe.com/portal/rickmidi/gossip/echo-delay-reverb/">
 <meta property="og:site_name" content="GTCafe Studio">
 
@@ -57,8 +63,10 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
 
 
 
-<link rel="preload" href="/portal/scss/main.min.e6acd1004bb7430e4755abb55e5fba9bdd5e713cc70e5d97c46c0b1f0025d184.css" as="style">
-<link href="/portal/scss/main.min.e6acd1004bb7430e4755abb55e5fba9bdd5e713cc70e5d97c46c0b1f0025d184.css" rel="stylesheet" integrity="">
+
+
+<link rel="preload" href="/portal/scss/main.min.4c7277ed086d1c61e789c83e4192b2850261c8be77636ae95b6e8356391861ec.css" as="style">
+<link href="/portal/scss/main.min.4c7277ed086d1c61e789c83e4192b2850261c8be77636ae95b6e8356391861ec.css" rel="stylesheet" integrity="">
 
 
 <script
@@ -126,6 +134,16 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
 				
 				
 				<a  class="nav-link" href="/portal/books/" ><span>個人著作</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				<a  class="nav-link" href="/portal/principles/" ><span>原則</span></a>
 			</li>
 			
 			
@@ -1328,22 +1346,6 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
       
         
           
-          
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalrickmidibandpick-songs" href="/portal/rickmidi/band/pick-songs/">開歌, 選歌</a>
-        
-      
-      
-      
-        
-          
-          
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalrickmidibandrun-a-band" href="/portal/rickmidi/band/run-a-band/">樂團的經營</a>
-        
-      
-      
-      
-        
-          
 
 
 
@@ -1363,6 +1365,22 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
   </ul>
 </ul>
 
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalrickmidibandpick-songs" href="/portal/rickmidi/band/pick-songs/">開歌, 選歌</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalrickmidibandrun-a-band" href="/portal/rickmidi/band/run-a-band/">樂團的經營</a>
         
       
       
@@ -1504,7 +1522,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/arpeggios" class="tagcloud-item" style="font-size: 1.144339522685812rem;">
+            <a href="/portal/%20/tags/arpeggios" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
                 arpeggios<sup>3</sup>
             </a>
         
@@ -1568,7 +1586,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/daw" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/daw" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 daw<sup>2</sup>
             </a>
         
@@ -1592,7 +1610,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/dominant" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/dominant" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 dominant<sup>2</sup>
             </a>
         
@@ -1608,8 +1626,8 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/final-fantasy" class="tagcloud-item" style="font-size: 1.144339522685812rem;">
-                final fantasy<sup>3</sup>
+            <a href="/portal/%20/tags/final-fantasy" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                final fantasy<sup>2</sup>
             </a>
         
             
@@ -1632,7 +1650,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/how-to" class="tagcloud-item" style="font-size: 1.1821361989575623rem;">
+            <a href="/portal/%20/tags/how-to" class="tagcloud-item" style="font-size: 1.1851025705278073rem;">
                 how-to<sup>4</sup>
             </a>
         
@@ -1648,7 +1666,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/interval" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/interval" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 interval<sup>2</sup>
             </a>
         
@@ -1664,7 +1682,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/jack-thammarat" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/jack-thammarat" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 jack thammarat<sup>2</sup>
             </a>
         
@@ -1688,7 +1706,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/midi" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/midi" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 midi<sup>2</sup>
             </a>
         
@@ -1752,7 +1770,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/personal" class="tagcloud-item" style="font-size: 1.144339522685812rem;">
+            <a href="/portal/%20/tags/personal" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
                 personal<sup>3</sup>
             </a>
         
@@ -1776,7 +1794,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/secondary-dominant" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/secondary-dominant" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 secondary dominant<sup>2</sup>
             </a>
         
@@ -1816,7 +1834,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/system-analysis" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/system-analysis" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 system analysis<sup>2</sup>
             </a>
         
@@ -1824,7 +1842,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/system-design" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/system-design" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 system design<sup>2</sup>
             </a>
         
@@ -1848,7 +1866,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/user-story" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/user-story" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 user story<sup>2</sup>
             </a>
         
@@ -1864,15 +1882,15 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.386850685372932rem;">
-                ★<sup>19</sup>
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.3859319183375713rem;">
+                ★<sup>18</sup>
             </a>
         
             
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 ★★<sup>8</sup>
             </a>
         
@@ -1880,7 +1898,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.336992012366906rem;">
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.3424804519555555rem;">
                 ★★★<sup>13</sup>
             </a>
         
@@ -1888,7 +1906,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.3264757216433745rem;">
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.3317928870646412rem;">
                 ★★★★<sup>12</sup>
             </a>
         
@@ -1896,7 +1914,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.2354076221645933rem;">
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.2392416018007375rem;">
                 ★★★★★<sup>6</sup>
             </a>
         
@@ -1928,7 +1946,15 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E5%86%A5%E6%83%B3" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E5%82%BE%E8%81%BD" class="tagcloud-item" style="font-size: 1rem;">
+                傾聽<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%86%A5%E6%83%B3" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 冥想<sup>2</sup>
             </a>
         
@@ -1936,7 +1962,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92" class="tagcloud-item" style="font-size: 1.1821361989575623rem;">
+            <a href="/portal/%20/tags/%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92" class="tagcloud-item" style="font-size: 1.1851025705278073rem;">
                 刻意練習<sup>4</sup>
             </a>
         
@@ -1944,7 +1970,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E5%8E%9F%E5%AD%90%E7%BF%92%E6%85%A3" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E5%8E%9F%E5%AD%90%E7%BF%92%E6%85%A3" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 原子習慣<sup>2</sup>
             </a>
         
@@ -1952,7 +1978,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E5%90%89%E4%BB%96" class="tagcloud-item" style="font-size: 1.3150438627861023rem;">
+            <a href="/portal/%20/tags/%E5%90%89%E4%BB%96" class="tagcloud-item" style="font-size: 1.3201748425874684rem;">
                 吉他<sup>11</sup>
             </a>
         
@@ -1960,7 +1986,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E5%92%8C%E5%BC%A6" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E5%92%8C%E5%BC%A6" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 和弦<sup>8</sup>
             </a>
         
@@ -1968,7 +1994,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E5%92%8C%E8%81%B2" class="tagcloud-item" style="font-size: 1.144339522685812rem;">
+            <a href="/portal/%20/tags/%E5%92%8C%E8%81%B2" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
                 和聲<sup>3</sup>
             </a>
         
@@ -1978,6 +2004,14 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             <a href="/portal/%20/tags/%E5%94%B1%E5%90%8D" class="tagcloud-item" style="font-size: 1rem;">
                 唱名<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%9B%A0%E6%9E%9C" class="tagcloud-item" style="font-size: 1rem;">
+                因果<sup>1</sup>
             </a>
         
             
@@ -2032,6 +2066,14 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
+            <a href="/portal/%20/tags/%E6%96%B7%E6%8D%A8%E9%9B%A2" class="tagcloud-item" style="font-size: 1rem;">
+                斷捨離<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
             <a href="/portal/%20/tags/%E6%9B%A0%E9%87%8E%E4%B9%8B%E6%81%AF" class="tagcloud-item" style="font-size: 1rem;">
                 曠野之息<sup>1</sup>
             </a>
@@ -2056,7 +2098,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E6%A8%82%E5%9C%98%E7%B6%93%E7%87%9F" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E6%A8%82%E5%9C%98%E7%B6%93%E7%87%9F" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 樂團經營<sup>8</sup>
             </a>
         
@@ -2064,7 +2106,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E6%A8%82%E7%90%86" class="tagcloud-item" style="font-size: 1.3025216782065603rem;">
+            <a href="/portal/%20/tags/%E6%A8%82%E7%90%86" class="tagcloud-item" style="font-size: 1.3074487147360963rem;">
                 樂理<sup>10</sup>
             </a>
         
@@ -2096,8 +2138,8 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E7%94%9F%E6%B4%BB" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
-                生活<sup>2</sup>
+            <a href="/portal/%20/tags/%E7%94%9F%E6%B4%BB" class="tagcloud-item" style="font-size: 1.2148974294721926rem;">
+                生活<sup>5</sup>
             </a>
         
             
@@ -2112,7 +2154,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E7%A7%81%E6%88%BF%E6%AD%8C" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E7%A7%81%E6%88%BF%E6%AD%8C" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 私房歌<sup>8</sup>
             </a>
         
@@ -2144,7 +2186,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 系統設計<sup>2</sup>
             </a>
         
@@ -2168,15 +2210,15 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E8%81%8A%E5%A4%A9" class="tagcloud-item" style="font-size: 1.3935897776853414rem;">
-                聊天<sup>20</sup>
+            <a href="/portal/%20/tags/%E8%81%8A%E5%A4%A9" class="tagcloud-item" style="font-size: 1.3931511510771022rem;">
+                聊天<sup>19</sup>
             </a>
         
             
             
             
             
-            <a href="/portal/%20/tags/%E8%81%BD%E9%9F%B3%E6%A8%82" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E8%81%BD%E9%9F%B3%E6%A8%82" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 聽音樂<sup>8</sup>
             </a>
         
@@ -2192,7 +2234,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E4%BA%BA%E7%94%9F" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E4%BA%BA%E7%94%9F" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 複利人生<sup>2</sup>
             </a>
         
@@ -2208,7 +2250,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E6%95%88%E6%87%89" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E6%95%88%E6%87%89" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 複利效應<sup>2</sup>
             </a>
         
@@ -2216,7 +2258,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E8%AA%BF%E5%BC%8F" class="tagcloud-item" style="font-size: 1.2114535787277791rem;">
+            <a href="/portal/%20/tags/%E8%AA%BF%E5%BC%8F" class="tagcloud-item" style="font-size: 1.2148974294721926rem;">
                 調式<sup>5</sup>
             </a>
         
@@ -2232,7 +2274,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 軟體工程<sup>2</sup>
             </a>
         
@@ -2264,6 +2306,14 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
+            <a href="/portal/%20/tags/%E9%97%9C%E4%BF%82" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
+                關係<sup>3</sup>
+            </a>
+        
+            
+            
+            
+            
             <a href="/portal/%20/tags/%E9%9A%A8%E6%A9%9F%E8%AB%96" class="tagcloud-item" style="font-size: 1rem;">
                 隨機論<sup>1</sup>
             </a>
@@ -2272,7 +2322,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 需求分析<sup>2</sup>
             </a>
         
@@ -2288,7 +2338,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E9%9F%B3%E7%A8%8B" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E9%9F%B3%E7%A8%8B" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 音程<sup>8</sup>
             </a>
         
@@ -2296,7 +2346,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
             
             
             
-            <a href="/portal/%20/tags/%E9%9F%B3%E9%9A%8E" class="tagcloud-item" style="font-size: 1.3150438627861023rem;">
+            <a href="/portal/%20/tags/%E9%9F%B3%E9%9A%8E" class="tagcloud-item" style="font-size: 1.3201748425874684rem;">
                 音階<sup>11</sup>
             </a>
         
@@ -2447,7 +2497,7 @@ Delay 相對於 Echo 就單純了，算是被人類發明出來的東西。基�
         
       </div>
       <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
-        <small class="text-white">&copy; 2024 Rick KY Hwang All Rights Reserved</small>
+        <small class="text-white">&copy; 2025 Rick KY Hwang All Rights Reserved</small>
         
 	
 		<p class="mt-2"><a href="">關於 喝咖啡 聊音樂</a></p>

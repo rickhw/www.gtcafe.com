@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="generator" content="Hugo 0.123.4"><link rel="alternate" type="application/rss&#43;xml" href="https://www.gtcafe.com/portal/rickmidi/gossip/algorithm-for-songs/index.xml">
+<meta name="generator" content="Hugo 0.152.2"><link rel="alternate" type="application/rss&#43;xml" href="https://www.gtcafe.com/portal/rickmidi/gossip/algorithm-for-songs/index.xml">
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 
@@ -14,16 +14,28 @@
 <meta property="og:locale" content="en_GB">
 <meta property="og:type" content="website">
 <meta property="og:title" content="概述『和聲分析』演算法 &middot; GTCafe Studio">
-<meta property="og:description" content="下面這段影片介紹了一個分析和弦的工具，跟『科技與音樂』一文介紹的東西其實是類似的技術。
-我曾經寫過一個小程式，目的是用來歌曲分析，當時也有做過類似的事情。最近也有朋友問我想關的問題，我把當時寫『和弦分析』程式的一些方法記錄下來給有興趣的人參考。
-這個程式的主要目的用來幫忙找歌曲的調性跟和弦，雖然是描述一個『程式』，不過音樂上的思考過程，基本上還是要具備基礎的樂理知識，反而不會提到太多的程式設計的概念。
-這段文字除了是在描述程式設計的和聲分析方法，其實也是在描述一般樂手『採譜』的基本概念。
-要寫這種工具，要做幾件事情，分兩個部分：音頻分析 和 和聲分析。本文著重的描述是第二個部分，第一部分偏向數位訊號處理 (DSP) 應用。
-和聲分析我是假設用 MIDI SMF (Standard MIDI Files) 當作輸入，而不是 Digital Audio (像是 MP3、WAVE)，如此可以省去音頻分析部分。步驟如下：
-一、建立基本定義資料庫 定義音名 Notation 以及表示法 (Expression)，像是 CDEFGAB 以及八度音表示法、升降記號，像是 A1、C6、C#3 &amp;amp;hellip; 等，這邊的數字表示第幾個八度音。 音程關係 Interval、數字系統 (Numbered) 調性定義：大調音階、小調音階、其他音階的音程關係，就是音階基礎描述的東西。 和弦屬性：大和弦、小和弦、增和弦、減和弦、七和弦系列、延伸和弦 &amp;amp;hellip; 等。大概就是和弦基礎描述的東西。 順階和弦與和弦功能：順階和弦的運算函式、定義主和弦、下屬和弦、屬和弦 二、和弦辨識函式 在這之前，必須具備的條件就是，已經知道歌曲的速度、小節數、每個小節裡用到哪一些音符，但是不知道和弦、調性等。這部分都是屬於音頻分析的範疇。
-在步驟一描述的，都是定義，也就是分析前需要知道的，根據音頻分析的結果，知道音符的定義名稱，像是：第五小節有音符 A4、C3、D4 等音符，這些音符個別有自己的音符長度 (Duration)、甚至是分析出強弱 (Velocity、CC#7)、各種演奏表情 (Expressions)。所以最方便的方法，就是直接用 MIDI 的 SMF (Standard MIDI Files) 分析。
-基本的功能就是：輸入一堆音名，找出『可能的』和弦名稱，基本的步驟如下：
-把這些音符全部放在一個八度音之內，找出他們的音程關係。例如找到一堆音符是：A3 C 根據上一步驟找出根音、三度音、五度音，影片中 (00:15) 顯示百分比大概就是這段。 實際上編曲越複雜的歌曲，所輸入的音符往往會超過一般和弦的定義，也就是, 我們聽到一小節裡面，同時會包含旋律 &#43; 和弦 &#43; 其他經過音/插音 (ex: 弦樂), 或者節奏樂器的噪音。如果分析的歌曲對象是單一樂器獨奏，則準確性則會高很多。 根據上一步驟的結果，判定和弦屬性是：大和弦、小和弦、減和弦、or 增和弦 找出七度音 (如果有的話), 再根據 (2.">
+<meta property="og:description" content="&amp;lt;p&amp;gt;下面這段影片介紹了一個分析和弦的工具，跟『科技與音樂』一文介紹的東西其實是類似的技術。&amp;lt;/p&amp;gt;
+&amp;lt;div style=&amp;#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&amp;#34;&amp;gt;
+      &amp;lt;iframe allow=&amp;#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&amp;#34; loading=&amp;#34;eager&amp;#34; referrerpolicy=&amp;#34;strict-origin-when-cross-origin&amp;#34; src=&amp;#34;https://www.youtube.com/embed/7o-TTFCYyG0?autoplay=0&amp;amp;amp;controls=1&amp;amp;amp;end=0&amp;amp;amp;loop=0&amp;amp;amp;mute=0&amp;amp;amp;start=0&amp;#34; style=&amp;#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&amp;#34; title=&amp;#34;YouTube video&amp;#34;&amp;gt;&amp;lt;/iframe&amp;gt;
+    &amp;lt;/div&amp;gt;
+
+&amp;lt;p&amp;gt;我曾經寫過一個小程式，目的是用來歌曲分析，當時也有做過類似的事情。最近也有朋友問我想關的問題，我把當時寫『和弦分析』程式的一些方法記錄下來給有興趣的人參考。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;這個程式的主要目的用來幫忙找歌曲的調性跟和弦，雖然是描述一個『程式』，不過音樂上的思考過程，基本上還是要具備基礎的樂理知識，反而不會提到太多的程式設計的概念。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;這段文字除了是在描述程式設計的和聲分析方法，其實也是在描述一般樂手『採譜』的基本概念。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;要寫這種工具，要做幾件事情，分兩個部分：&amp;lt;code&amp;gt;音頻分析&amp;lt;/code&amp;gt; 和 &amp;lt;code&amp;gt;和聲分析&amp;lt;/code&amp;gt;。本文著重的描述是第二個部分，第一部分偏向數位訊號處理 (DSP) 應用。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;和聲分析我是假設用 &amp;lt;a href=&amp;#34;http://en.wikipedia.org/wiki/MIDI#Standard_MIDI_files&amp;#34;&amp;gt;MIDI SMF (Standard MIDI Files)&amp;lt;/a&amp;gt; 當作輸入，而不是 Digital Audio (像是 MP3、WAVE)，如此可以省去音頻分析部分。步驟如下：&amp;lt;/p&amp;gt;
+&amp;lt;h2 id=&amp;#34;一建立基本定義資料庫&amp;#34;&amp;gt;一、建立基本定義資料庫&amp;lt;/h2&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;定義音名 Notation 以及表示法 (Expression)，像是 CDEFGAB 以及八度音表示法、升降記號，像是 A1、C6、C#3 &amp;amp;hellip; 等，這邊的數字表示第幾個八度音。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;音程關係 Interval、數字系統 (Numbered)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;調性定義：大調音階、小調音階、其他音階的音程關係，就是音階基礎描述的東西。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;和弦屬性：大和弦、小和弦、增和弦、減和弦、七和弦系列、延伸和弦 &amp;amp;hellip; 等。大概就是和弦基礎描述的東西。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;順階和弦與和弦功能：順階和弦的運算函式、定義主和弦、下屬和弦、屬和弦&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;h2 id=&amp;#34;二和弦辨識函式&amp;#34;&amp;gt;二、和弦辨識函式&amp;lt;/h2&amp;gt;
+&amp;lt;p&amp;gt;在這之前，必須具備的條件就是，已經知道歌曲的速度、小節數、每個小節裡用到哪一些音符，但是不知道和弦、調性等。這部分都是屬於音頻分析的範疇。&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;
+&amp;lt;p&amp;gt;在步驟一描述的，都是定義，也就是分析前需要知道的，根據音頻分析的結果，知道音符的定義名稱，像是：第五小節有音符 A4、C3、D4 等音符，這些音符個別有自己的音符長度 (Duration)、甚至是分析出強弱 (Velocity、CC#7)、各種演奏表情 (Expressions)。所以最方便的方法，就是直接用 MIDI 的 SMF (Standard MIDI Files) 分析。&amp;lt;/p&amp;gt;">
 <meta property="og:url" content="https://www.gtcafe.com/portal/rickmidi/gossip/algorithm-for-songs/">
 <meta property="og:site_name" content="GTCafe Studio">
 
@@ -58,8 +70,10 @@
 
 
 
-<link rel="preload" href="/portal/scss/main.min.e6acd1004bb7430e4755abb55e5fba9bdd5e713cc70e5d97c46c0b1f0025d184.css" as="style">
-<link href="/portal/scss/main.min.e6acd1004bb7430e4755abb55e5fba9bdd5e713cc70e5d97c46c0b1f0025d184.css" rel="stylesheet" integrity="">
+
+
+<link rel="preload" href="/portal/scss/main.min.4c7277ed086d1c61e789c83e4192b2850261c8be77636ae95b6e8356391861ec.css" as="style">
+<link href="/portal/scss/main.min.4c7277ed086d1c61e789c83e4192b2850261c8be77636ae95b6e8356391861ec.css" rel="stylesheet" integrity="">
 
 
 <script
@@ -127,6 +141,16 @@
 				
 				
 				<a  class="nav-link" href="/portal/books/" ><span>個人著作</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				<a  class="nav-link" href="/portal/principles/" ><span>原則</span></a>
 			</li>
 			
 			
@@ -1329,22 +1353,6 @@
       
         
           
-          
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalrickmidibandpick-songs" href="/portal/rickmidi/band/pick-songs/">開歌, 選歌</a>
-        
-      
-      
-      
-        
-          
-          
-          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalrickmidibandrun-a-band" href="/portal/rickmidi/band/run-a-band/">樂團的經營</a>
-        
-      
-      
-      
-        
-          
 
 
 
@@ -1364,6 +1372,22 @@
   </ul>
 </ul>
 
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalrickmidibandpick-songs" href="/portal/rickmidi/band/pick-songs/">開歌, 選歌</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalrickmidibandrun-a-band" href="/portal/rickmidi/band/run-a-band/">樂團的經營</a>
         
       
       
@@ -1524,7 +1548,7 @@
             
             
             
-            <a href="/portal/%20/tags/arpeggios" class="tagcloud-item" style="font-size: 1.144339522685812rem;">
+            <a href="/portal/%20/tags/arpeggios" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
                 arpeggios<sup>3</sup>
             </a>
         
@@ -1588,7 +1612,7 @@
             
             
             
-            <a href="/portal/%20/tags/daw" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/daw" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 daw<sup>2</sup>
             </a>
         
@@ -1612,7 +1636,7 @@
             
             
             
-            <a href="/portal/%20/tags/dominant" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/dominant" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 dominant<sup>2</sup>
             </a>
         
@@ -1628,8 +1652,8 @@
             
             
             
-            <a href="/portal/%20/tags/final-fantasy" class="tagcloud-item" style="font-size: 1.144339522685812rem;">
-                final fantasy<sup>3</sup>
+            <a href="/portal/%20/tags/final-fantasy" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                final fantasy<sup>2</sup>
             </a>
         
             
@@ -1652,7 +1676,7 @@
             
             
             
-            <a href="/portal/%20/tags/how-to" class="tagcloud-item" style="font-size: 1.1821361989575623rem;">
+            <a href="/portal/%20/tags/how-to" class="tagcloud-item" style="font-size: 1.1851025705278073rem;">
                 how-to<sup>4</sup>
             </a>
         
@@ -1668,7 +1692,7 @@
             
             
             
-            <a href="/portal/%20/tags/interval" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/interval" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 interval<sup>2</sup>
             </a>
         
@@ -1684,7 +1708,7 @@
             
             
             
-            <a href="/portal/%20/tags/jack-thammarat" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/jack-thammarat" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 jack thammarat<sup>2</sup>
             </a>
         
@@ -1708,7 +1732,7 @@
             
             
             
-            <a href="/portal/%20/tags/midi" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/midi" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 midi<sup>2</sup>
             </a>
         
@@ -1772,7 +1796,7 @@
             
             
             
-            <a href="/portal/%20/tags/personal" class="tagcloud-item" style="font-size: 1.144339522685812rem;">
+            <a href="/portal/%20/tags/personal" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
                 personal<sup>3</sup>
             </a>
         
@@ -1796,7 +1820,7 @@
             
             
             
-            <a href="/portal/%20/tags/secondary-dominant" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/secondary-dominant" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 secondary dominant<sup>2</sup>
             </a>
         
@@ -1836,7 +1860,7 @@
             
             
             
-            <a href="/portal/%20/tags/system-analysis" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/system-analysis" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 system analysis<sup>2</sup>
             </a>
         
@@ -1844,7 +1868,7 @@
             
             
             
-            <a href="/portal/%20/tags/system-design" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/system-design" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 system design<sup>2</sup>
             </a>
         
@@ -1868,7 +1892,7 @@
             
             
             
-            <a href="/portal/%20/tags/user-story" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/user-story" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 user story<sup>2</sup>
             </a>
         
@@ -1884,15 +1908,15 @@
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.386850685372932rem;">
-                ★<sup>19</sup>
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.3859319183375713rem;">
+                ★<sup>18</sup>
             </a>
         
             
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 ★★<sup>8</sup>
             </a>
         
@@ -1900,7 +1924,7 @@
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.336992012366906rem;">
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.3424804519555555rem;">
                 ★★★<sup>13</sup>
             </a>
         
@@ -1908,7 +1932,7 @@
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.3264757216433745rem;">
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.3317928870646412rem;">
                 ★★★★<sup>12</sup>
             </a>
         
@@ -1916,7 +1940,7 @@
             
             
             
-            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.2354076221645933rem;">
+            <a href="/portal/%20/tags/" class="tagcloud-item" style="font-size: 1.2392416018007375rem;">
                 ★★★★★<sup>6</sup>
             </a>
         
@@ -1948,7 +1972,15 @@
             
             
             
-            <a href="/portal/%20/tags/%E5%86%A5%E6%83%B3" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E5%82%BE%E8%81%BD" class="tagcloud-item" style="font-size: 1rem;">
+                傾聽<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%86%A5%E6%83%B3" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 冥想<sup>2</sup>
             </a>
         
@@ -1956,7 +1988,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92" class="tagcloud-item" style="font-size: 1.1821361989575623rem;">
+            <a href="/portal/%20/tags/%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92" class="tagcloud-item" style="font-size: 1.1851025705278073rem;">
                 刻意練習<sup>4</sup>
             </a>
         
@@ -1964,7 +1996,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E5%8E%9F%E5%AD%90%E7%BF%92%E6%85%A3" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E5%8E%9F%E5%AD%90%E7%BF%92%E6%85%A3" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 原子習慣<sup>2</sup>
             </a>
         
@@ -1972,7 +2004,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E5%90%89%E4%BB%96" class="tagcloud-item" style="font-size: 1.3150438627861023rem;">
+            <a href="/portal/%20/tags/%E5%90%89%E4%BB%96" class="tagcloud-item" style="font-size: 1.3201748425874684rem;">
                 吉他<sup>11</sup>
             </a>
         
@@ -1980,7 +2012,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E5%92%8C%E5%BC%A6" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E5%92%8C%E5%BC%A6" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 和弦<sup>8</sup>
             </a>
         
@@ -1988,7 +2020,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E5%92%8C%E8%81%B2" class="tagcloud-item" style="font-size: 1.144339522685812rem;">
+            <a href="/portal/%20/tags/%E5%92%8C%E8%81%B2" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
                 和聲<sup>3</sup>
             </a>
         
@@ -1998,6 +2030,14 @@
             
             <a href="/portal/%20/tags/%E5%94%B1%E5%90%8D" class="tagcloud-item" style="font-size: 1rem;">
                 唱名<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E5%9B%A0%E6%9E%9C" class="tagcloud-item" style="font-size: 1rem;">
+                因果<sup>1</sup>
             </a>
         
             
@@ -2052,6 +2092,14 @@
             
             
             
+            <a href="/portal/%20/tags/%E6%96%B7%E6%8D%A8%E9%9B%A2" class="tagcloud-item" style="font-size: 1rem;">
+                斷捨離<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
             <a href="/portal/%20/tags/%E6%9B%A0%E9%87%8E%E4%B9%8B%E6%81%AF" class="tagcloud-item" style="font-size: 1rem;">
                 曠野之息<sup>1</sup>
             </a>
@@ -2076,7 +2124,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E6%A8%82%E5%9C%98%E7%B6%93%E7%87%9F" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E6%A8%82%E5%9C%98%E7%B6%93%E7%87%9F" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 樂團經營<sup>8</sup>
             </a>
         
@@ -2084,7 +2132,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E6%A8%82%E7%90%86" class="tagcloud-item" style="font-size: 1.3025216782065603rem;">
+            <a href="/portal/%20/tags/%E6%A8%82%E7%90%86" class="tagcloud-item" style="font-size: 1.3074487147360963rem;">
                 樂理<sup>10</sup>
             </a>
         
@@ -2116,8 +2164,8 @@
             
             
             
-            <a href="/portal/%20/tags/%E7%94%9F%E6%B4%BB" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
-                生活<sup>2</sup>
+            <a href="/portal/%20/tags/%E7%94%9F%E6%B4%BB" class="tagcloud-item" style="font-size: 1.2148974294721926rem;">
+                生活<sup>5</sup>
             </a>
         
             
@@ -2132,7 +2180,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E7%A7%81%E6%88%BF%E6%AD%8C" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E7%A7%81%E6%88%BF%E6%AD%8C" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 私房歌<sup>8</sup>
             </a>
         
@@ -2164,7 +2212,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 系統設計<sup>2</sup>
             </a>
         
@@ -2188,15 +2236,15 @@
             
             
             
-            <a href="/portal/%20/tags/%E8%81%8A%E5%A4%A9" class="tagcloud-item" style="font-size: 1.3935897776853414rem;">
-                聊天<sup>20</sup>
+            <a href="/portal/%20/tags/%E8%81%8A%E5%A4%A9" class="tagcloud-item" style="font-size: 1.3931511510771022rem;">
+                聊天<sup>19</sup>
             </a>
         
             
             
             
             
-            <a href="/portal/%20/tags/%E8%81%BD%E9%9F%B3%E6%A8%82" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E8%81%BD%E9%9F%B3%E6%A8%82" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 聽音樂<sup>8</sup>
             </a>
         
@@ -2212,7 +2260,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E4%BA%BA%E7%94%9F" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E4%BA%BA%E7%94%9F" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 複利人生<sup>2</sup>
             </a>
         
@@ -2228,7 +2276,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E6%95%88%E6%87%89" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E8%A4%87%E5%88%A9%E6%95%88%E6%87%89" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 複利效應<sup>2</sup>
             </a>
         
@@ -2236,7 +2284,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E8%AA%BF%E5%BC%8F" class="tagcloud-item" style="font-size: 1.2114535787277791rem;">
+            <a href="/portal/%20/tags/%E8%AA%BF%E5%BC%8F" class="tagcloud-item" style="font-size: 1.2148974294721926rem;">
                 調式<sup>5</sup>
             </a>
         
@@ -2252,7 +2300,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 軟體工程<sup>2</sup>
             </a>
         
@@ -2284,6 +2332,14 @@
             
             
             
+            <a href="/portal/%20/tags/%E9%97%9C%E4%BF%82" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
+                關係<sup>3</sup>
+            </a>
+        
+            
+            
+            
+            
             <a href="/portal/%20/tags/%E9%9A%A8%E6%A9%9F%E8%AB%96" class="tagcloud-item" style="font-size: 1rem;">
                 隨機論<sup>1</sup>
             </a>
@@ -2292,7 +2348,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90" class="tagcloud-item" style="font-size: 1.0910680994787811rem;">
+            <a href="/portal/%20/tags/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 需求分析<sup>2</sup>
             </a>
         
@@ -2308,7 +2364,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E9%9F%B3%E7%A8%8B" class="tagcloud-item" style="font-size: 1.2732042984363434rem;">
+            <a href="/portal/%20/tags/%E9%9F%B3%E7%A8%8B" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
                 音程<sup>8</sup>
             </a>
         
@@ -2316,7 +2372,7 @@
             
             
             
-            <a href="/portal/%20/tags/%E9%9F%B3%E9%9A%8E" class="tagcloud-item" style="font-size: 1.3150438627861023rem;">
+            <a href="/portal/%20/tags/%E9%9F%B3%E9%9A%8E" class="tagcloud-item" style="font-size: 1.3201748425874684rem;">
                 音階<sup>11</sup>
             </a>
         
@@ -2397,10 +2453,9 @@
 
 	
 	<p>下面這段影片介紹了一個分析和弦的工具，跟『科技與音樂』一文介紹的東西其實是類似的技術。</p>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/7o-TTFCYyG0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/7o-TTFCYyG0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p>我曾經寫過一個小程式，目的是用來歌曲分析，當時也有做過類似的事情。最近也有朋友問我想關的問題，我把當時寫『和弦分析』程式的一些方法記錄下來給有興趣的人參考。</p>
 <p>這個程式的主要目的用來幫忙找歌曲的調性跟和弦，雖然是描述一個『程式』，不過音樂上的思考過程，基本上還是要具備基礎的樂理知識，反而不會提到太多的程式設計的概念。</p>
@@ -2667,7 +2722,6 @@
 </div>
 
 	
-	
 	<div class="text-muted mt-5 pt-3 border-top">Last modified 2014/09/27
 </div>
 </div>
@@ -2708,7 +2762,7 @@
         
       </div>
       <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
-        <small class="text-white">&copy; 2024 Rick KY Hwang All Rights Reserved</small>
+        <small class="text-white">&copy; 2025 Rick KY Hwang All Rights Reserved</small>
         
 	
 		<p class="mt-2"><a href="">關於 喝咖啡 聊音樂</a></p>
