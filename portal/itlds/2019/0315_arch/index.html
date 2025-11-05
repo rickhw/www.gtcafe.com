@@ -14,41 +14,41 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="滷肉攤架構 &middot; GTCafe Studio">
 <meta property="og:description" content="&amp;lt;p&amp;gt;source: &amp;lt;a href=&amp;#34;https://www.facebook.com/rick.kyhwang/posts/10210901702257970&amp;#34;&amp;gt;https://www.facebook.com/rick.kyhwang/posts/10210901702257970&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;開一家店，賣滷肉飯 &#43; 貢丸湯，
-一個人，獨立服務客人，
+&amp;lt;p&amp;gt;開一家店，賣滷肉飯 &#43; 貢丸湯，&amp;lt;br&amp;gt;
+一個人，獨立服務客人，&amp;lt;br&amp;gt;
 這是 #單體  (#Monolithic)。&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;開一家店，讓別人加盟一起賣滷肉飯，
+&amp;lt;p&amp;gt;開一家店，讓別人加盟一起賣滷肉飯，&amp;lt;br&amp;gt;
 這是 #可擴展 (#Scalable) 。&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA)
-擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)，
-門口限制進入的數量，這叫做限流 (#RateLimit)，
-客人進來平均分配座位，這叫負載平衡 (#LoadBalancer)
+&amp;lt;p&amp;gt;僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA)&amp;lt;br&amp;gt;
+擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)，&amp;lt;br&amp;gt;
+門口限制進入的數量，這叫做限流 (#RateLimit)，&amp;lt;br&amp;gt;
+客人進來平均分配座位，這叫負載平衡 (#LoadBalancer)&amp;lt;br&amp;gt;
 這家店只有一個入口，這是 #APIGateway。&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;開一家店，
-同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡，
-他們有個共用的購買路線、結帳流程、
-統一的招牌格式、收盤的程序 &amp;amp;hellip;.
+&amp;lt;p&amp;gt;開一家店，&amp;lt;br&amp;gt;
+同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡，&amp;lt;br&amp;gt;
+他們有個共用的購買路線、結帳流程、&amp;lt;br&amp;gt;
+統一的招牌格式、收盤的程序 &amp;amp;hellip;.&amp;lt;br&amp;gt;
 這是 #微服務 (Microservices)。&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;為了讓每個攤位快速進駐，
-用了一套同規格的桌子，這叫 #容器。
-可以讓大家快速進駐時，可以方便隨時調整
-所以用了動態安排的方法，這叫做編排 (#Orchestration)
-每個攤位都可以限流、知道攤位狀況，
+&amp;lt;p&amp;gt;為了讓每個攤位快速進駐，&amp;lt;br&amp;gt;
+用了一套同規格的桌子，這叫 #容器。&amp;lt;br&amp;gt;
+可以讓大家快速進駐時，可以方便隨時調整&amp;lt;br&amp;gt;
+所以用了動態安排的方法，這叫做編排 (#Orchestration)&amp;lt;br&amp;gt;
+每個攤位都可以限流、知道攤位狀況，&amp;lt;br&amp;gt;
 這叫做 #ServiceMesh&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding)
-客人點一顆肉圓，準備兩份，這叫做副本 (#Replication)
+&amp;lt;p&amp;gt;一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding)&amp;lt;br&amp;gt;
+客人點一顆肉圓，準備兩份，這叫做副本 (#Replication)&amp;lt;br&amp;gt;
 一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &amp;amp;hellip;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;用兩個爐子，一個蒸肉圓，一個保溫。
+&amp;lt;p&amp;gt;用兩個爐子，一個蒸肉圓，一個保溫。&amp;lt;br&amp;gt;
 這叫做 #MasterSlave。&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;開兩家店，一家營業，
-另一家買一樣的設備，備用，
+&amp;lt;p&amp;gt;開兩家店，一家營業，&amp;lt;br&amp;gt;
+另一家買一樣的設備，備用，&amp;lt;br&amp;gt;
 這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode)&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;開一家店，
-不用雇人，擺幾台機器抓娃娃，就可以自己賺錢了，
+&amp;lt;p&amp;gt;開一家店，&amp;lt;br&amp;gt;
+不用雇人，擺幾台機器抓娃娃，就可以自己賺錢了，&amp;lt;br&amp;gt;
 這是 #Serverless &amp;amp;hellip;.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;弄一個賣場，裡面啥都可以擺，
-有倉庫，也有動線，有可以客製化的結帳台，
-有娃娃機、各式各樣的桌子、
+&amp;lt;p&amp;gt;弄一個賣場，裡面啥都可以擺，&amp;lt;br&amp;gt;
+有倉庫，也有動線，有可以客製化的結帳台，&amp;lt;br&amp;gt;
+有娃娃機、各式各樣的桌子、&amp;lt;br&amp;gt;
 這叫做 #雲服務。。。&amp;lt;/p&amp;gt;">
 <meta property="og:url" content="https://www.gtcafe.com/portal/itlds/2019/0315_arch/">
 <meta property="og:site_name" content="GTCafe Studio">
@@ -378,6 +378,30 @@
       
         
           
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20250908_prison" href="/portal/itlds/2025/0908_prison/">監獄</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20250903_deep-think" href="/portal/itlds/2025/0903_deep-think/">深度</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20250830_past" href="/portal/itlds/2025/0830_past/">過往</a>
+        
+      
+      
+      
+        
+          
 
 
 
@@ -405,6 +429,96 @@
           
           
           <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20250819_murmur" href="/portal/itlds/2025/0819_murmur/">文明？</a>
+        
+      
+      
+      
+        
+          
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/portal/itlds/2025/0816_bio-computer/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">生物計算機</a>
+  </li>
+  <ul>
+    <li class="collapse " id="portalitlds20250816_bio-computer">
+      
+      
+      
+    </li>
+  </ul>
+</ul>
+
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20250805_past" href="/portal/itlds/2025/0805_past/">別走在過去的延長線上</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20250625_r3" href="/portal/itlds/2025/0625_r3/">R3 Model</a>
+        
+      
+      
+      
+        
+          
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/portal/itlds/2025/0531_never-let-me-go/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">別讓我走</a>
+  </li>
+  <ul>
+    <li class="collapse " id="portalitlds20250531_never-let-me-go">
+      
+      
+      
+    </li>
+  </ul>
+</ul>
+
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20250530_resentment" href="/portal/itlds/2025/0530_resentment/">恩怨</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20250525_value" href="/portal/itlds/2025/0525_value/">價值的源頭</a>
+        
+      
+      
+      
+        
+          
+          
+          <a class="td-sidebar-link td-sidebar-link__page " id="m-portalitlds20250523_forest" href="/portal/itlds/2025/0523_forest/">走出森林</a>
         
       
       
@@ -481,6 +595,31 @@
   <ul>
     <li class="collapse " id="portalitlds2023">
       
+      
+      
+      
+        
+          
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/portal/itlds/2023/0527_package/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">包包</a>
+  </li>
+  <ul>
+    <li class="collapse " id="portalitlds20230527_package">
+      
+      
+      
+    </li>
+  </ul>
+</ul>
+
+        
       
       
       
@@ -1054,6 +1193,14 @@
             
             
             
+            <a href="/portal/%20/tags/c4-model" class="tagcloud-item" style="font-size: 1rem;">
+                c4 model<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
             <a href="/portal/%20/tags/chord-voicing" class="tagcloud-item" style="font-size: 1rem;">
                 chord voicing<sup>1</sup>
             </a>
@@ -1198,6 +1345,14 @@
             
             
             
+            <a href="/portal/%20/tags/life" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
+                life<sup>3</sup>
+            </a>
+        
+            
+            
+            
+            
             <a href="/portal/%20/tags/lsb" class="tagcloud-item" style="font-size: 1rem;">
                 lsb<sup>1</sup>
             </a>
@@ -1246,6 +1401,14 @@
             
             
             
+            <a href="/portal/%20/tags/murmur" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                murmur<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
             <a href="/portal/%20/tags/musical-tone" class="tagcloud-item" style="font-size: 1rem;">
                 musical tone<sup>1</sup>
             </a>
@@ -1278,8 +1441,8 @@
             
             
             
-            <a href="/portal/%20/tags/personal" class="tagcloud-item" style="font-size: 1.277653855791711rem;">
-                personal<sup>8</sup>
+            <a href="/portal/%20/tags/personal" class="tagcloud-item" style="font-size: 1.2598243062283774rem;">
+                personal<sup>7</sup>
             </a>
         
             
@@ -1574,8 +1737,8 @@
             
             
             
-            <a href="/portal/%20/tags/%E5%B7%A5%E4%BD%9C" class="tagcloud-item" style="font-size: 1.1466903165368338rem;">
-                工作<sup>3</sup>
+            <a href="/portal/%20/tags/%E5%B7%A5%E4%BD%9C" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                工作<sup>2</sup>
             </a>
         
             
@@ -1584,6 +1747,14 @@
             
             <a href="/portal/%20/tags/%E5%BB%A3%E6%92%AD" class="tagcloud-item" style="font-size: 1rem;">
                 廣播<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E6%83%B3%E5%83%8F" class="tagcloud-item" style="font-size: 1rem;">
+                想像<sup>1</sup>
             </a>
         
             
@@ -1846,8 +2017,24 @@
             
             
             
+            <a href="/portal/%20/tags/%E8%AE%93%E5%AF%AB%E4%BD%9C%E6%88%90%E7%82%BA%E8%87%AA%E6%88%91%E7%B2%BE%E9%80%B2%E7%9A%84%E6%AD%A6%E5%99%A8" class="tagcloud-item" style="font-size: 1rem;">
+                讓寫作成為自我精進的武器<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
             <a href="/portal/%20/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
                 軟體工程<sup>2</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA" class="tagcloud-item" style="font-size: 1rem;">
+                進擊的巨人<sup>1</sup>
             </a>
         
             
@@ -1878,8 +2065,8 @@
             
             
             
-            <a href="/portal/%20/tags/%E9%96%B1%E8%AE%80" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
-                閱讀<sup>2</sup>
+            <a href="/portal/%20/tags/%E9%96%B1%E8%AE%80" class="tagcloud-item" style="font-size: 1.1851025705278073rem;">
+                閱讀<sup>4</sup>
             </a>
         
             
@@ -1896,6 +2083,14 @@
             
             <a href="/portal/%20/tags/%E9%9A%A8%E6%A9%9F%E8%AB%96" class="tagcloud-item" style="font-size: 1rem;">
                 隨機論<sup>1</sup>
+            </a>
+        
+            
+            
+            
+            
+            <a href="/portal/%20/tags/%E9%9B%BB%E5%BD%B1" class="tagcloud-item" style="font-size: 1.0925512852639037rem;">
+                電影<sup>2</sup>
             </a>
         
             
@@ -1994,46 +2189,46 @@
     
 	
 	<p>source: <a href="https://www.facebook.com/rick.kyhwang/posts/10210901702257970">https://www.facebook.com/rick.kyhwang/posts/10210901702257970</a></p>
-<p>開一家店，賣滷肉飯 + 貢丸湯，
-一個人，獨立服務客人，
+<p>開一家店，賣滷肉飯 + 貢丸湯，<br>
+一個人，獨立服務客人，<br>
 這是 #單體  (#Monolithic)。</p>
-<p>開一家店，讓別人加盟一起賣滷肉飯，
+<p>開一家店，讓別人加盟一起賣滷肉飯，<br>
 這是 #可擴展 (#Scalable) 。</p>
-<p>僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA)
-擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)，
-門口限制進入的數量，這叫做限流 (#RateLimit)，
-客人進來平均分配座位，這叫負載平衡 (#LoadBalancer)
+<p>僱兩個人一起煮菜，這叫 #高可用 (#HighAvailable, HA)<br>
+擺小菜讓客人等待時可以吃，這叫做緩存 (#Cache)，<br>
+門口限制進入的數量，這叫做限流 (#RateLimit)，<br>
+客人進來平均分配座位，這叫負載平衡 (#LoadBalancer)<br>
 這家店只有一個入口，這是 #APIGateway。</p>
-<p>開一家店，
-同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡，
-他們有個共用的購買路線、結帳流程、
-統一的招牌格式、收盤的程序 &hellip;.
+<p>開一家店，<br>
+同時賣滷肉飯、肉圓、雞排、蚵仔煎、燒烤、漢堡，<br>
+他們有個共用的購買路線、結帳流程、<br>
+統一的招牌格式、收盤的程序 &hellip;.<br>
 這是 #微服務 (Microservices)。</p>
-<p>為了讓每個攤位快速進駐，
-用了一套同規格的桌子，這叫 #容器。
-可以讓大家快速進駐時，可以方便隨時調整
-所以用了動態安排的方法，這叫做編排 (#Orchestration)
-每個攤位都可以限流、知道攤位狀況，
+<p>為了讓每個攤位快速進駐，<br>
+用了一套同規格的桌子，這叫 #容器。<br>
+可以讓大家快速進駐時，可以方便隨時調整<br>
+所以用了動態安排的方法，這叫做編排 (#Orchestration)<br>
+每個攤位都可以限流、知道攤位狀況，<br>
 這叫做 #ServiceMesh</p>
-<p>一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding)
-客人點一顆肉圓，準備兩份，這叫做副本 (#Replication)
+<p>一顆肉圓，分別放在兩個盤子，這叫做分片 (#Sharding)<br>
+客人點一顆肉圓，準備兩份，這叫做副本 (#Replication)<br>
 一些盤子分別散在幾張桌子，這叫做分區 (#Partition) &hellip;</p>
-<p>用兩個爐子，一個蒸肉圓，一個保溫。
+<p>用兩個爐子，一個蒸肉圓，一個保溫。<br>
 這叫做 #MasterSlave。</p>
-<p>開兩家店，一家營業，
-另一家買一樣的設備，備用，
+<p>開兩家店，一家營業，<br>
+另一家買一樣的設備，備用，<br>
 這叫做 #異地備援 的 #ActiveStandby Mode (AS Mode)</p>
-<p>開一家店，
-不用雇人，擺幾台機器抓娃娃，就可以自己賺錢了，
+<p>開一家店，<br>
+不用雇人，擺幾台機器抓娃娃，就可以自己賺錢了，<br>
 這是 #Serverless &hellip;.</p>
-<p>弄一個賣場，裡面啥都可以擺，
-有倉庫，也有動線，有可以客製化的結帳台，
-有娃娃機、各式各樣的桌子、
+<p>弄一個賣場，裡面啥都可以擺，<br>
+有倉庫，也有動線，有可以客製化的結帳台，<br>
+有娃娃機、各式各樣的桌子、<br>
 這叫做 #雲服務。。。</p>
-<p>把上面的東西全部擺在一體育館，
+<p>把上面的東西全部擺在一體育館，<br>
 稱為 單體分散微服務 Serverless 架構 (誤）</p>
-<p>店還沒開成，大家吵成一團，
-一個人出來說：我們一起努力把店開成吧～～
+<p>店還沒開成，大家吵成一團，<br>
+一個人出來說：我們一起努力把店開成吧～～<br>
 這個人是 Agile Coach</p>
 <p>&hellip;.. 我掰不下去了。。。。</p>
 

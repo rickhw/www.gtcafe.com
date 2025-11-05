@@ -997,9 +997,9 @@
 &lt;h2 id=&#34;同音異名&#34;&gt;同音異名&lt;/h2&gt;
 &lt;p&gt;只要提到音程概念，有時候就會遇到這樣的問題:&lt;/p&gt;
 &lt;p&gt;我: &amp;ldquo;B 升半音是啥?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;同學 A: &amp;ldquo;升 B 阿&amp;rdquo;
+&lt;p&gt;同學 A: &amp;ldquo;升 B 阿&amp;rdquo;&lt;br&gt;
 同學 B: &amp;ldquo;不對，就是 C 啦!!~~&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;同學 A 的回答錯嗎?
+&lt;p&gt;同學 A 的回答錯嗎?&lt;br&gt;
 當然也對，只是是否適切而已.&lt;/p&gt;
 &lt;p&gt;問題也常會換成: &amp;ldquo;E 升半音是啥? &amp;quot;  或者 &amp;ldquo;F 降半音是啥?&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;前述的例子中已經出現 Cb 這樣的音符了，它的意義從上述調號和臨時記號的關係應該不難理解.&lt;/p&gt;
@@ -1305,7 +1305,7 @@
 &lt;li&gt;G11: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;B&lt;/strong&gt; A C = G B D F A C (1、3、5、7、9、11[4]) =&amp;gt; G9sus4&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;G13 大部分會用 G6 or G6/9 來代理，但是 G6/9 不是 Extended Chord，不具備屬七的聲響，所以這邊先不談.&lt;/p&gt;
-&lt;p&gt;G7sus2 中的 D F A 剛好是 Dm，所以又可以是 G7sus2 =&amp;gt; Dm/G.
+&lt;p&gt;G7sus2 中的 D F A 剛好是 Dm，所以又可以是 G7sus2 =&amp;gt; Dm/G.&lt;br&gt;
 G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm7/G，或者 G9sus4&lt;/p&gt;
 &lt;p&gt;所以 G7 在歌曲中常常會被代換成 G7sus2，G7sus4，G9sus4，Dm/G，Dm7/G.&lt;/p&gt;
 &lt;p&gt;這也是我們經常在彈到 Dm - G 這樣的和弦進行時，G 就有很多可以代換，可以讓 Dm - G 這樣的進行聽起來更家的緊密，更 smooth.&lt;/p&gt;
@@ -1489,7 +1489,7 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
 &lt;li&gt;&lt;code&gt;唱名&lt;/code&gt;：小調唱名參考自大調，經常與數字級連用。小調常使用固定唱名，但也有人會使用首調唱名。用哪一種不是很重要，只要能夠掌握音程的概念，同時能夠和合作的樂手溝通就可以。更深入的說明請參閱 關於唱名、固定唱名？還是首調唱名？。&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;小調的終止&lt;/code&gt;：小調的五級因為沒有明顯的導音效果，所以參考大調把第七個音符 b7 改成 7 而形成和聲小調 (Harmonic Scale)。&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;和聲代換理論&lt;/code&gt;：大調的和弦代換理論技巧會被拿到小調使用：像是 ii-Ⅴ-I 進行，或者 Secondary Dominant (次屬和弦), TSD和聲代換 等技巧，在小調也會適用。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;調式內轉&lt;/code&gt;：大小調的順階可以彼此借用，這就是音樂家玩出來的理論技巧 - 調式內轉 (Modal Interchange)。詳細介紹請參閱 調式內轉 (Modal Interchange)
+&lt;li&gt;&lt;code&gt;調式內轉&lt;/code&gt;：大小調的順階可以彼此借用，這就是音樂家玩出來的理論技巧 - 調式內轉 (Modal Interchange)。詳細介紹請參閱 調式內轉 (Modal Interchange)&lt;br&gt;
 上面描述的東西，簡單說，在大小調裡很常見，可以想見兩者的關係是相當密切的，很多想法是可以相互借用的，很多音樂家就以這樣的概念做很多應用。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;關係大小調&#34;&gt;關係大小調&lt;/h2&gt;

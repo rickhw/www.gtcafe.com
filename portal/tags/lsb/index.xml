@@ -107,7 +107,7 @@
 &lt;li&gt;先選定 Event Type：
 &lt;ul&gt;
 &lt;li&gt;Program Change: 就是選定那一個音色的值，Logic Pro 預設會顯示 GM 音色列表。&lt;/li&gt;
-&lt;li&gt;Control Event: 兩個分別選擇 &lt;code&gt;Bank MSB&lt;/code&gt; 與 &lt;code&gt;Bank LSB&lt;/code&gt;。注意 LSB 選擇 32 (選單中沒有編號的)，如下圖：
+&lt;li&gt;Control Event: 兩個分別選擇 &lt;code&gt;Bank MSB&lt;/code&gt; 與 &lt;code&gt;Bank LSB&lt;/code&gt;。注意 LSB 選擇 32 (選單中沒有編號的)，如下圖：&lt;br&gt;
 &lt;img src=&#34;logic-pro-bank-select.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

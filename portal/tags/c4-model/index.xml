@@ -1,0 +1,70 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – C4 Model</title>
+    <link>https://www.gtcafe.com/portal/tags/c4-model/</link>
+    <description>Recent content in C4 Model on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/tags/c4-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: R3 Model</title>
+      <link>https://www.gtcafe.com/portal/itlds/2025/0625_r3/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2025/0625_r3/</guid>
+      <description>
+        
+        
+        &lt;p&gt;紀錄跟朋友聊到系統架構的想法, 然後跟 C4 model 作比較.&lt;/p&gt;
+&lt;p&gt;我的觀點一直都是跟 #組織職責 對應的概念，也就是要談 #邊界 與 R&amp;amp;R (Role &amp;amp; Responsibility), 或者把 #康威定律 偷偷塞進去。無關於用什麼方式表達架構 (ex: C4 model).&lt;/p&gt;
+&lt;p&gt;我的邏輯源頭 OOP/D 的概念, interface &amp;amp; implementation, 封裝. 而 OOP 的 Class or Interface 我就會直接解讀成 R&amp;amp;R, 也就是誰 (Role) 應該做什麼 (Responsibility).&lt;/p&gt;
+&lt;p&gt;跟 C4 model 比較起來, 我的概念只有三層: 1) High Level View; 2) Logical View; 3) Physical View, 其實我這三層概念跟 C4 model 比起來差不多是前面三層: context, container, component.&lt;/p&gt;
+&lt;h2 id=&#34;high-level-view&#34;&gt;High Level View&lt;/h2&gt;
+&lt;p&gt;C4 的第一層 Context 跟我的 High level view 概念基本上 87 成一樣, 給非業務單位/老闆看的, 有定義使用者, 以及內外部系統依賴的概念. 我的表達則多了一層 ACL (Access Control), 表達各個系統之間的關係的操作性, 設計緣由則是 OOP 的 public / protected / private 這三個關鍵字, 代表可存取性與依賴性.&lt;/p&gt;
+&lt;h2 id=&#34;logical-view&#34;&gt;Logical View&lt;/h2&gt;
+&lt;p&gt;C4 model 第二層稱為 Container, 我稱為 Logical View, 背後核心是展開系統的職責, 也就是 R&amp;amp;R. 常見的 Role 有 Web, Console, Database, Cache, Queue … etc. 每個 Role 之間同樣有依賴與 ACL (還是在描述 OOP 封裝的特性). 跟 C4 model 不一樣, 我設計的這個 view 會搭配 User Story / Scenario 一起看, 透過 Story or Scenario 來描述 Data Flow. 我的定義包含資料流的 #密度 (吞吐量) / #溫度 (頻率), 用來表述操作頻率與系統的重要性.&lt;/p&gt;
+&lt;p&gt;這樣設計的概念也有引用 敏捷經常討論的 Scrum Team, 一個 Scrum Team 要有 各種角色 (Roles), 像是 PO / Dev / QA / Ops / Designer … etc; 或者一個樂團要有歌手 / 吉他手 / 鼓手 / 貝士手 / 鍵盤手 … etc. 所以一個系統角色很多或很少, 代表 &amp;ldquo;架構&amp;rdquo; 的複雜度.&lt;/p&gt;
+&lt;p&gt;#Role 這個詞整個核心概念, 背後帶出的就是 Responsiblity, 在系統裡應該做什麼. 經常有人會討論 API Gateway, Load Balancer, Reverse Proxy 之間的差異? 這背後本質就是在討論 R&amp;amp;R. 看起來技術很像, 實際上在架構裡 (組織裡) 的 R&amp;amp;R 是不一樣的.&lt;/p&gt;
+&lt;p&gt;這個 Logical View (空間) 通常也是對內對外都可以拿來直接溝通討論使用, 需要了解技術的人可以看, 不太懂技術的人也可以看, 搭配 User Story, User Scenario (時間) 看.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這層的重點不是實作, 而是要對齊目標, 確認大家對於系統 / 業務的理解是一致的.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;physical-view&#34;&gt;Physical View&lt;/h2&gt;
+&lt;p&gt;C4 的第三層稱為 Component ，他這層跟我的 Physical View 概念就全然不一樣了. 我的說法是延續 Logical View, 往下深入已 Process 為概念展開, 可以對應到 K8s 的 POD 與 container 的想法, 簡言之就是很多人常說的 #部署架構 (Deployment Architecture). 也就是在 Logical View 中的每個角色, 實際上 runtime 都會有 N 個以上的副本, 基於這樣的考慮展開的架構.&lt;/p&gt;
+&lt;p&gt;這個結構 R&amp;amp;R 已經很清楚了, 只是可能會有多個副本. 就像 Scrum Team 裡可能會有多個 Dev or 多個 QA (這是癡心妄想?) 的概念. 同樣的會套用各種 ACL, 同時對應到更實際的成本問題.&lt;/p&gt;
+&lt;p&gt;Physical View 除了副本的概念, 更直接的就是談實作 / Solution, 例如 API Server 這個角色用 node.js/express, python/fastAPI, java/springboot … etc; database 則是用 MySQL/PgSQL, HA 作法; Queue 是 RabbitMQ/SQS/NATS …&lt;/p&gt;
+&lt;p&gt;這層更多是為了 Operation 做準備, 所有 O11y 都需要有這一層的資訊才能有效地展開, 否則 metric / logging / tracing 都會有遺漏. O11y 這個目的也是當時我設計這個三階層的動機之一.&lt;/p&gt;
+&lt;h2 id=&#34;code&#34;&gt;Code?&lt;/h2&gt;
+&lt;p&gt;C4 model 還有第四層 Code, 我的設計沒有這一層. 當時我設計的時空背景是以 infra 的角度切入, 所以沒有針對 Code Level 做啥表示, 但順著上面三層的設計, 基本上搭配 sequence diagram / state machine 其實就很夠了.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;我沒有為我的方法取啥炫砲/簡潔的名稱, 當時 (2017?) 發想的起點都是從 OOP / 封裝切入, c4 model 是我這個 model run 好幾年之後, 套了數十個系統架構, 才知道有的東西.&lt;br&gt;
+跟個風就叫 R3 model 好了 XDDD&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;整個概念有整理在我的書裡, 三階有個名稱:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;High Level View;&lt;/li&gt;
+&lt;li&gt;Service Definition;&lt;/li&gt;
+&lt;li&gt;Go Live&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這概念應該只剩下我自己在用 XD&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2025/06/25&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid03Txi2nWJrULFaYzoWLgSZpWeY63WZ96nys2Fv1E72gGJbJuAonMBPG6EuaWV4mkfl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

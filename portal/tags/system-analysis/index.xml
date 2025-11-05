@@ -24,15 +24,15 @@
       <description>
         
         
-        &lt;p&gt;跟朋友聊到 軟體設計與開發的流程
+        &lt;p&gt;跟朋友聊到 軟體設計與開發的流程&lt;br&gt;
 log 一些口述的東西&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;原則：&lt;/p&gt;
-&lt;p&gt;規格只要有 60 分就可以開工了
+&lt;p&gt;規格只要有 60 分就可以開工了&lt;br&gt;
 細節是討論出來的。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;規格是 requirement &amp;amp; system analysis, system design 的產出&lt;/p&gt;
-&lt;p&gt;需求分析會展開:
+&lt;p&gt;需求分析會展開:&lt;br&gt;
 0. 依照 需求訪談, 分析需求的種類, 目的, 預期結論&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;使用者定義: 哪些角色 (role)&lt;/li&gt;
@@ -57,24 +57,24 @@ log 一些口述的東西&lt;/p&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;案例：&lt;/p&gt;
-&lt;p&gt;之前設計底層的技術規格 (類似 RFC)
-系統分析與設計大概 30% 的時候
-就會寫 Pseudo code
-重點是讓真的開發的工程師快速理解抽象概念
+&lt;p&gt;之前設計底層的技術規格 (類似 RFC)&lt;br&gt;
+系統分析與設計大概 30% 的時候&lt;br&gt;
+就會寫 Pseudo code&lt;br&gt;
+重點是讓真的開發的工程師快速理解抽象概念&lt;br&gt;
 (分析與設計是同步進行的)&lt;/p&gt;
-&lt;p&gt;規格大概 60%，大方向確立
-就會讓工程師開始 PoC
-然後核心的 User Stories 為主
+&lt;p&gt;規格大概 60%，大方向確立&lt;br&gt;
+就會讓工程師開始 PoC&lt;br&gt;
+然後核心的 User Stories 為主&lt;br&gt;
 跟 TA / Stakeholder Demo&lt;/p&gt;
-&lt;p&gt;沒啥問題後
-才開始寫規格的細節
-工程師實作過程
-也會跟我討論細節
-例如有一些砸揍演算法應該用哪一個？
-這種東西如果不是核心的規格
+&lt;p&gt;沒啥問題後&lt;br&gt;
+才開始寫規格的細節&lt;br&gt;
+工程師實作過程&lt;br&gt;
+也會跟我討論細節&lt;br&gt;
+例如有一些砸揍演算法應該用哪一個？&lt;br&gt;
+這種東西如果不是核心的規格&lt;br&gt;
 就會直接讓工程師去發揮&lt;/p&gt;
-&lt;p&gt;最後整個規格差不多 80%
-實作也都完成核心的 User Stories
+&lt;p&gt;最後整個規格差不多 80%&lt;br&gt;
+實作也都完成核心的 User Stories&lt;br&gt;
 基本上已經上線了&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
@@ -95,9 +95,9 @@ log 一些口述的東西&lt;/p&gt;
       <description>
         
         
-        &lt;p&gt;繼續上一篇 [1] 軟體設計與開發流程，
-提到的需求分析
-紀錄這個比較生活中的案例
+        &lt;p&gt;繼續上一篇 [1] 軟體設計與開發流程，&lt;br&gt;
+提到的需求分析&lt;br&gt;
+紀錄這個比較生活中的案例&lt;br&gt;
 也是跟朋友會聊到的&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;需求分析案例&lt;/p&gt;
@@ -112,13 +112,13 @@ log 一些口述的東西&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;大概就這樣。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;需求分析做什麼？
+&lt;p&gt;需求分析做什麼？&lt;br&gt;
 至少問你的 Stakeholder 這些問題，&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;這個需求的 #使用者 有誰？&lt;/li&gt;
 &lt;li&gt;有哪些 #故事&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;使用者可能會有你, 家人, 女友/男友,
+&lt;p&gt;使用者可能會有你, 家人, 女友/男友,&lt;br&gt;
 老婆/先生, 老媽/老爸, 隔壁的王杯杯?&lt;/p&gt;
 &lt;p&gt;故事有幾個角度：&lt;/p&gt;
 &lt;ol&gt;
@@ -127,19 +127,19 @@ log 一些口述的東西&lt;/p&gt;
 &lt;li&gt;酒店住啥？五星級？民宿？還是露宿街頭？&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;把 User x Story 就形成 #使用者故事矩陣
-例如，分析出來的 User 一共有 5 種 (Role)
-Story 有 10 個，
-邏輯上的 User Story 排列組合就有 5 x 10 = 50 個
+&lt;p&gt;把 User x Story 就形成 #使用者故事矩陣&lt;br&gt;
+例如，分析出來的 User 一共有 5 種 (Role)&lt;br&gt;
+Story 有 10 個，&lt;br&gt;
+邏輯上的 User Story 排列組合就有 5 x 10 = 50 個&lt;br&gt;
 但 這 50 個有很明顯有很多不合邏輯的&lt;/p&gt;
-&lt;p&gt;例如，使用者應該會一起，不會分開
-不會出現你坐飛機，你爸做船過去日本
+&lt;p&gt;例如，使用者應該會一起，不會分開&lt;br&gt;
+不會出現你坐飛機，你爸做船過去日本&lt;br&gt;
 更不會出現，你去北海道，你老婆去沖繩的 ..&lt;/p&gt;
-&lt;p&gt;User Story 是否合理，
+&lt;p&gt;User Story 是否合理，&lt;br&gt;
 由 PO vs Stakeholder 討論出來&lt;/p&gt;
-&lt;p&gt;這個矩陣會呈現所有的排列組合
-合理與不合理
-找出最重要的三個 (Happy Paths)。
+&lt;p&gt;這個矩陣會呈現所有的排列組合&lt;br&gt;
+合理與不合理&lt;br&gt;
+找出最重要的三個 (Happy Paths)。&lt;br&gt;
 剩下的，未來遇到再做就好。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;找出 #使用者矩陣最核心的故事，假設有以下三個：&lt;/p&gt;
@@ -150,16 +150,16 @@ Story 有 10 個，
 &lt;/ol&gt;
 &lt;p&gt;有了這三個，那大家就來專注討論系統分析吧。。。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;需求分析的重點，就是搞清楚 User 有哪些人？
+&lt;p&gt;需求分析的重點，就是搞清楚 User 有哪些人？&lt;br&gt;
 Story 有哪些，這些交成出來故事的合理性？以及重要性&lt;/p&gt;
 &lt;p&gt;需求分析不重要？&lt;/p&gt;
-&lt;p&gt;分析得好不好，看 User / Story 定義的大概會有個譜
+&lt;p&gt;分析得好不好，看 User / Story 定義的大概會有個譜&lt;br&gt;
 有可以知道範圍大小&lt;/p&gt;
-&lt;p&gt;—
-「User 常常搞不清楚」在中文語意上常常是被忽略的
-也就 #主詞 中文語意的盲點
-所以只要用中文在溝通需求
-很容易就會忘記 “User” 到底是誰
+&lt;p&gt;—&lt;br&gt;
+「User 常常搞不清楚」在中文語意上常常是被忽略的&lt;br&gt;
+也就 #主詞 中文語意的盲點&lt;br&gt;
+所以只要用中文在溝通需求&lt;br&gt;
+很容易就會忘記 “User” 到底是誰&lt;br&gt;
 是什麼角色 (Role)&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;

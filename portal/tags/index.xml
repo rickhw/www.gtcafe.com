@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GTCafe Studio – ★★★</title>
+    <title>GTCafe Studio – ★★★★★</title>
     <link>https://www.gtcafe.com/portal/tags/</link>
-    <description>Recent content in ★★★ on GTCafe Studio</description>
+    <description>Recent content in ★★★★★ on GTCafe Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Oct 2010 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://www.gtcafe.com/portal/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,1853 +16,492 @@
     
     
     <item>
-      <title>Rickmidi: 怎樣的程度才適合組樂團？</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/band/getting-started-play-as-band/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Rickmidi: 大調音階 (Major Scale)</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/theory/major-scale/</link>
+      <pubDate>Sat, 16 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gtcafe.com/portal/rickmidi/band/getting-started-play-as-band/</guid>
+      <guid>https://www.gtcafe.com/portal/rickmidi/theory/major-scale/</guid>
       <description>
         
         
-        &lt;p&gt;這種東西會有點主觀，所以我個人大概分成兩個目的好了：娛樂性和職業性，兩個的層次界定大概是這樣：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;娛樂：大家能夠開心玩，沒有壓力，介於 KTV 和樂團之間&lt;/li&gt;
-&lt;li&gt;職業：用樂團賺取利潤，重點在於經營&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;針對這兩種的層級，我下了一些定義，從技術層面 (演奏層級)，編曲層次兩個部分，這兩個層級都會面對這些問題，只是比重、還有深度的問題：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;演奏技術層面&lt;/code&gt;：技術就是樂器的駕馭能力。這種東西和每個人的啟蒙老師、個人處世態度有很大的關係。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;編曲層面&lt;/code&gt;：嚴格講也不算編曲，在樂團裡，簡單說就是 &lt;code&gt;工作分配&lt;/code&gt;。這關係樂手本身的對音樂的執著與認知程度。能聽到多少、能聽到啥層面的問題。聽不到細節、聽不到關係，就等於 &lt;code&gt;跑龍套&lt;/code&gt;。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;跑龍套&lt;/code&gt;：我個人慣用的名詞（可能也會出現在其他行業，Coder  會出現的就是 Design Pattern）。在音樂領域裡，就是把 &lt;strong&gt;和弦&lt;/strong&gt; 和 &lt;strong&gt;節拍&lt;/strong&gt; 彈對，叫做跑龍套。其實就是六十分的練習層次。很多時候，大部分的『團』是連這個層次也達不到的，不是個人的問題，是整個團的問題。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;娛樂性樂團&#34;&gt;娛樂性樂團&lt;/h2&gt;
-&lt;p&gt;如果是上班族，但是還是期望能個熱血，那麼最好還是要有這樣的基本的能力，玩起來才不會太吃力、無力。技術層次 分成和弦、旋律兩個部分。&lt;/p&gt;
-&lt;h3 id=&#34;演奏技術層面&#34;&gt;演奏技術層面&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;和弦 / 和聲&lt;/code&gt;: 至少 C 大調 (A 小調) 和 G 大調 (E 小調) 的順階和弦要熟練, 一個和弦有三種以上的按法。這裡提的不管是吉他還是鍵盤都要具備這樣的能力。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;旋律 / 音階&lt;/code&gt;: 跟和弦一樣，至少 C 大調 (A 小調) 和 G 大調 (E 小調) 音階要熟練，要想都太慢了。跟鍵盤打字一樣。同上，不管是鍵盤還是吉他都一樣，要有『即時』反應的能力，否則都會吃力。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;編曲層面&#34;&gt;編曲層面&lt;/h3&gt;
-&lt;p&gt;以上班族的角度來看，談編曲這件事情跟爆肝沒兩樣，所以不要太要求這部份。最多能要求的就是照本宣科：也就是照著譜彈，或者能夠跑龍套，也是照彈就好。只要歌曲的主要結構能夠掌握就有 60 分了。&lt;/p&gt;
-&lt;h2 id=&#34;職業取向樂團&#34;&gt;職業取向樂團&lt;/h2&gt;
-&lt;p&gt;以下是我個人覺得必備的，不管是樂手還是歌手，而是整團的人都必須要有這樣的能力；&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;一首歌聽完之後，能知道基本配置：
-&lt;ul&gt;
-&lt;li&gt;有用到哪一些樂器，哪一些音色&lt;/li&gt;
-&lt;li&gt;分的出來 Pad 有那些 (不一定是 String 而已)&lt;/li&gt;
-&lt;li&gt;基本的節奏形態&lt;/li&gt;
-&lt;li&gt;Key / 轉調&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;歌曲有哪些段落，配器如何。&lt;/li&gt;
-&lt;li&gt;哪些配器可以省略，哪些音色可以用什麼取代&lt;/li&gt;
-&lt;li&gt;曲風方向有哪些 (一首歌可能混合了很多種曲風)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;這部份就不像娛樂性那麼簡單了，我比較著重各個樂手專業層次的問題、歌曲整體性的掌握程度、取與捨。&lt;/p&gt;
-&lt;h3 id=&#34;技術配器層次&#34;&gt;技術、配器層次&lt;/h3&gt;
-&lt;p&gt;不管是吉他、Bass、鍵盤手，24 個大小調是一定要熟的。需要想、要翻譜都是不合格的。&lt;/p&gt;
-&lt;p&gt;歌曲聽過一首歌兩次，能夠知道段落、和弦進行、音色、編曲配器比重。知道基本律動 (Groove) 是啥、插音 (Fill)、過門 (TR)、襯底 (Pad)、&amp;hellip;. 等。有哪一些聲部 (Channel) 可以省略、什麼樣的聲部最好不要省略。&lt;/p&gt;
-&lt;p&gt;聽過之後，知道原曲所需要的和樂團編制的距離，應該怎麼取捨、怎麼調整。可以用什麼方法補充不足的地方，不讓原曲失去味道。&lt;/p&gt;
-&lt;p&gt;有興趣的人聽聽我編的 『One Night in 北京』和原曲的差異。我編的重點在於：能夠現場演奏，而且不失原味。能夠『現場演奏』必須考量所有樂手的演奏能力、設備需求、現場配套措施等，這部份可簡單，可以複雜。&lt;/p&gt;
-&lt;h3 id=&#34;vocal-主唱&#34;&gt;Vocal 主唱&lt;/h3&gt;
-&lt;p&gt;如 &amp;ldquo;樂團的主唱&amp;rdquo; 一文提到的，不見得要會彈木吉他，但是一定要會讓樂手知道自己的音域，還有就是會算拍子和知道段落。另外就是舞台魅力、帶氣氛、掌握表演節奏、時間，知道樂手狀況：像是吉他 or 鍵盤聲音突然會不見、鼓手小鼓歪了、鼓棒斷了、大鼓位置跑掉了。&lt;/p&gt;
-&lt;h2 id=&#34;現實與理想的距離&#34;&gt;現實與理想的距離&lt;/h2&gt;
-&lt;p&gt;基本的建議是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;不要有一次就想做到完美的想法&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;實際上也不太可能，萬丈高樓平地起，要知道 &lt;code&gt;取跟捨&lt;/code&gt; 的拿捏。&lt;/p&gt;
-&lt;p&gt;大部分 Cover 歌曲，特別要做的是流行歌曲，標準編制的樂團能夠做到六、七成像就算是很不錯的了。因為大部分流行歌曲的編曲並不是樂團導向，也就是編曲過程時，不太會考慮現場演奏的問題，換言之編曲者可能會用一個管弦樂團來編（五、六十軌）、或者用了六把吉他疊出音牆 &amp;hellip; 等，也可能會用一個小編制的弦樂團 (4 人)、或者五把吉他堆疊出來的畫面，或者數十種以上不同音色的鍵盤音色 &amp;hellip;. 等。&lt;/p&gt;
-&lt;p&gt;留意一下一些有現場樂團的電視節目，或者預算夠多的演唱會，他們做出來的歌曲通常會接近原曲的七成以上，但是現場編制通常也不會太簡單。&lt;/p&gt;
-&lt;p&gt;像是歌唱選秀節目，因為收視率不錯；或者預算夠的演唱會，能夠請足夠預請樂師，所以常看到的編製會是這樣：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;節奏組：一位鼓手，同時具備 Looper Machine、一位打擊樂手，負責 Percussion 部分&lt;/li&gt;
-&lt;li&gt;兩組鍵盤手以上，兩位現場各自會有四台以上的 Keyboard，或者 Looper Machine (iPad or Laptop)，工作分配大概會是：
-&lt;ul&gt;
-&lt;li&gt;一個負責鋼琴伴奏 以及其合成音色演奏&lt;/li&gt;
-&lt;li&gt;另一位專注在負責襯底 (Pad)，還有音效、Looper&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;兩位吉他手以上，他們也分別會準備二～三把吉他，依照不同需求做準備，常見的可能是：
-&lt;ul&gt;
-&lt;li&gt;搖滾歌曲：這就一般樂團最擅長，兩把 Rhythm、一把 Lead / Fill&lt;/li&gt;
-&lt;li&gt;慢歌：可能一位負責木吉他、另一位 Solo；或者有些歌需要尼龍吉他 (Bossa、Smooth Jazz) 等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;客串樂手：除了固定班底，有時候會需要一些客串的樂手幫忙，像是：Saxophone、古典吉他、木吉他、小提琴、小號、國樂器、Percussion &amp;hellip; 等客串樂手。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;所以假設以上是理想，需要那麼多東西，那麼多人，相對的就有對應的成本。而大部分的團只有：3- 5 個人，所以再說一次：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;要知道取跟捨&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;中國的音樂節目常常有大型編制，可以聽聽看這首曲子的重新編曲，如果你的團要做這樣的曲子，要怎麼安排？怎樣取捨？&lt;/p&gt;
-&lt;h3 id=&#34;先求有再求好&#34;&gt;先求有再求好&lt;/h3&gt;
-&lt;p&gt;先把 &lt;code&gt;大架構&lt;/code&gt; 都做對了，也就是『樂團總譜』提到的東西。然後再來處理 &lt;code&gt;細微的&lt;/code&gt;、&lt;code&gt;修飾的&lt;/code&gt; 部份。例如很炫炮的 Solo、很漂亮的裝飾音、過場音效、很有味道的 Loop &amp;hellip;.&lt;/p&gt;
-&lt;p&gt;細節靠的是個人的修行與努力，還有樂團持續精進的態度。&lt;/p&gt;
-&lt;h3 id=&#34;推薦入門歌曲&#34;&gt;推薦入門歌曲&lt;/h3&gt;
-&lt;p&gt;推薦一些是我個人覺得算是入門，第一次組團可以練的曲子，比較篇搖滾為主。這些歌曲我都彈過，有些也是我個人的教材範例。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Brain Adams - Summer of 69 (D-F)&lt;/li&gt;
-&lt;li&gt;Avril Lavigne - My Happy Ending (D)&lt;/li&gt;
-&lt;li&gt;Avril Lavigne - Basket Case (F#, Play: G)&lt;/li&gt;
-&lt;li&gt;Nickelback - Someday [D]&lt;/li&gt;
-&lt;li&gt;Zombie [Em]&lt;/li&gt;
-&lt;li&gt;Deep Purple - Smoke on the Water&lt;/li&gt;
-&lt;li&gt;五月天 - 尬車&lt;/li&gt;
-&lt;li&gt;海角七號 - 無樂不做&lt;/li&gt;
-&lt;li&gt;Bon Jovi - It&amp;rsquo;s My Life [Eb]&lt;/li&gt;
-&lt;li&gt;Bon Jovi - Have a Nice Day [E]&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/p&gt;
-&lt;p&gt;其實說那麼多，都是理想，我自己過去玩團那麼多年，也尚未有這樣的團隊，但是我一直在努力讓團員大家能一起變成那樣。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;樂團的經營&lt;/li&gt;
-&lt;li&gt;樂團的主唱&lt;/li&gt;
-&lt;li&gt;吉他音階學習引導&lt;/li&gt;
-&lt;li&gt;吉他基本功&lt;/li&gt;
-&lt;li&gt;樂團總譜&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2019/02/01: 初版&lt;/li&gt;
-&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2019/02/blog-post.html&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 吉他琶音練習 - 以 G 大調 251 為例</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-251-on-g-major/</link>
-      <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-251-on-g-major/</guid>
-      <description>
-        
-        
-        &lt;p&gt;延續 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-g-major7/&#34;&gt;上一篇&lt;/a&gt; 的筆記，這篇用和弦進行 251 繼續討論琶音 (Arpeggios) 練習的方法。&lt;/p&gt;
-&lt;p&gt;首先 G 大調的 251 和弦進行是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Am7 - D7 - Gmaj7&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;這篇筆記會專注在這三個和弦的琶音思考與練習。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;基本概念&#34;&gt;基本概念&lt;/h2&gt;
-&lt;p&gt;這三個和弦個別的琶音練習都可以參考上一篇的筆記，但是套用調性以及順階和弦時，要了解其基本關係，包含和弦本身的組成音、音程、屬性，在調性裡的級數、功能等資訊。&lt;/p&gt;
+        &lt;p&gt;&lt;code&gt;自然大調音階 (Natural Major Scale)&lt;/code&gt; 是西洋樂理的最基礎最根本，他定義了所有西洋音樂理論的參考依據，包含音符的名稱，也就是 &lt;code&gt;音名 (Notation Name or Note Name)&lt;/code&gt;，然後還有 &lt;code&gt;音程 (Interval)&lt;/code&gt;、&lt;code&gt;音程協和度 (Consonances)&lt;/code&gt;，然後依據音程協和度關係隨之衍生的 &lt;code&gt;和聲系統 (Harmony)&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;我們使用的音樂上相關的名詞，定義，還有很多重要的資訊，都是參考自然大調的定義，所以了解最基本的自然大調是學習音樂時必要的。自然大調音階口語上沒有特別說明，都是指 &lt;code&gt;自然大調&lt;/code&gt;，像是說 A 調，指的就是 A 大調或 A 自然大調; 口語上的 &lt;code&gt;自然音階&lt;/code&gt;、&lt;code&gt;大音階&lt;/code&gt; 也都是表示 &lt;code&gt;自然大調音階&lt;/code&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;c-大調音階的定義&#34;&gt;C 大調音階的定義&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;和弦名稱 &lt;!-- raw HTML omitted --&gt; (Chord Name)&lt;/th&gt;
-          &lt;th&gt;組成音 (Notation)&lt;/th&gt;
-          &lt;th&gt;和弦音程 (Interval)&lt;/th&gt;
-          &lt;th&gt;和弦屬性 (Chord Type)&lt;/th&gt;
-          &lt;th&gt;調性級數 (Level of G Major)&lt;/th&gt;
-          &lt;th&gt;中心調 (Degree of Key Center)&lt;/th&gt;
+          &lt;th&gt;音級 &lt;!-- raw HTML omitted --&gt;Scale Degree&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;I&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅱ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅲ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅳ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅴ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅵ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅶ&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;Am7&lt;/td&gt;
-          &lt;td&gt;A C E G&lt;/td&gt;
-          &lt;td&gt;P1 m3 P5 m7&lt;/td&gt;
-          &lt;td&gt;minor 7th&lt;/td&gt;
-          &lt;td&gt;ii&lt;/td&gt;
-          &lt;td&gt;2 4 6 1&lt;/td&gt;
+          &lt;td&gt;音名 &lt;!-- raw HTML omitted --&gt;Notation Name&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;C&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;D&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;E&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;G&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;B&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;D7&lt;/td&gt;
-          &lt;td&gt;D F# A C&lt;/td&gt;
-          &lt;td&gt;P1 M3 P5 m7&lt;/td&gt;
-          &lt;td&gt;Dominant 7&lt;/td&gt;
-          &lt;td&gt;Ⅴ&lt;/td&gt;
-          &lt;td&gt;5 7 2 4&lt;/td&gt;
+          &lt;td&gt;功能 &lt;!-- raw HTML omitted --&gt;Functional&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;主音 &lt;!-- raw HTML omitted --&gt; (Tonic)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;上主音 &lt;!-- raw HTML omitted --&gt; (Supertonic)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中音  &lt;!-- raw HTML omitted --&gt; (Midiant)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;下屬音 &lt;!-- raw HTML omitted --&gt; (Subdominant)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;屬音 &lt;!-- raw HTML omitted --&gt; (Dominat)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;下中音 &lt;!-- raw HTML omitted --&gt; (Submidiant)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;導音 &lt;!-- raw HTML omitted --&gt; (Leading Tone)&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;Gmaj7&lt;/td&gt;
-          &lt;td&gt;G B D F#&lt;/td&gt;
-          &lt;td&gt;P1 M3 P5 M7&lt;/td&gt;
-          &lt;td&gt;Major 7th&lt;/td&gt;
-          &lt;td&gt;I&lt;/td&gt;
-          &lt;td&gt;1 3 5 7&lt;/td&gt;
+          &lt;td&gt;簡譜 &lt;!-- raw HTML omitted --&gt;Numbered System&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;唱名 &lt;!-- raw HTML omitted --&gt;Solfege&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Do&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Re&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mi&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fa&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Sol&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;La&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ti&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;音程 &lt;!-- raw HTML omitted --&gt;Interval&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;完全一度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;大二度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;大三度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;完全四度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;完全五度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;大六度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;大七度&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;音程表示&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;P1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;M2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;M3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;P4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;P5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;M6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;M7&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;練習的基本精神一樣，先練習密集聲位琶音，走八度音以內的排列組合，然後再走遠距聲位琶音，也就是跨越八度音的組合。&lt;/p&gt;
-&lt;h3 id=&#34;思考一和弦的本質&#34;&gt;思考一：和弦的本質&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;組成音：知道和弦組成音，不用刻意記誦，重點在於理解與思考
-&lt;ul&gt;
-&lt;li&gt;練習過程中，同時思考，組成音之間可以有哪一些音，例如完全五度下一個可以是大六度，那音名是？大三度前一個大二度音名是？&lt;/li&gt;
-&lt;li&gt;從不同的級數出發，例如 Am7 從根音出發：A C E G，從三度音出發：C E G A，從五度音出發：E G A C &amp;hellip; 等&lt;/li&gt;
-&lt;li&gt;練習小和弦同時，可以走小音階，大和弦可以走大音階。然後反覆思考上一點。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;音程：聽音和音之間的相對距離感，這是非常重要的音感訓練，也是在『相對、絕對音感』探討的重要概念
-&lt;ul&gt;
-&lt;li&gt;練習目的：理解音和音之間的距離，例如看到 A E 、D A、G D 就知道是完全五度 (P5) 的關係，可以搭配五度圈理解。不用刻意去背，理解後，看久了自然會記住。熟悉幾個和弦後，其他和弦的理解與記憶就會更快。&lt;/li&gt;
-&lt;li&gt;練習音程時，同樣的要試看看密集聲位與遠距聲位的感覺。同樣的 D C 密集聲位和遠距聲位聽起來感覺是有差異的。&lt;/li&gt;
-&lt;li&gt;注意屬七和弦的三全音 (Triton)，聽起來感覺如何？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;和弦屬性：
-&lt;ul&gt;
-&lt;li&gt;和弦屬性會影響使用方法，特別是三度音、七度音的變化，會決定和弦的用法，進而影響延伸和弦、和弦代理等變化。和弦屬性的思路與學習，參考『和弦學習地圖』與『和弦基礎』做延伸。&lt;/li&gt;
-&lt;li&gt;思考大和弦、小和弦在不同調性的功能，本文用 G 大調的 251，Am7 是 G 大調的二級，但是也思考在其他調性裡的角色，思考時，可以參考順階和弦表。請不要用背的，而是要思考與理解，然後找歌曲應用他。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;思考二在調性裡的角色功能&#34;&gt;思考二：在調性裡的角色、功能&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;思考大範圍的概念，也就是調性級數關係。這些和弦放在調性裡，分別是的屬性是什麼？他們有啥功能？&lt;/li&gt;
-&lt;li&gt;和聲代換：可以用哪一些代換方法，基本的是 TSD 代換，會有不同的練習組合跑出來。&lt;/li&gt;
-&lt;li&gt;轉調：本文以 G Major 為例，實際練習的操作，可以轉換其它調性，但是建議要先掌握住一個調性，熟悉之後，再換其他調性。至少熟悉 G 和 G 大調 (E 和 A 小調)。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;思考三在和弦和調性遊走&#34;&gt;思考三：在和弦和調性遊走&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;熟悉思考一、二之後，再回到思考一討論的，不過可以加入其他元素：延伸音、調式音階&lt;/li&gt;
-&lt;li&gt;彈奏的角度在調性、和弦音 (Chord Tone) 遊走&lt;/li&gt;
-&lt;li&gt;思考三是比較進階的，在還不熟悉調式、和弦概念、音程、各種轉調等，可以先忽略不看。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;概念摘要&#34;&gt;概念摘要&lt;/h2&gt;
-&lt;p&gt;上述的思考，跟樂器還沒有直接關係，可以在手上沒有樂器的時候練習。&lt;/p&gt;
-&lt;p&gt;思考的練習有幾個要注意的地方：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;由簡入繁：不用一下子想要記憶太多，腦袋會爆炸。&lt;/li&gt;
-&lt;li&gt;不要急著要練習轉調，先熟悉一個調先。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;避免資訊爆炸，腦袋過載，凡是由簡入繁，慢慢延伸。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;吉他的練習&#34;&gt;吉他的練習&lt;/h2&gt;
-&lt;p&gt;與上一篇的筆記概念類似，不過要練過上一篇的東西，再來練習本文內容。&lt;/p&gt;
-&lt;p&gt;練習的重點一樣是在於『&lt;strong&gt;用腦袋驅動手指頭&lt;/strong&gt;』，著重 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/gossip/play-what-and-how-to-play/&#34;&gt;彈什麼，而不是怎麼彈&lt;/a&gt;。只要不知道正在彈啥音，請停下來，把速度放慢，聽節拍器，聽每一個音符。&lt;/p&gt;
-&lt;p&gt;同樣的，下述的練習，左手都需要一定程度的擴張，如果沒有練習類似的東西，請不要隨意嘗試，避免手指受傷。&lt;/p&gt;
-&lt;h3 id=&#34;練習原則與概念&#34;&gt;練習原則與概念&lt;/h3&gt;
-&lt;p&gt;先修以及注意事項，和 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-g-major7/&#34;&gt;上一篇&lt;/a&gt; 一樣。。。寫玩了 XD&lt;/p&gt;
-&lt;h3 id=&#34;基本練習arpeggios-on-2-strings&#34;&gt;基本練習：Arpeggios on 2 Strings&lt;/h3&gt;
-&lt;p&gt;同樣的是在兩根弦上練習，下圖是 Am7、D7 在五、六弦上的練習。這次我把六線譜顯示出來了，不過練習過程中，還是要思考音符為主。用 &lt;strong&gt;腦袋驅動手指頭，用音符表現音樂&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Arp-Am7_D7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;上述例子，是在五、六弦，從根音出發，同樣的概念，其他任意兩根弦的組合，或者從不同級數出發，也都是要練習的。所有的思考都是橫向的、音樂性的，完全打破過去指板圖像學習的概念，也就是『吉他和弦聲位』提到的第二種思路。&lt;/p&gt;
-&lt;p&gt;任意兩根弦的練習，如果這兩弦不是相鄰的，而是跨越的，那麼這個和弦彈出來就會有 Drop Voicing 的感覺。&lt;/p&gt;
-&lt;h3 id=&#34;串接和弦&#34;&gt;串接和弦&lt;/h3&gt;
-&lt;p&gt;在五、六弦串接這三個和弦，變化很多，下圖是最簡單的例子：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Arp-251_G-Major.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;同樣的，熟練後，可以換不同兩根弦練習，隨意組合。當然兩根熟練了，三根、四根，全部。。。過了這關，基本上對於指板應該已經有完全不同的認識了，指頭上的功夫也進入全新的境界了。&lt;/p&gt;
-&lt;h3 id=&#34;串接其他元素&#34;&gt;串接其他元素&lt;/h3&gt;
-&lt;p&gt;可以練到前述兩者，基本上已經有很多東西可以玩，接下會發現一片新的天地可以玩：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;加入吉他的手法與技巧：吉他手最擅長的指板思考，混合五個把位的音階，大和弦放大音階，小和弦放小音階。不知道放啥，就彈五聲音階。&lt;/li&gt;
-&lt;li&gt;放入調式音階&lt;/li&gt;
-&lt;li&gt;加入技巧：Sweep、Tapping、垂勾顫。。。基本功練過的，都拿進來玩&lt;/li&gt;
-&lt;li&gt;發現其他可能的和弦按法，基本功提過一個和弦至少要會五種按法，經過這個練習，配合簡化和弦的概念，按法可以多出很多種。&lt;/li&gt;
-&lt;li&gt;找 Lick 練習，放入曾經彈過的句子&lt;/li&gt;
-&lt;li&gt;熟悉 251 之後，當然也可以套用其他常見的和弦進行，像是卡農進行。。。。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;彈歌寫歌&#34;&gt;彈歌、寫歌&lt;/h3&gt;
-&lt;p&gt;練習一堆東西，最終目的是拿來應用的，最直接的就是找歌曲練習，應用 251 的歌曲很多，再拿出來複習，你會有不一樣的體悟。以下列幾首 251 的流行歌曲：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Santana：Europa&lt;/li&gt;
-&lt;li&gt;黃品源：你怎麼捨得我難過&lt;/li&gt;
-&lt;li&gt;Gary Moore：Still got the blues&lt;/li&gt;
-&lt;li&gt;Bertie Higgins：Casablanca&lt;/li&gt;
-&lt;li&gt;張宇：給你們&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Realbook 就不列了，基本上是多到爆炸。。。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;251 的歌曲，會有種故事從一半開始的感覺。這樣的曲子，我聽到不用透過吉他，就可以聽出和弦進行了。用你自己的形容詞去感受『和弦進行』，音感是這樣累積訓練出來的。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
-&lt;p&gt;這兩篇 Arpeggios 的練習都盡量不用六線譜介紹，主要是因為要練習思考音樂本質。吉他手很容易落入技術的思維，然後即使彈了很多東西，但是依舊不知所云的狀況。這種現象就像學語言一樣，背誦很多單字，記憶很多文法，也看了很多文章，但是還是無法活用他。而透過練習琶音的過程，讓大家回歸音樂本質的問題。&lt;/p&gt;
-&lt;p&gt;同樣的如 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-g-major7/&#34;&gt;前一篇&lt;/a&gt; 所提及，不見得透過五線譜就真的變成很會作曲或者彈歌，而是透過這樣的方法讓學習者（我自己）有重新思考本質的機會。透過這樣的思考練習，舊的資訊、訊息，有機會重新昇華成新的知識，然後回去再練習曾經彈奏的曲子，則有不同的體悟。&lt;/p&gt;
-&lt;p&gt;很多教學都用六弦譜直接彈奏，帶來的是快速方便的學習途徑，但是相對的卻少了思考的機會。很多仿間的教學，都很會強調『速成』，而我一直相信物理的『能量不滅定律』，知識也是一種能量，囫圇的學習，只是讓一堆能量堆積在體內。人的體能、智商在短時間之內終究是有限制的，無法一下子吃下太多知識。但是透過持續性的練習，就會有無窮的可能。&lt;/p&gt;
-&lt;p&gt;網路上著名的勵志文：&lt;a href=&#34;https://www.managertoday.com.tw/articles/view/2280&#34;&gt;每天進步 1%，一年進步 37 倍&lt;/a&gt;。文章的重點不是 37 倍，而是 &lt;code&gt;持續的學習&lt;/code&gt; 、漸進的 &lt;code&gt;刻意練習&lt;/code&gt;，才是捷徑。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-g-major7/&#34;&gt;吉他琶音 (Arpeggios) 的練習 - 以 Gmaj7 為例&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/gossip/play-what-and-how-to-play/&#34;&gt;彈什麼和怎麼彈&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;相對、絕對音感&lt;/li&gt;
-&lt;li&gt;三全音 (Triton)&lt;/li&gt;
-&lt;li&gt;吉他基本功&lt;/li&gt;
-&lt;li&gt;吉他和弦聲位基本概念&lt;/li&gt;
-&lt;li&gt;吉他音階學習引導&lt;/li&gt;
-&lt;li&gt;順階和弦表&lt;/li&gt;
-&lt;li&gt;吉他手怎麼練習音感&lt;/li&gt;
-&lt;li&gt;卡農進行&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.managertoday.com.tw/articles/view/2280&#34;&gt;每天進步 1%，一年進步 37 倍&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;原文位址： &lt;a href=&#34;https://rickmidi.blogspot.com/2015/04/arpeggios-251-of-g-major.html&#34;&gt;https://rickmidi.blogspot.com/2015/04/arpeggios-251-of-g-major.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;2015/04/15: 初版&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 吉他琶音練習 - 以 Gmaj7 為例</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-g-major7/</link>
-      <pubDate>Sun, 08 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-g-major7/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Arpeggio&#34;&gt;Arpeggios&lt;/a&gt; 中文翻譯成『琶音』，也就是把和弦組成音，做排列的彈奏，是音樂專用術語。&lt;/p&gt;
-&lt;p&gt;先講結論。&lt;/p&gt;
-&lt;p&gt;在吉他的學習過程中，Arpeggios 很常跟 &amp;ldquo;Sweep (掃弦)&amp;rdquo; 搞混。Sweep 是演奏技巧、手法，用來詮釋、表現音樂的方法，重點在於『怎麼彈』；而 Arpeggios 是表現音樂本身的內涵，也就是用來創造語意的，著重於『彈什麼』。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;到 Youtube 用關鍵字 &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/results?search_query=guitar+arpeggios&#34;&gt;Guitar Arpeggios&lt;/a&gt;&amp;rdquo; 會找到一堆 Sweep 的教學。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;用語言學習來說明，Sweep 比較像是如何寫文字的方法，像是書寫字型用宋體、標楷體、黑體 &amp;hellip;  等，然後寫出來的東西在視覺上有不同的意境、美感；Arpeggios 就是文章內容，像是『白日依山盡，黃河入海流』，呈現寫作的人想要傳達的語意、意涵、意念 &amp;hellip; 等。&lt;/p&gt;
-&lt;p&gt;『怎麼彈』是技術性的問題，大部份透過有效的學習方式，以及一定程度的練習，是不難達到的。『彈什麼』是音樂性的問題，也就是包含演奏者想表達的內涵、創意。&lt;/p&gt;
-&lt;p&gt;Arpeggios 的練習，重點在於幫助創造，創造人們想要表達的語意、想法、意念。只要是負責旋律的樂器 (Keyboard、Strings、Brass) 都是很重要的，對於學習即興、創作更是重要且基本的課題。&lt;/p&gt;
-&lt;h2 id=&#34;基本練習概念&#34;&gt;基本練習概念&lt;/h2&gt;
-&lt;h3 id=&#34;一密集聲位&#34;&gt;一、密集聲位&lt;/h3&gt;
-&lt;p&gt;基本的練習概念就是將和弦組成音做排列組合後，然後把音符依序彈奏出來。&lt;code&gt;轉位和弦 (Chord Inversion)&lt;/code&gt; 是最常練習的方式之一，如下 Gmaj7：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Gmaj7-GBDFSharp_Seq.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;他們就是依序的把和弦音的排列組合彈出來：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;G B D F#: 從根音開始&lt;/li&gt;
-&lt;li&gt;B D F# G: 從三度音開始&lt;/li&gt;
-&lt;li&gt;D F# G B: 從五度音開始&lt;/li&gt;
-&lt;li&gt;F# G B D: 從七度音開始&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;彈的都是相鄰的音，也就是 &lt;code&gt;密集聲位 (Closed Voicing)&lt;/code&gt; 的配置。也可以以某『一個音』為基準，做反覆的 sequence (模進)，像以下的練習：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;closed-voicing.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;也可以用『兩個音』做基礎造句，下面的例子就是用『GB』和『BD』做基礎，像是這樣：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;closed-voicing_on-g-b.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;這樣的組合很容易創造出具備音樂性的句子，或者是伴奏的 phase / riff 等。練習的時候可以多思考這些組合，可以加入一些技巧，像是悶音、垂勾、滑音、藍調音、改變拍子等。&lt;/p&gt;
-&lt;h3 id=&#34;二遠距聲位&#34;&gt;二、遠距聲位&lt;/h3&gt;
-&lt;p&gt;只要組成音超過一個八度，都是 &lt;code&gt;遠距聲位 (Open Voicing)&lt;/code&gt;。同樣是 G B D F# 四個音，每次彈都可以把其中某一個高八度、或者低八度練習，這樣會有很多種排列組合，以下的例子就是 G B D F# 的次序，然後改變八度音的變化，像這樣：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;open-voicing_Gmaj7-GBDFsharp_8av.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;其他轉位和弦內音的組合，像是『B D F# G』、『D F# G B』 &amp;hellip; 等，也都可以用同樣的方法思考。&lt;/p&gt;
-&lt;p&gt;以即興作曲來看，通常會運用 &lt;a href=&#34;https://en.wikipedia.org/wiki/Motif_(music)&#34;&gt;動機發展 (motivic development)&lt;/a&gt; 的方式來延伸。&lt;/p&gt;
-&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權 ※&lt;/p&gt;
-&lt;h2 id=&#34;吉他的練習&#34;&gt;吉他的練習&lt;/h2&gt;
-&lt;p&gt;吉他練習的思考方式，從指板上來看有兩種，第一種是依照把位方式，也就是『&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/guide-to-guitar-scale-patterns/&#34;&gt;吉他音階學習引導&lt;/a&gt;』提到的五種把位，這也是大部份吉他教學的方式，這邊我就不贅述。第二種是橫向思考，也就是只彈固定幾根弦，像是只彈一、二弦，或者二、三弦、或者跳弦一、三弦、或者固定彈一二三弦&amp;hellip; 以此類推。&lt;/p&gt;
-&lt;p&gt;以下是我自己設計的一套練習方式，目的是訓練音符思考為主，呈現方式都是五線譜，技巧為輔，所以不會有六線譜。如果覺得看譜速度太慢，就專注在把位上找音名，也是可以的。&lt;/p&gt;
-&lt;h3 id=&#34;先修課程&#34;&gt;先修課程&lt;/h3&gt;
-&lt;p&gt;要練習本文提到的，首先最好練過這些東西：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;五個把位的音階，知道怎麼找到八度音，參考 『吉他音階學習引導』&lt;/li&gt;
-&lt;li&gt;五個把位的和弦，知道怎麼找每個和弦的位置，參考『吉他和弦聲位基本概念』&lt;/li&gt;
-&lt;li&gt;知道怎麼看五線譜，知道把位上音名的位置該怎麼找。&lt;/li&gt;
-&lt;li&gt;左手曾練過一定程度的擴張練習&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;練習原則與概念&#34;&gt;練習原則與概念&lt;/h3&gt;
-&lt;p&gt;知道正在彈什麼東西，所以練習目的在於：『用腦袋驅動手指頭』，以 Gmaj7 為例，掌握以下原則：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;思考 Gmaj7 組成音：G B D F#
-&lt;ul&gt;
-&lt;li&gt;依序找出這四個音，在指板上所有的位置&lt;/li&gt;
-&lt;li&gt;找出幾個會出現的形狀，和已知的和弦做圖像的連結&lt;/li&gt;
-&lt;li&gt;在心裡反覆念這四個音，思考他們的先後關係&lt;/li&gt;
-&lt;li&gt;思考這四個音和 G 的音程關係
-&lt;ul&gt;
-&lt;li&gt;G - B: 大三度、G - D 完全五度、G - F# 大七度&lt;/li&gt;
-&lt;li&gt;G 是主音，所以音程的思考以 G 做參考點，不用找其他像 B D 的關係&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;練過 Sweep 的同學，暫時把那些指型都忘記。深度思考每一個音符本身還有音程關係。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;每次用兩根弦彈奏，例如：
-&lt;ul&gt;
-&lt;li&gt;在 1 / 2、5 / 6 弦彈奏這四個音&lt;/li&gt;
-&lt;li&gt;也可以不用相鄰的兩根弦，例如：1 / 3 弦、2 / 5 弦找這四個音&lt;/li&gt;
-&lt;li&gt;彈的時候不用管八度音，只要依序彈出這四個音，遇到找不到的就升 or 降八度&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;腦袋先想到音，再用手指去找指板上的位置&lt;/li&gt;
-&lt;li&gt;不要用眼睛看指板 (關燈，近視的把眼鏡拿掉)，用耳朵聽，心理思考音符，反覆 (1)&lt;/li&gt;
-&lt;li&gt;開 Click，用 tempo = 60，八分音符的速度練習&lt;/li&gt;
-&lt;li&gt;彈奏過程中，只要不知道正在彈什麼音，請馬上停下來，重來。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;基本練習-arpeggios-on-2-strings&#34;&gt;基本練習: Arpeggios on 2 Strings&lt;/h3&gt;
-&lt;p&gt;這是我練習的例子，有興趣的朋友請自行試看看，五線譜標的數字是左手指法，同樣的，重點還是在『&lt;strong&gt;用腦袋驅動手指頭&lt;/strong&gt;』。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;註一：此練習先不使用空弦音，空弦音應用參見下一段介紹
-註二：此練習左手需要相當擴張 (左手五格以上的距離)，所以沒有練過基本的爬格子，不要勉強。手無法擴張，直接的替代方式，可以利用滑音的方式。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;第一、二個是固定在兩根弦上做練習，從低把位移動到高把位，然後反覆。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Gmaj7_Arp_on_56_Strings.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Gmaj7_Arp_on_45_Strings.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;第三個則是在各兩組弦間移動，因為版面關係，譜的例子只放四小節，有興趣的朋友可以自行擴張其他把位，找出其他音的位置。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Gmaj7_Arp_on_Various_Strings.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;搭配音階練習&#34;&gt;搭配音階練習&lt;/h3&gt;
-&lt;p&gt;Gmaj7 搭配 G 大調音階，吉他基本功裡面提到的各個把位，配合上下行的基本練習，把琶音放進去。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;G-Major-Scale+Arpeggios.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;如果現在練習的和弦是小和弦，那麼音階就跑小調音階。&lt;/p&gt;
-&lt;p&gt;除了大調音階，當然吉他手要很熟的五聲音階也可以拿來一起玩。把原本琶音內容加上二、六度音 (A 和 E) 就可以是五聲音階了，組成音會變成：G (A) B D (E) F#&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;G-Pent-Scale-Arpeggios.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;可以搭配音階，當然也可以搭和弦練習，以 4/4 為例的練習&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;一、三小節彈和弦&lt;/li&gt;
-&lt;li&gt;二、四小節彈 Arpeggios&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;不同按法的-gmaj7&#34;&gt;不同按法的 Gmaj7&lt;/h3&gt;
-&lt;p&gt;一些思考的方式：第一種是搭配空弦音應用，找出不同的 Gmaj7 按法，製造出具空間感的聲響，這是利用吉他特性的變化。第二種是利用轉位和弦，加上簡化和弦的概念，而形成的按法，利用這兩個想法，可以找出很多不同的按法，如下：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Gmaj7_01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Gmaj7_02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Gmaj7_03.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Gmaj7_04.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;還可以舉例很多，留給大家去找。&lt;/p&gt;
-&lt;h2 id=&#34;其他的練習方式&#34;&gt;其他的練習方式&lt;/h2&gt;
-&lt;p&gt;其他還有很多東西可以搭配練習，以下先列舉這些思路：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;搭配 &lt;code&gt;調式音階&lt;/code&gt;：Xmaj7 主要會搭配 Lydian 練習，加入增四度。&lt;/li&gt;
-&lt;li&gt;搭配 &lt;code&gt;延伸和弦&lt;/code&gt;：Gmaj7 來說，除了彈自己的和弦內音，可以另外彈 Am 琶音，變成在彈 Gmaj13 的琶音。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;搭配 Licks&lt;/code&gt;：找一些歌曲的句子來練習，Santana 的經典演奏曲 Europa 第一句就是 Xmaj7&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;和弦串接&lt;/code&gt;：本文只專注在 Gmaj7，其實也是間接延伸了 Xmaj7 全部，同樣的依照此方法，把 Xm7、X7 都找出來，練習過，例如 Am7 和 D7，然後就可以串這些和弦了。這三個剛好是 ii-Ⅴ-I of G，然後以此延伸到其他調性，或者一些和弦進行。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;找個人一起練習&lt;/code&gt;：互相漏氣求進步，像下影片：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/WsjrKBXImmY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;h2 id=&#34;六線譜的問題&#34;&gt;六線譜的問題&lt;/h2&gt;
-&lt;p&gt;很多吉他教學習慣用六線譜，而『&lt;code&gt;六線譜&lt;/code&gt;』表現『怎麼彈』的訊息，而不是著重於『彈什麼』，所以很多學習者，到最後在網路抓了一堆六線譜，可能可以彈出一些東西，但往往對於歌曲的內容是不知所云，腦袋裡只有格子數，卻沒有節拍、音程、和弦功能、解決等音樂的概念，簡言之，就是具備吉他演奏技術，但不具備音樂性。&lt;/p&gt;
-&lt;p&gt;這跟背了一推詩詞歌賦、八股文，沒有消化、理解，無法下筆成文、出口成章、言之有物一樣。&lt;/p&gt;
-&lt;p&gt;特別用吉他來說明，是因為吉他和鍵盤樂器的差別在於，吉他轉調簡單，但是吉他把位相對於鋼琴複雜，又因為有六線譜的關係，造成學習者比較少思考的現象。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;大部份的鋼琴學習都是用五線譜，但我也看過不少只會用手指頭彈，但是不會思考的鍵盤手。所以上述六線譜的說明，不是必然的。我覺得這還是跟教育方式有關係，這些感嘆，紀錄在我之前和一位樂壇前輩閒聊的內容。&lt;/p&gt;
-&lt;p&gt;有個笑話這樣形容吉他手和鍵盤手：把五線譜放在吉他手前面，他什麼都彈不出來了；把五線譜從鍵盤手前面拿走，他什麼都不會彈了。看到這裡應該不難懂了吧 XDD&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;除了本文舉例的 Gmaj7，接下來呢？延伸他吧！Gmaj7 可以是任何的大七和弦，所以就是 Xmaj7，然後變化成屬七和弦 X7，然後小七 Xm7，然後把這些東西串起來。同樣的問題又來了，這麼多怎麼練？好好思考時間管理，好好思考如何安排練習。&lt;/p&gt;
-&lt;h2 id=&#34;連結&#34;&gt;連結&lt;/h2&gt;
-&lt;p&gt;下圖是出自漫畫家 Hugh MacLeod 在 Twitter 上的一張圖，簡單表達了資訊與知識、知識與經驗的差異，而我的 blog 實際上很多時候都把這些已知的資訊或知識重新整理，然後連結成為我個人的知識。而每次我也都會回去反覆思考過去寫的東西，並且試圖將他們連結。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Knowledge_Experience.png&#34; alt=&#34;&#34;&gt;
-Photo Credit: Hugh MacLeod&lt;/p&gt;
-&lt;p&gt;在本文討論的資訊，也就是 Hugh MacLeod 圖中的每一個點，可以是和弦的一個音符、或者一個和弦、一組和弦進行，他們連接起來之後，就會變成和弦、句子、節奏、段落、歌曲 &amp;hellip;&lt;/p&gt;
-&lt;p&gt;在『練習的層次』一文最後，也提到類似的概念，資訊 -&amp;gt; 知識 -&amp;gt; 智慧 -&amp;gt; 資料 的演變，端看學習者如何再將他們做連結，透過連結會得到新的思路與想法，甚至是創意。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;習慣這樣的方式之後，我歸納出創新就是『舊的東西 (資料、資訊、知識)，用新的方法 (連結) ，就是創意』，與『練習的層次』提到的創意方式是截然不同的體悟。 我又昇華了 XD&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;吉他琶音 (Arpeggios) 的練習 - 251 of G Major&lt;/li&gt;
-&lt;li&gt;吉他和弦聲位基本概念&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/guide-to-guitar-scale-patterns/&#34;&gt;吉他音階學習引導&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;『怎麼彈』和『彈什麼』&lt;/li&gt;
-&lt;li&gt;吉他的基本功&lt;/li&gt;
-&lt;li&gt;如何安排練習 - 以上班族為例&lt;/li&gt;
-&lt;li&gt;吉他的空弦聲響&lt;/li&gt;
-&lt;li&gt;吉他手怎麼練習音感&lt;/li&gt;
-&lt;li&gt;練習的層次&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;琶音的介紹與應用&lt;/li&gt;
-&lt;li&gt;沒什麼是原創的：把知識連起來就是創意&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Motif_(music)&#34;&gt;Motif development&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2015/03/arpeggios-gmaj7.html&lt;/li&gt;
-&lt;li&gt;2015/03/08: 初版&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 音階的本質</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/theory/essence-of-musical-scales/</link>
-      <pubDate>Sat, 29 Nov 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/theory/essence-of-musical-scales/</guid>
-      <description>
-        
-        
-        &lt;p&gt;前陣子和朋友聊到關於音階的問題。很多人都會問類似的問題，例如調式音階怎麼用？某某音可不可以怎樣用？對不對？我的答案通常不會是對或不對，而是好或不好、適合不適合、或者是反問『你覺得聽起來如何？你想表達怎樣的情緒？或者怎樣的畫面？』。在問這問題前，如果先這樣想過一次，大部分都會有結果的。&lt;/p&gt;
-&lt;p&gt;回到音階的問題，我整理幾篇文字，在最後結論都提過類似的概念，像是：吉他音階學習引導、小調音階、大調音階、可以自行創造音階？也分析過其中的關係，在寫那些文字的過程，我就是不斷的反問自己同樣的問題。而我是把那些思考的過程記錄下來，變成現在看到的文章。&lt;/p&gt;
-&lt;p&gt;也就是說，在學習音階的過程中，我心裡一直有個疑惑，為什麼要叫做自然大調音階？自然小調音階？為啥是自然的？不是人工的？為啥又會有調式這種東西存在？按照一般教學書的介紹，其實調式是古代種族的民俗音階，對我們現在人來講是一種『民俗』，對該種族來講，不就是所謂的『自然音階』嗎？我們只是用自己的眼光來看待這些文物，然後覺得我們所學的就比較『自然』、或者是『理所當然』。&lt;/p&gt;
-&lt;p&gt;以前在念書時，老師常會說：『望文生義』，也就是說，名稱的命名一定具有代表性意義的。當我們把背後的原因搞懂了，就會容易知道、明白。也就是日劇神探伽利略主角湯川常說的那句話：『事出必有因』。有因就去找，就去翻書，找實例，寫筆記。。。這個過程往往比結果還重要，也是我個人教學過程中，特別會強調的。&lt;/p&gt;
-&lt;p&gt;這過程用科學方法來說，就是搜集資料，最後就透過分類、組織、分析歸納出結論，可以算是一種統計學吧～&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;關於組織與分析，有興趣可看看我另一個 blog 寫的『&lt;a href=&#34;http://rickhw.github.io/2014/10/26/%E5%88%86%E9%A1%9E%E7%9A%84%E5%93%B2%E5%AD%B8/&#34;&gt;分類的哲學&lt;/a&gt;』&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;很多人聽到原住民唱歌都會發現他們有一些調調，我們會用『特別』來形容，舉幾個大家比較熟知的流行歌曲：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;日本歌手夏川里美翻唱的『淚光閃閃』，新加坡歌手蔡淳佳翻唱的『陪我看日出』。&lt;/li&gt;
-&lt;li&gt;電影海角七號范逸臣的國境之南&lt;/li&gt;
-&lt;li&gt;日本民謠『島歌』，梁靜茹和周華健都翻唱過&lt;/li&gt;
-&lt;li&gt;辛曉琪倆倆相忘，倚天屠龍記小昭主題曲，阿拉伯音階 (我猜的，因為小昭是波斯人，今天的伊朗。有興趣抓抓看就知道了 XD)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;都用到民俗音階，像是：琉球音階 (1 3 4 5 7) 、阿拉伯音階 (maybe)，或者是唱腔具備地方特色，像是轉音、或者裝飾音等。我們所以會覺得特別，只是因為我們不熟悉、不習慣，我們沒有在那個環境成長過，但是我們大部分的人也可以接受這樣的音樂。&lt;/p&gt;
-&lt;p&gt;而那些民族之所以會產生這樣的『音階』，和他們的生活、地理、歷史、感情、政治、文化、遭遇 &amp;hellip; 等都會有關係，而最後慢慢淬煉出這樣的結果，然後這組音階所創造出來的音樂，就代表著這個民族。用科學方法來解釋，就是一種統計學的結果，統計的項目是民族文化的本質。所以音階這種東西的本質，背後代表是一個民族的文化與特色，他展現的是文化的深度與涵養。&lt;/p&gt;
-&lt;p&gt;藝術表達是人類的情感、情緒，呈現的是喜怒哀樂、悲歡離合，不管是在什麼樣的歷史背景、地理環境，不管是科技發達的先進，還是尚未現代化的地區，人們情感的交流是一樣的，人們對於心靈的表達與體驗的本質是雷同的，人們對於事物感覺的本質是不變的。&lt;/p&gt;
-&lt;p&gt;藝術家們紀錄了這些表達的方式，呈現了時代的真實面，隨著時間的演進，詮釋的方式可能改變了，技巧變複雜了，花樣變多了，但不會改變的依舊是人性。『自然音階』是經過這些時空而漸漸歸納出來的東西，歸納本身就是種統計的過程，現代的音樂理論，就是把它過程經過很多的分析、歸納出來的結果，證明其可用性、普遍性，如此而已。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;物理學家拉塞福的名言：『科學只有物理一個學科，其他不過相當於集郵活動而已』，集郵就是統計代表，而音樂上不管是音階、和弦、節奏、音色，其實可以算是統計學的結論，而這個過程要經過組織、分析，才會得到現在看到的樣子。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;探索因果、本質的過程，是我們教育過程中最缺乏的，因為我們往往追求的是速成，但是卻沒有深刻思考、體驗。&lt;/p&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;音階基礎&lt;/li&gt;
-&lt;li&gt;閒聊&lt;/li&gt;
-&lt;li&gt;可以自行創造音階？&lt;/li&gt;
-&lt;li&gt;吉他音階學習引導&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;物理學家：歐尼斯特 拉塞福&lt;/li&gt;
-&lt;li&gt;分類的哲學&lt;/li&gt;
-&lt;li&gt;落入不思考的鄉愿陷阱：蔡柏璋(Pao-Chang Tsai) at TEDxTaipei 2014&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;初版：2014/11/29&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rickmidi.blogspot.com/2014/11/blog-post_29.html&#34;&gt;http://rickmidi.blogspot.com/2014/11/blog-post_29.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 吉他音階學習摘要</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/guitar/guide-to-guitar-scale-patterns/</link>
-      <pubDate>Sat, 07 Aug 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/guitar/guide-to-guitar-scale-patterns/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;自然大調音階&#34;&gt;自然大調音階&lt;/h2&gt;
-&lt;p&gt;吉他的大調音階在教學上常會介紹五個指型, 每一個指型以四 ~ 五個把位 (橫向), 跨六根弦 (縱向)為基本概念, 食指所在位置稱為把位 (Position). 為了方便記憶, 五個指型均參考 C 大調音階, 唱名, 或者開放和弦指型來定義名稱. 目前坊間教學名稱的命名法不一, 常見的大概有以下三種:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;MI 系統&lt;/code&gt;: Pattern 1 ~ 5 (簡寫成 P#1 ~ P#5 or P1 ~ P5)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;唱名系統&lt;/code&gt;: Mi, Sol, La, Ti, Re&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;和弦指型系統&lt;/code&gt;: C, A, G, E, D&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2 id=&#34;中央-c4-與標準音-a4&#34;&gt;中央 C4 與標準音 A4&lt;/h2&gt;
+&lt;p&gt;中央 C 定義為 C4，也就是鍵盤上第四個 C。音階在鋼琴 (鍵盤) 上，左到右是由低到高，12 個半音 (八度) 一直循環。一架 88 鍵的鋼琴共有 7 個完整的八度。如下圖：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;keyboard.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;音階的物理定義，一般定義中央 A4 (標準音) 為 440Hz，有些交響樂團會用 442Hz。有的時候為了讓主奏的聲音在樂團裡突出，管絃樂團的首席小提琴首會用參考比樂團高的標準音，讓他的聲音更突出。&lt;/p&gt;
+&lt;h2 id=&#34;全音半音-whole-tonehalf-tone&#34;&gt;全音，半音 (Whole Tone，Half Tone)&lt;/h2&gt;
+&lt;p&gt;根據十二平均律的定義，把一個倍頻的關係中間再分成十二個部分 (注意: 不是十二等份)，這十二個音是指數關係。想像成銀行存款複利的關係。詳細的關係計算方式，請參閱 &amp;ldquo;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/can-i-create-a-new-scale/&#34;&gt;可以自行創造音階?&lt;/a&gt;&amp;rdquo; 以及表格 &lt;code&gt;樂器音階頻率表&lt;/code&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;各國的名稱系統-note-name&#34;&gt;各國的名稱系統 (Note Name)&lt;/h2&gt;
+&lt;p&gt;我們在學習 &lt;code&gt;西洋&lt;/code&gt; 音樂時，主要是以英美的系統為主。但是在古典音樂裡，歐洲才是音樂的發源地。所以實際上很多音樂術語，都不是英文。所以稍微了解一下一些 &lt;code&gt;音樂&lt;/code&gt; 文化大國 (就是很多音樂偉人誕生的地方) 的術語，是有必要的。最簡單的就是各國的音名，如下表：&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;系統名稱&lt;/th&gt;
-          &lt;th&gt;指型一&lt;/th&gt;
-          &lt;th&gt;指型二&lt;/th&gt;
-          &lt;th&gt;指型三&lt;/th&gt;
-          &lt;th&gt;指型四&lt;/th&gt;
-          &lt;th&gt;指型五&lt;/th&gt;
+          &lt;th&gt;國家&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;I&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅱ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅲ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅳ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅴ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅵ&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ⅶ&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;MI 系統&lt;/td&gt;
-          &lt;td&gt;P#1&lt;/td&gt;
-          &lt;td&gt;P#2&lt;/td&gt;
-          &lt;td&gt;P#3&lt;/td&gt;
-          &lt;td&gt;P#4&lt;/td&gt;
-          &lt;td&gt;P#5&lt;/td&gt;
+          &lt;td&gt;德國&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;C&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;D&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;E&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;G&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;H&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;唱名系統&lt;/td&gt;
-          &lt;td&gt;Mi&lt;/td&gt;
-          &lt;td&gt;Sol&lt;/td&gt;
-          &lt;td&gt;La&lt;/td&gt;
-          &lt;td&gt;Ti&lt;/td&gt;
-          &lt;td&gt;Re&lt;/td&gt;
+          &lt;td&gt;中日&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;C&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;D&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;E&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;G&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;B&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;和弦指型系統&lt;/td&gt;
-          &lt;td&gt;C&lt;/td&gt;
-          &lt;td&gt;A&lt;/td&gt;
-          &lt;td&gt;G&lt;/td&gt;
-          &lt;td&gt;E&lt;/td&gt;
-          &lt;td&gt;D&lt;/td&gt;
+          &lt;td&gt;義大利&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Do&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Re&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mi&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fa&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Sol&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;La&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Si&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;把位 (Position, C 大調)&lt;/td&gt;
-          &lt;td&gt;0/12&lt;/td&gt;
-          &lt;td&gt;2/3&lt;/td&gt;
-          &lt;td&gt;5/4&lt;/td&gt;
-          &lt;td&gt;7&lt;/td&gt;
-          &lt;td&gt;9/10&lt;/td&gt;
+          &lt;td&gt;法國&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Do (Ut)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Re`&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mi&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fa&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Sol&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;La&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Si&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;英美&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;C&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;D&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;E&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;G&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;B&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;pattern1-5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;上圖為 C 大調音階, 也是最重要的音階. 圖中間就是五個指型, 分別有三種市面上常見的教學命名系統: MI 系統, 唱名系統, 和弦指型系統.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;MI 系統是倚賴根音位置/音程關係來聯想, 對於日後學習其他各類型音階很有幫助, 但是初學者不容易了解他的含意&lt;/li&gt;
-&lt;li&gt;唱名系統是參考大調音階和吉他一六弦的位置聯想, 容易明白.&lt;/li&gt;
-&lt;li&gt;CGDAE 是參考開放和弦指型聯想, 彈木吉他的人可能會比較熟悉這個系統.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;這種名稱, 不用刻意去記, 只要選自己習慣的來稱呼就好. 至於哪個好哪個不好, 教學上我個人偏好先用唱名系統 -&amp;gt; CGDAE -&amp;gt; MI 系統. 由淺致深.&lt;/p&gt;
-&lt;p&gt;本文提及時會三個名稱同時附上, 讓讀者容易了解.&lt;/p&gt;
-&lt;p&gt;這五個音階指型主要目的是在幫整個音階把位做格式化 (Format), 其中各個指型框起來的部分, 像是 P#1 (Mi, C) 第 0 把位, P#3 (La, G) 第 5 把位, 他們都是代表食指位置. 有些指型的把位固定在同一格, 但有些會跨兩格. 學習時一般建議先練習 P#1 和 P#3, 因為這兩個把位位置比較固定, 容易記憶.&lt;/p&gt;
-&lt;p&gt;格式化音階的主要目的就是讓演奏者在彈奏時, 左手可以有比較一致性的指法, 而不是毫無章法. 當左手移動時, 就是以各個音階指型的把位位置作參考點, 這樣移動位置時, 只要食指位置確定了, 其他音用什麼指頭也就確定了.&lt;/p&gt;
-&lt;p&gt;上述的五個指型練習時, 都要掌握基本的原則是:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;指型的根音 (Do) 在哪? 上圖的是 C 大調, 也就是指板上的 C 在哪裡?&lt;/li&gt;
-&lt;li&gt;自然大調音階的音程關係: 全全半全全全半&lt;/li&gt;
-&lt;li&gt;吉他的空弦音是啥? 那第十二把位呢?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;接下來的聯想應用:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;六根弦 1, 6 弦同一格音是一樣的.&lt;/li&gt;
-&lt;li&gt;和根音同樣一格, 往上一弦為五度音, 往下一弦為四度音. 例如 C 在第五弦第三格 (5,3) , 同一格, 第六弦第三格 (6, 3) 為 C 五度音, 第四弦第三格 (4, 3) 為 C 的四度音. 但這個規則根音在第二弦不適用.&lt;/li&gt;
-&lt;li&gt;八度音參考 CGDAE 五個和絃指型記憶.&lt;/li&gt;
-&lt;li&gt;採譜 (抓歌) 時, 注意半音的位置, 因為只要發現有半音, 往往現在指型就呼之欲出, 指型知道, 根音就知道, Key 就知道了.&lt;/li&gt;
-&lt;li&gt;除了根音, 接下來可以選擇把 La 的位置記住, 特別是想彈 Rock/Metal 的話.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;建議的記憶音階方式:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;彈你喜歡的歌&lt;/li&gt;
-&lt;li&gt;彈你喜歡的歌&lt;/li&gt;
-&lt;li&gt;還是你喜歡的彈歌 (很重要，要說三次)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;坊間的音樂教本 (不管是吉他還是五線譜), 很多都會有簡譜 (能看五線譜就看五線譜), 找喜歡的曲子, 跟著譜彈. 這個部分是幫助記憶音階指型, 或者像 &amp;ldquo;吉他手如何練習音感&amp;rdquo; 所描述, 利用 &amp;ldquo;抓歌&amp;rdquo; 的方式來記憶音階.&lt;/p&gt;
-&lt;p&gt;另外 &amp;ldquo;彈歌&amp;rdquo; 的意思是, 要深入的彈好一首完整的歌. 把一首歌練到完美 (錄下來像 CD 那樣), 即使花了一年的時間只練那一首歌. &amp;ldquo;深入的彈&amp;rdquo; 意思是說, 要很清楚的知道自己正在彈什麼音, 現在在第幾小節, 和弦是什麼, 現在彈的音應該強還是弱, 用到的吉他音階把位是哪些, 這時候其他樂器正在彈什麼, 鼓有沒有過門, Bass 彈哪些音 &amp;hellip;. 等. 當你練到這樣的程度的時候, 基本上這首歌已經融入你的身體裡了, 想忘都忘不了了. 這才叫做練好.&lt;/p&gt;
+&lt;p&gt;所以不難發現，德國的第七個音不是稱 &amp;ldquo;B&amp;rdquo;，而是 &amp;ldquo;H&amp;rdquo;。義大利和法國則是直接借用唱名&lt;/p&gt;
+&lt;h2 id=&#34;唱名-solfege&#34;&gt;唱名 (Solfege)&lt;/h2&gt;
+&lt;p&gt;唱名是音樂的一種 &lt;code&gt;音標&lt;/code&gt;、&lt;code&gt;注音符號&lt;/code&gt;、&lt;code&gt;形聲&lt;/code&gt;。主要目的是用來 &lt;code&gt;唱&lt;/code&gt; 出音階的音程關係。一般國際通用的就是定義大調音程七個音唱成 &amp;ldquo;Do、Re、Mi、Fa、Sol、La、Ti (Si)&amp;quot;。要注意的是，唱出的 &lt;code&gt;關係&lt;/code&gt; 是調的音程關係。&lt;/p&gt;
+&lt;p&gt;實際上上述七個音只是一個代號，我們也可以唱用 &lt;code&gt;ㄅㄆㄇㄈㄉㄊㄋ&lt;/code&gt; 來唱這七個音，只要音準夠就好。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;更多怎樣練一首歌的細節請參考 &amp;ldquo;練習的層次&amp;rdquo;, &amp;ldquo;如何練一首歌&amp;rdquo; 的說明.&lt;/p&gt;
+&lt;p&gt;詳細且更多的唱名介紹請參閱 &lt;code&gt;關於唱名&lt;/code&gt;、&lt;code&gt;固定唱名? 首調唱名?&lt;/code&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;在吉他的學習路上, 上述五個指型是常見的第一階段學習.&lt;/p&gt;
-&lt;p&gt;老問題來了: 有沒有必要全部都熟記? 屬於休閒性質的朋友, 把其中兩個 P1, P3 / Mi, La 型 / C, G 型熟練, 搭配 &amp;ldquo;吉他基本功&amp;rdquo; 提及的五字絕技巧, 實際上就能彈很多東西了. 如果自認為是嚴肅/認真/有心當個專職音樂人的學習者, 問這問題表示你的決心還不夠.&lt;/p&gt;
-&lt;h2 id=&#34;五聲音階&#34;&gt;五聲音階&lt;/h2&gt;
-&lt;p&gt;第二階段的學習, 我個人覺得要學習的是五聲音階 (大小調五聲都要), 這個階段和上面的一樣, 也會有五個指型, 但是不同於上述的, 這五個我個人覺得實用性會大過自然大調的五個指型. 所以建議多花一點時間練習五聲音階的各種常見的模進 (Sequence, 參考 &amp;ldquo;吉他基本功&amp;rdquo; 的描述.).&lt;/p&gt;
-&lt;p&gt;讀者可以自行拿紙筆作一下, 把大調音階圖畫出來, 然後把 Fa, Ti 拿掉, 就會得到五聲音階了. 大概會長的像下圖:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;pattern1-5_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;學習的途徑也是和大調音階一樣, 先練習 &lt;code&gt;P#3 / La / G&lt;/code&gt;, 和 &lt;code&gt;P#1 / Mi / C&lt;/code&gt;. 因為這兩個最好彈, 最好記, 也最常出現. 我常鼓勵同學 &amp;ldquo;亂彈&amp;rdquo; 五聲音階, 因為五聲音階即使亂彈也會像 &amp;ldquo;歌&amp;rdquo;, 想創作可以從這裡下手.&lt;/p&gt;
-&lt;p&gt;五聲音階練習方法和大調音階練習方法都類似, 也可以參考 &amp;ldquo;吉他基本功&amp;rdquo; 的描述. 很多吉他 Solo Line, 都會以五聲音階為基礎和延伸, 例如 &amp;ldquo;五聲音階與調式音階關係&amp;rdquo; 的應用. 所以五聲音階對於吉他手來講非常非常非常非常非常非常非常重要, 一定要熟練, 因為:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;as-a-rocker.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;大小調指型與思考方式&#34;&gt;大小調指型與思考方式&lt;/h2&gt;
-&lt;p&gt;關係調: 像是 C 大調和 A 小調. 這比較容易, 如大調音階的描述, 只要知道大調的 La 在哪, 就可以找到對應的關係小調. 至於小調音階唱名的問題: 從 Do 開始唱, 還是從 La 開始唱, 初學者請先從 La 開始來熟悉小調這組音階, 日後對於音程有更深入的體會時, 再來用 Do 開始唱小調. 詳細說明請參考 &amp;ldquo;固定唱名? 首調唱名?&amp;rdquo;, &amp;ldquo;關於唱名&amp;rdquo;, 小調音階相關請參考 &amp;ldquo;小調音階&amp;rdquo; 的說明.&lt;/p&gt;
-&lt;p&gt;平行調: 另外吉他手只要彈和 Blues 有關的音樂 (Rock / Metal / Jazz / Funk / R&amp;amp;B &amp;hellip;. 幾乎就是全部 XD), 就會扯到平行調, 像是 A 大調和 A 小調. 這種透過指形轉換來達到平行調效果, 基本的思考有以下兩種:&lt;/p&gt;
-&lt;p&gt;間接指型: 把位平移, 也就是利用相同音階指型, 但是不同根音的特性來彈奏, 如下圖:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;minor-pent-to-major-pent_shift-postition.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;彈的時候思考的就是用固定的音階指型, 然後改變把位位置 + 根音. 這在藍調搖滾 (Blues Rock), 流行歌的 Bridge (有吉他 Solo 的地方) 很常出現. 這個方式彈奏上也比較容易.&lt;/p&gt;
-&lt;p&gt;直接指型: 同一個把位, 但是不同指型直接轉換.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;minor-pent-to-major-pent_same-postition.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;同樣的, 這種在藍調裡很常出現, 但是和第一種直接平移的想法, 就比較不容易熟悉.&lt;/p&gt;
-&lt;p&gt;不管是直接還是間接, 實際上都是在把位, 根音, 指型做選擇. 所以把前面的大調音階指型, 和五聲音階指型練熟是非常重要的. 這些的練習方式 &amp;ldquo;吉他基本功&amp;rdquo; 都有相關說明.&lt;/p&gt;
+&lt;h2 id=&#34;升降記號&#34;&gt;升降記號&lt;/h2&gt;
+&lt;p&gt;升降記號是已自然大調的音名為參考而產生，根據音程的變化作修飾，往上則是升記號 (#)，往下則是降記號 (b)。詳細介紹請參閱 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/p&gt;
+&lt;h2 id=&#34;音程-interval&#34;&gt;音程 (Interval)&lt;/h2&gt;
+&lt;p&gt;自然大調依據人們對於 &lt;code&gt;兩個音&lt;/code&gt; 共震時的感覺，定義了音程的基本關係，其中最初讓人覺得聽起來 &lt;code&gt;協和的音程 (Consonant Interval)&lt;/code&gt; 首先被定義了，他們就是 &lt;code&gt;完全協和音程 (Perfect consonances)&lt;/code&gt; 和 &lt;code&gt;不完全協和音程 (Imperfect consonances)&lt;/code&gt; 兩種，這兩種也就是日後自然大調、自然小調的音程關係，還有和弦名稱命名定義的依據。&lt;/p&gt;
+&lt;p&gt;音程種類大概大概有以下幾種:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;完全音程 (Perfect，也有書翻譯成純音程)&lt;/li&gt;
+&lt;li&gt;大音程 (Major)&lt;/li&gt;
+&lt;li&gt;小音程 (Minor)&lt;/li&gt;
+&lt;li&gt;減音程 (Diminished)&lt;/li&gt;
+&lt;li&gt;增音程 (Augmented)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;底下個別整理說明與例子。&lt;/p&gt;
+&lt;h3 id=&#34;完全音程-perfect也有書翻譯成純音程&#34;&gt;完全音程 (Perfect，也有書翻譯成純音程)&lt;/h3&gt;
+&lt;p&gt;大部分的人們聽起來會覺得最完美的諧和、穩定，也就是所謂的 &lt;code&gt;完全協和音程 (Perfect consonances)&lt;/code&gt;。如下表：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;音程名稱&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文縮寫 (注意大小寫)&lt;/th&gt;
+          &lt;th&gt;說明&lt;/th&gt;
+          &lt;th&gt;例子&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;完全一度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Perfect Unison&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;P1&lt;/td&gt;
+          &lt;td&gt;英文 Unison 有些書也會用 Prime 這個字。&lt;/td&gt;
+          &lt;td&gt;C-C&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;完全四度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Perfect Fourth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;P4&lt;/td&gt;
+          &lt;td&gt;吉他上除了二三弦之外，其他兩兩相鄰的弦都是完全四度的關係。物理上是根音的 4/3 倍的頻率&lt;/td&gt;
+          &lt;td&gt;C-F、G-C、A-D&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;完全五度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Perfect Fifth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;P5&lt;/td&gt;
+          &lt;td&gt;吉他的 Power Chord 就是 P5 的關係。物理頻率和根音比是 3/2&lt;/td&gt;
+          &lt;td&gt;C-G、G-D、A-E&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;完全八度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Perfect Octave&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;P8&lt;/td&gt;
+          &lt;td&gt;也就是一般說的八度音程，物理上就是兩倍的頻率關係&lt;/td&gt;
+          &lt;td&gt;C-C&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;超過八度的完全音程有 &lt;code&gt;完全十一度 (P11)&lt;/code&gt;、&lt;code&gt;完全十二度(P12)&lt;/code&gt;、&lt;code&gt;完全十四度(P14)&lt;/code&gt;，就跟上述的 P4、P5、P8 一樣，意義上比較不大。&lt;/p&gt;
+&lt;h3 id=&#34;大音程-major&#34;&gt;大音程 (Major)&lt;/h3&gt;
+&lt;p&gt;自然大調音階上，除了完全音程 (Perfect) 之外，其他都是 &lt;code&gt;大音程 (Major)&lt;/code&gt;。這一類的大三度和大六度是屬於 &lt;code&gt;不完全協和音程 (Imperfect consonances)&lt;/code&gt;，也就是聽起來沒有像完全音程 (Perfect) 那麼完美，但也是算和諧的。如下：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;音程名稱&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文縮寫 (注意大小寫)&lt;/th&gt;
+          &lt;th&gt;說明&lt;/th&gt;
+          &lt;th&gt;例子&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;大二度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Major Second&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;M2&lt;/td&gt;
+          &lt;td&gt;一個全音、兩個半音的距離。&lt;/td&gt;
+          &lt;td&gt;C-D、E-F#&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;大三度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Major Third&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;M3&lt;/td&gt;
+          &lt;td&gt;兩個全音、四個半音的距離。&lt;/td&gt;
+          &lt;td&gt;C-E、G-B、A-C#&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;大六度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Major Sixth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;M6&lt;/td&gt;
+          &lt;td&gt;一個 P5 + 一個全音、九個半音的距離&lt;/td&gt;
+          &lt;td&gt;C-A、E-C#&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;大七度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Major Seventh&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;M7&lt;/td&gt;
+          &lt;td&gt;一個 P5 + 兩個全音、十一個半音的距離。&lt;/td&gt;
+          &lt;td&gt;C-B、A-G#&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;大九度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Major Ninth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;M9&lt;/td&gt;
+          &lt;td&gt;一個 P8 + 一個全音。理解時可以參考大二度，但是大九度屬於 &lt;code&gt;遠距音程&lt;/code&gt;，一般在音程諧和上，比大二度還協和。&lt;/td&gt;
+          &lt;td&gt;C-D&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意：有增四度、減五度，但是沒有所謂的『大四度』、『大五度』這種名詞，如果聽到一個樂手說出大四度這樣的名詞，表示他對音程的認識還不夠。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;小音程-minor&#34;&gt;小音程 (Minor)&lt;/h3&gt;
+&lt;p&gt;大音程減一個半音就是小音程，其中的小三度和小六度屬於 &lt;code&gt;不完全協和音程 (Imperfect consonances)&lt;/code&gt;；小二度和小七度則屬於 &lt;code&gt;不協和音程 (Dissonant)&lt;/code&gt;。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;音程名稱&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文縮寫 (注意大小寫)&lt;/th&gt;
+          &lt;th&gt;說明&lt;/th&gt;
+          &lt;th&gt;例子&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;小二度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Minor Second&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;m2&lt;/td&gt;
+          &lt;td&gt;一個半音的距離。&lt;/td&gt;
+          &lt;td&gt;C-Db、E-F&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;小三度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Minor Third&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;m3&lt;/td&gt;
+          &lt;td&gt;三個半音的距離。&lt;/td&gt;
+          &lt;td&gt;C-Eb、G-Bb、A-C&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;小六度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Minor Sixth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;m6&lt;/td&gt;
+          &lt;td&gt;一個 P5 + 一個半音、八個半音的距離。&lt;/td&gt;
+          &lt;td&gt;C-Ab、E-C&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;小七度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Minor Seventh&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;m7&lt;/td&gt;
+          &lt;td&gt;一個 P5 + 三個半音、十個半音的距離。&lt;/td&gt;
+          &lt;td&gt;C-Bb、A-G&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;小九度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Minor Ninth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;m9&lt;/td&gt;
+          &lt;td&gt;一個 P8 + 一個半音。&lt;/td&gt;
+          &lt;td&gt;C-Db&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;減音程-diminished&#34;&gt;減音程 (Diminished)&lt;/h3&gt;
+&lt;p&gt;完全音程或者小音程再減一個半音就會變成 &lt;code&gt;減音程&lt;/code&gt;。其中的減五度聽起來的感覺很讓人不舒服、詭譎、拗口 &amp;hellip; etc，所以屬於 &lt;code&gt;不協和音程 (Dissonant)&lt;/code&gt;。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;音程名稱&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文縮寫 (注意大小寫)&lt;/th&gt;
+          &lt;th&gt;說明&lt;/th&gt;
+          &lt;th&gt;例子&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;減二度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Diminished Second&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;d2 ~ P1&lt;/td&gt;
+          &lt;td&gt;小二度再減一個半音，平均律時頻率等於 P1。&lt;/td&gt;
+          &lt;td&gt;C-Dbb&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;減三度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Diminished Third&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;d3 ~ M2&lt;/td&gt;
+          &lt;td&gt;小三度再減一個半音，平均律時頻率等於 M2。&lt;/td&gt;
+          &lt;td&gt;C-Ebb&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;減四度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Diminished Fourth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;d4 ~M3&lt;/td&gt;
+          &lt;td&gt;完全四度再減一個半音，平均律時頻率等於 M3。&lt;/td&gt;
+          &lt;td&gt;C-Fb&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;減五度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Diminished Fitth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;d5&lt;/td&gt;
+          &lt;td&gt;完全五度再減一個半音，平均律時頻率等於增四度 (A4)。也就是所謂的 &lt;code&gt;三全音 (Tritone)&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;C-Gb&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;減六度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Diminished Sixth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;d6 ~ P5&lt;/td&gt;
+          &lt;td&gt;小六度再減一個半音，平均律時頻率等於 P5。&lt;/td&gt;
+          &lt;td&gt;C-Abb、E-C&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;減七度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Diminished Seventh&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;d7 ~ M6&lt;/td&gt;
+          &lt;td&gt;小七度再減一個半音，平均律時頻率等於 M6。最常見的就是減七和弦的音程。詳見 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明。&lt;/td&gt;
+          &lt;td&gt;C-Bbb&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;除了減五度、減七度，其他的音程一般比較少出現，他是他們依舊存在著。其他超過八度的 &lt;code&gt;延伸和弦 (Extended Chord)&lt;/code&gt; 名稱一樣、&lt;/p&gt;
+&lt;h3 id=&#34;增音程-augmented&#34;&gt;增音程 (Augmented)&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;完全音程&lt;/code&gt; 或者 &lt;code&gt;大音程&lt;/code&gt; 再加一個半音就會變成 &lt;code&gt;增音程&lt;/code&gt;。增四度和減五度的距離是一樣的，只是角度不一樣，所以他們都是 &lt;code&gt;不協和音程 (Dissonant)&lt;/code&gt;。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;音程名稱&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;英文縮寫 (注意大小寫)&lt;/th&gt;
+          &lt;th&gt;說明&lt;/th&gt;
+          &lt;th&gt;例子&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;增二度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Augmented Second&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A2 ~ m3&lt;/td&gt;
+          &lt;td&gt;一個全音再加一個半音的距離。平均律的頻率等同於小三度 m3&lt;/td&gt;
+          &lt;td&gt;C-D#&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;增三度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Augmented Third&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A3 ~ P4&lt;/td&gt;
+          &lt;td&gt;兩個全音再加一個半音的距離，平均律時頻率等於 P4。&lt;/td&gt;
+          &lt;td&gt;C-E#&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;增四度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Augmented Fourth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A4	等同於減五度 d5。也就是所謂的三全音 (Tritone)&lt;/td&gt;
+          &lt;td&gt;C-F#&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;增六度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Augmented Sixth&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A6&lt;/td&gt;
+          &lt;td&gt;一個 M6 + 一個半音的距離。平均律的頻率等同於小七度 m7&lt;/td&gt;
+          &lt;td&gt;C-A#&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;增七度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Augmented Seventh&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A7 ~ P8&lt;/td&gt;
+          &lt;td&gt;一個 M7 + 一個半音，平均律時頻率等於 P8。&lt;/td&gt;
+          &lt;td&gt;C-B#&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;同樣的，除了增四度，大部分一樣是存在著，但是實際應用時，除非有特殊意義，否則會用小音程來說明.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意，增減音程提到的例子寫的升降記號，即使 &lt;code&gt;B# = C&lt;/code&gt;、&lt;code&gt;Bbb = A&lt;/code&gt; 是同一個音，但是意義上是完全不一樣的。詳見 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;純律和平均律&#34;&gt;純律和平均律&lt;/h2&gt;
+&lt;p&gt;純律和平均律都是不同的調音方式。現行的大多都是平均律。這邊的平均律指的是巴哈的十二平均律。十二平均律主要的好處就是方便轉調。純律是以頻率的比例關係，聽起來比較 Smooth。&lt;/p&gt;
+&lt;p&gt;一般在平均律的 Bb 和 A# 頻率是一樣的，但是在純律是不一樣的。當然 Bb 和 A# 兩者不管是純律還是平均律，意義上都是不一樣的，詳見 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt; 的詳細說明。&lt;/p&gt;
+&lt;p&gt;但是不管純律還是平均律，他們都定義了大調音程，雖然實際上有一些差異。&lt;/p&gt;
 &lt;h2 id=&#34;總結&#34;&gt;總結&lt;/h2&gt;
-&lt;p&gt;這麼多音階指型, 光記憶可能就要花不少時間了, 但是這篇的目的只是把最常見的學習的路徑, 方式作整理, 簡單說也只是個目錄, 同時也是音階的基本功.&lt;/p&gt;
-&lt;p&gt;上述的 &amp;ldquo;學習方式&amp;rdquo; 是我個人建議的學習路徑, 其他進階的音階資訊可以參考 &amp;ldquo;音階學習地圖&amp;rdquo;, &amp;ldquo;音階基礎&amp;rdquo; 的列表.&lt;/p&gt;
-&lt;p&gt;現在網路資訊發達, 很多同學很容易取得各式各樣的訊息, 因此很多同學都很喜歡問像是: 調式音階, 和聲小調, 民俗音階 &amp;hellip; 是什麼東西? 怎麼用? 怎麼記? 每次同學問這樣的問題, 我會這樣想:&lt;/p&gt;
+&lt;p&gt;本文整理了一些自然大調的一些定義。實際上這些東西在學音樂的過程當中，或許不是有絕對的必要性，但是卻是整個西洋音樂演進的一個過程和定義。即使已經經過數百年的演進，但是很多東西依舊如同先知們驗證的那樣 (特別是音程的定義)。&lt;/p&gt;
+&lt;p&gt;在人類還不知道大調音階的關係之前，很多先人嘗試了各式各樣的方法，想找出一組聽起來最好聽、最自然、最安定的組合。而經過數百年的演進，探索、實驗、證明，最後歸納出兩組音階，分別是自然大調、自然小調，這兩組音階就是大部分的人們聽起來覺得最感到舒服的組合。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;那些音階可以去研究, 但是要比較著重用 &amp;ldquo;歌&amp;rdquo; 去記那些東西, 音樂還是要用聽的來驗證. 例如有什麼歌用到了 Mixolydian? 五聲音階有什麼歌? 和聲小調有啥曲風會出現? 這些在彈歌的過程中都可以得到驗證.&lt;/p&gt;
-&lt;p&gt;大家一定都聽過: 游泳教練作再多的教學, 說明, 都不如把你直接丟到水裡直接游來的感受深刻.&lt;/p&gt;
+&lt;p&gt;Youtuber 老高 也提過類似的概念：&lt;a href=&#34;https://www.youtube.com/watch?v=wGaTEf0e67U&#34;&gt;一切都不是巧合，2020真正的預言&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;另外就是沒有必要去把 &amp;ldquo;音階基礎&amp;rdquo; 提及的音階都背下來?  實際上你要是突然問我阿拉伯音階是啥, 吉普賽音階是啥? 我也答不出來. 因為我並沒有在玩那樣的音樂. 大部分的學習都是學習最有用的, 最常用的. 然後再以這些基礎的音階 (自然大小調, 五聲音階) 作延伸, 學習其他更進階的, 像調式, 和聲旋律小調, 小調調式, 爵士小調 &amp;hellip; etc..&lt;/p&gt;
-&lt;p&gt;而 &amp;ldquo;民俗音階&amp;rdquo; 則因人而異, 依照需求再額外研究學習. 喜歡日本民俗音樂, 可以去研究日本民俗調式, 喜歡熱情的西班牙, 中東音樂, 印度音樂, 則就去研究他們的民俗樂器和用法.&lt;/p&gt;
-&lt;p&gt;就像學英文不需要去背字典, 先把常用的熟練, 剩下的有需要再去學習. 專注於工程領域的, 就會去額外學科學用字; 專注於醫學, 就會去記很多醫學領域的字彙 &amp;hellip; etc.&lt;/p&gt;
-&lt;p&gt;但是如果基本的大小調音階, 五聲音階都不夠熟練, 就去學一大堆調式, 一大堆民俗音階, 那指會把自己弄得越來越頭昏, 最後連自己都不知道在彈什麼東西, 那就很可惜了.&lt;/p&gt;
-&lt;h3 id=&#34;比喻聯想組織&#34;&gt;比喻、聯想、組織&lt;/h3&gt;
-&lt;p&gt;如果你家的一層樓有 1000 坪, 那麼你一定會想把他分割成幾個房間, 然後每一間用途不一樣, 然後就可以擅用這些空間了. 另外一個概念就是電腦硬碟的格式化, 目錄分類, 也是一樣的.&lt;/p&gt;
-&lt;p&gt;想像如果吉他有一百格, 你要怎麼記? 所以要有方法, 上述指型是一般比較中規中矩的, 常見的. 實際上一些吉他手都有自己的音階記憶方式. 像是手大一點的老外就會喜好跨多格的記憶方式. 像著名的吉他手 Marty Friedman 的音階就跟上述的很不一樣.&lt;/p&gt;
-&lt;p&gt;本文提到的五個音階指型, 都是縱向思考, 玩速彈的吉他手, 則會有橫向的音階思考, 簡單說就是所謂的一弦三音的模式, 甚至一弦四音. 一弦三音適合手大的西方人, 東方人手可能沒那麼大 (還是可以訓練), 所以要花更多時間練習.&lt;/p&gt;
-&lt;p&gt;但是不管什麼樣的記憶方式, 目的都是一樣: 幫學習者格式化 (Format) 吉他的指版, 小段的記憶, 最後串起來才能夠活用.&lt;/p&gt;
-&lt;p&gt;所以類似的樂器, 像烏克麗麗 (Ukulele), 用同樣的邏輯, 就很容易學習了.&lt;/p&gt;
-&lt;p&gt;不管是音階還是和弦, 鼓勵同學學習的過程作一些簡單的想像, 手邊沒吉他的時候, 拿起紙筆塗鴉, 天馬行空, 找個人來教. 附上我過去的學習足跡, 或許能夠拋磚引玉 ~&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;rick-learning-path.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;大調音階和小調音階在聽覺上是一個對應的關係，就如同中國的陰陽兩極一樣。所以了解這兩個是有其必要性的。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
 &lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;吉他琶音 (Arpeggios) 的練習 - 以 Gmaj7 為例&lt;/li&gt;
-&lt;li&gt;音階的本質&lt;/li&gt;
-&lt;li&gt;音階學習地圖&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/minor-scale/&#34;&gt;小調音階&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/note-signature/&#34;&gt;升降記號&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;音階基礎&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/guitar-fundation-technical/&#34;&gt;吉他基本功&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;調、調式與轉調&lt;/li&gt;
-&lt;li&gt;五聲音階與調式音階的關係&lt;/li&gt;
-&lt;li&gt;吉他手如何練習音感&lt;/li&gt;
-&lt;li&gt;練習的層次&lt;/li&gt;
-&lt;li&gt;如何練一首歌&lt;/li&gt;
-&lt;li&gt;大調音階&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2010/08/guide-to-guitar-scale-pattern.html&lt;/li&gt;
-&lt;li&gt;2010/08/07: 初版&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 吉他的基本功</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/guitar/guitar-fundation-technical/</link>
-      <pubDate>Sun, 16 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/guitar/guitar-fundation-technical/</guid>
-      <description>
-        
-        
-        &lt;p&gt;學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?&lt;/p&gt;
-&lt;p&gt;那平常應該練些什麼呢? 爬格子? 音階? 節奏? 琶音? 即興? 每天練多久? &amp;hellip;&lt;/p&gt;
-&lt;p&gt;這些我覺得都要練, 只是每個人的程度/狀況不一樣, 喜好的 Style 不一樣, 平常練習應該專注的東西也不相同. 我把一些我認為一個吉他手該練習、該具備的基本功, 還有我個人練習的一些方向 / 方式 / 思維列表出來, 有興趣的朋友不妨參考看看.&lt;/p&gt;
-&lt;p&gt;不過要把話說在前頭, 這些東西不是練個兩天, 兩週, 或者兩個月就會看的到成果, 除非一天花八個小時練琴, 否則少說練個幾年才有成果. 而且很多大師也都每天在練習的, 所以別問太多為什麼。&lt;/p&gt;
-&lt;p&gt;另外本文不是啥教學文, 這只是一些心得歸納, 大部分項目的詳細內容, 網路上都找的到. 如果說是教學文的話, 套句總舵主陳定南的話:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Cap65.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Cap66.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;開始正題 (目錄開始)，我個人把練習的內容大致上分成幾個部分:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;樂器技巧練習&lt;/li&gt;
-&lt;li&gt;基本功 (內功)&lt;/li&gt;
-&lt;li&gt;節奏訓練&lt;/li&gt;
-&lt;li&gt;吉他演奏技巧&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;一樂器基本技巧練習&#34;&gt;一、樂器基本技巧練習&lt;/h2&gt;
-&lt;p&gt;第一類是樂器技巧的練習, 其他樂器也都會有類似的練習, 對應到鋼琴大概就是哈農. 這邊就是吉他的手指強化訓練, 大概包含爬格子, 左手指強化訓練 &amp;hellip; 這些東西, 大部分, 跟音樂還沒扯上關係, 但是都是為日後詮釋音樂的馬步. 是否需要做這種訓練, 是有爭議的. 但是我個人趨向是要的.&lt;/p&gt;
-&lt;p&gt;爬格子: 這是最常見的暖指練習. 主要目的就是要強化左手的靈活度, leagto (圓滑音) 的訓練. 爬格子的排列組合很多, 大致上分成: 四連音排列組合, 跳弦 (拆神經) &amp;hellip; 等.&lt;/p&gt;
-&lt;p&gt;左手四連音 (螃蟹爬格子):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1234, 1243, 1342, 1324, 1423, 1432&lt;/li&gt;
-&lt;li&gt;2341, 2314, 2413, 2431, 2143, 2134&lt;/li&gt;
-&lt;li&gt;3412, 3421, 3124, 3142, 3241, 3214&lt;/li&gt;
-&lt;li&gt;4123, 4132, 4312, 4321, 4213, 4231&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;共有 24 種排列組合, 可以在吉他指板上任意把位練習, 這東西能夠保持左手手指的靈活度. 通常一段時間沒彈琴, 我會選擇爬一下格子, 作為暖身的預備.&lt;/p&gt;
-&lt;p&gt;另外一種螃蟹爬格子, 是跨弦的練習, 大概就是先彈第一弦, 之後彈第三弦, 以此類推. 小林信一這幾年很紅的地獄練習教本裡面, 一開始就有類似的練習.&lt;/p&gt;
-&lt;p&gt;還有一種原本左手是 1234 都彈同一跟弦, 改成 12 彈第六弦, 34 彈第五弦; 或者 13 彈第六弦, 24 彈第五弦 &amp;hellip;. 諸如此類的排列組合.&lt;/p&gt;
-&lt;p&gt;左手手指的強化訓練: 特別針對左手的手指獨立的作的訓練, 這種訓練剛開始要注意練習的方式, 不要一下子就練太久, 要適度的休息.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;小指訓練: 1343, 1242, 1434, 1424, 2434, 2343, &amp;hellip; etc&lt;/li&gt;
-&lt;li&gt;無名指訓練: 1232, 2323 &amp;hellip;&lt;/li&gt;
-&lt;li&gt;配合垂勾練習: 上述的左手各種排列組合, 都可以配合搥勾技巧練習, 特別是 124, 134 這樣的組合, 適當的配合搥勾技巧, 就夠做出很漂亮的速彈.&lt;/li&gt;
-&lt;li&gt;斜形 (/ 形 \形): 吉他大師 John Petrucci 介紹的一種手指獨立訓練練習方式, 如下圖.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;JohnPetrucci-WarmUp.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;樂器技巧的練習時機有幾個:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;剛開始學習吉他的時候: 要讓初學者感覺, 手是我的 &amp;hellip;. 但是完全沒練過吉他的純初學者不要急著練這些 &amp;hellip;&lt;/li&gt;
-&lt;li&gt;一段時間沒練琴了: 很久沒碰琴了, 要把手感找回來.&lt;/li&gt;
-&lt;li&gt;每天開始練琴時: 取得手指頭的靈活度, 暖指&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;大概是這些時間點, 考慮自己的學習狀況作選擇性的練習. 然後練習時, 右手一律用 Alternative Picking (上下 Picking),  Tone 則分別先後用 clean tone 和 distortion 練習, 把每一個音交代清楚.&lt;/p&gt;
-&lt;p&gt;因為這個練習跟音樂沒有直接的關係, 而且吉他又是一種二維的棋盤格子樂器, 所以發揮你的想像力, 想一些屬於自己的練習, 來增加練習的樂趣. 我小時候很喜歡玩五子棋, 所以每次在畫指版音階圖的時候, 都會想像成五子棋的棋子 XDD&lt;/p&gt;
-&lt;p&gt;提供一些想像力: 把上述提到的練習方式混搭, 例如爬格子 1234 + 斜行 \ 混合練習. 吉他大師 Lee Ritenour 有類似的練習介紹.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;二音樂演奏基本功&#34;&gt;二、音樂演奏基本功&lt;/h2&gt;
-&lt;p&gt;第二類是以音階, 和弦, 和節奏為元素的排列組合練習, 大概範圍有: 音階指型, 基本和弦和進行, 模進, 琶音, 節奏 &amp;hellip; 等. 這些東西我習慣把它們統稱基本功 (內功 / 馬步). 這些東西會反映在日後採譜, 練習即興, 創作, 理解歌曲的速度, 熟練度等.&lt;/p&gt;
-&lt;p&gt;練習的不夠, 採譜就不容易快, 準; 彈奏時對音符的掌握會不夠精準 &amp;hellip; 等. 所以這部分, 我覺得是有必要花心思練習的. 但是如何有效率的練習, 就看每個人的方式了! 這東西沒有練多久的問題, 只要還在彈琴, 就要持續練習. 即使是大師級的音樂家, 每天也都會練這些基本功, 所以每天一定要抽空練.&lt;/p&gt;
-&lt;h3 id=&#34;音階指型-scale-pattern&#34;&gt;音階指型 (Scale Pattern)&lt;/h3&gt;
-&lt;p&gt;有五個基本型 + 三種一弦三音. 五個基本型又可以衍生出一些應用:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;大調音階: P1 ~ P5 (或者稱 Mi, Sol, La, Ti, Re 型)&lt;/li&gt;
-&lt;li&gt;小調音階: P1 ~ P5&lt;/li&gt;
-&lt;li&gt;大小調五聲音階: P1 ~ P5&lt;/li&gt;
-&lt;li&gt;藍調音階、和聲、旋律小調 &amp;hellip;.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;把大小調分開來看是因為兩者能夠熟練其轉換, 對於日後練習藍調會很有幫助.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;※ 關於大小調的觀念請參考 大調音階 (Major Scale), 小調音階 (Minor Scale). 音階方面請參考 吉他音階學習引導, 音階基礎 及 音階學習地圖.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;音階指型的訓練還要注意的是, 不管是上行還是下行, 建議要從根音開始, 根音結尾, 同時要把音名唱出來, 主要讓耳朵能夠辨識 Key Center 的概念, 這也是未來採譜的基礎之一.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;※ 音感相關概念文字, 可以參閱: 吉他手怎麼訓練音感, 固定唱名? 還是首調唱名?, 關於唱名.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;練習的調性可以按照五度圈來跑, 例如:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;基數月份練順時針 (五度):
-&lt;ul&gt;
-&lt;li&gt;基數週都練 C -&amp;gt; G -&amp;gt; D -&amp;gt; A -&amp;gt; E -&amp;gt; B -&amp;gt; F# -&amp;gt; C#&lt;/li&gt;
-&lt;li&gt;偶數週練: C -&amp;gt; F -&amp;gt; Bb -&amp;gt; Eb -&amp;gt; Ab -&amp;gt; Db -&amp;gt; Gb&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;偶數月份練逆時針 (四度):
-&lt;ul&gt;
-&lt;li&gt;基數週: C# -&amp;gt; F# &amp;gt;B -&amp;gt; E -&amp;gt; A -&amp;gt; D -&amp;gt; G -&amp;gt; C&lt;/li&gt;
-&lt;li&gt;偶數週 Gb -&amp;gt; Db -&amp;gt; Ab -&amp;gt; Eb -&amp;gt; Bb -&amp;gt; F -&amp;gt; C&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;這種練習就看自己的時間狀況, 自行安排適當的 Schedule 練習. 目的就是要練到隨便指定一個調性, 要馬上 (2秒內) 找到是適當的把為位置, 超過兩秒都算不合格.&lt;/p&gt;
-&lt;h3 id=&#34;模進-sequence&#34;&gt;模進 (Sequence)&lt;/h3&gt;
-&lt;p&gt;簡單說就是以音階為基礎, 作一些排列組合的練習. 常見的有: 四個一組 (16beat), 三個一組 (三連音), 三度音 (8beat or 16 beat), 五聲音階, 一弦三音 (六連音) &amp;hellip; 等. 以下的數字是音階.&lt;/p&gt;
-&lt;p&gt;四個一組 (16 beat):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;上行: 1234, 2345, 3456, 4567, 5671, &amp;hellip;.&lt;/li&gt;
-&lt;li&gt;下行: 1765, 7654, 6543, 5432, 4321, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;x 五個 Pattern,&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;三個一組 (三連音):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;上行: 123, 234, 345, 456, 567, 671 &amp;hellip;&lt;/li&gt;
-&lt;li&gt;下行: 176, 765, 654, 543, 432, 321 &amp;hellip;&lt;/li&gt;
-&lt;li&gt;x 五個 Pattern&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;三度音模進 (8 beat or 16 beat):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;上行: 13, 24, 35, 46, 57, 61, 72, 1 &amp;hellip;&lt;/li&gt;
-&lt;li&gt;下行: 16, 75, 64, 53, 42, 31, 27, 1 &amp;hellip;&lt;/li&gt;
-&lt;li&gt;x 五個 Pattern&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;五聲音階模進:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;上行: 6123 1235 2356 3561 &amp;hellip;&lt;/li&gt;
-&lt;li&gt;下行: 1653 6532 5321 3216 &amp;hellip;&lt;/li&gt;
-&lt;li&gt;x 五個 Pattern&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Sequence 的種類百百種, 特別是喜歡玩 Riff, 喜歡玩即興樂手 (不只是吉他手), 類似的東西給一個和弦的範圍, 他可以以此為 base, 想出數十種變化. 所以上述前三種, 是我個人認為最最最最最最基本的. 想專心把 Solo, Riff 彈好, 想 Jam 的內容有變化, 這三種一定要花時間穩紮穩打的練. 切忌一味求快!!!&lt;/p&gt;
-&lt;p&gt;同樣的, 這部分也可以想一些屬於自己的排列組合來增加練習的樂趣. 但是不同於爬格子, 這部分會讓你覺得彈出來的東西會具備 &amp;lsquo;音樂性&amp;rsquo;, &amp;lsquo;可聽性&amp;rsquo;. 所以創作, 可以從這裡出發. 隨便舉一個例子, 以某一個音為基礎來彈音階, 像是 | 12 13 15 16 | 34 35 36 31 |, 這其中的規則應該不難發現, 還有很多類似的想法, 發揮想像力, 讓練習更有趣吧 :D&lt;/p&gt;
-&lt;h3 id=&#34;順階和弦與和弦進行-chord-and-progression&#34;&gt;順階和弦與和弦進行 (Chord and Progression)&lt;/h3&gt;
-&lt;p&gt;針對不同調性的順階和弦, 可以安排時間做練習. 常見的基本和弦指型五種: CGDAE, 利用這五種基本指型, 配上和弦指型簡化 + 調性 + 和弦進行, 這樣就有很多組合了. 換句話說, 每一個和弦, 至少都要能夠有五種以上的按法. 組合說明如下:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CGDAE: 五種吉他和弦指型, 每一個都有基本形和變化型:
-&lt;ul&gt;
-&lt;li&gt;開放指型: 所有和弦種類, 最基本的和弦指型.&lt;/li&gt;
-&lt;li&gt;基本移動和弦 (Barre Chord): 大三 (X), 小三 (Xm), 大七 (Xmaj7), 小七 (Xm7), 屬七 (X7), 減七 (Xdim7), Xm7-5  &amp;hellip;.&lt;/li&gt;
-&lt;li&gt;應用和弦: Xsus4, Xadd9, X6, X69, Slash Chord.&lt;/li&gt;
-&lt;li&gt;進階與延伸應用: Extended Chord &amp;hellip;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;配合調性: 練習方式可以參考練習音階的方式, 調性以五度圈方式跑, 和弦進行也是.&lt;/li&gt;
-&lt;li&gt;配合和弦進行: 像是 卡農進行, 6415, 251, 1625, 1564 &amp;hellip; etc &amp;hellip;&lt;/li&gt;
-&lt;li&gt;CGDAE 的簡化吉他指型: 簡化五種指型, 所形成的另一種和弦按法, 練習概念第一個基本型變化.
-&lt;ul&gt;
-&lt;li&gt;這部份如果以七和弦做基本的話, 變化會很大, 也可以加入很多創意. 例如: Emaj7sus2 簡化 (省略五六弦) 後會變成 B; Fmaj7 簡化五六弦會得到 Am &amp;hellip;. etc, 或者行成另外一種簡化方式: Shell Chord.&lt;/li&gt;
-&lt;li&gt;或者改變簡化的方式, 例如 E 型的 A 和弦, 保留第六弦 (用拇指按), 省略四五弦, 這樣就會找到很多盧廣仲常用的那種案法. 他那些按法只是以七和弦做基礎而已, 所以以七和弦為基礎的移動和弦, 套用這個簡化概念, 那麼盧廣仲的和弦按法就不難懂了.&lt;/li&gt;
-&lt;li&gt;有興趣玩 Jazz/Fusion/Funk/Blues 的朋友, 可以多花時間研究這種用法.會發現很多好玩的東西. 相關基本概念請參考 &amp;ldquo;吉他和弦聲位概念&amp;rdquo; 的介紹.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;和弦指型抽象化: 這是在練習藍調時我想出來的方式. 主要就是從已知的吉他和弦指型中, 做應用變化. 例如 E 型和弦, 但是只彈其中兩根弦, 或者只彈 Guide Tone 等. 但是基本概念還是在 CGDAE 指型.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;上述提到的和弦類別和吉他和弦按法, 可以參考 和弦基礎, 吉他和弦聲位概念 的說明.&lt;/p&gt;
-&lt;p&gt;這些東西很多, 但是卻是伴奏時很最常用的基本觀念. 提供一個我常用的練習方式: 指定調性, 指定吉他把位範圍, 給予歌曲的和弦進行. 例如:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;彈 Eb 大調, 把位範圍在 4 ~ 9 格, 彈出卡農進行的伴奏, 右手指法不限定.&lt;/li&gt;
-&lt;li&gt;彈 G大調, 把位範圍在 1 ~ 5 格, 彈 2514736 進行&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;當然, 這例子都是不可以用 Capo 的. 這都是一些自我練習的方式.&lt;/p&gt;
-&lt;h3 id=&#34;琶音-arpeggios&#34;&gt;琶音 (Arpeggios)&lt;/h3&gt;
-&lt;p&gt;以練習和弦音階 (Chord Tone) 為主, 基本的範疇包含了, 右手指法, 三和弦琶音, 七和弦琶音 &amp;hellip; 等.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;右手指法: T1213121, T123~21, T12TT12T &amp;hellip;. 諸如此類的練習, 只是換成 Alternative / Economic / Hybird Picking&lt;/li&gt;
-&lt;li&gt;把位互換練習: 簡單說, 同樣的 C 練習五個把位, 還有其轉位的彈法, 例如: C (P1, P2)-&amp;gt; C/E (P3, P4), C/G (P5)&lt;/li&gt;
-&lt;li&gt;琶音練習: 這邊指的就是要把每一個和弦內音都彈到的琶音, 主要包含三和弦和七和弦. 每一個和弦的琶音也會有五個基本型, 以七和弦來講, 就有大七 (Xmaj7), 小七 (Xm7), 屬七 (X7), 減七 (Xdim7), 半減七 (Xm7-5), 所以共有 5x5=25 個形要練. 基本的練習方式請參閱『吉他琶音的練習 - 以 Gmaj7 為例』
-&lt;ul&gt;
-&lt;li&gt;這部分除了基本的和弦, 還要搭配一些和弦進行來練, 例如卡農進行, 6415, 251, 1625 &amp;hellip; etc, 然後再搭配不同的調性練習, 算是為即興作準備. 這部分要花很多時間練習, 但是是很值得花心思練的.&lt;/li&gt;
-&lt;li&gt;和弦相關的學習方式以及分類介紹, 請參考 &amp;ldquo;和弦基礎&amp;rdquo;, &amp;ldquo;和弦學習地圖&amp;rdquo; 的介紹. 和弦進行請參考 &amp;ldquo;卡農進行&amp;rdquo; 的介紹.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;上述的三個部份：音階指型、模進、琶音都可以互相搭配練習，當然要這樣作之前，先把馬步打穩，至少上述三個部份都要練過，最後才是混合的練習。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;三節奏訓練&#34;&gt;三、節奏訓練&lt;/h2&gt;
-&lt;p&gt;最後一個是節奏訓練 (Rhythm &amp;amp; Groove), 著重在於練習節奏感的協調性. 節奏的訓練意思不是一直要挑戰速度多快, 而是練習知道現在在哪裡, 然後能夠把音符放在想詮釋的地方. 這部分可以搭配琶音練習一起練習, 也是為即興作準備.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;關於速度的訓練方式，請參考 &amp;ldquo;關於速度&amp;rdquo; 一文的分享。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;基本節奏點的排列組合:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;基本的有: 全音符, 二分音符, 四分音符, 八分音符, 十六分音符, 三十二分音符&lt;/li&gt;
-&lt;li&gt;連音:  三連音, 六連音, 和一些特殊的連音變化, 像五連音, 七連音, 九連音 &amp;hellip; etc.&lt;/li&gt;
-&lt;li&gt;然後就是延音, 附點, 休止符, 切分, Swing/Shuffle 等變化.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;這些都是節奏訓練的重點, 難度 3 &amp;gt; 2 &amp;gt; 1.&lt;/p&gt;
-&lt;p&gt;節奏練習另一個目的就是培養律動感 (Groove), 最近很紅的歌曲 &amp;ldquo;Sorry Sorry&amp;rdquo; 就是一首看似簡單, 但是卻是很有 Groove 的曲子, 無聊可以感受一下那個律動感.&lt;/p&gt;
-&lt;p&gt;吉他手很多時候很被詬病的就是拍子不穩, 節奏不會算, 而且常常本末倒置的練了一堆花俏的技巧 (掃弦, 點弦, 速彈, 搖桿, 搞效果器 &amp;hellip;. 等), 卻連基本的拍子都不穩, 歌曲段落都搞不清楚. 特別是跟別人合作的時候, 像是搭團的時候, 不管是一般的樂團, 還是跟一些其他樂器組合, 很容易一暴十寒, 基本上就是這些基本功沒練好, 一定要正視正確性與速度這個問題, 切記切記.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;四吉他基本演奏技巧&#34;&gt;四、吉他基本演奏技巧&lt;/h2&gt;
-&lt;p&gt;還有另一部分屬於吉他專屬的技巧基本功 - 基本演奏技巧, 這些東西我沒有把它們列出來, 因為他們通常要搭配專屬的樂句, 和弦進行來練習, 最好文圖並茂比較好說明, 本文只是 &amp;lsquo;目錄&amp;rsquo;, 所以就大概提一下好. 常見的大致上如下:&lt;/p&gt;
-&lt;h3 id=&#34;基本的伴奏手法&#34;&gt;基本的伴奏手法&lt;/h3&gt;
-&lt;p&gt;包含各種基本的右手指法, Picking, Power Chord, Riff, Fill (差音) 等. 很多吉他手常常花很多時間一堆花俏的技巧, 卻連基本的 power chord 都彈的不乾淨, 該悶該放, 該強該弱, 該快該慢, 都是基本的東西.&lt;/p&gt;
-&lt;h3 id=&#34;各調的順階和弦應用&#34;&gt;各調的順階和弦應用&lt;/h3&gt;
-&lt;p&gt;也一樣是基本功的範圍. 隨時要有轉調能夠伴奏的基本能力, 以及反應速度. 特別是一些常用的和弦進行, 或者常用的調性. 我常舉例, 打開電視的歌唱節目, 不管他正在唱什麼歌, 有沒聽過, 能否在很短的時間之內 (最好是一句歌詞的時間) 找到調性, 然後直接接上伴奏, 或者即興 Solo. 這些概念可以參考 &amp;ldquo;吉他手需要鍊各個調嗎?&amp;rdquo;, &amp;ldquo;卡農進行&amp;rdquo;, 和 &amp;ldquo;吉他手怎麼訓練音感&amp;rdquo; 等的介紹說明.&lt;/p&gt;
-&lt;p&gt;特別是樂團裡的吉他手, 一首歌裡大部分的時間 (4/5) 都在負責伴奏, Solo 實際上的時間可能很少 (1/5). 即使 Solo 彈的 100% 完美, 但是伴奏卻彈的二二六六 (零零落落), 以比賽的角度來看, 這個吉他手基本上是出局的.&lt;/p&gt;
-&lt;h3 id=&#34;電吉他基本演奏技巧&#34;&gt;電吉他基本演奏技巧&lt;/h3&gt;
-&lt;p&gt;五字訣搥, 勾, 推, 滑, 顫. 這五個技巧不管是彈那一種 Style, 基本上都是必備的. 練習時通常搭配 lick, riff 練習. 這部分可以參考豆芽菜舖琵琶老師的介紹, 有清楚的說明和解說. Lick 的練習方式請參考 &amp;ldquo;如何練習例句 Lick&amp;rdquo; 的說明.&lt;/p&gt;
-&lt;p&gt;至於其他點 (Tapping), 搖, 掃 (Sweep), 舔, 咬等花式技巧, 算是比較炫技, 創意 (瘋狂/花式/創意/舞台效果) 技巧, 就不算在基本功裡了. 泛音我把他放在裝飾技巧的範圍裡, 不列入基本功.&lt;/p&gt;
-&lt;p&gt;花式技巧的意思是說吉他手不會這種技巧, 一樣可以把音樂詮釋的很好. 但是基本演奏技巧卻是把音樂詮釋好的必備條件. 如果是比賽的話, 評審可能不會在意你的點弦有多絢麗 (但是會在意使用的創意以及時機), 但是只要推弦 (Bending) 音不準, 或者顫音 (Vibrato) 穩定度不夠, 基本上, 在 &amp;ldquo;吉他演奏技巧&amp;rdquo; 的範圍裡, 就算出局了.&lt;/p&gt;
-&lt;h3 id=&#34;木吉他基本技巧&#34;&gt;木吉他基本技巧&lt;/h3&gt;
-&lt;p&gt;三指法, 打版, 切音, 跑馬, 各式基本節奏 &amp;hellip;. 等. 搭配和弦進行練習. 同樣的, 這幾年很流行的拍, 打, 點, 咬, 滾 &amp;hellip; 也是瘋狂/花式的技巧, 不算基本功.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
-&lt;p&gt;本來我還要寫第三類 - 即興與創意的訓練. 這部分主要在於練習音樂結構的思考, 分析, 練習情緒曲線起伏的鋪陳 &amp;hellip;. 等.不過這部分就稍微要有一點基礎 (至少前面兩大類都要練到一定程度), 而且範圍太大, 所以先點到這裡就好.&lt;/p&gt;
-&lt;p&gt;所以草草整理了一些我自己的學習心得想法, 這些東西怎麼有效的吸收, 怎麼有效的練習, 我想這關係到每個人對於面對事務的處裡態度, 紀律, 哲學, 習慣, 思維, 時間管理, 自我約束 &amp;hellip; 等, 都有關係. 說白一點, 寫出這些東西不是重點, 怎麼有效率, 有紀律的執行練習, 才是重點.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;練樂器, 要腳踏實地, 一步一腳印, 未來一定會有成果.
-切記, 不要囫圇吞棗, 貪多嚼不爛, 捷徑最遠!!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;最後附上一些大師基本功的教學:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NfwDtrwNJkY&#34;&gt;John Scofield&lt;/a&gt; (爵士吉他大師)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z6QdoUc8v5E&#34;&gt;Lee Ritenour&lt;/a&gt; (爵士吉他大師)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c8LwkmwC9pk&amp;amp;feature=related&#34;&gt;Joe Satriani&lt;/a&gt; (當代吉他大師)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BrD5qqHFBtA&amp;amp;feature=related&#34;&gt;John Petrucci&lt;/a&gt; (DT Guitarist)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=q6OUC9x4dDY&amp;amp;feature=related&#34;&gt;Jordan Rudess&lt;/a&gt; (DT Keyboardist)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jR9to6lbqTY&amp;amp;feature=related&#34;&gt;Victor Wooten&lt;/a&gt; (Bassist 大師)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;大師都這樣練習了, 我們呢?&lt;/p&gt;
-&lt;h3 id=&#34;後記-20091025&#34;&gt;後記 (20091025)&lt;/h3&gt;
-&lt;p&gt;有朋友私下 Mail 給我，問我是怎麼練習這些東西，基本上我也不過就是 &amp;ldquo;有方法&amp;rdquo; 的去組織這些東西，然後 &amp;ldquo;安排適當的 Schedule 去執行 (Ex: Google Calender)&amp;rdquo; 而已，類似的概念我就不想再多提，因為大師：&lt;a href=&#34;http://rickmidi.blogspot.com/2007/04/john-petrucci.html&#34;&gt;John Petrucci&lt;/a&gt; 已經說的很清楚了, 或者參考 &amp;ldquo;如何安排練習 - 以上班族為例&amp;rdquo;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;吉他琶音的練習 - 以 Gmaj7 為例&lt;/li&gt;
-&lt;li&gt;如何安排練習 - 以上班族為例&lt;/li&gt;
-&lt;li&gt;大調音階 (Major Scale)&lt;/li&gt;
-&lt;li&gt;小調音階 (Minor Scale)&lt;/li&gt;
-&lt;li&gt;『怎麼彈』和『彈什麼』&lt;/li&gt;
-&lt;li&gt;吉他手怎麼練習音感&lt;/li&gt;
-&lt;li&gt;相對、絕對音感&lt;/li&gt;
-&lt;li&gt;學習雜感&lt;/li&gt;
-&lt;li&gt;當吉他手預見禪 - 摘要、心得&lt;/li&gt;
-&lt;li&gt;正確性與速度&lt;/li&gt;
-&lt;li&gt;關於速度&lt;/li&gt;
-&lt;li&gt;如何練習例句 Lick&lt;/li&gt;
-&lt;li&gt;卡農進行&lt;/li&gt;
-&lt;li&gt;吉他和弦聲位概念&lt;/li&gt;
+&lt;li&gt;關於唱名&lt;/li&gt;
+&lt;li&gt;轉調曲例&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/can-i-create-a-new-scale/&#34;&gt;可以自行創造音階？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;樂器音階頻率表 (十二平均律)&lt;/li&gt;
 &lt;li&gt;吉他音階學習引導&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h3&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;大師教學：John Petrucci 教你彈吉他&lt;/li&gt;
-&lt;li&gt;基本功 - 豆芽菜舖 (琵琶手)&lt;/li&gt;
-&lt;li&gt;給吉他手的幾句話 - Bass GoGoGo&lt;/li&gt;
-&lt;li&gt;Steve Vai 的 30 小時吉他訓練&lt;/li&gt;
-&lt;li&gt;Top TEN guitar practice tips &amp;amp; suggestions (Next Level Guitar)&lt;/li&gt;
+&lt;li&gt;純律 (Just Intonation) - Wiki&lt;/li&gt;
+&lt;li&gt;十二平均律 - Wiki&lt;/li&gt;
+&lt;li&gt;音程 Interval - Wiki&lt;/li&gt;
+&lt;li&gt;Note&lt;/li&gt;
+&lt;li&gt;簡譜&lt;/li&gt;
+&lt;li&gt;鋼琴調音 440Hz 和 442Hz - 廷廷的鋼琴論壇&lt;/li&gt;
+&lt;li&gt;History of U.S。Standard Pitch，A=440Hz&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2014/04/blog-post.html&lt;/li&gt;
-&lt;li&gt;2009/08/16: 初版&lt;/li&gt;
-&lt;li&gt;2009/12/09: 新增基本伴奏手法&lt;/li&gt;
-&lt;li&gt;2010/03/28: 增加吉他手伴奏的重要性說明&lt;/li&gt;
-&lt;li&gt;2010/04/06: 增加針對順階和弦練習重要性的說明&lt;/li&gt;
-&lt;li&gt;2010/08/22: 增加 Sequence 重要性的描述&lt;/li&gt;
-&lt;li&gt;2010/10/03: 修改對 Bending &amp;amp; Vibrato 重要性的描述, 同時增加段落標題&lt;/li&gt;
-&lt;li&gt;2011/04/24: 增加 Top TEN guitar practice tips &amp;amp; suggestions 連結.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 開歌, 選歌</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/band/pick-songs/</link>
-      <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/band/pick-songs/</guid>
-      <description>
-        
-        
-        &lt;p&gt;歌唱選秀節目裡, 評審常常給參賽者的評語是:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;你的歌聲很好, 技巧也不錯, 就是歌選的不好, 所以無法讓你的特色更加的突顯出來, 無法讓你發揮到一定程度 &amp;hellip;&amp;hellip;..&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在樂團裡也常會有這樣的情況. 一個 Cover 歌曲的團, 大家選歌時, 有時候落差也會很大. 歌選的適當, 團員大家都可以發揮, 自然表演就可以盡興. 歌選的不好, 就會造成有人覺得太簡單, 有人覺得太難 &amp;hellip;.. 然後搭起來, 總是有美中不足的感覺 ~ 或者搭了一年, 狀況還是沒變 &amp;hellip;..&lt;/p&gt;
-&lt;p&gt;所以開歌的時候, 最好每個樂手都要 test 一下歌曲的難易度. 如果歌曲的配器超出現有的編制, 例如歌曲中的間奏 solo 用到 4 種吉他 Tone, 那要怎麼取捨; 歌曲中有很明顯的 string, pad, 等鍵盤音色, 現有配置並沒有鍵盤手, 該怎麼辦? 或者根本沒有吉他, 只有鍵盤, 那現有配置是否應該做調整 &amp;hellip; 等. 基本上類似的概念與 &amp;ldquo;樂團的經營&amp;rdquo; 一文的描述類似.&lt;/p&gt;
-&lt;p&gt;歌曲的種類, 大概簡單分成以下幾種, 開歌的時候, 可以依照自己樂團的編制, 思考該如何取捨, 或者該如何重新配器.&lt;/p&gt;
-&lt;h2 id=&#34;metal--rock&#34;&gt;Metal / Rock&lt;/h2&gt;
-&lt;p&gt;通常選擇玩搖滾歌曲, 原曲中該團有所謂的 Guitar Hero, Guitar Super Star, Metal Kid, Speed Killer %^&amp;amp;*()&amp;hellip;. 這一類的歌曲通常有共同的特色:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;一定要趁趁趁 - 吉他 Distortion Power Chord, 或者精采的 Guitar Riff&lt;/li&gt;
-&lt;li&gt;一定會有一段精采的 Guitar Solo: Solo 的複雜程度不一&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;這種歌曲能否 Cover 的成功, 吉他手會是關鍵因素. 所以選這類的歌, 團裡的吉他手, 要先看看自己的狀況, 如果只剩下一小節練不起來, 那可以試看看, 這是練技術很不錯的機會 ~&lt;/p&gt;
-&lt;p&gt;除了精采的 Solo, 有些歌曲也會有很精采的 Riff, 或者 Dual Guitar Solo &amp;hellip; 所以玩這類的曲子, 吉他手最好先自己 test 一下能否 handling 的過來, 是否能夠把該 Riff 的特色 - 基本表情 - 詮釋的有味道.&lt;/p&gt;
-&lt;p&gt;另外, Cover 的樂團如果是所謂的前衛金屬, 華麗搖滾之類的, 那重的就不只有吉他, 通常所有樂手配置都很重. 玩這類的曲子, 成員應該都要具備相當程度.&lt;/p&gt;
-&lt;p&gt;所以大家要稍微面對現實, 別開出來一的堆都是 DT, Angra, X-Japan, Stratovarius &amp;hellip;. 之類的, 那會搞死人的. 當然大家如果有心要練這類的歌, 倒是可以一起努力.&lt;/p&gt;
-&lt;h2 id=&#34;pop-rock&#34;&gt;POP Rock&lt;/h2&gt;
-&lt;p&gt;流行搖滾, 通常樂器技巧上不會太難, 樂器 Solo 也不會太多, 比較重視的是歌曲本身氣氛的營造. 所以, 每一個音符都是重點, 包含休止符. 該如何收放很重要, 尤其是段落之間情緒的起伏, 第一段跟第二段彈的東西儘量不要重複, 要有新的東西. 這些細節仔細聽原曲都可以聽到很多編曲者的巧思, 通常幾個點綴的音符, 都會影響歌曲整個的精緻度.&lt;/p&gt;
-&lt;h2 id=&#34;pop-ballad&#34;&gt;POP Ballad&lt;/h2&gt;
-&lt;p&gt;一般的慢歌, 感覺營造的比例更高. 所以跟上面的特性類似, 不過比例更重, 特別是主唱的唱功和鍵盤手的鋼琴伴奏功力. 慢歌鍵盤手很重要, 如何跟主唱有默契的對話, 我覺得影響歌曲成敗關係很大.&lt;/p&gt;
-&lt;p&gt;另外伴奏的方式, 空/滿的掌握, 可以多思考. 曾經聽過一個鍵盤手, 彈慢歌從頭到尾都在琶音的. 說真的, 聽起來整個怪, 沒有輕重, 沒有起伏, 跟機器做出來的差不多.&lt;/p&gt;
-&lt;p&gt;如果團中只有吉他手, 那麼也是一樣, 要多思考伴奏的一些手法, 同樣的進行, 不同的段落, 可以衍生一些變化, 多利用 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/suspended-chord/&#34;&gt;裝飾和弦 (掛留)&lt;/a&gt; 來點綴. Susanna Hoffs - Eternal Flame 是不錯的例子.&lt;/p&gt;
-&lt;p&gt;然後記得不要搶主唱的風采, 跟主唱心靈交流 (別想太多) &amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;p&gt;以上大概是簡單的分類, 有點主觀, 所以大家看看就好 ~~&lt;/p&gt;
-&lt;h2 id=&#34;搖滾難度等級&#34;&gt;搖滾難度等級&lt;/h2&gt;
-&lt;p&gt;另外針對以吉他為主的搖滾歌曲, 我個人有把難易度分成五個等地, 我的團在開歌的時候, 通常我會大概用這個標準過濾/篩選一下, 主要還是要讓練團能夠順利進行, 樂手能夠盡情發揮.&lt;/p&gt;
-&lt;p&gt;難度區分等第大概是這樣：(這邊不包含 Instrument Rock, 像 Steve Vai, Andy Tommons, Eric Johnson &amp;hellip; 等. )&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1.0 沒聽過也可以直接彈: 通常是一些類似民歌的曲子.&lt;/li&gt;
-&lt;li&gt;2.0 大概聽過幾次就可以搭團了: 一般簡單的 Power Chord, 簡單 Solo 的曲子.&lt;/li&gt;
-&lt;li&gt;3.0 要稍微練一下, 有練的話, 幾次搭團應該就可以練起來.&lt;/li&gt;
-&lt;li&gt;4.0 通常就是以吉他為主的經典歌曲, 像加州大旅館那一類的, 不管是和弦, 還是 Solo 都要下過功夫才行; 或者藍調底的曲子, 像是 You Shook Me All Night Long (AC/DC).&lt;/li&gt;
-&lt;li&gt;4.5 以上大概就是 Guitar Hero 的代表作之類. 通常會有相當程度的演奏技巧, 有的還會有一堆速彈 + 花俏的技巧 (八指點弦, 掃弦, … 超過兩小節以上).
-&lt;ul&gt;
-&lt;li&gt;代表的曲子像加州大旅館, Sweet Child O&amp;rsquo; Mine, Still Got the Blues, Stairway To Heaven, &amp;hellip;. etc, 等都算這類.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;只是簡單的分類, 因為每個人的程度/狀況不一樣, 所以這是不怎麼客觀. 但是它可以量化一些東西, 所以大家看看就好 ~&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/band/run-a-band/&#34;&gt;樂團的經營&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/band/vocal/&#34;&gt;樂團的主唱&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2009/08/07: 初版&lt;/li&gt;
-&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2009/08/blog-post.html&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 掛留和弦 (Suspended Chord)</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/theory/suspended-chord/</link>
-      <pubDate>Sat, 27 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/theory/suspended-chord/</guid>
-      <description>
-        
-        
-        &lt;p&gt;說文解字先：Suspend (vt.) 按照英文字面上來說&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;sus-&lt;/code&gt; 是 &lt;code&gt;在 ... 下&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;pend&lt;/code&gt; 是『等待決定』，有等待結果的味道。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;兩個合起來字典上說是『懸疑未定』的意思。具像一點，有點像在屋簷下等待的感覺 (日劇看太多 &amp;hellip; @@)。我個人把它引申成『風鈴的感覺』、擺動、飄 (*&amp;amp;^%$&amp;hellip;&amp;hellip;&amp;hellip;。&lt;/p&gt;
-&lt;p&gt;Suspended Chord (掛留和弦) 從音程上來說，就是改變三和弦的三度音，讓和弦失去了大小和弦的屬性。以這樣的概念可以衍生出掛留七和弦 (X7sus) 、 X9sus4 &amp;hellip; 等。&lt;/p&gt;
-&lt;p&gt;因為改變了三度音，使得原和弦的屬性變得不一樣了，所以就有一些不同的應用，常見的應用整理如下：&lt;/p&gt;
-&lt;h2 id=&#34;一將順階和弦的-i-級改成-suspended-chord&#34;&gt;一、將順階和弦的 I、Ⅴ 級改成 Suspended Chord&lt;/h2&gt;
-&lt;p&gt;這是流行音樂中最常見的例子，也是很實用的小技巧。&lt;/p&gt;
-&lt;p&gt;Suspended Chord 最基本的應用概念就是改變三和弦的三度音，一般大調順階裡，經常被改變的&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;原和弦&lt;/th&gt;
-          &lt;th&gt;掛留和弦 (四度)&lt;/th&gt;
-          &lt;th&gt;掛留和弦 (二度)&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;大三 (1, 3, 5)&lt;/td&gt;
-          &lt;td&gt;1 4 5&lt;/td&gt;
-          &lt;td&gt;1 2 5&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;小三 (1, b3, 5)&lt;/td&gt;
-          &lt;td&gt;1 4 5&lt;/td&gt;
-          &lt;td&gt;1 2 5&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;屬七 (1, 3, 5, b7)&lt;/td&gt;
-          &lt;td&gt;1 4 5 b7&lt;/td&gt;
-          &lt;td&gt;1 2 5 b7&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;吉他上彈奏 Xsus4 很簡單，只要找到根音位置，同一格的高音弦就是四度音 (二三弦例外) 。&lt;/p&gt;
-&lt;p&gt;另外，這種技巧也常出現在 New Age 曲風當中，Xsus4 經常會搭配 Xadd9、Xmaj7 使用，然後通常出現在歌曲的一、五級。&lt;/p&gt;
-&lt;h2 id=&#34;二用-x7sus4-代理-slash-chord-分數和弦&#34;&gt;二、用 X7sus4 代理 Slash Chord (分數和弦)&lt;/h2&gt;
-&lt;p&gt;Dm7/G 跟 G7sus4 聽起來聲響有點類似：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dm7/G: D F A C / G&lt;/li&gt;
-&lt;li&gt;G7sus4: G C D F&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;兩者差在一個 A，所以兩者經常相互代理。有時候也會直接把 G7sus4 改成 G9sus4：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dm7/G: D F A C / G&lt;/li&gt;
-&lt;li&gt;G9sus4: G C D F A&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;基本上跟 Dm7/G 是一樣的聲響。類似的想法在 &amp;ldquo;屬七和弦與其延伸和弦的代換&amp;rdquo; 及 &amp;ldquo;關係和弦?&amp;rdquo; 有更多類似的討論。&lt;/p&gt;
-&lt;h2 id=&#34;三xsus4-與-x11-和弦&#34;&gt;三、Xsus4 與 X11 和弦:&lt;/h2&gt;
-&lt;p&gt;這個想法只是把四度音網上提昇，然後和 Extended Chord (延伸和弦) 比較：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Csus4: C F G&lt;/li&gt;
-&lt;li&gt;C11: C E G Bb F&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;C11 因為有小九度存在 (E &amp;lt;-&amp;gt; F)，所以通常會有取捨：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;把 11 度音拿掉，恢復成 C7，但這是走回頭路。&lt;/li&gt;
-&lt;li&gt;把三度音拿掉，改變和弦屬性&lt;/li&gt;
-&lt;li&gt;把 11 因改成 #11，形成 Altered Chord：C7+11&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;這邊我們選擇第二個方法，把三度音拿掉，改變和弦屬性，變成 ：&lt;/p&gt;
-&lt;p&gt;C G Bb F ==&amp;gt; 其實就是 C7sus4&lt;/p&gt;
-&lt;p&gt;因為具備小七度，所以通常會套用在五級和弦，做變化。&lt;/p&gt;
-&lt;h2 id=&#34;四xsus2&#34;&gt;四、Xsus2&lt;/h2&gt;
-&lt;p&gt;除了將三度音改成四度音之外，另外也可以把它改成大二度，形成 1 2 4 的組成音。他具備類似的效果，但是聲響會比較靠近 Xadd9 的和弦。經常會跟大七和弦 (Xmaj7) 混合使用。&lt;/p&gt;
-&lt;h2 id=&#34;五代理三和弦&#34;&gt;五、代理三和弦&lt;/h2&gt;
-&lt;p&gt;這是應用 Suspended Chord 的方式之一，通常就是同一個和弦連續出現兩個小節以上，就可以在其中穿插 Suspended Chord. 像是連續四小節都是 C，那就可以把二四小節改成 Csus4、Csus2 、Cadd9 &amp;hellip;. 等。&lt;/p&gt;
-&lt;p&gt;當然同一個小節的和弦代理不只有能夠使用 Suspended Chord，另外最常見的還有 Line Cliches 的技巧。Line Cliches 常見的有改變高音，例子像是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;| C / / / | Cmaj7 / / / | C7 / / / | Cmaj7 / / / |&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;著名的例子：Kiss Me、如果還有明天 (薛岳)、明天我要嫁給你 (陶喆、蔡依琳) &amp;hellip; 等都是這種例子&lt;/p&gt;
-&lt;p&gt;另外是改變低音，像是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;| Am / / / | Am/G# / / / | Am/G / / / | Am/F# / / / |&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;著名的例子：If (Bread)、愛我別走 (張震嶽)、不知所措 (優克李林)、Stairway to Heaven (Led Zeppelin) &amp;hellip; 等&lt;/p&gt;
-&lt;p&gt;也有改變三度音的例子，那就是 Suspended Chord 的用法了。另外也有改變五度音的用法，形成 Augumented Chord。&lt;/p&gt;
-&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
-&lt;p&gt;最常使用 Suspended Chord 的音樂，在華人流行歌曲當中陳綺貞的曲子算是一個很不錯的例子、其他很多以單一、或者 Unplugged 的音樂， Suspended Chord 會用的很多。&lt;/p&gt;
-&lt;p&gt;另外與 Suspended Chord 類似 idea 的應用就是 Augumented Chord (增和弦)。 Xsus 是變化和弦的三度音，增和弦則是變化五度音，最常出現在五級的應用。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;吉他的和弦聲位&lt;/li&gt;
-&lt;li&gt;和弦學習地圖&lt;/li&gt;
-&lt;li&gt;和弦基礎&lt;/li&gt;
-&lt;li&gt;屬七和弦與其延伸和弦的代換&lt;/li&gt;
-&lt;li&gt;關係和弦?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;初版：2009/06/27&lt;/li&gt;
-&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/06/suspended-chord.html&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 樂團的經營</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/band/run-a-band/</link>
-      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/band/run-a-band/</guid>
-      <description>
-        
-        
-        &lt;p&gt;玩 Band 是很棒的事情，一群同好在練團室裡一起享受自己彈奏／演唱的音樂，實為人生一快！不過要能夠 enjoy 這一快，也要做一些基本的功課，否則也有可能會變成一種『折磨』。&lt;/p&gt;
-&lt;p&gt;以下是一些我覺得可以留意的『人事物』。一些是來自於前輩的心得、經驗，有一些是我個人的體會和經驗。主要目的都是讓『練團』這件事情，除了是一件愉快的事情，同時也是讓團員之間能藉由練團的互動，培養默契、踏實經營、最後還有音樂的成長。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;人&#34;&gt;《人》&lt;/h2&gt;
-&lt;p&gt;『人』是最重要的、『人』的部份對了，樂團就成功一半了。這句話跟老闆找員工的意思是一樣的；跟找到心靈契合的伴侶，人生已完美一半類似。&lt;/p&gt;
-&lt;p&gt;要找到四五個人都同樣喜歡同類型的東西、程度相仿、對於音樂的態度一致、個性上又能夠溝通、能夠在同時間、同樣的地點一起練習，其實是不容易的。&lt;/p&gt;
-&lt;p&gt;其中我個人最在意對於練團的態度。態度不佳，很快就會 bye bye！&lt;/p&gt;
-&lt;p&gt;程度不好沒關係，肯學、有練習就會慢慢進步。現在網路資源很豐富，家教也到處都有，技術的東西，大部分花時間投資練習，只要方法得宜，就會慢慢看出成果，只要不眼高手低。&lt;/p&gt;
-&lt;p&gt;已經有程度的人，卻又不肯花時間採譜、也沒有練習，到練團室才在現場採譜的，不然就還在問今天要練哪些歌的？或者只想玩個人秀，不懂得收放，都是讓人搖頭的，也可能很快的會被請出去。因為，千萬別忘了，『樂團』是一個團體。&lt;/p&gt;
-&lt;p&gt;我個人覺得有程度的人，應該是像戰場上的將軍一樣 (註)，能夠懂得何時該收、何時該放，知道音樂的起伏、深度、廣度，然後拿捏適當的分寸，這才是比較正確的態度。如果只是一味想要個人秀，其實只會顯示自己的不足。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;註：三國演義  一百回：漢兵劫寨破曹真，武侯鬥陣辱仲達&lt;/p&gt;
-&lt;p&gt;諸葛亮致書曹真：『竊夫為將者：能去能就，能柔能剛；能進能退，能弱能強。不動如山岳，難知如陰陽；無窮如天地，充實如太倉；浩渺如四海，眩曜如三光。預知天文之旱澇，先識地理之平康。察陣勢之期會，揣敵人之短長。』&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;樂團是幾個有不同專長的人一起做音樂，所以對於溝通的方式就顯得很重要。現在網路發達，各式各樣的通訊介面：IM (Facebook Messager、Line &amp;hellip; etc)、BBS、Blog、Wiki、群組論壇 &amp;hellip; 各式各樣都是可以作為討論樂團音樂的地方。善用這些介面，溝通關於人事、音樂總譜、活動訊息、公關 &amp;hellip; 各項細節等，跨時間、空間，只要有心，可以讓練團更順利。&lt;/p&gt;
-&lt;p&gt;而上述的平台介面，很多系統都有隱密性、檔案管理、Rich Text 格式 &amp;hellip; 等，用來放音樂資訊 (總譜、討論樂理) 是再適合不過了，而且大部分都不用錢。以現在這個資訊流通很快年代來說，說訊息沒接收到其實都不是理由。&lt;/p&gt;
-&lt;p&gt;剩下的是屬於基本的做人處世道理：守時、不爽約、認真負責 &amp;hellip;. )(*&amp;amp;^%$#@&amp;hellip;&amp;hellip;. 這些就不提了。&lt;/p&gt;
-&lt;p&gt;上述的人事部分，大部分由樂團的團長或者樂團中擅長溝通者來負責。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;事&#34;&gt;《事》&lt;/h2&gt;
-&lt;p&gt;簡單說就是跟音樂有關的東西都屬於『事』。其中最主要的就是用來練團時用來『溝通』的團譜、總譜。在談總譜、編制、編曲之前，先瞭解一下專業的是怎麼做這些事情的，有那些可以參考的。&lt;/p&gt;
-&lt;h3 id=&#34;一大型演唱會&#34;&gt;一、大型演唱會&lt;/h3&gt;
-&lt;p&gt;在一般演唱會有一個角色叫做音樂總監。他主要工作，就是提供統一、正確的歌曲總譜給每個樂手，同時也要負責音樂各個聲部的配器安排和樂手的溝通。&lt;/p&gt;
-&lt;p&gt;例如原曲如果是 Orchestra 編制，但是實際預算並沒有請管絃樂團，那麼 KB 要如何安排？或者需要改成小編制的絃樂組？或者兩組 KB，一組負責 Pad，一組負責 Comping、Effect？&lt;/p&gt;
-&lt;p&gt;或者原曲是三把木吉他的編曲，但是只有一個吉他手，那麼需要做怎樣的調整和安排？有三個鍵盤手，或者三個吉他手，要如何分配、區分他們的職責？&lt;/p&gt;
-&lt;p&gt;改編的歌曲，是否需要多增加 Percussionist？減輕鼓手的負擔？沒有預算要怎麼做？Loop／Sampling？歌曲進行當中有穿插臨時樂手，像是古典吉他、Saxophone、國樂 &amp;hellip;. 要怎麼安排他們的位置和收音、監聽？&lt;/p&gt;
-&lt;p&gt;是否需要與燈光、舞台效果（一般是煙火爆破的視覺效果、類似 101 跨年煙火那種有 Timing 的特效）、投影畫面、現場連線等 &amp;hellip; 配合，同時由鼓手經由打擊版送同步 MIDI 訊號？&amp;hellip; 等。&lt;/p&gt;
-&lt;h3 id=&#34;二樂團的總譜&#34;&gt;二、樂團的總譜&lt;/h3&gt;
-&lt;p&gt;一般的樂團裡相對比較單純，但是還是會遇到最常見的問題：譜的正確性與配器問題 (特別是 GT vs KB 相互支援)。&lt;/p&gt;
-&lt;p&gt;樂團裡最好有一個樂理、節奏感、聽力都比較 Ok 的人來負責整理總譜，通常這個人會是 KB or GT，其他團員有義務協助更正、和給予適度的建議。&lt;/p&gt;
-&lt;p&gt;例如比較複雜的節奏，鼓手可以提供他的經驗給大家參考；Bass 可以提供比較漂亮的 Bass Line 來呼應鍵盤或吉他的和弦。鍵盤手可以讓大家多認識一些 GM 音色或者其他特別的 Loop / Sample、吉他手可以告訴大家混音 (聲音頻率) 的一些概念。這也是團員們彼此交流音樂 / 互相學習的最好機會。&lt;/p&gt;
-&lt;p&gt;總譜包含幾個重要的訊息：段落、和弦 (級數)、插音 (Fill)、節奏、速度、調性等。資訊越簡潔越好，千萬不要把 Guitar Pro 那種六線譜帶去練團室翻，那是在家就要做好的功課。&lt;/p&gt;
-&lt;p&gt;總譜的重要性以及相關的排版工具、寫法，請參考『樂團的總譜』的介紹。&lt;/p&gt;
-&lt;p&gt;相關文章:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;樂團的總譜&lt;/li&gt;
-&lt;li&gt;鍵盤音色概述 - GM&lt;/li&gt;
-&lt;li&gt;Loop 的概念與應用實例 - One Night in 北京&lt;/li&gt;
-&lt;li&gt;樂器音階頻率表&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;三段落&#34;&gt;三、段落&lt;/h3&gt;
-&lt;p&gt;總譜還有另外一個很重要的就是段落。如果是 Cover 團，經常會遇到原曲是 Fade out (淡出) 的歌曲。這時候大家要討論一下，該怎麼結束。可以自己改編，可以參考原始樂團的 Live 演出，Youtube 是很棒的媒介。&lt;/p&gt;
-&lt;p&gt;總譜上面，段落的標示要最清楚，通常習慣用英文的名詞標示：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Intro (前奏)&lt;/li&gt;
-&lt;li&gt;Verse (主歌)&lt;/li&gt;
-&lt;li&gt;Pre-Chorus (預備段落)&lt;/li&gt;
-&lt;li&gt;Chorus (副歌)&lt;/li&gt;
-&lt;li&gt;Bridge (發展部、橋段)&lt;/li&gt;
-&lt;li&gt;Chorus&amp;rsquo; (主題重現、副歌重現)&lt;/li&gt;
-&lt;li&gt;Outro (尾奏) &amp;hellip;. 等。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;樂手的譜要跟歌手的歌詞對應，如此在練團時溝通才不會雞同鴨講。不然在溝通段落就會浪費很多時間。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;更多關於段落的說明, 請參考 &amp;ldquo;怎樣練一首歌&amp;rdquo;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;同時要注意段落之間的變化，同樣是 Verse 或者 Chorus，編曲者通常不會讓第一次和第二次一模一樣，兩段編的一樣是很遜的。所以聽歌的時候請注意這些細節，因為一個團有沒一定水準，有的時候這些細節是看的出來的。&lt;/p&gt;
-&lt;p&gt;另外總譜上面也會標示除了主旋律以外的音符，像是插音 (Fill) 、特別的節拍 &amp;hellip; 等，通常也會著名音色，常見的縮寫：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;PN: piano&lt;/li&gt;
-&lt;li&gt;EP: Electric Piano&lt;/li&gt;
-&lt;li&gt;GT: Guitar&lt;/li&gt;
-&lt;li&gt;EG: Electric GT&lt;/li&gt;
-&lt;li&gt;AG: Acoustic GT&lt;/li&gt;
-&lt;li&gt;STR: String&lt;/li&gt;
-&lt;li&gt;BS: Bass&lt;/li&gt;
-&lt;li&gt;DR: Drums&lt;/li&gt;
-&lt;li&gt;DB: Double Bass&lt;/li&gt;
-&lt;li&gt;VLN: Violin&lt;/li&gt;
-&lt;li&gt;&amp;hellip;. etc&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;總譜最好以一張 A4 為原則，最多兩張。因為現場表演時，大家手都很忙，沒時間翻頁的。&lt;/p&gt;
-&lt;p&gt;在總譜的整理，除了基本的音樂資訊 (男女的 Key、Tempo) ，還可以把一些比較特別的和聲技巧勾勒出來，在練團前利用討論區討論。例如歌曲中用到調式、利用到 Modal Interchange、用到了少見的減七和弦、用到了平行調、關係大小調 &amp;hellip; 等音樂技巧。如果大家都瞭解了，當然就不用了。&lt;/p&gt;
-&lt;p&gt;負責總譜的人，除了上述以外，對於其他樂器和音樂的術語，例如鼓的一些基本概念、Bass or GT 效果器的概念、 MIDI GM 的音色、還有就是節奏的表達、速度的概念、曲風的輪廓、常見曲式 &amp;hellip; 等，要可以用清楚的文字或語言和其他人溝通。&lt;/p&gt;
-&lt;p&gt;因為鼓手不一定會知道什麼叫做 1 - 2m - 3m -4M7 的和弦進行；鍵盤手也不見得知道吉他手的 C 要怎麼按、他的轉位和鍵盤有啥差異；大部分的人可能不瞭解 KB 的分鍵原理、還有分鍵的演奏難度；大部分的人可能聽不出來 Soft Pad 和 EP 有啥不一樣？也不太知道 Synth Lead 的聲音是怎麼一回事；大部分的團員可能不知道吉他 OD (Overdrive) 和 DS (Distortion) 有啥不一樣 &amp;hellip;&lt;/p&gt;
-&lt;p&gt;但是音樂術語大家通常都會懂，練團的時候就可以拿來溝通。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;※更多關於吉他轉位與和弦聲位, 請參考 &amp;ldquo;吉他和弦聲位的基本概念&amp;rdquo; 說明.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;四樂團形式&#34;&gt;四、樂團形式&lt;/h3&gt;
-&lt;h4 id=&#34;cover-團&#34;&gt;Cover 團&lt;/h4&gt;
-&lt;p&gt;簡單說就是 Cover 已經上市發表的音樂。配器的安排要依據樂團編制來設計，特別是 Cover 歌曲的樂團，可能常常會因為要 Cover 的歌曲和樂團成員編制有所落差，而需要做調整、甚至編曲。三把吉他沒有 KB、KB 要怎麼協助？ Ex: Big City Night. 或者是沒有吉他、卻有一堆 EP, 弦樂 (ex: Carpenters - Close to you) 時，吉他手能否幫忙？&lt;/p&gt;
-&lt;h4 id=&#34;創作團&#34;&gt;創作團&lt;/h4&gt;
-&lt;p&gt;主唱最好也懂一些基本的樂理概念和樂器。通常會是木吉他。創作團要花很多時間在討論編曲，基本上寫譜更是重要於 Cover 團。討論的結果事後要有人去整理成總譜，草草了事，之後如果遺忘了會很可惜的。&lt;/p&gt;
-&lt;h4 id=&#34;雙吉他--雙-kb-編製&#34;&gt;雙吉他 / 雙 KB 編製&lt;/h4&gt;
-&lt;p&gt;一個團裡有兩把以上的吉他，那麼吉他手們要分配好工作，誰彈 Riff, Rhythm、誰彈 Lead、Fill 。除非聲音不夠滿，否則盡量兩個人不要彈同樣的東西。即使都要彈 Chord，也要彈不同把位的、或者用不一樣的音色 (ex: 一把選 Marshall、一把選 Mesa)、適度的放空和彈滿，如此音樂聽起來才會有層次，而不是從頭到尾的情緒都是平的。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;物&#34;&gt;《物》&lt;/h2&gt;
-&lt;p&gt;譜、練團室、設備、硬體、樂器等都是物。&lt;/p&gt;
-&lt;h3 id=&#34;練團前要做什麼準備&#34;&gt;練團前要做什麼準備？&lt;/h3&gt;
-&lt;p&gt;簡單說要練習、採譜、確定歌曲的版本，還要思考是否需要改編。通常和聲樂器 - GT 跟 KB 要先溝通好。是否有有比較特別的東西要事前準備？像是 Loop？歌曲是否需要？誰來放 Loop？怎麼監聽 (這是大問題, 可以看看這些討論 - &amp;ldquo;鼓手與 PA 的關係&amp;rdquo;, &amp;ldquo;表演時 Loop 怎麼放&amp;rdquo;  當代樂手)？遇到 Fade Out 的要怎麼辦？遇到有戲劇效果的要怎麼辦？遇到國樂／民俗編曲怎麼辦？&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;※ Loop 的概念與應用請參閱 &amp;ldquo;Loop 的概念與應用實例 - One Night in 北京&amp;rdquo; 的介紹&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;如果歌曲有很多種版本（原版、不插電版、現場版、搖滾版、絃樂版、吉他版、爵士版 &amp;hellip; ），最好確定一下是哪一個版本，團長 or 音樂總監應該提供統一的版本給所有團員，所有團員不要又跑去 youtube 找其他版本。甚至音樂總監要重新編一個版本給所有團員。&lt;/p&gt;
-&lt;p&gt;如果是原曲吉他降半音的，可以考慮是否大家跟著降半音，同時以後也都用降半音來做，或者吉他要思考一下該如何改編？原本是 C 大調的曲子，改成 B 大調，但是彈出來的聲響 Vocing 要跟原曲一樣，要安排一下。像是 GNR 的曲子。&lt;/p&gt;
-&lt;p&gt;歌曲降半音在音樂圈是很常見的慣例，很多樂團都習慣這樣做，特別是搖滾歌曲。所以大家要先有這種 Sense，練團前先溝通好，培養好默契，之後練團就是以 B 調作為預設的調性作調整，升一個半音就是實際上的 C 調。Keyboard 可以直接把 Transport 設定好，存起來，這樣以後練團才不會弄錯。&lt;/p&gt;
-&lt;p&gt;如果主唱音域唱不上去，請主唱要能夠適度告訴大家他的音域。主唱要知道自己的音域範圍，會一點樂器跟簡單的轉調概念是最好的方法，如此方便跟其他樂手溝通。找出適合自己的音域範圍，然後才能盡興的詮釋歌曲，這樣唱起來的人不會覺得難唱，聽的人也不會覺得痛苦。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;※ 關於主唱的說明，請參考『樂團的主唱』&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;另外就是重視練習的品質，我個人遇到比較難的曲子時，練團前會自己把歌曲做好 Backing，然後在家自己練習。這樣在練習時等於已經在練團了，到練團室就不是要去修正什麼演奏技巧、或者和弦的問題，而是如何去利用練團室器材表現音樂、和團員培養默契的時候。&lt;/p&gt;
-&lt;p&gt;最後很重要的，要有人去整理總譜，然後所有人要去幫忙檢查和弦、段落、節奏、速度、調性正確與否、是否需要重新安排吉他和鍵盤編制 / 分配。吉他跟鍵盤常會需要這樣互相幫忙，所以不管樂團是兩把吉他、還是吉他鍵盤各一個，請在進練團室之前把這些事輕溝通好。這些事情不要進了練團室再討論，因為那都是浪費時間、浪費金錢的。&lt;/p&gt;
-&lt;h3 id=&#34;在練團室裡要做些什麼&#34;&gt;在練團室裡要做些什麼？&lt;/h3&gt;
-&lt;p&gt;租練團室練習我個人覺得最重要的就是：善用裡面的器材、培養默契的時候。在練團事理討論和弦、段落、編曲 &amp;hellip; 都是浪費錢、浪費時間的。那些東西大部分都因該在練團前就要搞定的。&lt;/p&gt;
-&lt;p&gt;到練團室就是去玩那些 Amp、設備，去感覺 Balance、吉他手甚至要去把每次遇到的音箱型號、Settings 記下來。其他樂手也是一樣要注意 Balance，尤其是鼓手。Punch 要多大？不同大小的練團室、不同吸音品質的練團室，都需要做調整。&lt;/p&gt;
-&lt;p&gt;開始練歌之前，大家要測試一下 Balance。跑一段簡單的節奏、和弦進行 (Ex: E Blues)，在跑的過程當中每個樂手依序修飾自己的 Balance。同時這時候可以培養默契，大家輪流 Jam。&lt;/p&gt;
-&lt;p&gt;歌曲練習中，如果有遇到段落還是有問題的，要改編的，這時候之前準備好的總譜請拿出來討論。通常沒有總譜的時候，在那邊放 MP3、找 Youtube、都是雞同鴨講，浪費時間。所以要再說一次：前置作業很重要。&lt;/p&gt;
-&lt;p&gt;另外可以的話也帶錄音設備去把練習的過程錄起來，事後聽看看可以檢討的部份，聽看看自己彈的根原曲的距離、聽看看哪些細節可以弄得跟漂亮、聽看看音色可以再修正的地方、聽看看哪裡可以再加入 Fill 、聽看看哪裡可以改編 &amp;hellip;.&lt;/p&gt;
-&lt;p&gt;練團時也要注意一下該有的基本素養，進到練團室每個樂手屬性不一樣，但是都會有一些前置作業，例如：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;鼓手&lt;/code&gt;：調整椅子高度、確定各個打擊點的位置是適合自己的、確定大鼓位置是否有固定，打小鼓、Cymbal 測試 Punch 和該練團室的音場、譜架高度調好。忌諱一進練團是就開始瘋狂輪鼓、狂過門，別忘了練團室還有其他人要 setting。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;吉他手&lt;/code&gt;：把音箱的音量調好、琴的音準調好、背帶高度調好、譜架高度調好、有麥克風的話也一併調整好。調整好音箱之後，有必要的話請把音箱的 Settings，包含音箱型號、EQ 的參數記下來，但是請不要在練團是花時間調 Tone，上述的東西在三分鐘之內完成。請不要在練團室練習調音或者測試你的效果器有多麼的會趁、或者你的 pickup 出力有多大、也不要急著要大家面前秀你的 sweep 有多快 &amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Bassist&lt;/code&gt;：跟吉他差不多。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Keyboardist&lt;/code&gt;：如果是自己的琴，請在進練團室之前就把常用的音色設定好，如果使用練團室提供的琴，那就把常用的音色 (GM) 設定好。練團室琴的廠牌型號，練團前可以打電話問一下，上網找一下說明書大概看看。如果操作很複雜，找到鋼琴、EP、絃樂等常用的音色先頂著用。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;主唱&lt;/code&gt;：把譜架麥克風架高度調整好，測試 Mic 音量 &amp;hellip; 不要打麥克風.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;這些要一點經驗也要一點基本的素養，練團的品質與制度會決定台上的表現。如果是比賽，Setting 時就已經開始評分了。&lt;/p&gt;
-&lt;h3 id=&#34;練完團之後要做什麼&#34;&gt;練完團之後要做什麼？&lt;/h3&gt;
-&lt;p&gt;練團室裡沒完成的，除了設備以外的，其他都跟練團前一樣。思考練團時遇到的問題，要怎麼改？怎麼編？上論壇討論。&lt;/p&gt;
-&lt;h3 id=&#34;樂器頻率&#34;&gt;樂器頻率&lt;/h3&gt;
-&lt;p&gt;練團室中提到很多關於 Balance 的問題。不是聲音開大或者開小就好。很多時候是樂器之間的頻率問題。&lt;/p&gt;
-&lt;p&gt;大部分的練團室都很小，樂器音量都很大，為了要達到讓每個樂手都能夠聽到彼此的聲音，頻率要做一些分配。一般來說中低頻 (80~160 Hz) 不要開太大，因為這個頻帶很多時候是造成練團室轟轟響的主因，但是因為練團室空間的關係，為了不要折磨彼此的耳朵，所以會建議砍一些。好的練團室也會加強吸音這個頻帶。&lt;/p&gt;
-&lt;p&gt;鼓手視狀況而定，適度的修飾 Punch、不一定要打很大力。因為通常鼓手打太大力的後遺症就是，其他樂手聽不到自己的聲音，然後大家就會把自己的音量都跟著調大，然後鼓手發現聽不到自己的聲音，又更用力打，如此惡性循環，最後出練團室，大家耳朵都受傷了。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;更多跟頻率有關的請看：鼓動福音跟練團室有關的請參考：土法煉鋼 - 組團與表演&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;上述網站有很多類似的訊息跟經驗談，建議細讀。&lt;/p&gt;
-&lt;p&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/p&gt;
-&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
-&lt;p&gt;這篇文字是臨時想到起筆的，東西有點多，寫的也有一點亂，不過大致上就是一些心得、想法。不見得適用每個團，但是我想觀念上應該是可以當做參考的。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;簡單、複雜&lt;/li&gt;
-&lt;li&gt;保護耳朵&lt;/li&gt;
-&lt;li&gt;樂團的主唱&lt;/li&gt;
-&lt;li&gt;襯底 PAD 的基本概念&lt;/li&gt;
-&lt;li&gt;樂器音階頻率對應表&lt;/li&gt;
-&lt;li&gt;基礎聲學與數位音樂製作&lt;/li&gt;
-&lt;li&gt;Loop 的概念與應用實例 - One Night in 北京&lt;/li&gt;
-&lt;li&gt;鍵盤音色概述 - GM 128&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;土法煉鋼 - 組團與表演&lt;/li&gt;
-&lt;li&gt;鼓動福音&lt;/li&gt;
-&lt;li&gt;鼓手與 PA 的關係, 當代樂手&lt;/li&gt;
-&lt;li&gt;表演時 Loop 怎麼放, 當代樂手 (updated: 20100202)&lt;/li&gt;
-&lt;li&gt;如何當一個好的SESSION PLAYER? (1) by 呂聖斐&lt;/li&gt;
-&lt;li&gt;如何當一個好的SESSION PLAYER? (2) by 呂聖斐&lt;/li&gt;
-&lt;li&gt;快快樂樂組樂團&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2008/12/blog-post.html&lt;/li&gt;
-&lt;li&gt;2008/12/08: 初版&lt;/li&gt;
-&lt;li&gt;2009/08/07: 增加一些注意事項&lt;/li&gt;
-&lt;li&gt;2009/11/29: 增加雙吉他 / 雙 KB 編製的描述&lt;/li&gt;
-&lt;li&gt;2009/12/12: 排版, 增加 &amp;ldquo;為將之道&amp;rdquo; 的註解&lt;/li&gt;
-&lt;li&gt;2010/01/09: 加入版權宣告格式&lt;/li&gt;
-&lt;li&gt;2010/02/02: 加入 &amp;ldquo;表演如何播放 Loop&amp;rdquo; 的討論連結.&lt;/li&gt;
-&lt;li&gt;2010/08/28: 修飾相關詞彙, 加入 Loop 應用概念連結&lt;/li&gt;
-&lt;li&gt;2010/10/07: 加入呂聖斐老師的介紹連結, 修飾雙吉他的配置描述.&lt;/li&gt;
-&lt;li&gt;2011/09/29: 增加相關連結&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 怎麼彈和彈什麼</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/gossip/play-what-and-how-to-play/</link>
-      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/gossip/play-what-and-how-to-play/</guid>
-      <description>
-        
-        
-        &lt;p&gt;在連線版版友的問題, 問題簡單說就是 &lt;code&gt;怎麼彈&lt;/code&gt; 和 &lt;code&gt;彈什麼&lt;/code&gt;&lt;/p&gt;
-&lt;h2 id=&#34;回覆&#34;&gt;回覆&lt;/h2&gt;
-&lt;p&gt;原始的文章如下：&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;※ 引述《EROS4 ()》之銘言：
-: 在吉他上的某一音可以直接看出與這一音相差１～８個音程的音在吉他上的位置
-: 藉這個方法用第一種方式來演奏其實也不難
-: 只是還是想知道要讓自己能夠快速且精準的看譜就能演奏的話應該用哪種方法去學習
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;底下是我的回覆：&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;看起來有點像是 &amp;#34;怎麼熟悉吉他指板上的音名和各調音名&amp;#34;
-和 &amp;#34;怎麼瞭解自己在彈些啥&amp;#34;.
-
-如果是熟悉各調音名的話, 簡單說就是要工具來輔助.
-最常用的就是五度圈了.
-
-五度圈應用很多 (各調升降記號, 關係調, 音程推算), 爬一下文/google,
-很多版友都有很多類似的心得了, 可以幫助你記憶所有調性的音名.
-
-另外列一些我的心得, 就是在吉他上應用幾個簡單的原則:
-順時針完全五度 (參考Power Chord 指型), 逆時針完全四度
-逆時針三個就是 251 =&amp;gt; Power Chord 指型就是 52, 2 放掉就是 1
-吉他平行把位, 粗到細弦的音程, 除了 23 弦是大三度, 其他都是完全四度; 跨一弦是小七度
-同上, 細到粗弦的音程, 除了 23 是增五度, 其他都是完全五度
-145: 用 Power Chord + 上述平行把位音程聯想
-吉他五個基本音階把位和和弦指型: C G D A E 五個指型
-當然都要搭配五度圈來看, 那個圈圈左右各繞個一百次大概就熟了 .. (or 暈了@@)
-
-
-至於用音名跟唱名 (簡譜) 的選擇 .. 我覺得兩者都要練習.
-音名用來表示 ... 音符的基本代號, 和弦名, 調名;
-簡譜用來表示音程, 唱名, 樂團的簡譜...
-
-如果用你文中提到的第二種學習方法, 那簡單說就是用音程在推算各調音階.
-就跟你在吉他把位上直接平移指型, 和弦一樣.
-不過這種方式最終會回到你一開始的問題:
-
-反正轉調就是看現在自己彈的是啥調然後在指板上整個平行移動就好了
-
-所以兩者都要熟悉.
-音程讓你知道現在彈的感覺是什麼,
-小調, 大調, 調五, 調四都是音程關係, 感覺都不一樣.
-
-音名告訴你從哪裡出發, 就是起點, 還有就是現在在哪裡,
-起點改變了, 就是轉調.
-
-所以兩者缺一不可.
-
-大部分的 Key Center 的歌來說,
-吉他用把位平移的概念是 Ok 的, 因為平移就可以做出樣子了.
-可是如果在一些應用有和聲代換的歌曲來說,
-用數字級 (1, 2m, 3m ...) 那樣的方式就無法很清楚表示和聲代換的 &amp;#34;角度變化&amp;#34;
-例如一個常見的例子:
-
-&amp;gt; | C | F | D/F# G | C |
-
-把它當成 C 大調看, 寫成數字級:
-
-&amp;gt; | 1 | 4 | 2/#4 5 | 1 |
-
-這樣簡單的代換, 從數字級就不容易看出和聲代換的角度變換
-只知道, 2/#4 是大調順階和弦以外的東西.
-
-而和弦名稱就不一樣了, 熟悉五度圈很快就能發現: D 是 G 的五級.
-所以 D/F# -&amp;gt; G 這段是屬和弦 (Ⅴ-I) 的關係, &amp;#34;音階的角度&amp;#34; 已經改變了.
-G -&amp;gt; C 也是屬和弦 (Ⅴ-I) 關係, 角度又改變了,
-在彈奏到這裡時, 音階使用的思考角度也會改變.
-這時候五度圈就真的很重要了,
-除了音程, 和弦, 吉他音階指型同樣也是利用五度圈.
-
-
-另外一個是吉他的和弦按法, 如果你熟悉五個基本的指型和其順階和弦,
-上述和弦進行, 不管是數字級還是音名, 每個和弦都應該可以有出三種以上彈法.
-
-但是如果你只熟悉某個特定指型的按法 (ex: Mi, La 型)
-那當彈上述的和弦進行, 可能永遠指是那兩種彈法.
-這樣會變成在 cover 歌時, 總覺得一直在平移,
-而且聽起來都差不多 ... 了無新意的感覺.
-
-但是如果你熟悉很多指型按法,
-上述的和弦進行, 同樣是 | C F G C | 就可以有很多種組合.
-聽起來味道也會各有不同.
-
-
-最後是五線譜 ...
-其實我覺得未必看五線譜就會比較重要, 當然能看是最好的.
-因為他是音樂溝通很重要的語言.
-
-我遇過一些學古典鋼琴很久的朋友, 他到看五線譜可以很直接彈出來,
-但是跟他聊過之後不難發現, 其實他只是把五線譜上的音彈出來而已.
-但是其實並不是很清楚那些和弦的用法, 或者安排方式.
-當然只是個案.
-
-
-所以 .. 當已經熟悉吉他的基本音階指版之後,
-可以常是把音程, 和弦, 音階 .. 都串在一起思考 ...
-多採譜, 去分析, 驗證, 或許更能瞭解你現在到底在彈啥東西,
-而不只是在手指運動..
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
-&lt;p&gt;&amp;ldquo;怎麼彈&amp;rdquo; 包含一些訊息, 像是音階指型, 和弦按法, 指型變化, 手的姿勢, 刷和弦的力道 &amp;hellip; 等屬於 &amp;lsquo;吉他&amp;rsquo; 這個樂器本身的技巧性範疇. 通常大部分的吉他教學都在教這個部分, 簡單說就是教導如何彈奏某個樂器.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;彈什麼&amp;rdquo; 通常是一些歸納的東西, 像是: 什麼調, 和弦級數, 音程關係, 和聲概念 &amp;hellip; 等. 通常不會專屬某個樂器, 而是一些通用的概念. 簡單說就是樂理.&lt;/p&gt;
-&lt;p&gt;兩者是相輔相成, 只懂技巧不懂得思考音樂, 那只是變成一部機器, 只能去創造金氏世界紀錄, 但不能創造音樂, 可以說就是 &amp;ldquo;學而不思&amp;rdquo; .&lt;/p&gt;
-&lt;p&gt;只懂得理論, 而沒有演奏技巧, 那只是紙上談兵, 嘴砲而已. 可說就是 &amp;ldquo;思而不學&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;現在有很多工具/取樣音源 (Real Guitar, Virtual Guitar) 可以幫忙處理傳統難以達到的技術問題 (包含錄音, 演奏手法等), 但是不表示吉他手可以不用練琴了. 同時有這些東西也不表示就不需要懂樂理, 就可以做出好的東西.&lt;/p&gt;
-&lt;p&gt;吉他很普通, 因為到處都有. 樂團中吉他手通常最不缺, 滿街都是.&lt;/p&gt;
-&lt;p&gt;吉他也很特別, 因為吉他的棋盤格特性, 使得吉他手有著縱相與橫相的思考方式. 因為吉他的棋盤特性, 使的思考邏輯/排列組合百百種, 所以 &amp;ldquo;吉他音樂&amp;rdquo; 的世界才會這麼繽紛.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內文章&#34;&gt;站內文章&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;吉他手怎麼練習音感&lt;/li&gt;
-&lt;li&gt;如何練習例句 - Licks&lt;/li&gt;
-&lt;li&gt;五度圈&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;異動紀錄&#34;&gt;異動紀錄&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2008/09/blog-post.html&lt;/li&gt;
-&lt;li&gt;2008/09/25: 初版&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 關於半音階的唱名</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/gossip/semi-tone-of-solfege/</link>
-      <pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/gossip/semi-tone-of-solfege/</guid>
-      <description>
-        
-        
-        &lt;p&gt;關於音階唱名 (特別是半音階) 我用首調唱名法來說明相關的應用概念.&lt;/p&gt;
-&lt;h2 id=&#34;半音唱名&#34;&gt;半音唱名&lt;/h2&gt;
-&lt;p&gt;首調唱名主要以 &amp;ldquo;自然大調音階&amp;rdquo; 的音程關係為基礎，也就是 &lt;code&gt;1 2 3 4 5 6 7 1&lt;/code&gt; 表示了大調的音程關係: &lt;code&gt;全全半全全全半&lt;/code&gt;。簡譜數字 (1~7) 常常會跟唱名 Do、Re、Mi ⋯⋯ 互通使用，分別表示寫法跟讀法。&lt;/p&gt;
-&lt;p&gt;但是當唱到降音記號 (b) 的時候，會將母音改唱成 &amp;rsquo;e&amp;rsquo; 的音; 唱到升音記號 (#) 的時候，將母音改唱成 &amp;lsquo;i&amp;rsquo; 的音。如下：&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;音階唱名&lt;/th&gt;
-          &lt;th&gt;1&lt;/th&gt;
-          &lt;th&gt;2&lt;/th&gt;
-          &lt;th&gt;3&lt;/th&gt;
-          &lt;th&gt;4&lt;/th&gt;
-          &lt;th&gt;5&lt;/th&gt;
-          &lt;th&gt;6&lt;/th&gt;
-          &lt;th&gt;7&lt;/th&gt;
-          &lt;th&gt;8&lt;/th&gt;
-          &lt;th&gt;9&lt;/th&gt;
-          &lt;th&gt;10&lt;/th&gt;
-          &lt;th&gt;11&lt;/th&gt;
-          &lt;th&gt;12&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;上行半音&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;#1&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;#2&lt;/td&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;#4&lt;/td&gt;
-          &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;#5&lt;/td&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;#6&lt;/td&gt;
-          &lt;td&gt;7&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;上行唱名&lt;/td&gt;
-          &lt;td&gt;Do&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Di&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Re&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Ri&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Mi&lt;/td&gt;
-          &lt;td&gt;Fa&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Fi&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Sol&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Si&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;La&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Li&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Ti&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;下行半音&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;7&lt;/td&gt;
-          &lt;td&gt;b7&lt;/td&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;b6&lt;/td&gt;
-          &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;b5&lt;/td&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;b3&lt;/td&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;b2&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;下行唱名&lt;/td&gt;
-          &lt;td&gt;Do&lt;/td&gt;
-          &lt;td&gt;Ti&lt;/td&gt;
-          &lt;td&gt;Te&lt;/td&gt;
-          &lt;td&gt;La&lt;/td&gt;
-          &lt;td&gt;Le&lt;/td&gt;
-          &lt;td&gt;Sol&lt;/td&gt;
-          &lt;td&gt;Se&lt;/td&gt;
-          &lt;td&gt;Fa&lt;/td&gt;
-          &lt;td&gt;Mi&lt;/td&gt;
-          &lt;td&gt;Me&lt;/td&gt;
-          &lt;td&gt;Re&lt;/td&gt;
-          &lt;td&gt;Ra&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;要注意的是，以往 &lt;code&gt;Ti (7)&lt;/code&gt; 的發音大部分都是發 &lt;code&gt;注音符號 (ㄒ，Si)&lt;/code&gt; 的音，但是如果要配合上下行半音的唱名，因為會和 &lt;code&gt;#5 =&amp;gt; Si&lt;/code&gt; 發音一樣，所以我們習慣將 &lt;code&gt;Ti&lt;/code&gt; 發成字母的 &amp;lsquo;&lt;code&gt;T&lt;/code&gt;&amp;rsquo; 的音。上表也可以在 Wiki 百科找到參考資料: &amp;ldquo;Solfege&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;另外一個要注意的就是 b2 的發音，降音記號是把母音改成 e 的音，但是 Re 本身就已經是 e 的音了，所以 b2 就改成發 a 的音，變成 Ra.&lt;/p&gt;
-&lt;p&gt;這種唱名的方式，是學習其他音階時的唱法，主要的還是以自然大調的音程關係做比較，也就是一般 Key Center 的唱法。利用這樣的唱法可以很容易的找到該音階的特徵音符。例如自然小調音階和唱名關係是:&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Natural Minor Scale&lt;/th&gt;
-          &lt;th&gt;I&lt;/th&gt;
-          &lt;th&gt;Ⅱ&lt;/th&gt;
-          &lt;th&gt;Ⅲ&lt;/th&gt;
-          &lt;th&gt;Ⅳ&lt;/th&gt;
-          &lt;th&gt;Ⅴ&lt;/th&gt;
-          &lt;th&gt;Ⅵ&lt;/th&gt;
-          &lt;th&gt;Ⅶ&lt;/th&gt;
-          &lt;th&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Interval (音程)&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;b3&lt;/td&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;b6&lt;/td&gt;
-          &lt;td&gt;b7&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;C Minor Scale (C 小調音階)&lt;/td&gt;
-          &lt;td&gt;C&lt;/td&gt;
-          &lt;td&gt;D&lt;/td&gt;
-          &lt;td&gt;Eb&lt;/td&gt;
-          &lt;td&gt;F&lt;/td&gt;
-          &lt;td&gt;G&lt;/td&gt;
-          &lt;td&gt;Ab&lt;/td&gt;
-          &lt;td&gt;Bb&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;音階唱名&lt;/td&gt;
-          &lt;td&gt;Do&lt;/td&gt;
-          &lt;td&gt;Re&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Me&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Fa&lt;/td&gt;
-          &lt;td&gt;Sol&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Le&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Te&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;這樣在唱小調音階的時候，就可以很清楚明確的知道有哪些降音記號，跟自然大調到底差別在哪，憂鬱感在哪裡。如果以傳統的固定唱名 &lt;code&gt;6 7 1 2 3 4 5 6&lt;/code&gt; 這樣的唱法來學小調音階，會不容易知道跟大調之間的差別在哪。只會感覺好像跟大調差不多。因為並不是以 Key Center 唱，而是以關係大小調作參考。以 Key Center 唱第一個音一定為 1 開頭.&lt;/p&gt;
-&lt;p&gt;同理，要唱出其他的調式音階，例如唱 Locrian:&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;音階&lt;/th&gt;
-          &lt;th&gt;I&lt;/th&gt;
-          &lt;th&gt;Ⅱ&lt;/th&gt;
-          &lt;th&gt;Ⅲ&lt;/th&gt;
-          &lt;th&gt;Ⅳ&lt;/th&gt;
-          &lt;th&gt;Ⅴ&lt;/th&gt;
-          &lt;th&gt;Ⅵ&lt;/th&gt;
-          &lt;th&gt;Ⅶ&lt;/th&gt;
-          &lt;th&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Locrian Interval&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;b2&lt;/td&gt;
-          &lt;td&gt;b3&lt;/td&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;b5&lt;/td&gt;
-          &lt;td&gt;b6&lt;/td&gt;
-          &lt;td&gt;b7&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;C Locrian Scale&lt;/td&gt;
-          &lt;td&gt;C&lt;/td&gt;
-          &lt;td&gt;Db&lt;/td&gt;
-          &lt;td&gt;Eb&lt;/td&gt;
-          &lt;td&gt;F&lt;/td&gt;
-          &lt;td&gt;Gb&lt;/td&gt;
-          &lt;td&gt;Ab&lt;/td&gt;
-          &lt;td&gt;Bb&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;音階唱名&lt;/td&gt;
-          &lt;td&gt;Do&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Ra&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Me&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Fa&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Se&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Le&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;Te&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;所以同樣的，也不建議用 &lt;code&gt;7 1 2 3 4 5 6 7&lt;/code&gt; 這種唱法，因為唱了半天，還是不知道重點在哪。&lt;/p&gt;
-&lt;h2 id=&#34;音名與唱名&#34;&gt;音名與唱名&lt;/h2&gt;
-&lt;p&gt;這邊我描述的唱名基本上跟數字簡譜是畫上等號的。但是唱名跟音名是不等的，他們是互相參考的關係。音名是固定的，他就是在一個固定的位置不會改變，會改變的是音名跟音名之間的關係。&lt;strong&gt;C 跟 E 的關係是大三度，G 跟 C 的關係是完全四度，Ab 跟 Eb 的關係是完全五度&lt;/strong&gt;，但是 &lt;strong&gt;只有寫一個 D 是無法知道他代表什麼 &amp;ldquo;關係&amp;rdquo; 意思&lt;/strong&gt;。(關係很重要，特別在人的世界裡 XDD)&lt;/p&gt;
-&lt;p&gt;上述的例子 &lt;strong&gt;G 和 C 的關係是完全四度，音程 &amp;ldquo;完全四度&amp;rdquo; 則可以用唱名 4 來表示&lt;/strong&gt; 就可以了.&lt;/p&gt;
-&lt;p&gt;音名與唱名兩者在音樂學習的過程中都是很重要的基礎概念。唱名大多用在練習 Key Center 的歌曲，只要轉調不多的歌曲，用數字都 ok。另外是表示音程關係，會和音名一起使用在和弦推算，命名等。音名是音樂符號最基本的代號名稱，任何地方都會看到他：各調音階、和弦推算、命名、琶音、音程、順階和弦 &amp;hellip;等。兩者經常會混用.&lt;/p&gt;
-&lt;p&gt;以和弦來看例如 &lt;code&gt;F#m7-9&lt;/code&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;音名 (F) 代表的根音位置，也可以說是代表著音階的根音 (主詞)&lt;/li&gt;
-&lt;li&gt;升記號 (#) 我把他看成修飾根音的部分，當他是形容詞子句好了&lt;/li&gt;
-&lt;li&gt;大小和弦 (Major、Minor) 則用來表示和弦的性質 (動詞)&lt;/li&gt;
-&lt;li&gt;數字則用在修飾和弦 (形容詞，副詞).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;上述只是我個人的一些聯想，大家可以各自用自己熟悉的領域去聯想這些東西，我相信都是有共通性的.&lt;/p&gt;
-&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
-&lt;p&gt;有朋友一定會問，學習音樂時，是否需要學習這種唱名方式? 我覺得不見得每個人都需要，因人而異。有些人可以很快的瞭解音名，音程，音階，調性之間的關係，所以可以直接利用音名去記憶和弦，音階組成，推演各種樂理。但是有些人沒辦法一下子把 E7-9 的組成音說出來，但是卻知道他的音程關係是 &lt;code&gt;1 3 5 b7 b9&lt;/code&gt;。或許這樣的人可以嘗試這種唱名.&lt;/p&gt;
-&lt;p&gt;就像是我們學英文，老外是不需要 KK 音標這種東西的。但是非英語系的我們需要藉由音標來幫助發音。而音標除了幫助記憶發音，他還可以幫助記憶單字的拼音.&lt;/p&gt;
-&lt;p&gt;同樣的唱名，最基本的功能就是拿來唱音階用的，另外一個功能就是因為唱名的慣例是以自然大調音程為主，所以相對的，唱出音階的過程，其實也就間接唱出了音程關係了.&lt;/p&gt;
-&lt;p&gt;和用音名不同的是，音名是絕對的名稱 (當然也可以把音名的 ABC 字母當成唱名來唱，只是遇到 F# 這種要怎麼唱? 很繞舌的 &amp;hellip;)，他很直接的告訴演奏者的訊息是一個絕對的位置。至於所謂的音程，音階，和弦必須由演奏者腦袋裡的資料庫自行判斷，比對，分析.&lt;/p&gt;
-&lt;p&gt;音名和唱名就像我們的中文和注音一樣。中文字表達的是一個具象的訊息，注音只是一個音。但是同樣的一個音可能包含了好幾個字，所以注音可以說是一個抽象的符號.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;音名是一個具象的名詞，C 就是 C，nothing else，除非他跟其他的音放在一起，才會有關係，例如 C G 放在一起，才可能會有完全五度 (C-&amp;gt;G) or 完全四度 (G-&amp;gt;C) 的關係。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但是唱名就不是這樣，唱出一個 Sol 就是很清楚的告訴 Player 這是一個完全五度，但是他可能是任意調的完全五度.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;扯了一堆，只是想讓告訴大家，音樂是很多面向的藝術，同樣的東西，可以從很多角度去思考的。終點是一樣，但是過程卻是截然不同的.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;相對、絕對音感&lt;/li&gt;
-&lt;li&gt;固定唱名？還是首調唱名？&lt;/li&gt;
-&lt;li&gt;再談『首調、固定唱名』與『相對、絕對音感』&lt;/li&gt;
-&lt;li&gt;音階基礎&lt;/li&gt;
-&lt;li&gt;調式概念&lt;/li&gt;
-&lt;li&gt;調、調式及轉調&lt;/li&gt;
-&lt;li&gt;淺談 Modal Harmony (調式和聲)&lt;/li&gt;
-&lt;li&gt;大調音階 (Major Scale)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Solfege&#34;&gt;Solfege&lt;/a&gt; (Wiki)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.music.vt.edu/musicdictionary/appendix/scales/solmization/syllables.html&#34;&gt;Scales Syllables&lt;/a&gt; (各國音階唱名)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../brain-psy13.pdf&#34;&gt;音樂認知心理學&lt;/a&gt; - 蔡振家&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2008/08/blog-post.html&lt;/li&gt;
-&lt;li&gt;初版：2008/08/07&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 調式概念</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/theory/musical-mode/</link>
-      <pubDate>Mon, 19 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/theory/musical-mode/</guid>
-      <description>
-        
-        
-        &lt;p&gt;市面上有很多講調式概念的書，大多不太容易理解，一些的解釋是這樣的：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;調式一級就是從 Do 開始、二級就是從 Re、三級就是從 Mi 開始 &amp;hellip;&amp;hellip;&amp;hellip;..&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;或者&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;用 Chord-Tone 解釋調式&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;經過我自己分析 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/tonality-key-mode/&#34;&gt;調、調式及轉調&lt;/a&gt; 的關係之後，整理一些個人對於調式概念的理解，大概會用以下的角度切入：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;調式的功能&lt;/li&gt;
-&lt;li&gt;理解與記憶&lt;/li&gt;
-&lt;li&gt;聽覺分析&lt;/li&gt;
-&lt;li&gt;歌曲例子&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;用這樣的方式希望可以讓更多學習的朋友也可以理解。&lt;/p&gt;
-&lt;h2 id=&#34;調式的功能&#34;&gt;調式的功能&lt;/h2&gt;
-&lt;p&gt;就技術層面來說，同樣的音階元素，例如 CDEFGAB 這七個音，直覺上我們會覺得這些音會是 C 大調或者 A 小調，姑且稱這兩個為中心調。利用同樣元素，想要製造出不同調的感覺，像是 G 大調的感覺，這時候就要利用調式了。&lt;/p&gt;
-&lt;p&gt;G Mixolydian (GABCDEFG) 就是一種要偏離 C 大調或 A 小調的感覺。他可以讓聽的人覺得現在聽到的是 G 大調，而不是 C 大調。簡單說就是遠離中心調，有轉調的感覺，但不同於轉調那麼直接.&lt;/p&gt;
-&lt;p&gt;調式另外一種就是想要取得特別感覺的時候，例如想要有異國風味，那麼 Phrygian (調三) 就是一個不錯的選擇；想要彈出夢幻的感覺，那可以選擇 Lydian (調四)；想要 Jam Blues，那除了基本的 Blues Scale，還可以選擇 Mixolydian、Dorian &amp;hellip;等混搭。&lt;/p&gt;
-&lt;h2 id=&#34;理解與記憶方法&#34;&gt;理解與記憶方法&lt;/h2&gt;
-&lt;p&gt;以下是我個人學習調式時的一個總體理解方式。基本觀念是以 &lt;strong&gt;自然大小調音階&lt;/strong&gt; 為參考，其中可以留意升降記號的使用。&lt;code&gt;強調&lt;/code&gt; 的音程為該調式的 &lt;code&gt;Leading-tone (特徵音)&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;一、四、五級屬於 &lt;code&gt;大調系統&lt;/code&gt;，以一級 (Ionian，自然大調) 做參考：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Ionian (一級)&lt;/code&gt;: 1 2 3 4 5 6 &lt;code&gt;7&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Lydian (四級)&lt;/code&gt;: 1 2 3 &lt;code&gt;#4&lt;/code&gt; 5 6 7&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Mixo-Lydian (五級)&lt;/code&gt;: 1 2 3 4 5 6 &lt;code&gt;b7&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;二、三、六級屬於 &lt;code&gt;小調系統&lt;/code&gt;，可以以六級 (Aeolian，自然小調) 作參考：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Aeolian (六級)&lt;/code&gt;: 1 2 b3 4 5 &lt;code&gt;b6&lt;/code&gt; b7&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Dorian (二級)&lt;/code&gt;: 1 2 b3 4 5 &lt;code&gt;6&lt;/code&gt; b7&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Phrygian (三級)&lt;/code&gt;: 1 &lt;code&gt;b2&lt;/code&gt; b3 4 5 b6 b7&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;七級也可以參考 &lt;code&gt;小調系統&lt;/code&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Aeolian (六級)&lt;/code&gt;: 1 2 b3 4 5 &lt;code&gt;b6&lt;/code&gt; b7&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Locrian (七級)&lt;/code&gt;: 1 &lt;code&gt;b2&lt;/code&gt; b3 4 &lt;code&gt;b5&lt;/code&gt; b6 b7&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;聽覺顏色分析&#34;&gt;聽覺顏色分析&lt;/h2&gt;
-&lt;p&gt;以自然大調關係與各個調式的升降記號多寡作顏色分析，以升記號 (#, Sharp) 表示明亮 (Bright)；降音記號 (b, Flat) 表灰暗 (Dark)。升記號越多，音階聲響越明亮、明朗；降記號越多，聲響越灰暗、悲傷。以下式七個調式的聽覺顏色與聲響形容詞：&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;調式名稱&lt;/th&gt;
-          &lt;th&gt;升降記號&lt;/th&gt;
-          &lt;th&gt;Leading-tone&lt;/th&gt;
-          &lt;th&gt;和弦聲響&lt;/th&gt;
-          &lt;th&gt;聽覺顏色形容詞&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Lydian&lt;/td&gt;
-          &lt;td&gt;#4&lt;/td&gt;
-          &lt;td&gt;#4&lt;/td&gt;
-          &lt;td&gt;大和弦&lt;/td&gt;
-          &lt;td&gt;最明亮，Bright、夢幻、神蹟、神秘&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Ionian&lt;/td&gt;
-          &lt;td&gt;無&lt;/td&gt;
-          &lt;td&gt;7&lt;/td&gt;
-          &lt;td&gt;大和弦&lt;/td&gt;
-          &lt;td&gt;最自然、Natural、活潑、開心&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Mixolydian&lt;/td&gt;
-          &lt;td&gt;b7&lt;/td&gt;
-          &lt;td&gt;b7&lt;/td&gt;
-          &lt;td&gt;屬和弦&lt;/td&gt;
-          &lt;td&gt;熱情、Funky&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Dorian&lt;/td&gt;
-          &lt;td&gt;b3 b7&lt;/td&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;小和弦&lt;/td&gt;
-          &lt;td&gt;接近自然小調，親切溫和、高貴&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Aeolian&lt;/td&gt;
-          &lt;td&gt;b3 b6 b7&lt;/td&gt;
-          &lt;td&gt;b6&lt;/td&gt;
-          &lt;td&gt;小和弦&lt;/td&gt;
-          &lt;td&gt;Natural Minor、羅曼蒂克&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Phrygian&lt;/td&gt;
-          &lt;td&gt;b2 b3 b6 b7&lt;/td&gt;
-          &lt;td&gt;b2&lt;/td&gt;
-          &lt;td&gt;小和弦&lt;/td&gt;
-          &lt;td&gt;異國風味小調、西班牙、中東國家等&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Locrian&lt;/td&gt;
-          &lt;td&gt;b2 b3 b5 b6 b7&lt;/td&gt;
-          &lt;td&gt;b2 b5&lt;/td&gt;
-          &lt;td&gt;減和弦&lt;/td&gt;
-          &lt;td&gt;最憂暗、Dark、減和弦、詭異&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;調式音階應用曲例&#34;&gt;調式音階應用曲例&lt;/h2&gt;
-&lt;p&gt;音樂最終還是回歸到 - 聽。沒得聽的東西，理論都只是空談。對於調式的學習，多聽歌曲是最好的方式。不管是國內、國外，這些理論其實都一直在被使用著，所以試著去採譜、聆聽、練習，很快就可以抓到調式的感覺了。&lt;/p&gt;
-&lt;p&gt;自然大小調例子最多，我就不列了。一些重金屬 (Heavy Metal) 樂手喜歡用調七，不過我個人鮮少聽 Metal 所以就不舉例調七。以下僅列出其他調式一些例子和喜歡使用該調式的樂手：&lt;/p&gt;
-&lt;p&gt;Dorian (調二)：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;綠袖子 (Greensleeves, 英國歌謠)&lt;/li&gt;
-&lt;li&gt;Jimi Hendrix&lt;/li&gt;
-&lt;li&gt;Carlos Santana&lt;/li&gt;
-&lt;li&gt;Stevie Ray Vaughan&lt;/li&gt;
-&lt;li&gt;Jimmy Page&lt;/li&gt;
-&lt;li&gt;Robby Krieger&lt;/li&gt;
-&lt;li&gt;FF9 - The place I&amp;rsquo;ll return to someday&lt;/li&gt;
-&lt;li&gt;民謠老歌: 橄欖樹&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Phrygian (調三):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Steve Vai - For the Love of God&lt;/li&gt;
-&lt;li&gt;佛朗明哥&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lydian (調四):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Joe Satriani - Fly in a Blue Dream&lt;/li&gt;
-&lt;li&gt;Dream Theater - Overture 1928&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Mixolydian (調五):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Gun N&amp;rsquo; Rose - Sweet Child o&amp;rsquo; Mine (Eb Mixolydian)&lt;/li&gt;
-&lt;li&gt;孫燕姿 - Hey Jude (最後一段 G Mixolydian)&lt;/li&gt;
-&lt;li&gt;張惠妹 - Walking by Myself (G Mixolydian)&lt;/li&gt;
-&lt;li&gt;SRV - Pride and Joy (Eb Mixolydian)&lt;/li&gt;
-&lt;li&gt;Final Fantasy (太空戰士) 的陸行鳥之歌&lt;/li&gt;
-&lt;li&gt;Jack Thammarat - On the Way&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;div style=&#34;align:center; color: red&#34;&gt;※ 版權所有，未經允許，請勿隨意轉載 ※&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h2 id=&#34;建議學習地圖&#34;&gt;建議學習地圖&lt;/h2&gt;
-&lt;p&gt;大概有以下學習階段：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;用耳朵去分辨自然大小調（超級重要！），瞭解他們的組成音、音程關係、順階和弦功能、大小調轉調、終止式&lt;/li&gt;
-&lt;li&gt;接下來瞭解平行調的定義，了解應用方法&lt;/li&gt;
-&lt;li&gt;然後再接觸調式，這樣會比較容易瞭解調與調式的關係與差別。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;這是我個人學習調式的總論，只能說是大略的描述一下調式的輪廓而已。一些例子與應用，日後會慢慢繼續補上，至於理論基礎的大方向，應該是沒問題的。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/tonality-key-mode/&#34;&gt;調、調式及轉調&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;簡單的調式分析 - Mixolydian&lt;/li&gt;
-&lt;li&gt;和弦基礎&lt;/li&gt;
-&lt;li&gt;淺談 Modal Harmony (調式和聲)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mode_(music)&#34;&gt;Musical Mode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Mixolydian&lt;/li&gt;
-&lt;li&gt;Dorian&lt;/li&gt;
-&lt;li&gt;Phrygian&lt;/li&gt;
-&lt;li&gt;Lydian&lt;/li&gt;
-&lt;li&gt;調式音階 (中文, 推薦閱讀)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2007/10/blog-post_02.html&lt;/li&gt;
-&lt;li&gt;2007/11/19: 初版&lt;/li&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2010/10/major-scale.html&lt;/li&gt;
+&lt;li&gt;2010/10/16: 初版&lt;/li&gt;
+&lt;li&gt;2010/11/28: 修正音程協和的描述&lt;/li&gt;
+&lt;li&gt;2012/06/04: 修正小二度，小三度的錯誤描述 (感謝同學的指正)&lt;/li&gt;
 &lt;li&gt;2021/09/04: 搬移新站&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1870,254 +509,635 @@ G -&amp;gt; C 也是屬和弦 (Ⅴ-I) 關係, 角度又改變了,
     </item>
     
     <item>
-      <title>Rickmidi: 音階基礎</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/theory/musical-scale-fundation/</link>
-      <pubDate>Mon, 04 Dec 2006 00:00:00 +0000</pubDate>
+      <title>Rickmidi: 升降記號</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/theory/note-signature/</link>
+      <pubDate>Sat, 19 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gtcafe.com/portal/rickmidi/theory/musical-scale-fundation/</guid>
+      <guid>https://www.gtcafe.com/portal/rickmidi/theory/note-signature/</guid>
       <description>
         
         
-        &lt;p&gt;西洋樂理以巴哈十二平均律為基礎。&lt;/p&gt;
-&lt;p&gt;平均律定義了音階的物理關係，將倍數頻率 (ex：220Hz - 440Hz) 以指數關係分成十二個 &lt;a href=&#34;https://en.wikipedia.org/wiki/Semitone&#34;&gt;半音 (Semitone)&lt;/a&gt;，我們又依據聽覺的協和度定義了音程關係，以音程關係加以排列組合，形成各式各樣的聲響特色、顏色，經由先知們整理過後，形成我們目前使用的音階系統。&lt;/p&gt;
-&lt;p&gt;以聽覺系統分類，可以分成幾類：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;調性系統 (Diatonic) ：具備一定的和聲系統 (順階和弦)，分成大小調兩大類&lt;/li&gt;
-&lt;li&gt;五聲系統 (Pentatonic)：具備相當的旋律性，但是和聲系統比較弱&lt;/li&gt;
-&lt;li&gt;調式系統 (Mode)&lt;/li&gt;
-&lt;li&gt;和弦與對稱系統 (Chord and Symmetrical)&lt;/li&gt;
-&lt;li&gt;其他 (Others) 和民俗音階 (Ethnic)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;調性系統-diatonic&#34;&gt;調性系統 (Diatonic)&lt;/h2&gt;
-&lt;h3 id=&#34;大音階-major-scale&#34;&gt;大音階 (Major Scale)&lt;/h3&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;音階名稱&lt;/th&gt;
-          &lt;th&gt;英文名稱&lt;/th&gt;
-          &lt;th&gt;音程關係&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;自然大調&lt;/td&gt;
-          &lt;td&gt;Natural Major&lt;/td&gt;
-          &lt;td&gt;1 2 3 4 5 6 7&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;小音階-minor-scale&#34;&gt;小音階 (Minor Scale)&lt;/h3&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;音階名稱&lt;/th&gt;
-          &lt;th&gt;英文名稱&lt;/th&gt;
-          &lt;th&gt;音程關係&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;自然小調&lt;/td&gt;
-          &lt;td&gt;Natural Minor&lt;/td&gt;
-          &lt;td&gt;1 2 b3 4 5 b6 b7&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;和聲小調&lt;/td&gt;
-          &lt;td&gt;Harmonic Minor&lt;/td&gt;
-          &lt;td&gt;1 2 b3 4 5 b6 7&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;旋律小調 (曲調小音階)&lt;/td&gt;
-          &lt;td&gt;Melodic Minor&lt;/td&gt;
-          &lt;td&gt;(上行) 1 2 b3 4 5 6 7, (下行) b7 b6 5 4 b3 2 1&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;爵士小調&lt;/td&gt;
-          &lt;td&gt;Jazz Melodic Minor 或稱 Jazz Scale&lt;/td&gt;
-          &lt;td&gt;1 2 b3 4 5 6 7&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;五聲系統-pentatonic&#34;&gt;五聲系統 (Pentatonic)&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;音階名稱&lt;/th&gt;
-          &lt;th&gt;英文名稱&lt;/th&gt;
-          &lt;th&gt;音程關係&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;大調五聲&lt;/td&gt;
-          &lt;td&gt;Major Pentatonic&lt;/td&gt;
-          &lt;td&gt;1 2 3 5 6&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;小調五聲&lt;/td&gt;
-          &lt;td&gt;Minor Pentatonic&lt;/td&gt;
-          &lt;td&gt;1 b3 4 5 b7&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;藍調音階&lt;/td&gt;
-          &lt;td&gt;Blues Scale&lt;/td&gt;
-          &lt;td&gt;1 b3 4 b5 5 b7&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;調式系統-mode&#34;&gt;調式系統 (Mode)&lt;/h2&gt;
+        &lt;p&gt;音符 (note) 的 &lt;code&gt;升 (sharp, #)&lt;/code&gt;、&lt;code&gt;降 (flat, b)&lt;/code&gt; 記號代表著音符改變的方式，每次改變是以 &lt;code&gt;半音 (semi-tone)&lt;/code&gt; 為單位。有朋友問我，為什麼要說 Eb 調，而不說 D# 調? 或者什麼時候該說 Eb 調? 什麼時候該說 D# 調?&lt;/p&gt;
+&lt;h2 id=&#34;升降音的基本意義&#34;&gt;升降音的基本意義&lt;/h2&gt;
+&lt;p&gt;從大範圍的視角來看，像是歌曲段落之間的視角，升降是一種相對的概念，升記號暗示著音符由低往高升，通常表示情緒向上，變的更加激情，亢奮，high &amp;hellip; 等；反之，降記號就是代表由高往低降，通常表示情緒往下沉，變的更低落，失望 &amp;hellip; 等.&lt;/p&gt;
+&lt;p&gt;小範圍的角度來看，像是音符跟音符之間關係/互動，升降記號的概念有點類似於吉他的垂勾技巧，升記號就類似於 &lt;code&gt;搥弦 (Hammer-on)&lt;/code&gt;，是讓音符往上移動的技巧。反之，降記號就相對於 &lt;code&gt;勾弦 (Pull-off)&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;所以這提到了一個很重要的關鍵，就是 &lt;code&gt;起始音符 (begin note) 到目標音符 (target note) 的過程&lt;/code&gt;，升降記號代表著由上往下，或者由下往上。聽起來有點像繞口。舉例來說:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;希臘調式：參見 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/musical-mode/&#34;&gt;調式概念&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;和聲小調調式：
+&lt;li&gt;Eb: 使用降記號，所以表示是由上往下的概念，可能是 E -&amp;gt; Eb.&lt;/li&gt;
+&lt;li&gt;F#: 使用升記號，所以表示是由下往上的概念，可能是 F -&amp;gt; F#&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以這是基本定義。&lt;/p&gt;
+&lt;h2 id=&#34;調號與臨時記號&#34;&gt;調號與臨時記號&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;調號 (Key Signature)&lt;/code&gt; 也就是五線譜上高低音譜表上升降記號數，也就是一般流行歌曲的 Key，他代表整個歌曲大範圍的調性，如下圖 (From Memorizes of Lightwave) 有兩個降記號，調號為 Bb or Gm 調:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Memorizes_of_Lightwave_Signature.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;臨時記號&amp;rdquo; 代表一小節以內臨時的變化。但是要留意原本調號已經改變的音符。如下圖: (From Memorizes of Lightwave) 表 Bb or Gm 調裡，小節裡有一些音符作了暫時性的變化，譜中第一小節改變的有: Cb、Gb、Db&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Memorizes_of_Lightwave_temp.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;上述中的 Cb 不寫 B，因為 B 的位置，在譜上表示 Bb 這個音.&lt;/p&gt;
+&lt;p&gt;如果你是一個軟體工程師 (software developer)，那麼這樣說就容易懂了:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Harmonic Monir&lt;/li&gt;
-&lt;li&gt;Locrian #6&lt;/li&gt;
-&lt;li&gt;Ionian #5&lt;/li&gt;
-&lt;li&gt;Dorian #4&lt;/li&gt;
-&lt;li&gt;Phrygian Major&lt;/li&gt;
-&lt;li&gt;Lydian #2&lt;/li&gt;
-&lt;li&gt;Alt Dominant bb7&lt;/li&gt;
+&lt;li&gt;調號: 全域變數 (global variable)&lt;/li&gt;
+&lt;li&gt;臨時記號: 區域變數 (local variable)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;旋律小調調式：
+&lt;p&gt;That&amp;rsquo;s all。:D&lt;/p&gt;
+&lt;h2 id=&#34;重升與重降記號&#34;&gt;重升與重降記號&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;重升記號 (Double Sharp)&lt;/code&gt; 一般用 &amp;lsquo;x&amp;rsquo; 表示，像是 Ax，表示連續升兩個半音。所以 Ax 可以等於 B。但是意義上可能不太一樣.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;重降記號 (Double Flat)&lt;/code&gt; 則用兩個降記號表示，像是 Abb，表示連續降兩個半音，Abb 可以等於 G。為了方便閱讀它們通常都會被上標.&lt;/p&gt;
+&lt;p&gt;最常見的例子就是減七和弦 (Diminished Seventh) 的音程表示:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Melodic Minor&lt;/li&gt;
-&lt;li&gt;Dorian b2&lt;/li&gt;
-&lt;li&gt;Lydian Aug&lt;/li&gt;
-&lt;li&gt;Lydian Dom&lt;/li&gt;
-&lt;li&gt;Mixolydian b6&lt;/li&gt;
-&lt;li&gt;Locrian #2&lt;/li&gt;
-&lt;li&gt;Altered&lt;/li&gt;
+&lt;li&gt;Xdim7: 1 b3 b5 bb7&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;爵士小調調式：
+&lt;p&gt;減七和弦的由來可以這樣解釋，從大七和弦開始:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Jazz Minor&lt;/li&gt;
-&lt;li&gt;Dorian b2&lt;/li&gt;
-&lt;li&gt;Lydian-augmented&lt;/li&gt;
-&lt;li&gt;Lydian b7&lt;/li&gt;
-&lt;li&gt;Mixolydian b6&lt;/li&gt;
-&lt;li&gt;Locrian #2&lt;/li&gt;
-&lt;li&gt;Super Locrian&lt;/li&gt;
+&lt;li&gt;Xmaj7: 1 3 5 7&lt;/li&gt;
+&lt;li&gt;X7: 1 3 5 b7 or Xm(Maj7): 1 b3 5 7&lt;/li&gt;
+&lt;li&gt;Xm7: 1 b3 5 b7&lt;/li&gt;
+&lt;li&gt;Xm7-5: 1 b3 b5 b7&lt;/li&gt;
+&lt;li&gt;Xdim7: 1 b3 b5 bb7&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;和弦與對稱系統-chord-and-symmetrical&#34;&gt;和弦與對稱系統 (Chord and Symmetrical)&lt;/h2&gt;
+&lt;p&gt;簡單說是有一些先後關係的.&lt;/p&gt;
+&lt;p&gt;有些書會把減七和弦的音成關係寫 1 b3 b5 6，嚴格講這是不對的。這邊的 bb7 意義上是如同本文第一段描述的基本定義，升降記號代表著 &lt;code&gt;起始音符 (begin note) 到目標音符 (target note) 的過程&lt;/code&gt;，所以這邊雖然大七度連續降了兩次，但是這個和弦是由七和弦改變而來的結果，所以理解上我們依舊用原本七和弦  (Seventh Chord) 來命名，表示這個即使經過了這麼多變化，還是具備七和弦的血統.&lt;/p&gt;
+&lt;p&gt;以音程的概念來說，減七和弦其中的兩個 b5，bb7 分別都是代表減音程 (Diminished) 的概念:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;對稱音階：
+&lt;li&gt;b5: 完全五度 (P5) -&amp;gt; 減五度 (dim5)&lt;/li&gt;
+&lt;li&gt;bb7: 大七度 (M7) -&amp;gt; 小七度 (m7) -&amp;gt; 減七度 (dim7)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;另外會出現這種重升降的地方，就是在一些調號不是 C/Am 的歌曲裡，像是和聲小調裡，要把自然小調音階第七個音升半音，為了要表示這個 &amp;ldquo;升&amp;rdquo; 的概念，加上如果本來的第七個音已經標升號了，這時候就會用到重升記號了。如下圖，為 G# 和聲小調音階:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Gm_Sharp.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;G# 小調 (B 大調)，本來已經有五個升記號，第七個音原本為 F#，必須再升一次形成和聲小調。所以會變成 Fx，不寫 G 因為調號上 G 本來就要升，不用本位記號，因為本位記號無法表達出和聲小調第七個音要升的意圖.&lt;/p&gt;
+&lt;h2 id=&#34;同音異名&#34;&gt;同音異名&lt;/h2&gt;
+&lt;p&gt;只要提到音程概念，有時候就會遇到這樣的問題:&lt;/p&gt;
+&lt;p&gt;我: &amp;ldquo;B 升半音是啥?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;同學 A: &amp;ldquo;升 B 阿&amp;rdquo;&lt;br&gt;
+同學 B: &amp;ldquo;不對，就是 C 啦!!~~&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;同學 A 的回答錯嗎?&lt;br&gt;
+當然也對，只是是否適切而已.&lt;/p&gt;
+&lt;p&gt;問題也常會換成: &amp;ldquo;E 升半音是啥? &amp;quot;  或者 &amp;ldquo;F 降半音是啥?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;前述的例子中已經出現 Cb 這樣的音符了，它的意義從上述調號和臨時記號的關係應該不難理解.&lt;/p&gt;
+&lt;h2 id=&#34;歌曲例子-梁靜茹---誘惑的街-原唱林憶蓮&#34;&gt;歌曲例子: &lt;a href=&#34;https://www.youtube.com/results?search_query=%E6%A2%81%E9%9D%9C%E8%8C%B9+-+%E8%AA%98%E6%83%91%E7%9A%84%E8%A1%97&#34;&gt;梁靜茹 - 誘惑的街 (原唱林憶蓮)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;這首歌曲轉很多調：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;半音音階 (Chromatic Scale)&lt;/li&gt;
-&lt;li&gt;全音音階 (Whole Tone Scale)&lt;/li&gt;
-&lt;li&gt;減音階 (Diminished Scale)&lt;/li&gt;
-&lt;li&gt;增音階 (Augmeneted Scale)&lt;/li&gt;
+&lt;li&gt;Key: D -&amp;gt; B -&amp;gt; D -&amp;gt; D# -&amp;gt; E&lt;/li&gt;
+&lt;li&gt;五線譜的調號寫法: D -&amp;gt; B -&amp;gt; D -&amp;gt; Eb -&amp;gt; E&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Altered Scale&lt;/li&gt;
-&lt;li&gt;Diminished Scale (減音階)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;民俗音階民俗調式&#34;&gt;民俗音階/民俗調式&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;調式名稱&lt;/th&gt;
-          &lt;th&gt;相關調式&lt;/th&gt;
-          &lt;th&gt;音程關係&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;中國調式&lt;/td&gt;
-          &lt;td&gt;宮、商、角、徵、羽&lt;/td&gt;
-          &lt;td&gt;1 2 3 5 6&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;日本調式&lt;/td&gt;
-          &lt;td&gt;平調子音階 (參考 Aeolian)&lt;/td&gt;
-          &lt;td&gt;1 2 b3 5 b6&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;日本調式&lt;/td&gt;
-          &lt;td&gt;岩戶調子音階 (參考 Locrian)&lt;/td&gt;
-          &lt;td&gt;1 b2 4 b5 b7&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;日本調式&lt;/td&gt;
-          &lt;td&gt;雲井調子音階 (參考 Dorian)&lt;/td&gt;
-          &lt;td&gt;1 2 b3 5 6&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;日本調式&lt;/td&gt;
-          &lt;td&gt;陽旋法 (參考大調五聲)&lt;/td&gt;
-          &lt;td&gt;1 2 4 5 6&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;日本調式&lt;/td&gt;
-          &lt;td&gt;陰旋法 (參考 Phrygian)&lt;/td&gt;
-          &lt;td&gt;1 b2 4 5 b6&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;日本調式&lt;/td&gt;
-          &lt;td&gt;琉球音階 (參考 Ionian)&lt;/td&gt;
-          &lt;td&gt;1 3 4 5 7&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;阿拉伯音階&lt;/td&gt;
-          &lt;td&gt;參考 Phrygian，還原 b3&lt;/td&gt;
-          &lt;td&gt;1 b2 3 4 5 b6 b7&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;吉普賽音階&lt;/td&gt;
-          &lt;td&gt;Gypsy Scale (吉普賽音階，基本型)&lt;/td&gt;
-          &lt;td&gt;6 7 1 #2 3&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;吉普賽音階&lt;/td&gt;
-          &lt;td&gt;Hungarian Gypsy (匈牙利式)&lt;/td&gt;
-          &lt;td&gt;1 #2 3 #4 5 6 b7&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;吉普賽音階&lt;/td&gt;
-          &lt;td&gt;Spanish Gypsy (西班牙式，又稱 Phrygian Dominant Scale 或 Spanish Phrygian)&lt;/td&gt;
-          &lt;td&gt;1 b2 3 4 5 b6 b7&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;俄羅斯音階&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;6 b7 7 1 2 3 4 #4 5 #5&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;其他&#34;&gt;其他&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;比博普音階 (Bebop Scale)：
-&lt;ul&gt;
-&lt;li&gt;Bebop Dominant Scale&lt;/li&gt;
-&lt;li&gt;Bebop Major Scale&lt;/li&gt;
-&lt;li&gt;Bebop Minor Scale&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;合成音階 (Synthetic Scale)&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;五線譜為了表示和書寫排版的便利，所以選擇用五度圈左右的調性來表示。D# 調有很多升記號，有多少? 可以看這個表: 五度圈順階和弦表。改用 Eb 調號表示就只有三個降記號，一目了然.&lt;/p&gt;
+&lt;p&gt;另外藍調與調式歌曲調號的選擇，這在藍調裡似乎不是那麼重要，但是如果會應用到調式，那麼就相當重要了。類似的基本概念請參閱 &amp;ldquo;怎樣練一首歌&amp;rdquo; 的調號，另外 &amp;ldquo;五聲音階與調式音階的關係&amp;rdquo; 也有一些類似的想法，有興趣的朋友可以參考看看.&lt;/p&gt;
+&lt;h2 id=&#34;升降記號書寫位置&#34;&gt;升降記號書寫位置&lt;/h2&gt;
+&lt;p&gt;升降記號一般書寫，升記號用 &amp;ldquo;#&amp;quot;，降記號用 &amp;ldquo;b&amp;rdquo; 表示，大部分會上標。描述音名的時候，老外唸法是 A Flat，F Sharp，所以大部分也都習慣性依照老外的念法，將升降記號放在音名的右邊，也就是: Ab，F#&lt;/p&gt;
+&lt;p&gt;如果描述音程、唱名、級數，也就是數字 1、2、3 &amp;hellip; 7，等，我習慣以中文念法，先升降記號，然後再放上數字，也就是: b6、#4。台灣的樂譜專業出版社 - 卓著 - 也大致上是這樣標示的。不過他們的和弦把升降記號放後面 (ex: 6bm)，旋律則放前面.&lt;/p&gt;
+&lt;p&gt;五線譜上的表示法則是和數字級一樣，把升降記號放在音符的前面.&lt;/p&gt;
+&lt;p&gt;上數是大部分的慣例，現在網路資訊發達，有時候也會看到一些譜把升降記號全部都放音符，數字的前面，或者後面。實際上我個人覺得沒有對或錯，只要能夠看到懂就好。只是當一堆十六分音符寫在一起時，要先弄清楚升降記號的位置意義，才不會造成閱讀溝通上的誤會.&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;升降記號實際上有兩個層面的意義，一個是實際音樂上的意義，一個是屬於樂譜呈現的意義。當然吉他手比較不在乎五線譜呈現的意義，因為如果只看六線譜，是不會發現有這個問題的。可是如果是鍵盤手，這就是一個必須要知道的概念.&lt;/p&gt;
+&lt;p&gt;但是如果要分析歌曲，對於這種升與降的用法，的改變，必須要能夠透過耳朵或者樂譜判斷出來，這樣如果要分析進階的理論，才會有基本的依據.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
 &lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/musical-scales-learning-map/&#34;&gt;音階學習地圖&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;可以自行創造音階?&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/musical-mode/&#34;&gt;調式概念&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/minior-scale/&#34;&gt;小調音階 (Minor Scale)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;大調音階 (Major Scale)&lt;/li&gt;
-&lt;li&gt;吉他音階學習引導&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scale_(music)&#34;&gt;Musical Scale&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Semitone&#34;&gt;Semitone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;五度圈&lt;/li&gt;
+&lt;li&gt;五度圈順階和弦表&lt;/li&gt;
+&lt;li&gt;怎樣練一首歌&lt;/li&gt;
+&lt;li&gt;減七和弦 (Diminished Seventh)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/minor-scale/&#34;&gt;小調音階&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;五聲音階與調式音階的關係&lt;/li&gt;
+&lt;li&gt;歌曲分析 - Memorizes of Lightwave&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;初版：2006/12/04&lt;/li&gt;
-&lt;li&gt;原文網址：http://rickmidi.blogspot.tw/2006/12/blog-post_03.html&lt;/li&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2010/06/blog-post.html&lt;/li&gt;
+&lt;li&gt;2010/06/19: 初版&lt;/li&gt;
+&lt;li&gt;2021/09/04: 搬移新站&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rickmidi: 吉他的和弦聲位基本概念 (Chord Voicing)</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/guitar/guitar-chord-voicing/</link>
+      <pubDate>Sat, 17 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/guitar/guitar-chord-voicing/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;基本概念&#34;&gt;基本概念&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;和弦聲位 (Chord Voicing)&lt;/code&gt; 是一種和弦配置的應用技巧，主要的概念就是 &lt;code&gt;密集聲位 (Closed Voicing)&lt;/code&gt; 和 &lt;code&gt;遠距聲位 (Open Voicing)&lt;/code&gt; 的思考.&lt;/p&gt;
+&lt;h3 id=&#34;轉位-inversion&#34;&gt;轉位 (Inversion)&lt;/h3&gt;
+&lt;p&gt;我們先把和弦的基本概念定義出來，在鍵盤上和弦排列的方式，也就是所謂的 &lt;code&gt;轉位和弦 (Chord Inversion)&lt;/code&gt; 的概念，簡單說，C 和弦在鍵盤上基本的會有三種排列組合 (如圖):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Voicing_C.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;基本：C E G&lt;/li&gt;
+&lt;li&gt;第一轉位：E G C&lt;/li&gt;
+&lt;li&gt;第二轉位：G C E&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;同理，七和弦會有四種基本的轉位。例如 Cmaj7 來看:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Voicing_Cmaj7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;基本：C E G B&lt;/li&gt;
+&lt;li&gt;第一轉位：E G B C&lt;/li&gt;
+&lt;li&gt;第二轉位：G B C E&lt;/li&gt;
+&lt;li&gt;第三轉位：B C E G&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;密集聲位-closed-voicing&#34;&gt;密集聲位 (Closed Voicing)&lt;/h3&gt;
+&lt;p&gt;上述這些轉位和弦都是在一個八度以內，而且每個組成音都是比鄰且依次序排列，所以它們都是 &lt;code&gt;密集聲位 (Closed Voicing，有些書翻譯密集配置、或稱 Close Harmony 密集和聲)&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;同樣的概念，如果跨越了八度音，就會有更多的排列組合，同時會不同於密集聲位，組成音之間不見得會比鄰，或者依序排列，例如:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Voicing_Cmaj7_with_Lower.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Cmaj7：C5 E5 G5 B5 (1 3 5 7)&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;左手&lt;/th&gt;
+          &lt;th&gt;右手&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C3 G3&lt;/td&gt;
+          &lt;td&gt;E4 B4 C5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C3 G3&lt;/td&gt;
+          &lt;td&gt;E4 B4 E5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C4 E4 B4&lt;/td&gt;
+          &lt;td&gt;E5 G5 E6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C4 B4&lt;/td&gt;
+          &lt;td&gt;B5 E5 E6&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;Voicing_C9.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;C9：C5 E5 G5 Bb5 D6 (1 3 5 b7 9)，組成音更多，變化的組合更多了.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;左手&lt;/th&gt;
+          &lt;th&gt;右手&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C4 G4&lt;/td&gt;
+          &lt;td&gt;E5 Bb5 D6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C4 G4&lt;/td&gt;
+          &lt;td&gt;D5 E5 Bb5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C4 E4 Bb4&lt;/td&gt;
+          &lt;td&gt;G5 Bb5 D6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C4 Bb4&lt;/td&gt;
+          &lt;td&gt;E5 Bb5 D6&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Cadd9：C5 E5 G5 D6 (1 3 5 9)&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;左手&lt;/th&gt;
+          &lt;th&gt;右手&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C3 G3&lt;/td&gt;
+          &lt;td&gt;E4 D5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C3 E3&lt;/td&gt;
+          &lt;td&gt;D4 G4&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;鍵盤上的級數&#34;&gt;鍵盤上的級數&lt;/h3&gt;
+&lt;p&gt;上述音名右邊的數字不是表示 &lt;code&gt;音程 (Interval)&lt;/code&gt;，而是表示鍵盤上第幾個八度，中央 C 為第四個八度，寫成 C4。由左到右的所有的 C 分別用 C1、C2、C3、C5 ..。etc 表示，如下圖 ：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Keyboard_C.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;延伸和弦 (Extended Chord) 或者裝飾和弦 (Xsus4、Xadd9) 等，上述的按法會有非常多的排列組合，應用也非常的多樣化.&lt;/p&gt;
+&lt;h3 id=&#34;遠距聲位-open-voicing&#34;&gt;遠距聲位 (Open Voicing)&lt;/h3&gt;
+&lt;p&gt;這樣 &lt;strong&gt;跨越八度音距離的和弦&lt;/strong&gt; 叫做 &lt;code&gt;遠距聲位 (Open Voicing，或寫成 Spread Voicing，Open Harmony。有些書翻譯成離開配置、離開和聲、延伸配置 ...)&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;這是一些概念上的定義，實際上可以應用的東西很多，不過必須要有這樣的理解。鍵盤是橫向樂器，所以往左往右，代表不是高就是低，也就是是一維，而吉他是二維座標的樂器，除了往左往右，還可以往上往下，所以鍵盤上的左右音高特性 (往左往右)，在吉他上都有，但是吉他有六條弦 (往上往下)，所以有的時候可以想像成六架鋼琴並排。但是吉他的限制就是：每一根弦一次只能發出一個聲音，六根弦只能同時發出六個聲音。&lt;/p&gt;
+&lt;h3 id=&#34;差異&#34;&gt;差異&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;轉位和弦 (Chord Inversion)&lt;/code&gt; 和 &lt;code&gt;和弦聲位 (Chord Voicing)&lt;/code&gt; 的差異在於：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;轉位和弦的和弦組成是 &lt;code&gt;依序排列&lt;/code&gt;，而且是在 &lt;code&gt;八度音之內&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;和弦聲位上述兩個條件都不是必要的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;換言之，Chord Voicing 使用上的彈性 / 變化 / 張力很大，同樣一個 Cmaj9，可能可以彈出很多種不一樣的感覺。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;吉他指板的和弦聲位概念&#34;&gt;吉他指板的和弦聲位概念&lt;/h2&gt;
+&lt;p&gt;吉他因為本身的構造關係，所以上述的密集聲位和轉位和弦實際上在吉他上是比較少的，也就是想要直接按出一個指型，右手由第六弦往第一弦一根一根撥，然後形成比鄰的和弦內音，基本上是不太容易的，除非直接彈 &lt;code&gt;琶音 Arpeggios&lt;/code&gt;。所以吉他的和弦，實際上概念比較類似遠距聲位.&lt;/p&gt;
+&lt;p&gt;吉他是一種二維樂器，就是可以想像成有 X、Y 軸 (或者想像成圍棋吧 )，容易構成簡單的幾何圖形。所以在學習的過程當中，圖像式的思考與記憶，是一個最適當的方式。所以和弦的基本應用我們就從最基本的 &lt;code&gt;指型&lt;/code&gt;，也就是一個 &lt;code&gt;面&lt;/code&gt; 的思維切入.&lt;/p&gt;
+&lt;h3 id=&#34;第一種基本指型的變化-面&#34;&gt;第一種：基本指型的變化 (面)&lt;/h3&gt;
+&lt;p&gt;吉他指板有五個基本和弦指型，它們通常就是：CGDAE (如下圖)。其中 C、A、E 我把他們叫做基本指型，因為 D、G 指型都可以分別用 C、A 透過指型簡化 + 空弦應用的方式推出來，這在後面會提到.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;CGDAE.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;五個指型都可以當成所謂的移動式和弦，像是 E 和弦變成 F.&lt;/p&gt;
+&lt;h4 id=&#34;三和弦簡化指型&#34;&gt;三和弦簡化指型&lt;/h4&gt;
+&lt;p&gt;上述五種指型都可以用簡化指型的概念來做出基本的變化，最基本的觀念就是省略某幾根弦不按所形成的新的簡易指型。五六弦是最常見的被省略方式，像是剛開始學 F 時，實際上是從 F 的 E 指型簡化來的，如下圖:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;F.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;除了 F，另一個常見的例子就是 D 和弦的由來:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C_D.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;C 指型平移兩格之後，得到 D 和弦，再省略 4、5 弦不按，剛好第四弦空弦是 D，所以剛好形成 D 和弦的按法。另外，前述提到 A 和弦也可以是某一個基本和弦簡化 + 空弦應用而來，就留給讀者自己去想像.&lt;/p&gt;
+&lt;h4 id=&#34;七和弦的簡化指型&#34;&gt;七和弦的簡化指型&lt;/h4&gt;
+&lt;p&gt;七和弦的簡化指型概念跟三和弦一樣。一樣先從五個基本三和弦指型找到七和弦，以屬七和弦 (Dominant Seventh，X7) 做例子:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;X7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;這部份如果以七和弦做基本的話，變化會很大，也可以加入很多創意。讀者可以自己踹踹看 (try) 其他的七和弦 (Xmaj7、X7、Xm7、Xdim7、Xm7-5 &amp;hellip; etc)，有興趣 google 一下，可以找到很多資訊.&lt;/p&gt;
+&lt;p&gt;舉一些變化的想法，例如：Emaj7sus2 簡化 (省略五六弦) 後會變成 B。E 和 B 剛好是 I - Ⅴ 的關係，以這兩個的變化出發，就可以玩出很多東西了.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Emaj7_Emaj7sus2_B.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Emaj7sus2 的例子來自於歌曲分析：&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/songs/jack-thammarat_falling-in-love-again/&#34;&gt;Jack Thammarat - Falling in Love Again&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;另一個例子，Fmaj7 簡化五六弦會得到 Am .&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Fmaj7_Am.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;另外一種簡化想法，七和弦省略一二弦會得到：Shell Chord.&lt;/p&gt;
+&lt;p&gt;或者改變簡化的方式，例如 E 型的 A 和弦，保留第六弦 (用拇指按)，省略四五弦，像 A 和弦:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;A_Amaj7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;這樣就會找到很多盧廣仲、方大同常用的那種按法。他那些按法就是以七和弦做基礎，所以以七和弦為基礎的移動和弦，套用這個簡化概念，那麼盧廣仲的和弦按法就不難懂了。 上圖中 A、Amaj7 的例子，打 X 的弦，真的不能彈嗎? 吉他手隨時要記得，空弦也是一個可以利用的時機.&lt;/p&gt;
+&lt;p&gt;上述關於七和弦的例子，如果有興趣玩 Jazz / Fusion / Funk / Blues 的朋友，上述的東西一定要花時間研究這種用法，因為這種東西在上述風格中，算是很基本的應用概念.&lt;/p&gt;
+&lt;h4 id=&#34;裝飾和弦的應用&#34;&gt;裝飾和弦的應用&lt;/h4&gt;
+&lt;p&gt;Xsus4、Xsus2、Xadd9、X7sus4 &amp;hellip; etc，我都把他們叫做裝飾和弦。但是不管是 C、A、E 指型，還是 D、G 指型，我們都可以利用它們來創造出一些不一樣的和弦。最基本的應用就是 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/suspended-chord/&#34;&gt;Xsus4、Xsus2&lt;/a&gt;、Xadd9 等基本的裝飾和弦變化。特別的是，有一些和弦的裝飾音 (四度音、九度音) 放在空弦，那麼彈出來的和弦會非常有 New Age 感.&lt;/p&gt;
+&lt;h3 id=&#34;第二種用和弦組成音找指型--點---線---面&#34;&gt;第二種：用和弦組成音找指型  (點 -&amp;gt; 線 -&amp;gt; 面)&lt;/h3&gt;
+&lt;p&gt;如果你已經熟悉其他樂器 (Ex：piano、violin、bass &amp;hellip;)，也已經知道基本的和弦概念，那麼或許可以不用理會第一種的思維，完全以和弦組成音去找吉他的和弦指法.&lt;/p&gt;
+&lt;p&gt;以古典吉他的學習思考來看，因為看的是五線譜，思考邏輯是:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;看懂豆芽菜 (音名)&lt;/li&gt;
+&lt;li&gt;找到指板上對應的音名位置 (注意同音異弦)&lt;/li&gt;
+&lt;li&gt;找到旋律的分布 (通常會在一，二弦)&lt;/li&gt;
+&lt;li&gt;分析旋律以外的音可能是哪一個和弦&lt;/li&gt;
+&lt;li&gt;找和弦指型，搭配旋律找到適合的把位位置&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這段思維就是由 &lt;code&gt;點 (單一音名)&lt;/code&gt; -&amp;gt; &lt;code&gt;線 (Melody 旋律)&lt;/code&gt; -&amp;gt; &lt;code&gt;面 (Chord 和弦)&lt;/code&gt; 的思考過程。不同於第一種思維，剛好完全相反。這時候可以把 Closed Voicing 或 Open Voicing 的概念套進來，然後適度調整八度音的位置，就很容易找到很特別的和弦按法。&lt;/p&gt;
+&lt;p&gt;例如這樣組成音的一個和弦：D4 C5 D5 F5 ==&amp;gt; Dm7 (D F A C) 省略五度音.&lt;/p&gt;
+&lt;p&gt;上述的 Dm7 實際上在吉他上不是很容易按，不過這種跨多格的和弦，在一些吉他大師的歌曲當中，出現的頻率是很高的.&lt;/p&gt;
+&lt;p&gt;這種方法就完全不依賴上述的五種指型，不管是 C、A、E 指型，還是 D、G 指型，它們都是一個視覺上的記憶方式，撇開這些 &amp;ldquo;形狀&amp;rdquo; 的思維，無聊的話，你可以試著去吉他上找出所有的 C E G B (Cmaj7) 這些音符，然後依照比重分配指型的分布，按出不一樣的指型.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;上述部分，已經接近琶音 (Arpeggios) 的思維，更多介紹請看 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-g-major7/&#34;&gt;吉他琶音練習 - 以 Gmaj7 為例&lt;/a&gt; 的介紹&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;和弦指型抽象化應用-面---線&#34;&gt;和弦指型抽象化應用 (面 -&amp;gt; 線)&lt;/h3&gt;
+&lt;p&gt;指型抽象化的主要想法是這樣的：和上述提到的簡化和弦指型想法相反，從已知的吉他和弦指型 (CGDAE)，做應用變化。例如 E 型和弦，但是只彈其中兩根弦，只彈兩根弦會型成類似三度音、四度音、六度音、或者只彈 Guide Tone 等。&lt;/p&gt;
+&lt;p&gt;可以用基本的常用和弦指型為基礎，然後簡化不必要得五度音 &amp;hellip; 配合空弦，找尋附近的七度音、九度音、十一度 &amp;hellip; etc &amp;hellip; 大概就可以弄出很多非一般的和弦 ~~&lt;/p&gt;
+&lt;p&gt;這概念弄到最後，直接看到按法可能會無法聯想出原本的和弦指型是啥，這就是抽象化的目的。 &lt;strong&gt;因為抽象化之後的和弦已經從和聲功能 (面) 接近到旋律 (線) 的功能了。&lt;/strong&gt; 利用這種思考邏輯，即使只有一個和弦，也可以彈出有旋律性的東西.&lt;/p&gt;
+&lt;p&gt;Jimi Hendrix 的名曲 Little Wing 在彈奏時，基本的思維就可以這樣延伸.&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;大概粗略的分析吉他的和弦應用想法，基本上這種思考邏輯就是以五個吉他和弦指型為中心，也就是一種圖形的 &lt;code&gt;&amp;quot;面&amp;quot; (和聲)&lt;/code&gt; 思考，一直到最後的應用，會接近 &lt;code&gt;&amp;quot;線&amp;quot; (旋律)&lt;/code&gt; 的概念.&lt;/p&gt;
+&lt;p&gt;對於學吉他已經一段時間的朋友，但是每次看到一些比較特別的和弦按法，往往都會退卻，或者不知道為什麼那樣按。其實只要發會想像力，就可以有很多不同的按法; 或者去學一點鍵盤或者古典吉他，簡單說就是要去用 &amp;ldquo;點 -&amp;gt; 線 -&amp;gt; 面&amp;rdquo; 的方式來思考和弦.&lt;/p&gt;
+&lt;p&gt;在 &amp;ldquo;吉他的基本功&amp;rdquo; 一文裡提到一個和弦的基本概念，就是&lt;strong&gt;一個和弦 &amp;ldquo;至少&amp;rdquo; 要能夠有五種以上的按法&lt;/strong&gt;，有了這樣的基本功，在歌曲的伴奏上，才能讓歌曲更有層次，更有變化.&lt;/p&gt;
+&lt;p&gt;上述中我一直用數學幾何的面線 (不是麵線阿) 來分別代表音樂的和聲、旋律。把幾何學上最基本的 &amp;ldquo;點&amp;rdquo; 再加進來，對應到音樂的基本元素剛好就是最重要的節奏.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-g-major7/&#34;&gt;吉他琶音練習 - 以 Gmaj7 為例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/guitar/practice-arpeggios-251-on-g-major/&#34;&gt;吉他琶音練習 - 251 of G Major&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;和弦學習地圖&lt;/li&gt;
+&lt;li&gt;和弦基礎&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/suspended-chord/&#34;&gt;掛留和弦 (Suspended Chord)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Shell Chord&lt;/li&gt;
+&lt;li&gt;Drop Voicing&lt;/li&gt;
+&lt;li&gt;吉他空弦聲響&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2010/04/chord-voicing.html&lt;/li&gt;
+&lt;li&gt;2010/04/17: 初版&lt;/li&gt;
+&lt;li&gt;2021/09/12: 搬移新站&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rickmidi: 次屬和弦 (Secondary Dominant)</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/theory/secondary-dominat/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/theory/secondary-dominat/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;基本概念&#34;&gt;基本概念&lt;/h2&gt;
+&lt;p&gt;次屬和弦是一種 &lt;code&gt;和聲技巧&lt;/code&gt;，和 &lt;code&gt;調式內轉 (Modal Interchange)&lt;/code&gt;、&lt;code&gt;TSD 和聲代換&lt;/code&gt;，都算是同類型的東西，他們的目的都是要製造出與原本歌曲和聲不同的感覺、張力，但是又不會離原曲太遠 (Outside)。&lt;/p&gt;
+&lt;p&gt;在說明次屬和弦之前，我們先來釐清一些基本概念，也就是什麼是 &lt;code&gt;屬和弦 (Dominant Chord)&lt;/code&gt;？&lt;/p&gt;
+&lt;h3 id=&#34;屬音-dominant&#34;&gt;屬音 (Dominant)&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://tw.dictionary.search.yahoo.com/search?ei=UTF-8&amp;amp;p=dominant&#34;&gt;Dominant&lt;/a&gt; 這個單字是個形容詞，有 &lt;code&gt;支配的&lt;/code&gt;、&lt;code&gt;控制的&lt;/code&gt;、&lt;code&gt;統治的&lt;/code&gt;、&lt;code&gt;佔有強勢的&lt;/code&gt;、&lt;code&gt;優勢的&lt;/code&gt;的意思，可以等同於 Controlling。它的動詞是 Dominate，就是 &lt;code&gt;在 ... 佔有重要地位&lt;/code&gt; 的意思。所以套用在自然音階，可以想像成七個音符裡，第五個音是佔有重要位置的音，中文把它翻譯成『屬音』。&lt;/p&gt;
+&lt;h3 id=&#34;主要屬和弦-primary-dominant&#34;&gt;主要屬和弦 (Primary Dominant)&lt;/h3&gt;
+&lt;p&gt;首先從字面上來說明 &amp;ldquo;Secondary Dominant&amp;rdquo;，&amp;ldquo;Secondary&amp;rdquo; 字面上就是 &lt;code&gt;第二的&lt;/code&gt;、&lt;code&gt;次要的&lt;/code&gt;、&lt;code&gt;輔助的&lt;/code&gt;，簡單說就是老二，他的相對形容詞就是 &lt;code&gt;主要的&lt;/code&gt;、&lt;code&gt;首要的&lt;/code&gt;、&lt;code&gt;第一的&lt;/code&gt; &lt;code&gt;(Major、Primary、Premier)&lt;/code&gt;。所以有 Secondary Dominant 當然就會有 &lt;code&gt;Primary Dominant&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;大部分 Key Center 的歌曲當中，其順階七和弦裡，都會包含了一個主要的屬七和弦 (Dominant 7th)，自然大、小調都是五級 (自然小調有時候就會把五級的小七改成屬七，詳細解釋請參閱 &amp;ldquo;小調音階&amp;rdquo; 的說明)，這個屬七和弦一般用來判斷歌曲的終止，或者決定歌曲的調性。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;重點：用來判斷 &lt;em&gt;歌曲終止&lt;/em&gt; 或者 &lt;em&gt;歌曲調性&lt;/em&gt; 的屬七和弦可以稱為 &lt;code&gt;主要屬和弦 (Primary Dominant)&lt;/code&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在大部分 Key Center 歌曲中，一個調裡，只會出現一個屬和弦。這個屬和弦代表著調的主要屬和弦。如果出現第二個呢？那可能就是所謂的次屬和弦。&lt;/p&gt;
+&lt;h2 id=&#34;次屬和弦-secondary-dominant&#34;&gt;次屬和弦 (Secondary Dominant)&lt;/h2&gt;
+&lt;p&gt;Secondary Dominant 我習慣翻成 &lt;code&gt;次屬和弦&lt;/code&gt;，有些書翻成&lt;code&gt;二階屬和弦&lt;/code&gt;、&lt;code&gt;次要屬和弦&lt;/code&gt;、&lt;code&gt;裝飾屬和弦&lt;/code&gt;、&lt;code&gt;附屬七和弦&lt;/code&gt;、&lt;code&gt;應用屬和弦&lt;/code&gt; &amp;hellip; 他們的意思都是一樣的。原文有時候也會寫成 &lt;code&gt;Applied Dominant&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;在主要屬和弦裡已經提到的基本概念：在一個調裡，僅會出現一個屬和弦，如果出現了兩個屬七和弦，我們就要判斷那一個是主要的，哪一個是次要的，例如著名的搖滾經典加州大旅館 (&lt;a href=&#34;https://www.youtube.com/results?search_query=Hotel+California&#34;&gt;Hotel California&lt;/a&gt;)：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Hotel-California.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;整首歌，頭尾來看，可以得知是 &lt;code&gt;B 小調&lt;/code&gt;，對應的主要屬和弦是 &lt;code&gt;F#7&lt;/code&gt;。歌曲當中出現了另一個屬七和弦 E7，我們把它看成是某個調的屬七，剛好 E7 前面是 A，兩者剛好是 I - Ⅴ 的關係，所以 E7 我把它解釋成歌曲第一組 &lt;code&gt;次屬和弦&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;另外還有一組可以解釋成次屬和弦的是第四、五小節，G - D 的關係也是 I - Ⅴ，只是這邊的 D 不是屬七，但是眼熟的人應該可以感覺出來 D 是 G 的五級。所以我把它解釋成第二組次屬和弦。&lt;/p&gt;
+&lt;p&gt;這個和弦進行裡，有兩個屬七和弦，但是有三組屬和弦。從調性判斷哪個是主要的，剩下的都是次要的。&lt;/p&gt;
+&lt;p&gt;次屬和弦一般來說，經常發生在：大調的 Ⅱ、Ⅲ、Ⅳ、Ⅴ、Ⅵ。 I 是因為 I 的 Ⅴ 級就是調性的主要屬和弦。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;級數&lt;/th&gt;
+          &lt;th&gt;I&lt;/th&gt;
+          &lt;th&gt;Ⅱ&lt;/th&gt;
+          &lt;th&gt;Ⅲ&lt;/th&gt;
+          &lt;th&gt;Ⅳ&lt;/th&gt;
+          &lt;th&gt;Ⅴ&lt;/th&gt;
+          &lt;th&gt;Ⅵ&lt;/th&gt;
+          &lt;th&gt;Ⅶ&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;主和弦&lt;/td&gt;
+          &lt;td&gt;CM7&lt;/td&gt;
+          &lt;td&gt;Dm7&lt;/td&gt;
+          &lt;td&gt;Em7&lt;/td&gt;
+          &lt;td&gt;FM7&lt;/td&gt;
+          &lt;td&gt;G7&lt;/td&gt;
+          &lt;td&gt;Am7&lt;/td&gt;
+          &lt;td&gt;Bm7-5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;屬和弦&lt;/td&gt;
+          &lt;td&gt;G7&lt;/td&gt;
+          &lt;td&gt;A7&lt;/td&gt;
+          &lt;td&gt;B7&lt;/td&gt;
+          &lt;td&gt;C7&lt;/td&gt;
+          &lt;td&gt;D7&lt;/td&gt;
+          &lt;td&gt;E7&lt;/td&gt;
+          &lt;td&gt;F#7&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;表示法&lt;/td&gt;
+          &lt;td&gt;Ⅴ/I&lt;/td&gt;
+          &lt;td&gt;Ⅴ/Ⅱ&lt;/td&gt;
+          &lt;td&gt;Ⅴ/Ⅲ&lt;/td&gt;
+          &lt;td&gt;Ⅴ/Ⅳ&lt;/td&gt;
+          &lt;td&gt;Ⅴ/Ⅴ&lt;/td&gt;
+          &lt;td&gt;Ⅴ/Ⅵ&lt;/td&gt;
+          &lt;td&gt;Ⅴ/Ⅶ&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;一些常見的例子：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C / / / | E7 / / / | Am / / / | G7 / / / |
+| G / / / | C / / / | A7 / / / | D7 / / / |
+| C / / / | C7 / / / | F / / / | G / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;次屬和弦與減七和弦&#34;&gt;次屬和弦與減七和弦&lt;/h3&gt;
+&lt;p&gt;在 &amp;ldquo;減七和弦&amp;rdquo; 一文中提及過，減七和弦最常用在和弦的銜接，例如 1 - 2m、4 - 5 的經過和弦。&lt;/p&gt;
+&lt;p&gt;像是：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| C / / C#dim7 | Dm7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;或是&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;這種用法，可以用次屬和弦來聯想，像：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / D7/F# | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;把 D7 看成 G 的五級，其中：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;D7/F# (D F# A C)&lt;/code&gt; 和 &lt;code&gt;F#dim7 (F# A C Eb)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;聲響很接近，以可以互換。一方面有有屬和弦效果，又讓 bass line 形成半音進行 (F - F# - G)，是很實用的老梗。&lt;/p&gt;
+&lt;p&gt;另外，F#dim7 跟 Am6 是同音異名的和弦 (詳見 &amp;ldquo;關係和弦?&amp;rdquo; 的說明)，所以這段和弦進行又能被改成：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| F / / F#dim7 | G7 / / / |
+| F / / D7/F# | G7 / / / |
+| F / / Am6 | G7 / / / |
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;所以導入一些類似的概念，可以發現很多有趣的現象。&lt;/p&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;次屬和弦&lt;/code&gt; 和 &lt;code&gt;調式內轉 (Modal Interchange)&lt;/code&gt; 很容易搞混，但是就實用上來說，我個人覺得只要能夠抓住調性和聲的基本概念，也就是本文中第一段提及的觀念，那麼這兩種和聲技巧，就不會搞混了。&lt;/p&gt;
+&lt;p&gt;另外，藍調的和聲不要用次屬和弦來解釋，基本上他天生就長那樣。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;調式內轉 (Modal Interchange)&lt;/li&gt;
+&lt;li&gt;TSD 和聲代換&lt;/li&gt;
+&lt;li&gt;減七和弦 (Diminished Seventh)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/minor-scale/&#34;&gt;小調音階 (Minor Scale)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;關係和弦?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/04/secondary-dominant.html&lt;/li&gt;
+&lt;li&gt;2009/04/01: 初版&lt;/li&gt;
+&lt;li&gt;2009/09/06: 感謝仁澔同學幫忙校正.&lt;/li&gt;
+&lt;li&gt;2010/05/11: 說明 dominant 的英文字面意思&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rickmidi: 屬七和弦與其延伸和弦的代換</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/theory/dominant-and-extension-chords/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/theory/dominant-and-extension-chords/</guid>
+      <description>
+        
+        
+        &lt;p&gt;屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.&lt;/p&gt;
+&lt;p&gt;一般在歌曲中的應用，依歌曲的情緒和需要，很常會在屬七和弦作變化，或者互相代換使用，也就是大調中的五級。有的時候編曲者需要更豐富的，則會選擇繼續往 tension 堆疊。以 G7 來說，如下圖:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;altered-chords.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;綠色的 1 3 5 7 是構成 Gmaj7 的基本元素，我們這邊提的是屬七，所以 G7 是 1 3 5 b7。然後繼續往上堆疊還會得到 G9、G11、G13 三個延伸和弦:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;G9: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;F&lt;/strong&gt; A&lt;/li&gt;
+&lt;li&gt;G11: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;F&lt;/strong&gt; (A) C&lt;/li&gt;
+&lt;li&gt;G13: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;F&lt;/strong&gt; (A C) E&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;粗體是必要的 (required)，括弧是非必要的、選擇性的 (optional)。Root (G) 如果有人彈 (像是 Bassist) 則亦可省略.&lt;/p&gt;
+&lt;p&gt;定義上的使用，會得到這樣的延伸音。這樣的寫法大部分是用順階和弦的角度分析，也就是 always 用 G 大調的順階概念思考。雖然這樣思考方式沒錯，但是在演奏歌曲的時候，這種看起來有點壯觀的和弦反而會阻礙思路，因為一下子音太多，不容易知道取捨.&lt;/p&gt;
+&lt;p&gt;換個角度來思考，利用和弦轉位或者複合和弦的方式思考，省略了非必要的 Node:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;G9: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;B&lt;/strong&gt; A = G7/A&lt;/li&gt;
+&lt;li&gt;G11: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;B&lt;/strong&gt; (A) C = G7/C ~ G + F&lt;/li&gt;
+&lt;li&gt;G13: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;B&lt;/strong&gt; (A C) E = G7/E ~ G7 + Am&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;這樣看起來簡單了一點，但是卻不夠實用，因為 tension notes (A、C、E) 是我們想要突顯出來的，放在 bassline 當然也是可以，不過一般還是會給和聲樂器彈。複合和弦容易瞭解，問題卻跟換到 bassline 一樣，容易不知道該彈哪一個，容易造成聲響更加的糊.&lt;/p&gt;
+&lt;p&gt;以類似的概念再換個角度，做個大膽的取捨 - 省略三度音，把 tension 看成非 tension 的音 (減八度):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;G9: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;B&lt;/strong&gt; A =&amp;gt; G B D F A (1、3、5、7、9[2]) =&amp;gt; G7sus2&lt;/li&gt;
+&lt;li&gt;G11: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;B&lt;/strong&gt; (A) C = G B D F C (1、3、5、7、11[4]) =&amp;gt; G7sus4&lt;/li&gt;
+&lt;li&gt;G11: G &lt;strong&gt;B&lt;/strong&gt; D &lt;strong&gt;B&lt;/strong&gt; A C = G B D F A C (1、3、5、7、9、11[4]) =&amp;gt; G9sus4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;G13 大部分會用 G6 or G6/9 來代理，但是 G6/9 不是 Extended Chord，不具備屬七的聲響，所以這邊先不談.&lt;/p&gt;
+&lt;p&gt;G7sus2 中的 D F A 剛好是 Dm，所以又可以是 G7sus2 =&amp;gt; Dm/G.&lt;br&gt;
+G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm7/G，或者 G9sus4&lt;/p&gt;
+&lt;p&gt;所以 G7 在歌曲中常常會被代換成 G7sus2，G7sus4，G9sus4，Dm/G，Dm7/G.&lt;/p&gt;
+&lt;p&gt;這也是我們經常在彈到 Dm - G 這樣的和弦進行時，G 就有很多可以代換，可以讓 Dm - G 這樣的進行聽起來更家的緊密，更 smooth.&lt;/p&gt;
+&lt;h2 id=&#34;吉他&#34;&gt;吉他&lt;/h2&gt;
+&lt;p&gt;吉他在按 X7sus2，X7sus4，X9sus4 這種和弦的時候，就可以用轉位何弦來思考，例如:&lt;/p&gt;
+&lt;p&gt;C 大調:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;G7sus2 =&amp;gt; Dm/G&lt;/li&gt;
+&lt;li&gt;G9sus4，G7sus4 =&amp;gt; Dm7/G&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;F 大調:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C7sus4 =&amp;gt;Gm/C&lt;/li&gt;
+&lt;li&gt;C9sus4 =&amp;gt; Gm7/C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;換成級數就是 C or F 大調的:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;V7sus2 =&amp;gt; IIm/Ⅴ&lt;/li&gt;
+&lt;li&gt;V9sus4，V7sus4 =&amp;gt; IIm7/Ⅴ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;這樣就會比較好找到好按的指型.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;和弦基礎&lt;/li&gt;
+&lt;li&gt;Guide Tone&lt;/li&gt;
+&lt;li&gt;Shell Chord&lt;/li&gt;
+&lt;li&gt;變化引伸音 (Altered Tension Notes)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/03/blog-post.html&lt;/li&gt;
+&lt;li&gt;2009/03/01: 初版&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rickmidi: 調式內轉 (Modal Interchange)</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/theory/modal-interchange/</link>
+      <pubDate>Sat, 18 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/theory/modal-interchange/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;code&gt;調式內轉&lt;/code&gt; (Modal Interchange，也有書本翻譯成 &lt;code&gt;借用和弦&lt;/code&gt;、&lt;code&gt;調式互換&lt;/code&gt;) 是一種和聲技巧，簡單說就是大小調和聲的借用、代換技巧。可以讓以調為中心的歌曲在進行中製造出類似轉調的感覺、和張力，但卻不是大段落的轉調。他的感覺不像直接轉調那樣一直延續情緒、卻無法延續張力，但卻讓歌曲有明顯且有效的張力效果。對歌曲來說，可說是有畫龍點睛的效果。&lt;/p&gt;
+&lt;p&gt;除了一般流行歌曲 (POP)、爵士 (Jazz)、爵士藍調 (Jazz Blues) 都很常使用這樣的技巧來作曲、編曲、和聲編寫。&lt;/p&gt;
+&lt;h3 id=&#34;基本概念&#34;&gt;基本概念&lt;/h3&gt;
+&lt;p&gt;以自然大調的角度來看，相對應的是平行小調：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;級數&lt;/th&gt;
+          &lt;th&gt;I&lt;/th&gt;
+          &lt;th&gt;Ⅱ&lt;/th&gt;
+          &lt;th&gt;Ⅲ&lt;/th&gt;
+          &lt;th&gt;Ⅳ&lt;/th&gt;
+          &lt;th&gt;Ⅴ&lt;/th&gt;
+          &lt;th&gt;Ⅵ&lt;/th&gt;
+          &lt;th&gt;Ⅶ&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C 大調順階&lt;/td&gt;
+          &lt;td&gt;Cmaj7&lt;/td&gt;
+          &lt;td&gt;Dm7&lt;/td&gt;
+          &lt;td&gt;Em7&lt;/td&gt;
+          &lt;td&gt;Fmaj7&lt;/td&gt;
+          &lt;td&gt;G7&lt;/td&gt;
+          &lt;td&gt;Am7&lt;/td&gt;
+          &lt;td&gt;Bm7-5&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C 小調順階&lt;/td&gt;
+          &lt;td&gt;Cm7&lt;/td&gt;
+          &lt;td&gt;Dm7-5&lt;/td&gt;
+          &lt;td&gt;Ebmaj7&lt;/td&gt;
+          &lt;td&gt;Fm7&lt;/td&gt;
+          &lt;td&gt;Gm7&lt;/td&gt;
+          &lt;td&gt;Abmaj7 | Am7-5&lt;/td&gt;
+          &lt;td&gt;Bb7 | Bdim7&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;其中六七級除了原本小調可以代換，有書還另外寫出 Am7-5 和 Bdim7 兩個可以代換的和弦。就代理和弦 (Substitute Chord) 的和聲技巧來看，這兩個是可以跟原本的 Am7 、 Bm7-5 代換的。&lt;/p&gt;
+&lt;p&gt;以自然小調的角度來看，相對應的就是平行大調：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;級數&lt;/th&gt;
+          &lt;th&gt;I&lt;/th&gt;
+          &lt;th&gt;Ⅱ&lt;/th&gt;
+          &lt;th&gt;Ⅲ&lt;/th&gt;
+          &lt;th&gt;Ⅳ&lt;/th&gt;
+          &lt;th&gt;Ⅴ&lt;/th&gt;
+          &lt;th&gt;Ⅵ&lt;/th&gt;
+          &lt;th&gt;Ⅶ&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;A 小調順階&lt;/td&gt;
+          &lt;td&gt;Am7&lt;/td&gt;
+          &lt;td&gt;Bm7-5&lt;/td&gt;
+          &lt;td&gt;Cmaj7&lt;/td&gt;
+          &lt;td&gt;Dm7&lt;/td&gt;
+          &lt;td&gt;Em7&lt;/td&gt;
+          &lt;td&gt;Fmaj7&lt;/td&gt;
+          &lt;td&gt;G7&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;A 大調順階&lt;/td&gt;
+          &lt;td&gt;Amaj7&lt;/td&gt;
+          &lt;td&gt;Bm7&lt;/td&gt;
+          &lt;td&gt;C#m7&lt;/td&gt;
+          &lt;td&gt;Dmaj7&lt;/td&gt;
+          &lt;td&gt;E7&lt;/td&gt;
+          &lt;td&gt;F#m7&lt;/td&gt;
+          &lt;td&gt;G#m7-5&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;這種應用技巧在流行歌曲當中最常看到的例子就是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;大調 Ⅳ 換成 IVm&lt;/li&gt;
+&lt;li&gt;大調 IIm 常換成小調的 IIm7-5&lt;/li&gt;
+&lt;li&gt;大調 三級的 IIIm7 換成 bIII &amp;hellip;. 等。&lt;/li&gt;
+&lt;li&gt;小調的 IVm 換成 Ⅳ&lt;/li&gt;
+&lt;li&gt;大調的結尾經常出現 bVI - bVII - I，勉強可解釋成利用小調的 Ⅵ - Ⅶ 級&lt;/li&gt;
+&lt;li&gt;&amp;hellip;. 其他 ..&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;採譜或者拿到樂譜時，留心這些地方，因為很明顯已經超出順階和弦的範圍。這種和聲技巧，在採譜 (抓歌) 的時候，通常很容易發現 (聽出來)。&lt;/p&gt;
+&lt;h2 id=&#34;和聲技巧比較代理和弦-substitute-chord-和次屬和弦-secondary-dominant&#34;&gt;和聲技巧比較：代理和弦 (Substitute Chord) 和次屬和弦 (Secondary Dominant)&lt;/h2&gt;
+&lt;p&gt;這種和聲技巧和其他和聲技巧有一些不一樣的地方，我們比較一下另外兩個常見的和聲技巧：&lt;code&gt;代理和弦 (Substitute Chord)&lt;/code&gt; 和 &lt;code&gt;次屬和弦 (Secondary Dominant)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;和代理和弦 (Substitute Chord)&lt;/code&gt; 不一樣的是，代理和弦是利用和弦內音的重疊性比例的原則來做代換。跟『轉調』的聽覺上比較沒關係，聽起來還是在使用調內的順階和弦做和聲。但是可以營造出調內的另外一種感覺。使用上一首歌曲裡面經常會同時使用很多次，所以容易營造出另一種感覺。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;和次屬和弦 (Secondary Dominant)&lt;/code&gt; 不一樣的是，次屬和弦利用的是終止式的概念，但是只選用五級和弦。他有明顯的轉調感覺，但是就歌曲的張力來說，就會『太超過』。所以通常次屬和弦出現的地方都是弱拍、第四小節三四拍、填充小節、製造經過音 (升降冪) &amp;hellip; 除非刻意安排 (加州大旅館)，否則大多只是修飾的作用。如果是理性作曲 (就是以和弦架構寫旋律) 的方式寫歌，很容易寫出一直轉調的旋律。&lt;/p&gt;
+&lt;p&gt;調式內轉和其他和聲技巧比較起來，我個人覺得是很內斂的一種技巧。通常出現的長度是以一個小節，不會像代理和弦用那麼多，也不會像次屬和弦那麼短暫。就以上提到的三種和聲技巧的張力比較起來，個人認為可以是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;次屬和弦 ＞ 調式內轉 ＞ 和聲代換。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;次屬和弦張力最大，依照目標和弦不同而不同，可能會在很多調中跑來跑去；調式內轉只會在大小調之間互換，可以說是兩個調在轉換；代理和弦只會用到順階和聲，簡言之就是單一調性和聲之內，不會 outside。&lt;/p&gt;
+&lt;p&gt;當然上述的用法是適用一般流行歌曲，其他類型音樂則不見得適用。其他進階的和聲就比較少出現在流行歌曲裡，再此先暫時不討論。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;p&gt;次屬和弦 (Secondary Dominant)&lt;br&gt;
+轉調曲例&lt;br&gt;
+調式概念&lt;br&gt;
+小調音階 (Minor Scale)&lt;br&gt;
+調、調式及轉調&lt;br&gt;
+淺談 Modal Harmony (調式和聲)&lt;br&gt;
+代理和弦&lt;/p&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;爵士樂理入門 (Jazz Theory for Novices) - 李承育著&lt;/li&gt;
+&lt;li&gt;征服琴海 (Complete Guitar Playing) - 林正如著&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2008/10/modal-interchange.html&lt;/li&gt;
+&lt;li&gt;2008/10/18: 初版&lt;/li&gt;
+&lt;li&gt;2021/11/06: 搬移新站&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
