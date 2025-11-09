@@ -50,6 +50,141 @@
     </item>
     
     <item>
+      <title>Itlds: 年度計畫</title>
+      <link>https://www.gtcafe.com/portal/itlds/2022/1124_annual-plan/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2022/1124_annual-plan/</guid>
+      <description>
+        
+        
+        &lt;p&gt;整理分享給同事，關於年度計畫的思考脈絡： &lt;a href=&#34;https://rickhw.github.io/2019/03/17/Management/Perspective-in-XYZT/&#34;&gt;人事物時&lt;/a&gt;, &lt;a href=&#34;https://rickhw.github.io/2019/09/13/DevOps/Scrum-for-SRE-Team/&#34;&gt;需求方向&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;事情&#34;&gt;事情&lt;/h2&gt;
+&lt;p&gt;年度計畫看的是 #事情 為主體，&lt;br&gt;
+也就是公司要達到的目標。&lt;br&gt;
+任務的進行方式，就是專案，&lt;br&gt;
+#專案 講究具體的動機、預計成效&lt;br&gt;
+結論理應只有兩個：#開源、#節流&lt;/p&gt;
+&lt;p&gt;物指的是 #系統，具體的 #架構、或者 #服務。&lt;br&gt;
+會落到 Infrastructure 的東西，&lt;br&gt;
+要維運、要顧的，成本就是這裡。&lt;br&gt;
+系統會有依賴，#內部系統依賴、#外部系統依賴，&lt;br&gt;
+依賴 背後隱含的是 #組織依賴，以及 #溝通路徑，&lt;br&gt;
+也就是溝通成本。&lt;br&gt;
+管理系統的依賴，是技術管理者必做的任務，&lt;br&gt;
+不管是內部依賴、還是外部依賴。&lt;/p&gt;
+&lt;p&gt;人，&lt;br&gt;
+從一個人、一群人、很多群人&lt;br&gt;
+也就是個人、團隊、到組織。&lt;br&gt;
+人的存在目的是要搞定事情，&lt;br&gt;
+也就是任務。&lt;/p&gt;
+&lt;p&gt;年度計畫的主體是 #任務，&lt;br&gt;
+主軸都圍繞在任務狀況。&lt;br&gt;
+依照任務的狀況，討論資源 (人) 需求&lt;br&gt;
+確立系統的影響範圍&lt;br&gt;
+以及外部協作單位的對口。&lt;/p&gt;
+&lt;p&gt;但實際上人事物三者，&lt;br&gt;
+最難改動的是 物，也就是系統&lt;br&gt;
+調組織不難，&lt;br&gt;
+調整任務目標，也不難&lt;br&gt;
+動張嘴就可以。&lt;/p&gt;
+&lt;p&gt;但系統，大家都聽過 Legacy &amp;hellip;&lt;br&gt;
+十年、二十年都在那裡&lt;br&gt;
+然後人和事早就面目全非。&lt;br&gt;
+真正有魄力&lt;br&gt;
+應該要從系統下手&lt;br&gt;
+除非有固定在做架構重構 XD&lt;br&gt;
+Code 有重構就偷笑了 XD&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;h2 id=&#34;常見問題&#34;&gt;常見問題&lt;/h2&gt;
+&lt;h3 id=&#34;1-把-專案-當作-系統&#34;&gt;1. 把 #專案 當作 #系統&lt;/h3&gt;
+&lt;p&gt;系統像是台灣地圖&lt;br&gt;
+台灣有多少縣市&lt;br&gt;
+代表多少個服務&lt;br&gt;
+縣市不會整天變來變去&lt;br&gt;
+六都升級也不是天天有的&lt;br&gt;
+當總統、行政首長搞清楚有哪些行政區域&lt;br&gt;
+是基本功課&lt;br&gt;
+如果是新建的國家，&lt;br&gt;
+就要劃分清楚這些行政區域&lt;/p&gt;
+&lt;p&gt;所以專案的需求，無論顆粒度大小，&lt;br&gt;
+可能影響單一系統&lt;br&gt;
+也有可能影響多個系統&lt;br&gt;
+專案 != 系統&lt;br&gt;
+系統可能十年都還在那裡&lt;br&gt;
+專案則是短期 (&amp;lt;3m) 的任務&lt;/p&gt;
+&lt;p&gt;常見問題：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;搞不清楚台灣到底有多少縣市&lt;/li&gt;
+&lt;li&gt;搞不清楚專案的數量到底有哪些&lt;/li&gt;
+&lt;li&gt;搞不清楚這兩個東西的關係與關聯&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;影響：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;專案看起來就小小的一個，但系統的範圍實際上很大，&lt;/li&gt;
+&lt;li&gt;工程師做到死，但 PO 完全搞不清楚他在忙什麼&lt;/li&gt;
+&lt;li&gt;專案管理會亂七八糟 &amp;hellip;&lt;/li&gt;
+&lt;li&gt;架構絕對是亂成一團&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技術主管要與 PO 好好對齊專案與系統的關係。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-搞不清楚系統的內外部依賴&#34;&gt;2. 搞不清楚系統的內外部依賴&lt;/h3&gt;
+&lt;p&gt;依賴關係的管理是技術管理的基本功課&lt;br&gt;
+也是技術管理者的職責&lt;br&gt;
+這些資訊理應在系統的 config 會有很清楚的資訊&lt;br&gt;
+同時這也代表著當需求進來時&lt;br&gt;
+就應該知道影響哪些依賴&lt;br&gt;
+而依賴就代表組織關係&lt;/p&gt;
+&lt;p&gt;專案管理就應該做好協作的準備&lt;br&gt;
+如果是內部依賴於其他系統 (團隊)&lt;br&gt;
+那就要做好內部協作準備&lt;/p&gt;
+&lt;p&gt;常見的問題：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技術管理者搞不清楚依賴狀況&lt;/li&gt;
+&lt;li&gt;PO 更不會知道&lt;/li&gt;
+&lt;li&gt;專案開始進行了，被依賴的單位不曉得有關係，造成插件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解法：沒啥好說的，做好該做的 #系統設計 (System Design)&lt;br&gt;
+技術管理者做不好這件事情，應該沒資格上那個位置。&lt;/p&gt;
+&lt;h3 id=&#34;3-任務的屬性重要性的區分與判斷&#34;&gt;3. 任務的屬性重要性的區分與判斷？&lt;/h3&gt;
+&lt;p&gt;需求來源是有方向性的 &lt;a href=&#34;https://rickhw.github.io/2019/09/13/DevOps/Scrum-for-SRE-Team/&#34;&gt;2&lt;/a&gt;，分 #內部需求 與 #外部需求&lt;/p&gt;
+&lt;p&gt;#業務驅動 屬於外部需求，跟業績有關 (#功能性)&lt;br&gt;
+所以通常優先序也高&lt;br&gt;
+屬於 #開源 需求，直接跟業績掛帥&lt;/p&gt;
+&lt;p&gt;技術驅動屬於內部需求，跟業績無關 (#非功能性)&lt;br&gt;
+但跟 資安、架構、維運、成本、風險有關&lt;br&gt;
+這種東西背後的成效都是 #節流 #降低風險 #提高生產力&lt;/p&gt;
+&lt;p&gt;年度計畫中的任務&lt;br&gt;
+都會有功能性與非功能性&lt;br&gt;
+依照組織的特性&lt;br&gt;
+比重也會有落差&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;思考&#34;&gt;思考&lt;/h2&gt;
+&lt;p&gt;用表格整理計畫的時候&lt;br&gt;
+第一個縱軸擺的東西就是主軸。&lt;/p&gt;
+&lt;p&gt;第一軸擺系統，代表以系統為主體，通常技術主管會這樣做。&lt;br&gt;
+擺人，代表優先考慮資源，通常組織人力資源拮据的時候，會這樣做。&lt;br&gt;
+擺事，代表以任務優先考慮，通常 PO / PM 會這樣做。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;#人事物時 的 時 還沒寫&lt;br&gt;
+跟企業發展階段的策略有關。&lt;br&gt;
+懶的敲了 XD&lt;br&gt;
+再敲下去就去開公司好了。。。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我覺得應該開個 podcast 來講一些東西。。。&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2022/11/24&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0eJgHEvZjg8WsyG5wCsNiFS59EfoXbKeKzJCLbHsxrfudDU1gPUCxHCgF5KSRta2vl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Itlds: 拆服務？分類？</title>
       <link>https://www.gtcafe.com/portal/itlds/2022/0818/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
