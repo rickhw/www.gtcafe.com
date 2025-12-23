@@ -1,0 +1,78 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 職場</title>
+    <link>https://www.gtcafe.com/portal/tags/%E8%81%B7%E5%A0%B4/</link>
+    <description>Recent content in 職場 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/tags/%E8%81%B7%E5%A0%B4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: 打 Boss</title>
+      <link>https://www.gtcafe.com/portal/itlds/2020/1202_boss/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2020/1202_boss/</guid>
+      <description>
+        
+        
+        &lt;p&gt;幾天前聽到的對話。。。。&lt;/p&gt;
+&lt;p&gt;「你等下要跟老版報告啊⋯⋯」&lt;/p&gt;
+&lt;p&gt;『對啊，打 Boss 。。。』&lt;/p&gt;
+&lt;p&gt;「記得先存擋。。。」&lt;/p&gt;
+&lt;p&gt;我：在地上滾XDDDD&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2020/12/02&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid029MhsmXUJBbsuEJEj5py1TQLTBJKtcfURdE6858DZWS1TxBvTn1Tpkw6s4dMxLp11l&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: DevOps SRE 職缺</title>
+      <link>https://www.gtcafe.com/portal/itlds/2019/1202_devops-sre-mis/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2019/1202_devops-sre-mis/</guid>
+      <description>
+        
+        
+        &lt;p&gt;之前有人問：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;為什麼人力銀行的職缺 DevOps / SRE 都在做 Jenkins / Gitlab / K8s 相關的事啊？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我回：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;事就是要有人做，這年代職稱叫 DevOps Engineer / SRE 比較可以吸引相關的人來看。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;會這樣問的人通常是把 DevOps 定義成文化層次的，也沒有對或錯，只是重點在於：#事要有人做，開職缺要確認找到對的人就好。其實職稱寫 System Engineer, SRE, Release Engineer, MIS &amp;hellip;. 也 ok ㄉㄜ &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;甚至要寫 CTO / Manager, PM, QA / Developer / CFO / 櫃檯 / HR / Scrum Master / BD / Marketing / Sales，然後工作內容寫 Jenkins / Gitlab / K8s 也 ok 啦，找得到人也 ok ~~&lt;/p&gt;
+&lt;p&gt;所以最後問題是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;請問技能是 Jenkins / Gitlab / K8s 職務的職稱要寫啥？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;DevOooops Engineer ?? or Site Reboot Engineer ??&lt;br&gt;
+還是 Infra ???????? (一個更詭異的詞 &amp;hellip;. 被到處亂用 &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;還有人在人力銀行看到的職缺是寫 Operator 的？基本上 Operator 這個詞在這年代已經是貶義詞了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2019/12/02&lt;/li&gt;
+&lt;li&gt;[原文連結]https://www.facebook.com/rick.kyhwang/posts/pfbid0JXESnNJfqAYnsYLQGU51T7GWmqqTsX4nJyQqMhrJ4YDx1eBTxYDpwgobScLSqCeWl)&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

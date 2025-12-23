@@ -1,0 +1,66 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – IDE</title>
+    <link>https://www.gtcafe.com/portal/tags/ide/</link>
+    <description>Recent content in IDE on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: AI 工具：IDE 用哪個？</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1213_tool/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1213_tool/</guid>
+      <description>
+        
+        
+        &lt;p&gt;AI 工具：IDE 用哪個？&lt;/p&gt;
+&lt;p&gt;Windsurf?&lt;br&gt;
+Cursor?&lt;br&gt;
+VSCode&lt;br&gt;
+Kiro&lt;br&gt;
+Zed&lt;br&gt;
+IntelliJ&lt;br&gt;
+&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;大亂鬥的時代&lt;br&gt;
+就是選個順手的&lt;br&gt;
+專心做主要的工作&lt;br&gt;
+過幾個月後&lt;br&gt;
+那些廝殺到最後活下來的&lt;br&gt;
+再去學就好&lt;/p&gt;
+&lt;p&gt;歷史會一再重演&lt;br&gt;
+docker 剛起來時就是一堆大亂鬥&lt;br&gt;
+docker swarm, mesos, k8s, ecs &amp;hellip;&lt;/p&gt;
+&lt;p&gt;重點是做自己想做的事&lt;br&gt;
+跟 AI IDE 的趨勢 就看新聞&lt;br&gt;
+有時間玩玩看 實驗看看&lt;/p&gt;
+&lt;p&gt;主, 次 要分清楚&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我現在只用 vscode&lt;br&gt;
+extension 幾乎都不裝&lt;br&gt;
+配合 gemini cli&lt;br&gt;
+就可以幹很多事了 XD&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;理財投資不是主業&lt;br&gt;
+生活才是&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/13&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0yYPneFgGS9hpwZvUCRuCChKiRLE9n4WLcve48dcUB3UwLDb37AKZqqepY6GLHqKxl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

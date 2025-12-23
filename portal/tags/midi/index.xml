@@ -5,7 +5,7 @@
     <description>Recent content in MIDI on GTCafe Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://www.gtcafe.com/portal/tags/midi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,45 @@
         
       
     
+    
+    <item>
+      <title>Rickmidi: 在 MacOS 驅動 MOTU UltraLite mk4</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/production/motu-mk4-macos/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/production/motu-mk4-macos/</guid>
+      <description>
+        
+        
+        &lt;p&gt;紀錄 修復 錄音介面 &amp;amp; Apple Sillicon 修復的過程&lt;/p&gt;
+&lt;p&gt;我的錄音介面是 &lt;a href=&#34;https://motu.com/de/news/introducing-the-ultralite-mk4/&#34;&gt;MOTU UltraLite mk4&lt;/a&gt;，已經有點年紀的產品 (2016)。不過這種東西特性就是很穩定、可靠，不太會壞。當時選擇的這台有個很重要的因素是他可以當 Mixing，I/O 很多 (8in/10out)。&lt;/p&gt;
+&lt;p&gt;之前 iMac 還沒賣掉的時候，這台機器跟 iMac (Intel i9) 運作的很好也很少把他接到 MPBR M1 做音樂。最近開始在 MBPR 做音樂，發現 MPBR 抓不到 驅動程式，在設備顯示的名稱是 Audit Out，可以正常播放聲音，但麻煩的就是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;無法調整音量大小，這算小事。&lt;/li&gt;
+&lt;li&gt;完全偵測不到輸入裝置，一個錄音介面偵測不到輸入基本上就是武功全廢了 &amp;hellip;&lt;/li&gt;
+&lt;li&gt;MOTU 官方的工具都無法使用，像是 Route / Mixing，而 當時我選擇 mk4 這台有個目的是當 Mixer，因為他有 8in/8out。功能正常，但無法控制 &amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;剛開始以為是 USB Hub 太爛，加上轉兩手 (USB Hub -&amp;gt; LCD Hub -&amp;gt; TYPE-C -&amp;gt; MBPR)，所以無法識別。研究一下，其他設備都正常運作，像是 額外的麥克風、或者吉他音箱 &amp;hellip;&lt;/p&gt;
+&lt;p&gt;後來轉向 官方驅動程式，MOTU 到 09&#39;25 都還有 Release 我這台老古董的驅動程式，而且是針對 Apple Sillicon 的更新。&lt;/p&gt;
+&lt;p&gt;最近有點時間，把問題整理一下，問了一下 Gemini，很快就有了方向：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;作業系統更新：Apple 的安全性提升，需要重開機去系統安全調整調降信任層級&lt;/li&gt;
+&lt;li&gt;重新安裝驅動程式&lt;/li&gt;
+&lt;li&gt;重新信任安裝來源：這個是關鍵，因為信任來源的位置在 &lt;code&gt;General&amp;gt;login items &amp;amp; extensions&amp;gt;driver extensions and Security &amp;amp; Privacy&amp;gt;Security section&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;gemini01.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+&lt;img src=&#34;gemini02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;搞定之後，最後 MacOS 就可以正常識別 mk4 了！相關的工具也都可以正常運作，可以開工了 XD&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;workable01.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+&lt;img src=&#34;workable02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;初版：20251219&lt;/li&gt;
+&lt;li&gt;原文位址：&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Rickmidi: Using External MIDI Devices in Logic Pro</title>

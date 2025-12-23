@@ -5,7 +5,7 @@
     <description>Recent content in 管理 on GTCafe Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://www.gtcafe.com/portal/tags/%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,407 @@
         
       
     
+    
+    <item>
+      <title>Itlds: 立法權與行政權</title>
+      <link>https://www.gtcafe.com/portal/itlds/2025/1215_pdlc-sdlc/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2025/1215_pdlc-sdlc/</guid>
+      <description>
+        
+        
+        &lt;p&gt;立法權：PDLC (Product Development Life Cycle)&lt;br&gt;
+行政權：SDLC (Software Development Life Cycle)&lt;br&gt;
+—-&lt;br&gt;
+現在 Spec 就亂開，是要 AI 寫啥糞扣啦!&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2025/12/15&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02ZiSujEisaDSfGUYDXm6kXgmr8sdjEG38JE8QqyrxZQp3jjPdyA2JtX2YjPRcLg5El&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 向上溝通</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1216_communicating-upwards/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1216_communicating-upwards/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#Draft&lt;br&gt;
+#向上溝通&lt;br&gt;
+#看清問題 #才有機會改善&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;問題的表象&#34;&gt;問題的表象&lt;/h2&gt;
+&lt;p&gt;很少管理者 (主管 / PM)&lt;br&gt;
+會用 #系統化 的方式管理任務&lt;br&gt;
+像是 issue tracking system,&lt;br&gt;
+不管是 jira, redmine, vsts &amp;hellip;&lt;br&gt;
+大部分都是 ppt, excel &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;經常討論事情, 都是都在問:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;這是什麼事情？&lt;/li&gt;
+&lt;li&gt;為什麼要做這件事情？&lt;/li&gt;
+&lt;li&gt;背後要解決什麼問題？&lt;/li&gt;
+&lt;li&gt;帶來什麼價值？&lt;/li&gt;
+&lt;li&gt;任務需要多少資源？&lt;/li&gt;
+&lt;li&gt;這誰提的需求？&lt;/li&gt;
+&lt;li&gt;你為什麼要做這件事情？&lt;/li&gt;
+&lt;li&gt;這件事什麼 Delay？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;整個溝通過程缺乏 #延續性&lt;br&gt;
+上次說什麼, 結論, 後來怎樣  &amp;hellip;&lt;br&gt;
+更多的是考驗彼此的記憶力 &amp;hellip;.&lt;br&gt;
+靠一份表達有問題的簡報 &amp;hellip;&lt;br&gt;
+或者上次說的跟這次說的不一樣&lt;br&gt;
+或者為什麼這樣做&lt;/p&gt;
+&lt;p&gt;偏偏大部分的人&lt;br&gt;
+記憶力 / 理解力 / 溝通與表達能力&lt;br&gt;
+都是不足的 &amp;hellip;&lt;br&gt;
+加上生理限制 (上了年紀之後更明顯&lt;/p&gt;
+&lt;p&gt;溝通過程&lt;br&gt;
+無論公開還是私下&lt;br&gt;
+經常出現這樣的現象:&lt;/p&gt;
+&lt;h3 id=&#34;現象一&#34;&gt;現象一：&lt;/h3&gt;
+&lt;p&gt;腦袋裡根本對於任務根本就沒有概念&lt;br&gt;
+很常出現不同層次的對話，像是&lt;br&gt;
+明明是在談 HTTP 的東西&lt;br&gt;
+用 TCP 角度在問問題 &amp;hellip;&lt;/p&gt;
+&lt;p&gt;我們在討論的是山川大江&lt;br&gt;
+他卻在問量子力學;&lt;br&gt;
+我們在討論原子電子&lt;br&gt;
+他卻方向應該像是金門大橋&lt;/p&gt;
+&lt;h3 id=&#34;現象二&#34;&gt;現象二：&lt;/h3&gt;
+&lt;p&gt;刷純在感、刷權力&lt;br&gt;
+有八七成聽不懂&lt;br&gt;
+只能找一些片段 / 單點的問題去搓你&lt;/p&gt;
+&lt;h3 id=&#34;現象三&#34;&gt;現象三：&lt;/h3&gt;
+&lt;p&gt;這場要對焦的方向是 A&lt;br&gt;
+卻一直往方向 B 點搓 &amp;hellip;&lt;br&gt;
+通常我們會專注準備 A&lt;br&gt;
+會議通知也會說明報告 A&lt;/p&gt;
+&lt;h3 id=&#34;現象四&#34;&gt;現象四：&lt;/h3&gt;
+&lt;p&gt;報告者一開始就錯了&lt;br&gt;
+就把它定死在那邊，自顧說了 30m &amp;hellip;&lt;br&gt;
+應該是讓他把準備的做部分描述&lt;br&gt;
+然後告訴他方向哪裡有問題&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;所以每次的溝通&lt;br&gt;
+有八七成都是牛頭不對馬嘴&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;幾個指標&#34;&gt;幾個指標&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;組織單位的週會/週報, 是否用系統化的方式呈現狀態&lt;/li&gt;
+&lt;li&gt;有沒一起 &amp;ldquo;Go Through&amp;rdquo; 需求列表, 對焦 Why and What&lt;/li&gt;
+&lt;li&gt;是不是一直鬼打牆問這問題是做啥？ (這種主管基本上該 火掉 &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;我以前也沒做多好&lt;br&gt;
+但我會親自用系統規劃任務&lt;br&gt;
+具體的寫下來&lt;br&gt;
+一一跟大家過 &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;我沒辦法改變那些 我的主管&lt;br&gt;
+但至少可以從自己做起.&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/16&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02AaumMfZMUskgdfRqGh2L3B1rYm1qYxCMV3kBFnG2Bg97unhXoKUXoYmTcYz9oexul&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 內部教育訓練</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1215_internal-training/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1215_internal-training/</guid>
+      <description>
+        
+        
+        &lt;p&gt;幾年前處理過的事情，&lt;br&gt;
+最近類似的劇本又上演一次，&lt;br&gt;
+我曾經是演戲的、導戲的，&lt;br&gt;
+這次我是坐在台下看戲的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;公司出錢給員工去外部上課&lt;br&gt;
+因為業務時間關係&lt;br&gt;
+大部分的課程只能在週末上課。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;題目&#34;&gt;題目&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;員工反映，&lt;br&gt;
+週末還要上課 (工作) ，&lt;br&gt;
+可不可以報加班？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;資方的立場&#34;&gt;資方的立場&lt;/h2&gt;
+&lt;p&gt;公司編列預算，給員工去學習，&lt;br&gt;
+無論學習所得，還是考取證照，&lt;br&gt;
+都是個人的、個人程度的提升，&lt;br&gt;
+屬於「福利」。&lt;/p&gt;
+&lt;p&gt;學習屬於自我成長，&lt;br&gt;
+不會影響考績。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;勞方的立場&#34;&gt;勞方的立場&lt;/h2&gt;
+&lt;p&gt;平常忙得要死，週末還要去上課，&lt;br&gt;
+沒得休息，還不能報加班，&lt;br&gt;
+這樣是否違反勞基法？&lt;br&gt;
+如果上課出勤記錄不好，&lt;br&gt;
+考績還可能會被影響。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;個人經歷&#34;&gt;個人經歷&lt;/h2&gt;
+&lt;p&gt;我辦過很多次內部的訓練課程，&lt;br&gt;
+包含 AWS / Container / K8s &amp;hellip; etc.&lt;br&gt;
+(各種奇怪的讀書會不算)&lt;br&gt;
+從講師、活動主辦人都有,&lt;br&gt;
+凹 AWS 來幫忙也有過 &amp;hellip;&lt;/p&gt;
+&lt;p&gt;幾年前辦過一場大型的 Container / K8s 訓練課程&lt;br&gt;
+當時我的立場是資方，&lt;br&gt;
+是教育訓練課程承辦負責人&lt;br&gt;
+只是訓練方式，不是出錢讓員工去外面訓練機構上課&lt;br&gt;
+只是安排預算了事而已，&lt;/p&gt;
+&lt;p&gt;而是自己辦完整的教育訓練課程 (很過癮XDD&lt;br&gt;
+自己安排課程、設定成效指標、學員名單篩選&lt;br&gt;
+凹同仁當講師 (準備教材、訓練資源)、&lt;br&gt;
+跟受訓學員的主管溝通、跟高層要預算、&lt;br&gt;
+安排場地時間、幫學員安排對應的上課資源 &amp;hellip;&lt;br&gt;
+訂下午茶、跟 HR 討論配套 &amp;hellip; etc&lt;/p&gt;
+&lt;p&gt;過程中&lt;br&gt;
+最慘的是還遇到 COVID-19 剛上市&lt;br&gt;
+台灣進入疫情溫度最高的時候&lt;br&gt;
+在三天內，&lt;br&gt;
+要從實體教室，改到線上。&lt;br&gt;
+同時要應對各種奇怪的需求，&lt;br&gt;
+像是課後能不能複習、&lt;br&gt;
+能不能錄影 (事後證明這些都是浪費)&lt;/p&gt;
+&lt;p&gt;我個人覺得，&lt;br&gt;
+對於學員、員工而言，&lt;br&gt;
+這的確是福利，&lt;br&gt;
+但是溝通要做到位，&lt;br&gt;
+讓同仁不會覺得「自己被凹」&lt;br&gt;
+因為那時候我處理的案例，&lt;br&gt;
+同樣也被問：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;能不能報加班？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;還沒往上報之前，&lt;br&gt;
+我就直接決策了：不行&lt;br&gt;
+往上報，結果也是不行&lt;br&gt;
+但是花更多時間的事跟學員溝通，&lt;br&gt;
+溝通的內容就是前面幾段提到，&lt;br&gt;
+各自的立場的看法，&lt;br&gt;
+把這些看發說清楚。&lt;/p&gt;
+&lt;p&gt;除了立場，&lt;br&gt;
+也從職涯角度切入，&lt;br&gt;
+引導學員、啟發自我學習的意願，&lt;br&gt;
+當有自我意識到：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我自己的技能是不足的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;當有這樣自我意識、認知的時候，&lt;br&gt;
+就達到我的目的了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;普遍現象&#34;&gt;普遍現象&lt;/h2&gt;
+&lt;p&gt;類似的問題&lt;br&gt;
+最近跟朋友也聊到&lt;/p&gt;
+&lt;p&gt;很多進入職場的人&lt;br&gt;
+本身是不學習的&lt;br&gt;
+或者已經「靜止」的狀態&lt;br&gt;
+所以當被企業要求要學習的時候&lt;br&gt;
+背後隱含的意思是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你有公司的業務經歷，但是你跟不上時代&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;其實跟不上時代&lt;br&gt;
+對企業而言能做的就是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;嘗試訓練看看&lt;/li&gt;
+&lt;li&gt;不願意成長的，只能慢慢的將你邊緣化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這算好的，在外商，&lt;br&gt;
+大多會直接請你走人。&lt;br&gt;
+台商跟外商在這裡看得出來果斷力。&lt;br&gt;
+而所以「訓練」背後也隱含著:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;挑出停止學習的人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;會對於這種企業內訓有反彈的人&lt;br&gt;
+背後隱含的幾個層面：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;溫水煮青蛙，&lt;code&gt;哀傷五階段&lt;/code&gt; 的另一種型態&lt;/li&gt;
+&lt;li&gt;比較短勢力，只追求眼前的利害關係&lt;/li&gt;
+&lt;li&gt;尚未認知到外在環境早已改變&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;企業的成平時代，&lt;br&gt;
+不會怎樣&lt;br&gt;
+但是企業獲利或者狀況有改變的時候&lt;br&gt;
+這些人將是前面幾批。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;演戲&lt;br&gt;
+導戲&lt;br&gt;
+看戲&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;以前&lt;br&gt;
+我會盡可能救每一個人&lt;br&gt;
+現在我會說：&lt;code&gt;佛度有緣人&lt;/code&gt;&lt;br&gt;
+有些人，就讓他去&lt;br&gt;
+我能力與資源都有限，&lt;br&gt;
+只幫有意願的人。&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/15&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0yXr6J1GHx81SFhnajwkjVgJqGnscdMdV8S5MJaqqhWZ23M1i2kB2BU5q8rEdcCSTl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 年度計畫</title>
+      <link>https://www.gtcafe.com/portal/itlds/2022/1124_annual-plan/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2022/1124_annual-plan/</guid>
+      <description>
+        
+        
+        &lt;p&gt;整理分享給同事，關於年度計畫的思考脈絡： &lt;a href=&#34;https://rickhw.github.io/2019/03/17/Management/Perspective-in-XYZT/&#34;&gt;人事物時&lt;/a&gt;, &lt;a href=&#34;https://rickhw.github.io/2019/09/13/DevOps/Scrum-for-SRE-Team/&#34;&gt;需求方向&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;事情&#34;&gt;事情&lt;/h2&gt;
+&lt;p&gt;年度計畫看的是 #事情 為主體，&lt;br&gt;
+也就是公司要達到的目標。&lt;br&gt;
+任務的進行方式，就是專案，&lt;br&gt;
+#專案 講究具體的動機、預計成效&lt;br&gt;
+結論理應只有兩個：#開源、#節流&lt;/p&gt;
+&lt;p&gt;物指的是 #系統，具體的 #架構、或者 #服務。&lt;br&gt;
+會落到 Infrastructure 的東西，&lt;br&gt;
+要維運、要顧的，成本就是這裡。&lt;br&gt;
+系統會有依賴，#內部系統依賴、#外部系統依賴，&lt;br&gt;
+依賴 背後隱含的是 #組織依賴，以及 #溝通路徑，&lt;br&gt;
+也就是溝通成本。&lt;br&gt;
+管理系統的依賴，是技術管理者必做的任務，&lt;br&gt;
+不管是內部依賴、還是外部依賴。&lt;/p&gt;
+&lt;p&gt;人，&lt;br&gt;
+從一個人、一群人、很多群人&lt;br&gt;
+也就是個人、團隊、到組織。&lt;br&gt;
+人的存在目的是要搞定事情，&lt;br&gt;
+也就是任務。&lt;/p&gt;
+&lt;p&gt;年度計畫的主體是 #任務，&lt;br&gt;
+主軸都圍繞在任務狀況。&lt;br&gt;
+依照任務的狀況，討論資源 (人) 需求&lt;br&gt;
+確立系統的影響範圍&lt;br&gt;
+以及外部協作單位的對口。&lt;/p&gt;
+&lt;p&gt;但實際上人事物三者，&lt;br&gt;
+最難改動的是 物，也就是系統&lt;br&gt;
+調組織不難，&lt;br&gt;
+調整任務目標，也不難&lt;br&gt;
+動張嘴就可以。&lt;/p&gt;
+&lt;p&gt;但系統，大家都聽過 Legacy &amp;hellip;&lt;br&gt;
+十年、二十年都在那裡&lt;br&gt;
+然後人和事早就面目全非。&lt;br&gt;
+真正有魄力&lt;br&gt;
+應該要從系統下手&lt;br&gt;
+除非有固定在做架構重構 XD&lt;br&gt;
+Code 有重構就偷笑了 XD&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;h2 id=&#34;常見問題&#34;&gt;常見問題&lt;/h2&gt;
+&lt;h3 id=&#34;1-把-專案-當作-系統&#34;&gt;1. 把 #專案 當作 #系統&lt;/h3&gt;
+&lt;p&gt;系統像是台灣地圖&lt;br&gt;
+台灣有多少縣市&lt;br&gt;
+代表多少個服務&lt;br&gt;
+縣市不會整天變來變去&lt;br&gt;
+六都升級也不是天天有的&lt;br&gt;
+當總統、行政首長搞清楚有哪些行政區域&lt;br&gt;
+是基本功課&lt;br&gt;
+如果是新建的國家，&lt;br&gt;
+就要劃分清楚這些行政區域&lt;/p&gt;
+&lt;p&gt;所以專案的需求，無論顆粒度大小，&lt;br&gt;
+可能影響單一系統&lt;br&gt;
+也有可能影響多個系統&lt;br&gt;
+專案 != 系統&lt;br&gt;
+系統可能十年都還在那裡&lt;br&gt;
+專案則是短期 (&amp;lt;3m) 的任務&lt;/p&gt;
+&lt;p&gt;常見問題：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;搞不清楚台灣到底有多少縣市&lt;/li&gt;
+&lt;li&gt;搞不清楚專案的數量到底有哪些&lt;/li&gt;
+&lt;li&gt;搞不清楚這兩個東西的關係與關聯&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;影響：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;專案看起來就小小的一個，但系統的範圍實際上很大，&lt;/li&gt;
+&lt;li&gt;工程師做到死，但 PO 完全搞不清楚他在忙什麼&lt;/li&gt;
+&lt;li&gt;專案管理會亂七八糟 &amp;hellip;&lt;/li&gt;
+&lt;li&gt;架構絕對是亂成一團&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技術主管要與 PO 好好對齊專案與系統的關係。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-搞不清楚系統的內外部依賴&#34;&gt;2. 搞不清楚系統的內外部依賴&lt;/h3&gt;
+&lt;p&gt;依賴關係的管理是技術管理的基本功課&lt;br&gt;
+也是技術管理者的職責&lt;br&gt;
+這些資訊理應在系統的 config 會有很清楚的資訊&lt;br&gt;
+同時這也代表著當需求進來時&lt;br&gt;
+就應該知道影響哪些依賴&lt;br&gt;
+而依賴就代表組織關係&lt;/p&gt;
+&lt;p&gt;專案管理就應該做好協作的準備&lt;br&gt;
+如果是內部依賴於其他系統 (團隊)&lt;br&gt;
+那就要做好內部協作準備&lt;/p&gt;
+&lt;p&gt;常見的問題：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技術管理者搞不清楚依賴狀況&lt;/li&gt;
+&lt;li&gt;PO 更不會知道&lt;/li&gt;
+&lt;li&gt;專案開始進行了，被依賴的單位不曉得有關係，造成插件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解法：沒啥好說的，做好該做的 #系統設計 (System Design)&lt;br&gt;
+技術管理者做不好這件事情，應該沒資格上那個位置。&lt;/p&gt;
+&lt;h3 id=&#34;3-任務的屬性重要性的區分與判斷&#34;&gt;3. 任務的屬性重要性的區分與判斷？&lt;/h3&gt;
+&lt;p&gt;需求來源是有方向性的 &lt;a href=&#34;https://rickhw.github.io/2019/09/13/DevOps/Scrum-for-SRE-Team/&#34;&gt;2&lt;/a&gt;，分 #內部需求 與 #外部需求&lt;/p&gt;
+&lt;p&gt;#業務驅動 屬於外部需求，跟業績有關 (#功能性)&lt;br&gt;
+所以通常優先序也高&lt;br&gt;
+屬於 #開源 需求，直接跟業績掛帥&lt;/p&gt;
+&lt;p&gt;技術驅動屬於內部需求，跟業績無關 (#非功能性)&lt;br&gt;
+但跟 資安、架構、維運、成本、風險有關&lt;br&gt;
+這種東西背後的成效都是 #節流 #降低風險 #提高生產力&lt;/p&gt;
+&lt;p&gt;年度計畫中的任務&lt;br&gt;
+都會有功能性與非功能性&lt;br&gt;
+依照組織的特性&lt;br&gt;
+比重也會有落差&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;思考&#34;&gt;思考&lt;/h2&gt;
+&lt;p&gt;用表格整理計畫的時候&lt;br&gt;
+第一個縱軸擺的東西就是主軸。&lt;/p&gt;
+&lt;p&gt;第一軸擺系統，代表以系統為主體，通常技術主管會這樣做。&lt;br&gt;
+擺人，代表優先考慮資源，通常組織人力資源拮据的時候，會這樣做。&lt;br&gt;
+擺事，代表以任務優先考慮，通常 PO / PM 會這樣做。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;#人事物時 的 時 還沒寫&lt;br&gt;
+跟企業發展階段的策略有關。&lt;br&gt;
+懶的敲了 XD&lt;br&gt;
+再敲下去就去開公司好了。。。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我覺得應該開個 podcast 來講一些東西。。。&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2022/11/24&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0eJgHEvZjg8WsyG5wCsNiFS59EfoXbKeKzJCLbHsxrfudDU1gPUCxHCgF5KSRta2vl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Itlds: 依賴反轉</title>

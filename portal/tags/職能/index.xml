@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 職能</title>
+    <link>https://www.gtcafe.com/portal/tags/%E8%81%B7%E8%83%BD/</link>
+    <description>Recent content in 職能 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 16 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/tags/%E8%81%B7%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: QA, RD, Ops</title>
+      <link>https://www.gtcafe.com/portal/itlds/2017/1216_qa-org/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2017/1216_qa-org/</guid>
+      <description>
+        
+        
+        &lt;p&gt;大多時候很多公司，QA 都 under Dev 底下，但大多 Dev 主管不懂 QA，然後又自已為懂 QA &amp;hellip;&lt;/p&gt;
+&lt;p&gt;大多公司 Research 跟 Dev 不分，因為老版要快快快，所以簡化成 “RD” &amp;hellip; 就像是把立法和行政放在一起一樣 &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;然候除了 QA, 很多公司也會把 Ops 放在 dev 底下 &amp;hellip;. 而 Dev, QA, Ops 本質就是不同的，就跟行政、立法、司法一樣各自獨立運作，獨立判決。&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0FESbb59J8Uk3SAvxEUS1NaPyhCaoKbUHc1KJDb55tfSxbdQKdyR7rcCPzAkC4uG2l&#34;&gt;https://www.facebook.com/rick.kyhwang/posts/pfbid0FESbb59J8Uk3SAvxEUS1NaPyhCaoKbUHc1KJDb55tfSxbdQKdyR7rcCPzAkC4uG2l&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

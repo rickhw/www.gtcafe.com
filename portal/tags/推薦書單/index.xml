@@ -5,7 +5,7 @@
     <description>Recent content in 推薦書單 on GTCafe Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://www.gtcafe.com/portal/tags/%E6%8E%A8%E8%96%A6%E6%9B%B8%E5%96%AE/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,74 @@
     
     
     <item>
-      <title>Itlds: 心流</title>
+      <title>Itlds: (閱讀) 心流</title>
+      <link>https://www.gtcafe.com/portal/itlds/2019/1215_oop/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2019/1215_oop/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;cover.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;朋友問推薦關於 &lt;code&gt;OOP&lt;/code&gt; 的書。有名 OOP/OOD 的書不少，經典也很多，但通常不是很好啃，不過想推薦本比較特別：《程式設計範式與OOP 思考術》&lt;/p&gt;
+&lt;p&gt;例如，他他這樣比喻 &lt;code&gt;繼承&lt;/code&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;青，取之於藍，而青於藍&lt;br&gt;
+博學之，審學之，慎思之，明辨之，篤行之。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這樣比喻 &lt;code&gt;多型&lt;/code&gt;：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;動靜屈伸，為變所適。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;介面：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;律己宜嚴，待人宜寬&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;簡單說，這是一本用喇低賽方式講 OOP 的書 XDD&lt;br&gt;
+至於好不好啃，書中的比喻跟讀者的生活歷練有關係～&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;index01.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+&lt;img src=&#34;index02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2019/12/15&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0vVoMn4zVaZXE45cq85DkYPRjMmJqzJWCZJfRVdeDnUmwqMPy5BTSvVtEzCSYDRfPl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: (閱讀) 深度工作力</title>
+      <link>https://www.gtcafe.com/portal/itlds/2019/1213_deep-work/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2019/1213_deep-work/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;cover.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;刻意練習&lt;/code&gt; 這本書很紅，搭上 10,000 小時的持續練習，這樣的方法論也確實有效，但我想推薦的另一本書類似的書：&lt;code&gt;DeepWork (深度工作)&lt;/code&gt; - 作者 Cal Newport (專長分散式演算法)&lt;/p&gt;
+&lt;p&gt;番茄鐘是常被拿出來用的方法，以 25 分鐘為單位，在工作上可以有適度的節奏感。而個人過去的實務經驗，實際上能夠進入深度工作狀態 (也就是進入 Flow &lt;code&gt;心流&lt;/code&gt; 狀態)，而且有實質產能的時間長度，我個人一個單位是 #四小時，例如寫一篇完整的文章、寫一段核心的演算法、思考一個制度體系、寫一首歌的樂譜。&lt;/p&gt;
+&lt;p&gt;深度工作 與刻意練習不同的是：深度工作的產出會變成我自己的心法、原則，最後會昇華成一種哲學、道、理念，然後一直跟著我。而刻意練習大部分是為了取的某種技能，例如練習樂器的技巧、熟悉某個英文發音、熟練某個程式語言 / 新技術的運作機制 &amp;hellip;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;刻意練習：&lt;code&gt;技能 (Skills)&lt;/code&gt; 的獲得、單一領域&lt;/li&gt;
+&lt;li&gt;深度工作：&lt;code&gt;能力 (Ability)&lt;/code&gt; 的淬煉、跨領域&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;技能會隨時間，沒持續使用或者練習，會慢慢退化，程式久沒寫，就是會退步；吉他久沒練，手感就是會減少；久沒下廚，炒起菜來就是不順手。但是能力不會隨時間前進而遺忘，反而會越陳越香。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2019/12/13&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02m89k9CfLZehHKrdGrsxLcAYiyqvHSvL2TGuXQzfjTuKdtSsuGkDBeh462wXbPA58l&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: (閱讀) 心流</title>
       <link>https://www.gtcafe.com/portal/itlds/2019/1222_flow/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       

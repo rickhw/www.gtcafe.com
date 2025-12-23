@@ -5,7 +5,7 @@
     <description>Recent content in 2023 on GTCafe Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://www.gtcafe.com/portal/itlds/2023/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,492 @@
         
       
     
+    
+    <item>
+      <title>Itlds: 向上溝通</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1216_communicating-upwards/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1216_communicating-upwards/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#Draft&lt;br&gt;
+#向上溝通&lt;br&gt;
+#看清問題 #才有機會改善&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;問題的表象&#34;&gt;問題的表象&lt;/h2&gt;
+&lt;p&gt;很少管理者 (主管 / PM)&lt;br&gt;
+會用 #系統化 的方式管理任務&lt;br&gt;
+像是 issue tracking system,&lt;br&gt;
+不管是 jira, redmine, vsts &amp;hellip;&lt;br&gt;
+大部分都是 ppt, excel &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;經常討論事情, 都是都在問:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;這是什麼事情？&lt;/li&gt;
+&lt;li&gt;為什麼要做這件事情？&lt;/li&gt;
+&lt;li&gt;背後要解決什麼問題？&lt;/li&gt;
+&lt;li&gt;帶來什麼價值？&lt;/li&gt;
+&lt;li&gt;任務需要多少資源？&lt;/li&gt;
+&lt;li&gt;這誰提的需求？&lt;/li&gt;
+&lt;li&gt;你為什麼要做這件事情？&lt;/li&gt;
+&lt;li&gt;這件事什麼 Delay？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;整個溝通過程缺乏 #延續性&lt;br&gt;
+上次說什麼, 結論, 後來怎樣  &amp;hellip;&lt;br&gt;
+更多的是考驗彼此的記憶力 &amp;hellip;.&lt;br&gt;
+靠一份表達有問題的簡報 &amp;hellip;&lt;br&gt;
+或者上次說的跟這次說的不一樣&lt;br&gt;
+或者為什麼這樣做&lt;/p&gt;
+&lt;p&gt;偏偏大部分的人&lt;br&gt;
+記憶力 / 理解力 / 溝通與表達能力&lt;br&gt;
+都是不足的 &amp;hellip;&lt;br&gt;
+加上生理限制 (上了年紀之後更明顯&lt;/p&gt;
+&lt;p&gt;溝通過程&lt;br&gt;
+無論公開還是私下&lt;br&gt;
+經常出現這樣的現象:&lt;/p&gt;
+&lt;h3 id=&#34;現象一&#34;&gt;現象一：&lt;/h3&gt;
+&lt;p&gt;腦袋裡根本對於任務根本就沒有概念&lt;br&gt;
+很常出現不同層次的對話，像是&lt;br&gt;
+明明是在談 HTTP 的東西&lt;br&gt;
+用 TCP 角度在問問題 &amp;hellip;&lt;/p&gt;
+&lt;p&gt;我們在討論的是山川大江&lt;br&gt;
+他卻在問量子力學;&lt;br&gt;
+我們在討論原子電子&lt;br&gt;
+他卻方向應該像是金門大橋&lt;/p&gt;
+&lt;h3 id=&#34;現象二&#34;&gt;現象二：&lt;/h3&gt;
+&lt;p&gt;刷純在感、刷權力&lt;br&gt;
+有八七成聽不懂&lt;br&gt;
+只能找一些片段 / 單點的問題去搓你&lt;/p&gt;
+&lt;h3 id=&#34;現象三&#34;&gt;現象三：&lt;/h3&gt;
+&lt;p&gt;這場要對焦的方向是 A&lt;br&gt;
+卻一直往方向 B 點搓 &amp;hellip;&lt;br&gt;
+通常我們會專注準備 A&lt;br&gt;
+會議通知也會說明報告 A&lt;/p&gt;
+&lt;h3 id=&#34;現象四&#34;&gt;現象四：&lt;/h3&gt;
+&lt;p&gt;報告者一開始就錯了&lt;br&gt;
+就把它定死在那邊，自顧說了 30m &amp;hellip;&lt;br&gt;
+應該是讓他把準備的做部分描述&lt;br&gt;
+然後告訴他方向哪裡有問題&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;所以每次的溝通&lt;br&gt;
+有八七成都是牛頭不對馬嘴&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;幾個指標&#34;&gt;幾個指標&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;組織單位的週會/週報, 是否用系統化的方式呈現狀態&lt;/li&gt;
+&lt;li&gt;有沒一起 &amp;ldquo;Go Through&amp;rdquo; 需求列表, 對焦 Why and What&lt;/li&gt;
+&lt;li&gt;是不是一直鬼打牆問這問題是做啥？ (這種主管基本上該 火掉 &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;我以前也沒做多好&lt;br&gt;
+但我會親自用系統規劃任務&lt;br&gt;
+具體的寫下來&lt;br&gt;
+一一跟大家過 &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;我沒辦法改變那些 我的主管&lt;br&gt;
+但至少可以從自己做起.&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/16&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02AaumMfZMUskgdfRqGh2L3B1rYm1qYxCMV3kBFnG2Bg97unhXoKUXoYmTcYz9oexul&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 內部教育訓練</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1215_internal-training/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1215_internal-training/</guid>
+      <description>
+        
+        
+        &lt;p&gt;幾年前處理過的事情，&lt;br&gt;
+最近類似的劇本又上演一次，&lt;br&gt;
+我曾經是演戲的、導戲的，&lt;br&gt;
+這次我是坐在台下看戲的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;公司出錢給員工去外部上課&lt;br&gt;
+因為業務時間關係&lt;br&gt;
+大部分的課程只能在週末上課。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;題目&#34;&gt;題目&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;員工反映，&lt;br&gt;
+週末還要上課 (工作) ，&lt;br&gt;
+可不可以報加班？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;資方的立場&#34;&gt;資方的立場&lt;/h2&gt;
+&lt;p&gt;公司編列預算，給員工去學習，&lt;br&gt;
+無論學習所得，還是考取證照，&lt;br&gt;
+都是個人的、個人程度的提升，&lt;br&gt;
+屬於「福利」。&lt;/p&gt;
+&lt;p&gt;學習屬於自我成長，&lt;br&gt;
+不會影響考績。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;勞方的立場&#34;&gt;勞方的立場&lt;/h2&gt;
+&lt;p&gt;平常忙得要死，週末還要去上課，&lt;br&gt;
+沒得休息，還不能報加班，&lt;br&gt;
+這樣是否違反勞基法？&lt;br&gt;
+如果上課出勤記錄不好，&lt;br&gt;
+考績還可能會被影響。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;個人經歷&#34;&gt;個人經歷&lt;/h2&gt;
+&lt;p&gt;我辦過很多次內部的訓練課程，&lt;br&gt;
+包含 AWS / Container / K8s &amp;hellip; etc.&lt;br&gt;
+(各種奇怪的讀書會不算)&lt;br&gt;
+從講師、活動主辦人都有,&lt;br&gt;
+凹 AWS 來幫忙也有過 &amp;hellip;&lt;/p&gt;
+&lt;p&gt;幾年前辦過一場大型的 Container / K8s 訓練課程&lt;br&gt;
+當時我的立場是資方，&lt;br&gt;
+是教育訓練課程承辦負責人&lt;br&gt;
+只是訓練方式，不是出錢讓員工去外面訓練機構上課&lt;br&gt;
+只是安排預算了事而已，&lt;/p&gt;
+&lt;p&gt;而是自己辦完整的教育訓練課程 (很過癮XDD&lt;br&gt;
+自己安排課程、設定成效指標、學員名單篩選&lt;br&gt;
+凹同仁當講師 (準備教材、訓練資源)、&lt;br&gt;
+跟受訓學員的主管溝通、跟高層要預算、&lt;br&gt;
+安排場地時間、幫學員安排對應的上課資源 &amp;hellip;&lt;br&gt;
+訂下午茶、跟 HR 討論配套 &amp;hellip; etc&lt;/p&gt;
+&lt;p&gt;過程中&lt;br&gt;
+最慘的是還遇到 COVID-19 剛上市&lt;br&gt;
+台灣進入疫情溫度最高的時候&lt;br&gt;
+在三天內，&lt;br&gt;
+要從實體教室，改到線上。&lt;br&gt;
+同時要應對各種奇怪的需求，&lt;br&gt;
+像是課後能不能複習、&lt;br&gt;
+能不能錄影 (事後證明這些都是浪費)&lt;/p&gt;
+&lt;p&gt;我個人覺得，&lt;br&gt;
+對於學員、員工而言，&lt;br&gt;
+這的確是福利，&lt;br&gt;
+但是溝通要做到位，&lt;br&gt;
+讓同仁不會覺得「自己被凹」&lt;br&gt;
+因為那時候我處理的案例，&lt;br&gt;
+同樣也被問：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;能不能報加班？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;還沒往上報之前，&lt;br&gt;
+我就直接決策了：不行&lt;br&gt;
+往上報，結果也是不行&lt;br&gt;
+但是花更多時間的事跟學員溝通，&lt;br&gt;
+溝通的內容就是前面幾段提到，&lt;br&gt;
+各自的立場的看法，&lt;br&gt;
+把這些看發說清楚。&lt;/p&gt;
+&lt;p&gt;除了立場，&lt;br&gt;
+也從職涯角度切入，&lt;br&gt;
+引導學員、啟發自我學習的意願，&lt;br&gt;
+當有自我意識到：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我自己的技能是不足的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;當有這樣自我意識、認知的時候，&lt;br&gt;
+就達到我的目的了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;普遍現象&#34;&gt;普遍現象&lt;/h2&gt;
+&lt;p&gt;類似的問題&lt;br&gt;
+最近跟朋友也聊到&lt;/p&gt;
+&lt;p&gt;很多進入職場的人&lt;br&gt;
+本身是不學習的&lt;br&gt;
+或者已經「靜止」的狀態&lt;br&gt;
+所以當被企業要求要學習的時候&lt;br&gt;
+背後隱含的意思是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你有公司的業務經歷，但是你跟不上時代&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;其實跟不上時代&lt;br&gt;
+對企業而言能做的就是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;嘗試訓練看看&lt;/li&gt;
+&lt;li&gt;不願意成長的，只能慢慢的將你邊緣化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這算好的，在外商，&lt;br&gt;
+大多會直接請你走人。&lt;br&gt;
+台商跟外商在這裡看得出來果斷力。&lt;br&gt;
+而所以「訓練」背後也隱含著:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;挑出停止學習的人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;會對於這種企業內訓有反彈的人&lt;br&gt;
+背後隱含的幾個層面：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;溫水煮青蛙，&lt;code&gt;哀傷五階段&lt;/code&gt; 的另一種型態&lt;/li&gt;
+&lt;li&gt;比較短勢力，只追求眼前的利害關係&lt;/li&gt;
+&lt;li&gt;尚未認知到外在環境早已改變&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;企業的成平時代，&lt;br&gt;
+不會怎樣&lt;br&gt;
+但是企業獲利或者狀況有改變的時候&lt;br&gt;
+這些人將是前面幾批。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;演戲&lt;br&gt;
+導戲&lt;br&gt;
+看戲&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;以前&lt;br&gt;
+我會盡可能救每一個人&lt;br&gt;
+現在我會說：&lt;code&gt;佛度有緣人&lt;/code&gt;&lt;br&gt;
+有些人，就讓他去&lt;br&gt;
+我能力與資源都有限，&lt;br&gt;
+只幫有意願的人。&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/15&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0yXr6J1GHx81SFhnajwkjVgJqGnscdMdV8S5MJaqqhWZ23M1i2kB2BU5q8rEdcCSTl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: AI 時代的軟體工程師</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1214_software-engineer-in-ai/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1214_software-engineer-in-ai/</guid>
+      <description>
+        
+        
+        &lt;p&gt;AI 時代，軟體工程師正在走向兩條截然不同的路：&lt;/p&gt;
+&lt;p&gt;第一種人，知其然更知其所以然。&lt;br&gt;
+他們依舊打磨 CS 底層邏輯，&lt;br&gt;
+把 AI 當作外掛引擎，&lt;br&gt;
+不斷墊高自己的技術護城河，&lt;br&gt;
+讓寫程式回歸創造力的本質。&lt;/p&gt;
+&lt;p&gt;第二種人，懂點皮毛就開始吹。&lt;br&gt;
+靠 AI 生成幾段 Code 就產生了「我懂軟體」的錯覺，&lt;br&gt;
+做著最表層的整合，卻喊著百萬年薪的價碼。&lt;br&gt;
+這種過度包裝、自我感覺良好的樣子，&lt;/p&gt;
+&lt;p&gt;看著看著……&lt;br&gt;
+是不是覺得跟某個政黨很像？&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;突然有感 &amp;hellip;.&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/14&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid013eqYAyFnwDSc2YbG8YDyekS4UWdNLWkXcYACsQefuHRYsNZcEhprJr2vmDWfmFSl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: AI 工具：IDE 用哪個？</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1213_tool/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1213_tool/</guid>
+      <description>
+        
+        
+        &lt;p&gt;AI 工具：IDE 用哪個？&lt;/p&gt;
+&lt;p&gt;Windsurf?&lt;br&gt;
+Cursor?&lt;br&gt;
+VSCode&lt;br&gt;
+Kiro&lt;br&gt;
+Zed&lt;br&gt;
+IntelliJ&lt;br&gt;
+&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;大亂鬥的時代&lt;br&gt;
+就是選個順手的&lt;br&gt;
+專心做主要的工作&lt;br&gt;
+過幾個月後&lt;br&gt;
+那些廝殺到最後活下來的&lt;br&gt;
+再去學就好&lt;/p&gt;
+&lt;p&gt;歷史會一再重演&lt;br&gt;
+docker 剛起來時就是一堆大亂鬥&lt;br&gt;
+docker swarm, mesos, k8s, ecs &amp;hellip;&lt;/p&gt;
+&lt;p&gt;重點是做自己想做的事&lt;br&gt;
+跟 AI IDE 的趨勢 就看新聞&lt;br&gt;
+有時間玩玩看 實驗看看&lt;/p&gt;
+&lt;p&gt;主, 次 要分清楚&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我現在只用 vscode&lt;br&gt;
+extension 幾乎都不裝&lt;br&gt;
+配合 gemini cli&lt;br&gt;
+就可以幹很多事了 XD&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;理財投資不是主業&lt;br&gt;
+生活才是&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/13&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0yYPneFgGS9hpwZvUCRuCChKiRLE9n4WLcve48dcUB3UwLDb37AKZqqepY6GLHqKxl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 空間的價值</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1213_space/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1213_space/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;空間價值&#34;&gt;空間價值&lt;/h2&gt;
+&lt;p&gt;屋內的 #空間利用 一直是我不斷在嘗試的概念，也就是如何讓屋內的空間可以更有效的利用，同時又可以讓使用空間感覺沒有變小。&lt;/p&gt;
+&lt;p&gt;所以我自己有個 #空間價值 的概念，在評估每個放在屋內的東西的價值是否匹配。這概念在每年 #斷捨離 的時候，就會拿出來當作評估的參考 (不是判斷依據)。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;平面概念&#34;&gt;平面概念&lt;/h2&gt;
+&lt;p&gt;大部分室內平面大小，如果看房子的時候沒有工具，可以看看磁磚的規格，普遍的會有 40cm or 80cm 的兩種，也有 20cm 的。40cm 大概是成年人的小腿長，沒有工具一眼就可以判斷。肉眼長寬見方是可以直接算得出來實際大小。像我現在住的地方，客廳是 9 * 7 大小、主臥是 8 * 9，40cm 的磁磚。&lt;/p&gt;
+&lt;p&gt;所以看房子在現場看大小，跟實際文件上的大小或者網站上的資料，可以透過這樣的方式快速驗證。&lt;/p&gt;
+&lt;p&gt;台灣的一坪大概是 170cm * 170cm 見方，也就是約 4.2 * 4.2 塊 40cm 磁磚，也經常換算一張雙人床的大小。換算上面我客廳的大小約 3.5 坪、臥室約 4.2 坪.&lt;/p&gt;
+&lt;p&gt;可用平面空間整理：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;客廳：3.5 坪 = (9&lt;em&gt;0.4)&lt;/em&gt;(7*0.4) = 10.08 平方公尺&lt;/li&gt;
+&lt;li&gt;臥室：4.2 坪 = (8&lt;em&gt;0.4)&lt;/em&gt;(9*0.4) = 11.52 平方公尺&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;空間概念&#34;&gt;空間概念&lt;/h2&gt;
+&lt;p&gt;台灣房子平均高度：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公寓 2.8 ~ 3.0 公尺&lt;/li&gt;
+&lt;li&gt;華夏 3.0 ~ 3.1 公尺&lt;/li&gt;
+&lt;li&gt;新建案大樓 3.2 ~ 3.5 公尺&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;扣除結構 (樓板厚度, 防灑水頭與大樑) 以及天花板裝潢，大概都可以扣掉 0.5 公尺。&lt;/p&gt;
+&lt;p&gt;平均可用高度為 2.6 公尺 (扣除樓板、灑水頭、天花板)&lt;/p&gt;
+&lt;p&gt;在這 2.6 公尺中，以成年人的平均身高 1.7 公尺計算，2.6 公尺其中的 90cm 是比較少會使用的。所以簡單計算二分法，1.7 公尺以下的權重高，以上權重較低。&lt;/p&gt;
+&lt;p&gt;不過為了方便說明，先直接用 2.6 公尺計算整個空間 (容積)。&lt;/p&gt;
+&lt;p&gt;所以得到:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;客廳：3.5 坪 = 10.08 平方公尺 * 2.6 = 26.208 立方公尺&lt;/li&gt;
+&lt;li&gt;臥室：4.2 坪 = 11.52 平方公尺 * 2.6 = 29.925 立方公尺&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;空間價值-1&#34;&gt;空間價值&lt;/h2&gt;
+&lt;p&gt;以台北市房價計算，我現在居住的房價每坪約 90 萬計算，但這是所謂的平面價值，我想知道的是 #空間價值，是立體的概念。&lt;/p&gt;
+&lt;p&gt;所以用 90 萬/每坪來均分，以客廳 3.5 坪計算，空間價值為：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;3.5 * 90 萬 = 315 萬&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;客廳容積為 26.208，所以每立方公尺價值：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;315 / 26 = 12.1 萬&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一立方公尺是多大？大概一台小洗衣機的空間，一台冰箱，一張電腦椅的空間，一張單人座的沙發 &amp;hellip; etc.&lt;/p&gt;
+&lt;p&gt;整理一下我現在客廳家具所佔用的空間價值：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;音樂工作桌：180 * 80 * 75 cm = 1.08 立方公尺 -&amp;gt; 13 萬&lt;/li&gt;
+&lt;li&gt;思考沙發： 80 * 80 * 75 cm = 0.48 立方公尺 -&amp;gt; 5.8 萬&lt;/li&gt;
+&lt;li&gt;四層書架： 80 * 30 * 180 cm = 0.432 立方公尺 -&amp;gt; 5.2 萬&lt;/li&gt;
+&lt;li&gt;冰箱： 60 * 65 * 150 cm = 0.585 立方公尺 -&amp;gt; 7.1 萬&lt;/li&gt;
+&lt;li&gt;書櫃： 80 * 30 * 180 cm = 0.432 立方公尺 -&amp;gt; 5.2 萬&lt;/li&gt;
+&lt;li&gt;琴架： 60 * 80 * 80 cm = 0.384 立方公尺 -&amp;gt; 4.6 萬&lt;/li&gt;
+&lt;li&gt;小茶几： 60 * 60 * 45 cm = 0.162 立方公尺 -&amp;gt; 2 萬&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;全部加起來大概 43 萬左右的空間價值，空間使用率是 (43 / 315) = 13.6%&lt;/p&gt;
+&lt;p&gt;空間價值最常見的問題是，當地板被佔用之後，其實整個高度就全部被佔用了，這樣的空間其實整個高度就全部。&lt;/p&gt;
+&lt;p&gt;上述的空間價值看起來不高，實際上「高」都要用整個高度，重新計算如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;音樂工作桌：180 * 80 * 260 cm = 3.744 立方公尺 -&amp;gt; 45.3 萬&lt;/li&gt;
+&lt;li&gt;思考沙發： 80 * 80 * 260 cm = 1.664 立方公尺 -&amp;gt; 20.1 萬&lt;/li&gt;
+&lt;li&gt;四層書架： 80 * 30 * 260 cm = 0.624 立方公尺 -&amp;gt; 7.5 萬&lt;/li&gt;
+&lt;li&gt;冰箱： 60 * 65 * 260 cm = 1.014 立方公尺 -&amp;gt; 12.3 萬&lt;/li&gt;
+&lt;li&gt;書櫃： 80 * 30 * 260 cm = 0.624 立方公尺 -&amp;gt; 7.5 萬&lt;/li&gt;
+&lt;li&gt;琴架： 60 * 80 * 260 cm = 1.248 立方公尺 -&amp;gt; 15.1 萬&lt;/li&gt;
+&lt;li&gt;小茶几： 60 * 60 * 260 cm = 0.936 立方公尺 -&amp;gt; 11.3 萬&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;全部加起來大概 119 萬左右的空間價值，空間使用率是：(119/315) = 37%&lt;/p&gt;
+&lt;p&gt;如果一個空間裡，人需要活動的空間最好是 60% - 70%，那上述差不多是這樣的數字。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;斷捨離的思考&#34;&gt;斷捨離的思考&lt;/h2&gt;
+&lt;p&gt;有了上述的概念，每次整理東西的時候，就用這概念評估，這個東西是否值得繼續留在家裡，或者怎麼重新挑整空間的配置，提高空間價值。&lt;/p&gt;
+&lt;p&gt;除了斷捨離，再購入新的東西的時候，也可以用這個概念來評估這個東西是否值得購入，或者要怎麼配置，讓空間價值最大化。&lt;/p&gt;
+&lt;p&gt;這也就是說，如果東西好用，那應該就要買好的、耐用的、可以用很久的，這樣才不會浪費空間價值。&lt;/p&gt;
+&lt;p&gt;有些屬於擺飾、情感價值的東西，像是氣氛裝飾、公仔、紀念品、收藏品 &amp;hellip; etc，我通常會思考怎麼讓他們融入在既有的空間配置中，而不是另外佔用一個空間。&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/13&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0kU3B1hA9zcchSvD8PuaMU46nXTrMBe1beKbQ9BgZCa16UoLbc79Uv9ev9FqeT6Nel&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 寫作</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1212_start/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1212_start/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/12&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0RqQQAJ4DnBuw1u4254DNAdXeiR9azr7D4TKEyGexrzJdux1H9NmbfH8jZhHCzVfnl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 高勝創新率</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1205_creative/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1205_creative/</guid>
+      <description>
+        
+        
+        &lt;p&gt;士兵 vs 藝術家&lt;br&gt;
+內部？還是獨立公司？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;03.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;04.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;05.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;06.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/05&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0g8Ju5n8jwhg43HbqSEPDhh6kbnzRhQn3Lg7E8kDxyRoUbNZyvUvQEnDruqvRiVAol&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 海的另一邊</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1203_freedom/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1203_freedom/</guid>
+      <description>
+        
+        
+        &lt;p&gt;海的另一頭有自由…&lt;br&gt;
+我原本是這樣想的&lt;/p&gt;
+&lt;p&gt;但是我錯了…&lt;br&gt;
+海的那頭只有敵人&lt;/p&gt;
+&lt;p&gt;要是我們把海對面的敵人都殺光的話，&lt;br&gt;
+我們就 … 自由了嗎？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;free.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;中二病發了。。。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/03&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid025NQ4zGwdu3HH6fUtFBG6tVi3EUB8XBjC9YVAitUy58bBwrmshbQ7HBKhkH6tYsPtl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Itlds: 包包</title>

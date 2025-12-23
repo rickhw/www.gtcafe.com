@@ -1,0 +1,90 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 讀者問答</title>
+    <link>https://www.gtcafe.com/portal/tags/%E8%AE%80%E8%80%85%E5%95%8F%E7%AD%94/</link>
+    <description>Recent content in 讀者問答 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/tags/%E8%AE%80%E8%80%85%E5%95%8F%E7%AD%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: Q&amp;A for QA</title>
+      <link>https://www.gtcafe.com/portal/itlds/2022/1215_qa/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2022/1215_qa/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;question-01&#34;&gt;Question #01&lt;/h2&gt;
+&lt;p&gt;問題：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;對於「RD 產出的 code 不測試, 就直接丟給 QA」這個現象的看法與建議？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Answer:&lt;/p&gt;
+&lt;p&gt;這我分兩個面向來看：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;RD 沒時間寫&lt;/li&gt;
+&lt;li&gt;RD 不想寫&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;管理問題&#34;&gt;管理問題&lt;/h3&gt;
+&lt;p&gt;第一點，這應該不是 #能力 或 #意願 問題，而是 #專案管理 或 #團隊運作 造成 #時間 不夠充裕的問題。&lt;/p&gt;
+&lt;p&gt;不管跑啥方式 (看板 / Scrum)，RD 可以透過 Retro 去反應這樣的狀況，然後讓 Scrum Master or PO / TL 去協調，不管怎樣，要把時間喬出來做。這種投資是很值得，產出的品質會是更穩定可靠的。我相信只要專業度夠的 RD，都會知道要做好 UT 的 Sense，但是「做」需要時間。&lt;/p&gt;
+&lt;p&gt;時間這個因素，會牽涉到完成的完整度問題。工程師大多期許自己做到 #完美 (Perfect)，而時間的限制，需要工程師去思考 #完成 (Complete) 距離 #完美 有多遠。這也是了解工程師對於 取捨、Tradeoff 的能力，通常在拆工作項目時，可以看得出來。&lt;/p&gt;
+&lt;h3 id=&#34;意願&#34;&gt;意願&lt;/h3&gt;
+&lt;p&gt;如果是第二點，屬於 #意願，乃至於 #能力 問題，可以說是「人」的問題，然後就是影響整個團隊。&lt;/p&gt;
+&lt;p&gt;意願問題，應該是直屬主管或者現場的 Tech Lead 處理，因為 Code Review 應該就會看到 Unit Test 有沒有寫？如果 PR 沒寫 UT 就讓他過，那看點 Approve 的人就要負責。有些團隊因為人力佈局的關係，可能是成員之間相互 Review，而不是 TL，那就要往上一層去推，像是 PO / TL，請他們對團隊做這樣的要求。如果是到主管那邊的操作就是直接當作 KPI 去執行。&lt;/p&gt;
+&lt;p&gt;能力問題則由 TL 以及成員之間相互砥礪、相互學習，只要願意學，我相信都不會做得太差。TL 或團隊成員沒時間，那可以自己要求去外面上課，調整自己的不足。實務上遇到更多的是，有些 UT 不好寫，需要調整設計配合才可以，這種案例往往需要 TL 介入一起討論。&lt;/p&gt;
+&lt;p&gt;這樣在推的過程，一定會遇到 #時間 不夠的問題，回到第一點，由 PO / TL 處理 or SM 處理；&lt;/p&gt;
+&lt;h3 id=&#34;摘要&#34;&gt;摘要&lt;/h3&gt;
+&lt;p&gt;執行任務的過程的三大要素：#方向、#資源、#時間 缺一不可。而「人」的前提則是意願與能力。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;question-02&#34;&gt;Question #02&lt;/h2&gt;
+&lt;p&gt;問題：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;身為一個負責開發業務需求的 RD，Code 寫好後，測試要做到怎樣的狀況，才能交給 QA / Tester？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Answer:&lt;/p&gt;
+&lt;p&gt;我自己以前 as a developer 的時候，作法如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;完成 DCUT (Design, Coding, and Unit Test)&lt;/li&gt;
+&lt;li&gt;確認 Build Pass&lt;/li&gt;
+&lt;li&gt;拿 Build 好的 Artifact 在自己的工作環境安裝，確認 Config / DB 沒問題，跑得起來.&lt;/li&gt;
+&lt;li&gt;跑過 Happy Paths，確認需求上描述的功能已經都滿足。&lt;/li&gt;
+&lt;li&gt;沒問題了，請 QA 測其他的 Test Cases&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這五個步驟，不管是 Web / Desktop / Mobile 我都是這樣走。&lt;/p&gt;
+&lt;p&gt;相關討論與回答：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/DevOpsTaiwan/permalink/1784559398297765/&#34;&gt;https://www.facebook.com/groups/DevOpsTaiwan/permalink/1784559398297765/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/DevOpsTaiwan/permalink/1815984381821933/&#34;&gt;https://www.facebook.com/groups/DevOpsTaiwan/permalink/1815984381821933/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;任務都有資源、時間、風險、成本 &amp;hellip; 等各種因素，&lt;br&gt;
+在時間有限、資源有限的時候，&lt;br&gt;
+考驗的是團隊協作的共識，&lt;br&gt;
+有時候：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;完成 (#Complete) 比 完美 (#Perfect) 更重要。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2022/12/15&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02MD5GaMQuBaqWrkEA5RgfTW97UD1pEed8eGXxdpKRbs7QnVuUBJVm7o97mUM4ZDdtl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

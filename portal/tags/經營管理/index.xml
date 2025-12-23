@@ -1,0 +1,263 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTCafe Studio – 經營管理</title>
+    <link>https://www.gtcafe.com/portal/tags/%E7%B6%93%E7%87%9F%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 經營管理 on GTCafe Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://www.gtcafe.com/portal/tags/%E7%B6%93%E7%87%9F%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Itlds: 向上溝通</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1216_communicating-upwards/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1216_communicating-upwards/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#Draft&lt;br&gt;
+#向上溝通&lt;br&gt;
+#看清問題 #才有機會改善&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;問題的表象&#34;&gt;問題的表象&lt;/h2&gt;
+&lt;p&gt;很少管理者 (主管 / PM)&lt;br&gt;
+會用 #系統化 的方式管理任務&lt;br&gt;
+像是 issue tracking system,&lt;br&gt;
+不管是 jira, redmine, vsts &amp;hellip;&lt;br&gt;
+大部分都是 ppt, excel &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;經常討論事情, 都是都在問:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;這是什麼事情？&lt;/li&gt;
+&lt;li&gt;為什麼要做這件事情？&lt;/li&gt;
+&lt;li&gt;背後要解決什麼問題？&lt;/li&gt;
+&lt;li&gt;帶來什麼價值？&lt;/li&gt;
+&lt;li&gt;任務需要多少資源？&lt;/li&gt;
+&lt;li&gt;這誰提的需求？&lt;/li&gt;
+&lt;li&gt;你為什麼要做這件事情？&lt;/li&gt;
+&lt;li&gt;這件事什麼 Delay？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;整個溝通過程缺乏 #延續性&lt;br&gt;
+上次說什麼, 結論, 後來怎樣  &amp;hellip;&lt;br&gt;
+更多的是考驗彼此的記憶力 &amp;hellip;.&lt;br&gt;
+靠一份表達有問題的簡報 &amp;hellip;&lt;br&gt;
+或者上次說的跟這次說的不一樣&lt;br&gt;
+或者為什麼這樣做&lt;/p&gt;
+&lt;p&gt;偏偏大部分的人&lt;br&gt;
+記憶力 / 理解力 / 溝通與表達能力&lt;br&gt;
+都是不足的 &amp;hellip;&lt;br&gt;
+加上生理限制 (上了年紀之後更明顯&lt;/p&gt;
+&lt;p&gt;溝通過程&lt;br&gt;
+無論公開還是私下&lt;br&gt;
+經常出現這樣的現象:&lt;/p&gt;
+&lt;h3 id=&#34;現象一&#34;&gt;現象一：&lt;/h3&gt;
+&lt;p&gt;腦袋裡根本對於任務根本就沒有概念&lt;br&gt;
+很常出現不同層次的對話，像是&lt;br&gt;
+明明是在談 HTTP 的東西&lt;br&gt;
+用 TCP 角度在問問題 &amp;hellip;&lt;/p&gt;
+&lt;p&gt;我們在討論的是山川大江&lt;br&gt;
+他卻在問量子力學;&lt;br&gt;
+我們在討論原子電子&lt;br&gt;
+他卻方向應該像是金門大橋&lt;/p&gt;
+&lt;h3 id=&#34;現象二&#34;&gt;現象二：&lt;/h3&gt;
+&lt;p&gt;刷純在感、刷權力&lt;br&gt;
+有八七成聽不懂&lt;br&gt;
+只能找一些片段 / 單點的問題去搓你&lt;/p&gt;
+&lt;h3 id=&#34;現象三&#34;&gt;現象三：&lt;/h3&gt;
+&lt;p&gt;這場要對焦的方向是 A&lt;br&gt;
+卻一直往方向 B 點搓 &amp;hellip;&lt;br&gt;
+通常我們會專注準備 A&lt;br&gt;
+會議通知也會說明報告 A&lt;/p&gt;
+&lt;h3 id=&#34;現象四&#34;&gt;現象四：&lt;/h3&gt;
+&lt;p&gt;報告者一開始就錯了&lt;br&gt;
+就把它定死在那邊，自顧說了 30m &amp;hellip;&lt;br&gt;
+應該是讓他把準備的做部分描述&lt;br&gt;
+然後告訴他方向哪裡有問題&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;所以每次的溝通&lt;br&gt;
+有八七成都是牛頭不對馬嘴&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;幾個指標&#34;&gt;幾個指標&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;組織單位的週會/週報, 是否用系統化的方式呈現狀態&lt;/li&gt;
+&lt;li&gt;有沒一起 &amp;ldquo;Go Through&amp;rdquo; 需求列表, 對焦 Why and What&lt;/li&gt;
+&lt;li&gt;是不是一直鬼打牆問這問題是做啥？ (這種主管基本上該 火掉 &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;我以前也沒做多好&lt;br&gt;
+但我會親自用系統規劃任務&lt;br&gt;
+具體的寫下來&lt;br&gt;
+一一跟大家過 &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;我沒辦法改變那些 我的主管&lt;br&gt;
+但至少可以從自己做起.&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/16&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02AaumMfZMUskgdfRqGh2L3B1rYm1qYxCMV3kBFnG2Bg97unhXoKUXoYmTcYz9oexul&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 內部教育訓練</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1215_internal-training/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1215_internal-training/</guid>
+      <description>
+        
+        
+        &lt;p&gt;幾年前處理過的事情，&lt;br&gt;
+最近類似的劇本又上演一次，&lt;br&gt;
+我曾經是演戲的、導戲的，&lt;br&gt;
+這次我是坐在台下看戲的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;公司出錢給員工去外部上課&lt;br&gt;
+因為業務時間關係&lt;br&gt;
+大部分的課程只能在週末上課。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;題目&#34;&gt;題目&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;員工反映，&lt;br&gt;
+週末還要上課 (工作) ，&lt;br&gt;
+可不可以報加班？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;資方的立場&#34;&gt;資方的立場&lt;/h2&gt;
+&lt;p&gt;公司編列預算，給員工去學習，&lt;br&gt;
+無論學習所得，還是考取證照，&lt;br&gt;
+都是個人的、個人程度的提升，&lt;br&gt;
+屬於「福利」。&lt;/p&gt;
+&lt;p&gt;學習屬於自我成長，&lt;br&gt;
+不會影響考績。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;勞方的立場&#34;&gt;勞方的立場&lt;/h2&gt;
+&lt;p&gt;平常忙得要死，週末還要去上課，&lt;br&gt;
+沒得休息，還不能報加班，&lt;br&gt;
+這樣是否違反勞基法？&lt;br&gt;
+如果上課出勤記錄不好，&lt;br&gt;
+考績還可能會被影響。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;個人經歷&#34;&gt;個人經歷&lt;/h2&gt;
+&lt;p&gt;我辦過很多次內部的訓練課程，&lt;br&gt;
+包含 AWS / Container / K8s &amp;hellip; etc.&lt;br&gt;
+(各種奇怪的讀書會不算)&lt;br&gt;
+從講師、活動主辦人都有,&lt;br&gt;
+凹 AWS 來幫忙也有過 &amp;hellip;&lt;/p&gt;
+&lt;p&gt;幾年前辦過一場大型的 Container / K8s 訓練課程&lt;br&gt;
+當時我的立場是資方，&lt;br&gt;
+是教育訓練課程承辦負責人&lt;br&gt;
+只是訓練方式，不是出錢讓員工去外面訓練機構上課&lt;br&gt;
+只是安排預算了事而已，&lt;/p&gt;
+&lt;p&gt;而是自己辦完整的教育訓練課程 (很過癮XDD&lt;br&gt;
+自己安排課程、設定成效指標、學員名單篩選&lt;br&gt;
+凹同仁當講師 (準備教材、訓練資源)、&lt;br&gt;
+跟受訓學員的主管溝通、跟高層要預算、&lt;br&gt;
+安排場地時間、幫學員安排對應的上課資源 &amp;hellip;&lt;br&gt;
+訂下午茶、跟 HR 討論配套 &amp;hellip; etc&lt;/p&gt;
+&lt;p&gt;過程中&lt;br&gt;
+最慘的是還遇到 COVID-19 剛上市&lt;br&gt;
+台灣進入疫情溫度最高的時候&lt;br&gt;
+在三天內，&lt;br&gt;
+要從實體教室，改到線上。&lt;br&gt;
+同時要應對各種奇怪的需求，&lt;br&gt;
+像是課後能不能複習、&lt;br&gt;
+能不能錄影 (事後證明這些都是浪費)&lt;/p&gt;
+&lt;p&gt;我個人覺得，&lt;br&gt;
+對於學員、員工而言，&lt;br&gt;
+這的確是福利，&lt;br&gt;
+但是溝通要做到位，&lt;br&gt;
+讓同仁不會覺得「自己被凹」&lt;br&gt;
+因為那時候我處理的案例，&lt;br&gt;
+同樣也被問：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;能不能報加班？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;還沒往上報之前，&lt;br&gt;
+我就直接決策了：不行&lt;br&gt;
+往上報，結果也是不行&lt;br&gt;
+但是花更多時間的事跟學員溝通，&lt;br&gt;
+溝通的內容就是前面幾段提到，&lt;br&gt;
+各自的立場的看法，&lt;br&gt;
+把這些看發說清楚。&lt;/p&gt;
+&lt;p&gt;除了立場，&lt;br&gt;
+也從職涯角度切入，&lt;br&gt;
+引導學員、啟發自我學習的意願，&lt;br&gt;
+當有自我意識到：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我自己的技能是不足的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;當有這樣自我意識、認知的時候，&lt;br&gt;
+就達到我的目的了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;普遍現象&#34;&gt;普遍現象&lt;/h2&gt;
+&lt;p&gt;類似的問題&lt;br&gt;
+最近跟朋友也聊到&lt;/p&gt;
+&lt;p&gt;很多進入職場的人&lt;br&gt;
+本身是不學習的&lt;br&gt;
+或者已經「靜止」的狀態&lt;br&gt;
+所以當被企業要求要學習的時候&lt;br&gt;
+背後隱含的意思是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你有公司的業務經歷，但是你跟不上時代&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;其實跟不上時代&lt;br&gt;
+對企業而言能做的就是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;嘗試訓練看看&lt;/li&gt;
+&lt;li&gt;不願意成長的，只能慢慢的將你邊緣化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這算好的，在外商，&lt;br&gt;
+大多會直接請你走人。&lt;br&gt;
+台商跟外商在這裡看得出來果斷力。&lt;br&gt;
+而所以「訓練」背後也隱含著:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;挑出停止學習的人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;會對於這種企業內訓有反彈的人&lt;br&gt;
+背後隱含的幾個層面：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;溫水煮青蛙，&lt;code&gt;哀傷五階段&lt;/code&gt; 的另一種型態&lt;/li&gt;
+&lt;li&gt;比較短勢力，只追求眼前的利害關係&lt;/li&gt;
+&lt;li&gt;尚未認知到外在環境早已改變&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;企業的成平時代，&lt;br&gt;
+不會怎樣&lt;br&gt;
+但是企業獲利或者狀況有改變的時候&lt;br&gt;
+這些人將是前面幾批。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;演戲&lt;br&gt;
+導戲&lt;br&gt;
+看戲&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;以前&lt;br&gt;
+我會盡可能救每一個人&lt;br&gt;
+現在我會說：&lt;code&gt;佛度有緣人&lt;/code&gt;&lt;br&gt;
+有些人，就讓他去&lt;br&gt;
+我能力與資源都有限，&lt;br&gt;
+只幫有意願的人。&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/15&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0yXr6J1GHx81SFhnajwkjVgJqGnscdMdV8S5MJaqqhWZ23M1i2kB2BU5q8rEdcCSTl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

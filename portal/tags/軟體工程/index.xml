@@ -5,7 +5,7 @@
     <description>Recent content in 軟體工程 on GTCafe Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://www.gtcafe.com/portal/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,107 @@
         
       
     
+    
+    <item>
+      <title>Itlds: 立法權與行政權</title>
+      <link>https://www.gtcafe.com/portal/itlds/2025/1215_pdlc-sdlc/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2025/1215_pdlc-sdlc/</guid>
+      <description>
+        
+        
+        &lt;p&gt;立法權：PDLC (Product Development Life Cycle)&lt;br&gt;
+行政權：SDLC (Software Development Life Cycle)&lt;br&gt;
+—-&lt;br&gt;
+現在 Spec 就亂開，是要 AI 寫啥糞扣啦!&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2025/12/15&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02ZiSujEisaDSfGUYDXm6kXgmr8sdjEG38JE8QqyrxZQp3jjPdyA2JtX2YjPRcLg5El&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: AI 時代的軟體工程師</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1214_software-engineer-in-ai/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1214_software-engineer-in-ai/</guid>
+      <description>
+        
+        
+        &lt;p&gt;AI 時代，軟體工程師正在走向兩條截然不同的路：&lt;/p&gt;
+&lt;p&gt;第一種人，知其然更知其所以然。&lt;br&gt;
+他們依舊打磨 CS 底層邏輯，&lt;br&gt;
+把 AI 當作外掛引擎，&lt;br&gt;
+不斷墊高自己的技術護城河，&lt;br&gt;
+讓寫程式回歸創造力的本質。&lt;/p&gt;
+&lt;p&gt;第二種人，懂點皮毛就開始吹。&lt;br&gt;
+靠 AI 生成幾段 Code 就產生了「我懂軟體」的錯覺，&lt;br&gt;
+做著最表層的整合，卻喊著百萬年薪的價碼。&lt;br&gt;
+這種過度包裝、自我感覺良好的樣子，&lt;/p&gt;
+&lt;p&gt;看著看著……&lt;br&gt;
+是不是覺得跟某個政黨很像？&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;突然有感 &amp;hellip;.&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/14&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid013eqYAyFnwDSc2YbG8YDyekS4UWdNLWkXcYACsQefuHRYsNZcEhprJr2vmDWfmFSl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: AI 工具：IDE 用哪個？</title>
+      <link>https://www.gtcafe.com/portal/itlds/2023/1213_tool/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2023/1213_tool/</guid>
+      <description>
+        
+        
+        &lt;p&gt;AI 工具：IDE 用哪個？&lt;/p&gt;
+&lt;p&gt;Windsurf?&lt;br&gt;
+Cursor?&lt;br&gt;
+VSCode&lt;br&gt;
+Kiro&lt;br&gt;
+Zed&lt;br&gt;
+IntelliJ&lt;br&gt;
+&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;大亂鬥的時代&lt;br&gt;
+就是選個順手的&lt;br&gt;
+專心做主要的工作&lt;br&gt;
+過幾個月後&lt;br&gt;
+那些廝殺到最後活下來的&lt;br&gt;
+再去學就好&lt;/p&gt;
+&lt;p&gt;歷史會一再重演&lt;br&gt;
+docker 剛起來時就是一堆大亂鬥&lt;br&gt;
+docker swarm, mesos, k8s, ecs &amp;hellip;&lt;/p&gt;
+&lt;p&gt;重點是做自己想做的事&lt;br&gt;
+跟 AI IDE 的趨勢 就看新聞&lt;br&gt;
+有時間玩玩看 實驗看看&lt;/p&gt;
+&lt;p&gt;主, 次 要分清楚&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我現在只用 vscode&lt;br&gt;
+extension 幾乎都不裝&lt;br&gt;
+配合 gemini cli&lt;br&gt;
+就可以幹很多事了 XD&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;理財投資不是主業&lt;br&gt;
+生活才是&lt;/p&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2023/12/13&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid0yYPneFgGS9hpwZvUCRuCChKiRLE9n4WLcve48dcUB3UwLDb37AKZqqepY6GLHqKxl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Itlds: 聊聊需求分析、系統分析、系統設計</title>
@@ -166,6 +267,38 @@ Story 有哪些，這些交成出來故事的合理性？以及重要性&lt;/p&g
 &lt;ul&gt;
 &lt;li&gt;發表時間：2023/02/07&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02mVCZQhYBdoNgjLqnw9dTDUFbfE2nwvB7XQ2GCJ4KXMzd7JECp21RcgG5w4832VZLl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Itlds: 如何處理複雜度是軟體開發最核心的問題</title>
+      <link>https://www.gtcafe.com/portal/itlds/2019/1217_code-complete/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/itlds/2019/1217_code-complete/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Steve McConnell 在其經典著作《Code Complete》中，提出的一個核心觀點是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;#如何處理複雜度是軟體開發最核心的問題&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我非常認同這個觀點，因為人類大腦容量有限，大概只能同時記住 7 項內容，而軟體包含的元素非常複雜遠超過 7 項。所以，要實現可維護的軟件，我們必須想盡辦法去降低其複雜度。&lt;br&gt;
+具體來說，我們在開發時，要時刻注意會增加代碼複雜度的「壞味道」，比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;元件間依賴混亂，職責不清晰；&lt;/li&gt;
+&lt;li&gt;元件、文件、函數太大，包含的內容太多；&lt;/li&gt;
+&lt;li&gt;使用不必要的、複雜的設計範式；&lt;/li&gt;
+&lt;li&gt;函數、接口參數太多等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解決複雜度問題的基本原則是，把一個系統拆解為多個子系統，用抽象和分層的方法，讓我們同時只面對有限的信息，並且能夠有條理地深入到每一個子系統中查看細節。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;原始資料&#34;&gt;原始資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;發表時間：2019/12/17&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/rick.kyhwang/posts/pfbid02TyFLE8faxQXKfvmyzScP6zsDa14v3ZzsagSYNvBaC4AtpAkToai3eMsh68qAXjqbl&#34;&gt;原文連結&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
