@@ -16,6 +16,182 @@
     
     
     <item>
+      <title>Rickmidi: Loop 的概念與應用實例 - One Night in 北京</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/production/loop-concepts-and-application-one-night-in-beijing/</link>
+      <pubDate>Sat, 28 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/production/loop-concepts-and-application-one-night-in-beijing/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://tw.dictionary.search.yahoo.com/search?p=loop&#34;&gt;Loop 字面上&lt;/a&gt; 的意思是: 循環, 反覆, 迴路, 橡皮圈 &amp;hellip;. etc. 在音樂製作中, 中文可以翻譯成 &amp;ldquo;循環樂句&amp;rdquo;, 或者 &amp;ldquo;反覆段落&amp;rdquo;. 簡單說就是一段一直反覆播放的 &amp;ldquo;樂音&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;廣義的來說, 一段鋼琴彈的 C 和弦, 一段用吉他彈的 Power Chord/Riff, 鼓的節奏 &amp;hellip;. 也都可以算一種 Loop, 但是這種 Loop 通常需要有額外的參數, 簡單說, 要人去控制.&lt;/p&gt;
+&lt;p&gt;但是一般說的 Loop, 通常會是內容是平常不容易聽到的 &lt;code&gt;素材音樂&lt;/code&gt;, 或者 &lt;code&gt;音效效果&lt;/code&gt;. 像是一段空間效果 (有襯底 / PAD 的功能), 一段傳統樂器效果 (中國國樂, 民俗口技), 或者一段音效 (爆炸聲, 口白, 對話, 一小段 Rap, 蟲鳴鳥叫, 流水聲 &amp;hellip; etc).&lt;/p&gt;
+&lt;p&gt;或者一段很特別的演奏技巧, 很複雜的琶音, 也可以用 Loop 的方式來呈現.&lt;/p&gt;
+&lt;h2 id=&#34;常見的-loop-的種類&#34;&gt;常見的 Loop 的種類&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;節奏類 / 主律動 / 鼓 / Bass / Percussion&lt;/code&gt;: 現在的數位音樂製作中, 很多 VSTi 音色庫都提供很多現成的素材可以用, 通常上述的幾種都有很龐大的資料庫, 而且依據曲風分類. 這些東西可以讓編曲者/創作者, 利用疊積木的方式創作出複雜的歌曲.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;襯底 / PAD&lt;/code&gt;: 用 Loop 來作襯底, 通常都是用來製造氣氛, 製造空間感, 在慢歌/R&amp;amp;B 裡很常出現, 文章後面會有一些參考例子.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;插音 / Fill&lt;/code&gt;: 這類通常都是一些民俗樂器, 特殊效果的取樣, 如果沒有想要的, 就必須自己後製 / Customized. 本文提到的例子 - One Night in 北京是應用到這種. 所以我自己製作了這兩段 Loop.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;效果 / 音效 / 戲劇&lt;/code&gt;: 這類的和襯底很類似, 也是用來製造氣氛, 但是會用在歌曲段落的轉折處, 歌曲裡出現的次序不多, 也可能很多.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;廣義的-loop----動態-的-loop---arpeggios--phrase--vsti-libraries&#34;&gt;廣義的 Loop -  &amp;ldquo;動態&amp;rdquo; 的 Loop - Arpeggios / Phrase / VSTi Libraries&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Arpeggios (琶音器) / Phrase (樂句): 這是現代很多合成器的開發重點 (賣點) 之一, 像是 Yamaha MOTIF 系列的 Arpeggios 資料庫, Korg 的 Karma 系統 &amp;hellip; 等.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VSTi 樂句資料庫: 現代的軟體音源要做到原聲樂器擬真, 大多已經不是問題. 接下來各大廠商比較的就是樂句資料庫. 要做到提供的花樣多, 編輯能力強, 現場的即時性, 同時提供類似 Loop 概念的 View &amp;hellip;.etc, 已經是各軟體的主打了. 以下是最常見的類別:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drum Pattern&lt;/li&gt;
+&lt;li&gt;Percussion&lt;/li&gt;
+&lt;li&gt;Electric Guitar Riff&lt;/li&gt;
+&lt;li&gt;Acoustic Guitar Rhythm&lt;/li&gt;
+&lt;li&gt;Walking Bass&lt;/li&gt;
+&lt;li&gt;Slap Bass&lt;/li&gt;
+&lt;li&gt;Synth Bass&lt;/li&gt;
+&lt;li&gt;Synth Effect&lt;/li&gt;
+&lt;li&gt;&amp;hellip; etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;現場樂團什麼時候-可能--可以-使用-loop&#34;&gt;現場樂團什麼時候 &amp;ldquo;可能&amp;rdquo; / &amp;ldquo;可以&amp;rdquo; 使用 Loop&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;現場沒有該樂手, 歌曲僅短暫出現, 用來點綴, 但有畫龍點睛的效果. 像 &amp;ldquo;One night in 北京&amp;rdquo; 出現的中國銅鈸是很好的例子.&lt;/li&gt;
+&lt;li&gt;屬於 &amp;ldquo;音效&amp;rdquo; 的範疇, 非 &amp;ldquo;樂音&amp;rdquo;, 像是飛機聲, 爆炸聲 &amp;hellip; 等. &amp;ldquo;音效&amp;rdquo;, &amp;ldquo;樂音&amp;rdquo; 的概念請參考 &amp;ldquo;基礎聲學&amp;rdquo; 的說明.&lt;/li&gt;
+&lt;li&gt;製造空間效果, 通常有用來代替襯底 PAD 的功能.&lt;/li&gt;
+&lt;li&gt;戲劇效果: 一段口白, 對話, 甚至是電影個段落音效.&lt;/li&gt;
+&lt;li&gt;創作團的草稿 / Demo: 大家窩在練團室一起創作, 打開軟體, 隨便點一些 Loop 播放, 亂疊.  然後一起 Jam.&lt;/li&gt;
+&lt;li&gt;只有一個人表演的時候: 這在 Youtube 不難發現很多類似的影片 (Ex: KT Tunstall, 非常精采的表演),  用一台 Loop Pedal , 像是一把吉他 + Loop Pedal 作出鼓 + 和聲 + 效果 + 唱歌 &amp;hellip; etc. 或者是喜歡玩 Beat Box 的也有類似的概念.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;現場表演--樂團-loop-應用--軟硬體相關設備&#34;&gt;現場表演 / 樂團 Loop 應用 / 軟硬體相關設備:&lt;/h2&gt;
+&lt;h3 id=&#34;硬體&#34;&gt;硬體&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;Roland_SPD-S.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+Roland SPD-S / 數位打擊版&lt;br&gt;
+(圖片引用自 Roland 官方網站)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;q.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+鼓手 Q 毛老師 (照片引用自杰倫樂隊 Facebook)&lt;/p&gt;
+&lt;p&gt;杰倫樂隊鼓手 Q 毛老師在練團室的情況, 譜架旁邊的就是數位打擊版&lt;/p&gt;
+&lt;p&gt;SDP-S 通常由鼓手負責, 因為就從音樂進行中的時間點來看, Loop 是一個 &amp;ldquo;點&amp;rdquo;, &amp;ldquo;點&amp;rdquo; 的東西就是由鼓手或者 DJ, 甚至是打擊樂手 來負責是最適合的.&lt;/p&gt;
+&lt;p&gt;所以像 SDP-S 這種設備, 也有可能會出現在 DJ 的設備清單裡.&lt;/p&gt;
+&lt;h3 id=&#34;地板型&#34;&gt;地板型&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DigiTech Jamman&lt;/li&gt;
+&lt;li&gt;DigiTech GNX3, 4&lt;/li&gt;
+&lt;li&gt;Roland RC-20XL Loop Station&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;合成器-synth--dj&#34;&gt;合成器 (Synth) / DJ:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Roland Fantom X/G&lt;/li&gt;
+&lt;li&gt;Korg KAOSS 系列&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;軟體&#34;&gt;軟體&lt;/h3&gt;
+&lt;p&gt;就更多到不像話了, 簡單說可以反覆播放一段音樂的軟體都可以  (會應用的話 Winamp 也算), 所以我就不列了. 那現場呢? 帶一台 Notebook, Macbook, iPhone, iPad &amp;hellip;.. 只要能執行程式的硬體就行了.&lt;/p&gt;
+&lt;p&gt;會幹這件事情的, 通常是 KB or DJ. 不過身為吉他手的我, 曾經做過 &amp;hellip;. orz, 就是接下來說明的例子.&lt;/p&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;------- Copyright © 2010 Rick KY Hwang All rights reserved -------&lt;/div&gt;
+&lt;h2 id=&#34;loop-應用實例---信樂團---one-night-in-北京&#34;&gt;Loop 應用實例 - 信樂團 - One Night in 北京&lt;/h2&gt;
+&lt;p&gt;先聽聽原曲, 以及編曲上的思維分析:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/-zvvtzyZ-Tw?si=lqdgN4NAi-Fq0D1j&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;歌曲大概用到幾段可能的 Loop:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;前奏 / 主歌 / 間奏: Reverb Percussion Loop, 目的是營造時間空間感.&lt;/li&gt;
+&lt;li&gt;副歌: 中國銅鈸 / China Percussion Loop, 呼應京劇唱腔與搖滾節奏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;創作者陳昇說過這段歌曲的創作背景, 歌詞的描述中跨越了千年, 時間與空間交織. 所以第一段的 Reverb Percussion Loop 這樣的編曲, 是非常符合歌曲的意境的.&lt;/p&gt;
+&lt;p&gt;歌曲副歌已京句唱腔, 呼應了歌曲主題 &amp;ldquo;北京&amp;rdquo; - 中國的代名詞. 編曲時可以代表中國的樂器有很多, 以信樂團的曲風 - Rock - 來看, 編曲時找一個以適合搖滾節奏的中國樂器 - 銅鈸 - 是再適合不過了, 同時也呼應京劇的唱腔.&lt;/p&gt;
+&lt;p&gt;當然歌曲一開始的畫面式效果, 直接就點出了前年前的戰亂情景. 這首歌陳昇提過, 除了歌詞描述的千年時空戀情, 還有反戰的意味. 間奏的二胡 Solo 則呈現了戰爭所帶來的悽涼 &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;其他非 Loop 的中國樂器, 間奏使用了二胡, 副歌的和弦使用了類似琵琶類的音色. 搖滾 + 中國的配器, 意義深遠的歌詞, 這一首無疑的是一首無論詞 / 曲 / 編曲都是上上之選.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;上述賞析的部分可在 &amp;ldquo;如何聽一首歌&amp;rdquo; 找到介紹.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;現場表演配器的安排以及-loop-的配置&#34;&gt;現場表演配器的安排以及 Loop 的配置&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;arrangement.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;上圖的編曲畫面是我幾年前為了作場, 而事先編的一段. 主要目的就是盡量讓原曲原汁原味的呈現, 同時也是用來跟團員溝通的一種方式.&lt;/p&gt;
+&lt;p&gt;圖中呈現的樂手配置如下:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;紅色 Channel 是 KB 負責的&lt;/li&gt;
+&lt;li&gt;黃色 + (Loop: 橙色 + 綠色) 為鼓手&lt;/li&gt;
+&lt;li&gt;藍色為 Bass.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以現代樂團的標準編制: 鼓 + GT + KB + Bass + Vocal. 這段除了吉他, 其他三人都 Cover 了. 唯一跟一般不同的是, 鼓手必續在進間奏和副歌時, 用數位打擊版播放 Loop.&lt;/p&gt;
+&lt;p&gt;聽看看, 呈現的感覺如何: &lt;a href=&#34;https://drive.google.com/open?id=14PFEhhfQPw4syelAlvAV7gT-jxUGI39Q&#34;&gt;Loop 應用 - One Night in 北京&lt;/a&gt;&lt;/p&gt;
+&lt;audio controls&gt;
+  &lt;source src=&#34;one-night-in-bejian.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  Your browser does not support the audio element.
+&lt;/audio&gt;
+&lt;p&gt;爲了節省說明時間, 我製作的這段是從歌曲的間奏開始, 之後接歌曲的副歌. 這段主要有 Loop 有三段, 其中的兩段 (Reverb Rhythm, 三角鐵) 因為時間重疊, 所以最後我把他們輸出成同一組:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=1VN0QGUtZF330DtJILKlfwZFK4iEzmlT7&#34;&gt;China Percussion&lt;/a&gt;: 前奏第二段, 副歌前一小節, 第一拍下&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=10zF0gf6B-UEWlMa0YYqKW5VUH9oZfrHM&#34;&gt;Reverb Rhythm Loop + 三角鐵&lt;/a&gt;: 前奏第一段, 主歌和間奏第一小節第一拍下&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;想要順利搭這首曲子, 除了要準備上述的兩段 Loop, 另外最重要的就是鼓手要聽 Click, 由鼓手帶領整團的節奏 (這不是理所當然的?). 這首歌 Tempo 約 88 BPS.&lt;/p&gt;
+&lt;p&gt;因為以上圖編曲的段落來看,  這兩段 Loop 的長度都是 8 小節, 所以整個樂團必須要 &amp;ldquo;跟隨&amp;rdquo; 這兩段 Loop 的時間來走, 而播放 Loop 的是鼓手, 所以原則上這首歌, 整首從頭開始, 鼓手就要開始跟 Click 跑. 這點是必要的, 否則只要有人拍子跑掉, 整首歌聽起來就會亂成一團.&lt;/p&gt;
+&lt;p&gt;另外我設計成一個 Loop 長度播放為 8 小節的原因是, 希望讓鼓手減少打數位打擊版的次數. 當然這也有風險, 因為鼓手如果第一拍忘了打, 那整首就毀了. 所以這個方法可以再依照鼓手的習慣來調整.&lt;/p&gt;
+&lt;p&gt;為什麼要強調這兩段 Loop?&lt;/p&gt;
+&lt;p&gt;因為 &amp;ldquo;One Night in 北京&amp;rdquo;. 如同前段 &amp;ldquo;編曲上的思維分析&amp;rdquo; 所描述, 少了這兩段 Loop, 聽起來就不是 &amp;ldquo;In 北京&amp;rdquo; 了, 可能是 &amp;ldquo;in 倫敦&amp;rdquo;, &amp;ldquo;in New York&amp;rdquo; &amp;hellip;. or somewhere &amp;hellip;. 反正就是沒有中國的感覺, 聽起來只是一首一般的流行搖滾, 沒啥特色. 所以我個人很要求樂團一定要做出這兩段 Loop, 做不出來這兩段, 這首歌就不要做.&lt;/p&gt;
+&lt;p&gt;所以最後整理, 樂團想要應用 Loop 的必要條件:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;聽出來歌曲哪裡需要使用 Loop&lt;/li&gt;
+&lt;li&gt;找到適合的 Loop, 或者自己做&lt;/li&gt;
+&lt;li&gt;全團 &lt;strong&gt;必須 (MUST BE)&lt;/strong&gt; 跟 Click, 最好由鼓手聽 Click 來帶整個樂團 (看看 &lt;a href=&#34;http://www.modernmusician.com/forum/showthread.php?t=97713&#34;&gt;Q 毛老師的經驗分享&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;鼓手最好備有 數位打擊版, 或者去有提供打擊版的練團室. 台北的練團室我還沒看過提供的, 這就很可惜了 &amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這些條件, 在大型演唱會裡, 是每個樂手的基本能力. 一個 Cover 團有沒有一定程度, 從這點是看的出來的.&lt;/p&gt;
+&lt;p&gt;最後是我製作這段 Demo 的相關資訊:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;鼓, Bass 音源: Roland Fantom X8,&lt;/li&gt;
+&lt;li&gt;中國銅鈸: SRX-09 World Collection&lt;/li&gt;
+&lt;li&gt;二胡音源: mini ErHu (Free)&lt;/li&gt;
+&lt;li&gt;Loop: Roland Drum Kits + Sonar 後製&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;沒有做的很精緻, 只是想呈現一個想法, 套在樂團的編製上是可行的.&lt;/p&gt;
+&lt;p&gt;同時開放這兩段 Loop 給讀者使用, 如果有樂團現場表演使用這兩段 Loop, 歡迎來信給告訴我你的想法, 或者表演時跟我說, 我也期望能夠親自去聽看看.&lt;/p&gt;
+&lt;p&gt;很多年前, 我曾經想在樂團時嘗試用這樣的方式來詮釋這首曲子, 不過後來是失敗的. 歸納幾個原因如下:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;鼓手沒有數位打擊版, 也不太可能強迫鼓手去添購一個.&lt;/li&gt;
+&lt;li&gt;整個樂團大部分的樂手沒有聽 Click 的習慣, 還有練團是 Click 監聽也是一個大問題. 但是實際上只要鼓手帶耳機聽 Click, 大家跟鼓手就可以了.&lt;/li&gt;
+&lt;li&gt;當時是由我的 GNX4 來播放 Loop + Click, 但是吉他手畢竟不是樂團裡的 Time Keeper, 所以即使我個人有聽 Click 的習慣, 但是鼓手還是比較容易掌控整團的速度.&lt;/li&gt;
+&lt;li&gt;另外最棘手的就是溝通上的問題: 大部分的團員不知道這段的重要性, 也不曉得如何去安排編製上的問題. 所以往往搭這樣的歌, 只是在跑龍套, 和弦跑完就下一首了. 實際上這樣搭出來的曲子和態度都是很失敗的.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;一些 &amp;ldquo;可能&amp;rdquo; 或者 &amp;ldquo;可以&amp;rdquo; 使用 Loop 的例子:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;鄒承恩 痞客四 - Perfect Stranger (痞子英雄片尾): 歌詞 &amp;ldquo;What will stop in my way&amp;rdquo; 開始, 音效的 Loop&lt;/li&gt;
+&lt;li&gt;蔡淳佳 - 等一個晴天: 前奏, PAD&lt;/li&gt;
+&lt;li&gt;張穆庭 - 南京1937 (老船工) : 間奏戲劇效果&lt;/li&gt;
+&lt;li&gt;Tank - 專屬天使: 第二段主歌, PAD&lt;/li&gt;
+&lt;li&gt;Bon Jovi - It&amp;rsquo;s My Life: 第二段開始 (01:40), 最後一段副歌前 (02:54), Loop 類似 One Night in 北京, 但可有可無.&lt;/li&gt;
+&lt;li&gt;T-Square - Survivor (2009, Discoveries): 前奏 PAD&lt;/li&gt;
+&lt;li&gt;The Black Mages - Clash on the Big Bridge: 前奏 Arpeggios (這段 KB 功力夠是可以彈的, 只是不容易. 我曾經用 Fantom X 的 Arpeggios 功能設計過這段, 是可行的)&lt;/li&gt;
+&lt;li&gt;董運昌 - My Ocean (風潮唱片, 我的海洋): 海洋音效. 順便推見這張很棒的專輯, 專輯的海聲都是取樣自南台灣墾丁的海岸聲, 加上一些來自台灣的音樂家的演奏, 非常舒服的專輯. 台灣電視訪談節目拿這張的音樂做節目襯底音樂.&lt;/li&gt;
+&lt;li&gt;Karunesh - Clouds and Winds (Sounds of the Heart): 全曲亮晶晶的襯底 + 流星&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/div&gt;
+&lt;p&gt;Loop 在現代數位音樂的製作中, 有越來越重要的趨勢, 很多歌, 不管快的慢的, 都會融合這種可以天馬行空的元素. 可以用隨身的錄音設備 (ex: iPhone) 錄一段捷運進站的聲音, 開門的聲音, 車子呼嘯而過的聲音, 電視播放的聲音, 跟朋友對話的聲音  &amp;hellip;. etc, 素材生活中隨手可得, 然後融入音樂中.&lt;/p&gt;
+&lt;p&gt;現場樂團如果選到這樣的歌曲, 想要把歌作的好, 作的有味道, 做到原汁原味的呈現, 要思考一下, 自己樂團是否有這樣的配置 / 設備 / 資源 / 概念, 或者要重新以現有原團成員的資源 / 編製, 重新編曲.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀-站內&#34;&gt;延伸閱讀 (站內)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;基礎聲學與數位音樂製作&lt;/li&gt;
+&lt;li&gt;襯底 PAD 的基本概念&lt;/li&gt;
+&lt;li&gt;樂團的經營&lt;/li&gt;
+&lt;li&gt;個人監聽系統&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.modernmusician.com/forum/showthread.php?t=97713&#34;&gt;Q 毛老師的現場表演經驗分享&lt;/a&gt; - 當代樂手&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://modernmusician.com/forums/index.php?threads/%E9%BC%93%E6%89%8B%E8%88%87pa%E7%9A%84%E9%97%9C%E4%BF%82.51554/&#34;&gt;鼓手與 PA 的關係 (Q 毛老師的分享)&lt;/a&gt; - 當代樂手&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2010/08/loop-one-night-in.html&lt;/li&gt;
+&lt;li&gt;2010/08/28: 初版&lt;/li&gt;
+&lt;li&gt;2025/12/24：搬遷至 &lt;a href=&#34;https://www.GTCafe.com&#34;&gt;www.GTCafe.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Rickmidi: 怎樣的程度才適合組樂團？</title>
       <link>https://www.gtcafe.com/portal/rickmidi/band/getting-started-play-as-band/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -304,48 +480,100 @@ Jack Thammarat - Emotive Ballad&lt;/p&gt;
     
     <item>
       <title>Rickmidi: 保護耳朵</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/gossip/protect-ears/</link>
-      <pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate>
+      <link>https://www.gtcafe.com/portal/rickmidi/gossip/protect-your-ears/</link>
+      <pubDate>Sun, 13 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gtcafe.com/portal/rickmidi/gossip/protect-ears/</guid>
+      <guid>https://www.gtcafe.com/portal/rickmidi/gossip/protect-your-ears/</guid>
       <description>
         
         
-        &lt;p&gt;現在隨身聆聽設備很方便，現在智慧型手機，都可以播放音樂，使的不管在路上、還是辦公室裡，很常會看到大家帶著耳機聽著自己的音樂。樂手是真的需要大量聆聽的，一方面吸收新資訊，一方面聆聽好的作品，對於提升音樂的素養是非常重要的。因為『 CD是最好的老師』… 不過 &amp;hellip;&lt;/p&gt;
-&lt;p&gt;就因為現在聽音樂太方便了，無時無刻，不管什麼地點幾乎都可以聽，都可以沉溺在屬於自己的旋律世界裡 … 漸漸的這樣現象就開始出來了：&lt;/p&gt;
+        &lt;p&gt;現在隨身聆聽設備很方便,&lt;br&gt;
+不管是隨身的 player 還是一般隨身通訊設備 (手機),&lt;br&gt;
+幾乎都可以播放音樂, 使的不管在路上, 還是辦公室裡,&lt;br&gt;
+很常會看到大家帶著耳機聽著自己的音樂.&lt;/p&gt;
+&lt;p&gt;樂手是真的需要大量聆聽的, 一方面吸收新資訊,&lt;br&gt;
+一方面聆聽好的作品, 對於提升音樂的素養是非常重要的.&lt;br&gt;
+因為 &amp;ldquo;CD 是最好的老師&amp;rdquo; &amp;hellip;&lt;br&gt;
+不過 &amp;hellip;&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;就因為現在聽音樂太方便了, 無時無刻,&lt;br&gt;
+不管什麼地點幾乎都可以聽, 都可以沉溺在屬於自己的旋律世界裡 &amp;hellip;.&lt;br&gt;
+漸漸的這樣現象就開始出來了:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;音量不自主的越開越大聲，有些大到我距離兩個人的位置都知道他在聽啥歌。&lt;/li&gt;
-&lt;li&gt;搭乘大眾交通系統時，不知不覺的越開越大聲&lt;/li&gt;
+&lt;li&gt;音量不自主的越開越大聲 (有些大到我距離兩個人的位置都知道他在聽啥歌)&lt;/li&gt;
 &lt;li&gt;聽力不知不覺中漸漸受到傷害&lt;/li&gt;
-&lt;li&gt;樂手在練團室，如果又不懂得控制 punch，音量，越推越大…&lt;/li&gt;
-&lt;li&gt;如此，惡性循環&amp;hellip;&lt;/li&gt;
+&lt;li&gt;樂手在練團室, 如果又不懂得控制 punch, 音量, 越推越大 &amp;hellip;.&lt;/li&gt;
+&lt;li&gt;如此, 惡性循環 &amp;hellip;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;年紀小可能還沒關係，但是長時間累積下來對於耳朵的傷害是無形的，甚至是永久性的傷害。&lt;/p&gt;
-&lt;p&gt;我曾經為了作音樂，長時間戴耳機，或者持續在音壓很大的地方作音樂。後來漸漸感覺耳朵有刺痛感，對於&amp;quot;音量&amp;quot;靈敏度降地很多。當我意識到的這事態的嚴重之後，我開始自律，盡量不戴耳機，除非必要，否則音量一定要限制。特別在坐公車、捷運等公共場所，這種地方通常都很吵，機械運作的音量就很大，戴耳機聽音樂的時候，很容易不自主的樂開越大聲，在這樣的環境就要越特別去控制音量。&lt;/p&gt;
-&lt;p&gt;吉他手很多時候，為了音色 (Tone) 的課題，需要把音量開很大。但以現代的技術來看，已經不像以前那樣。以前為了要取得自然破音(Overdrive)，需要真的把前級音量推到炸掉，然後得到吉他手最想要的破音音色。&lt;/p&gt;
-&lt;p&gt;現在數位科技發達，很多產品可以不用開很大聲就可以作出對應的效果。所以吉他手要專注的，應該是如何用耳朵判斷出音色的動態、特性等，掌握其特性之後，學習如何善用現有的設備，像EQ / Comp / Limit / Reverb / Delay / Gate / Modulation…等，還有最重要的就是吉他手本真的演奏技術，達到所需要的音色效果。&lt;/p&gt;
-&lt;p&gt;但是這一切都要靠一對能夠精準判斷的耳朵，所以把耳朵 &amp;ldquo;養好&amp;rdquo;，是非常重要的。&lt;/p&gt;
-&lt;p&gt;我去一些LiveHouse聽音樂時，發現都有一個特性就是，通常低頻都很多，猜測可能有幾個因素：&lt;/p&gt;
+&lt;p&gt;年紀小可能還沒關係, 但是長時間累積下來對於耳朵的傷害是無形的,&lt;br&gt;
+甚至是永久性的傷害.&lt;/p&gt;
+&lt;p&gt;我曾經為了作音樂, 長時間戴耳機,&lt;br&gt;
+或者持續在音壓很大的地方作音樂.&lt;br&gt;
+後來漸漸感覺耳朵有刺痛感, 對於 &amp;ldquo;音量&amp;rdquo; 靈敏度降地很多.&lt;br&gt;
+當我意識到的這事態的嚴重之後,&lt;br&gt;
+我開始自律, 盡量不戴耳機, 除非必要,&lt;br&gt;
+否則音量一定要限制.&lt;/p&gt;
+&lt;p&gt;吉他手很多時候, 為了 tone 的課題, 需要把音量開很大.&lt;br&gt;
+但以現代的技術來看, 已經不像以前那樣.&lt;br&gt;
+以前為了要取得所謂的自然破音 (Overdrive),&lt;br&gt;
+需要真的把前級音量推到炸掉, 然後得到吉他手最想要的破音音色.&lt;/p&gt;
+&lt;p&gt;不過現在數位科技發達, 很多產品可以不用開很大聲就可以作出對應的效果.&lt;br&gt;
+所以吉他手要專注的, 應該是如何用耳朵判斷出音色的動態, 特性等,&lt;br&gt;
+掌握其特性之後, 學習如何善用現有的設備,&lt;br&gt;
+像 EQ/Comp/Limit/Reverb/Delay/Gate &amp;hellip; 等,&lt;br&gt;
+還有最重要的就是吉他手本真的演奏技術,&lt;br&gt;
+達到所需要的音色效果.&lt;/p&gt;
+&lt;p&gt;但是這一切都要靠一對能夠精準判斷的耳朵,&lt;br&gt;
+所以把耳朵 &amp;ldquo;養好&amp;rdquo;, 是非常重要的.&lt;/p&gt;
+&lt;p&gt;我去一些 Live House 聽音樂時, 發現都有一個特性就是, 通常低頻都很多, 我猜可能有幾個因素:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;空間和輸出設備功率沒有匹配&lt;/li&gt;
-&lt;li&gt;吸音不好，散射太多&lt;/li&gt;
-&lt;li&gt;樂手是 Rock / Metal 掛的&lt;/li&gt;
-&lt;li&gt;PA 大哥、樂手長期在那樣的工作環境之下，聽力已經受傷了，所以要開很大的音量才聽的到&lt;/li&gt;
+&lt;li&gt;吸音不好, 散射太多&lt;/li&gt;
+&lt;li&gt;樂手是 Rock/Metal 掛的&lt;/li&gt;
+&lt;li&gt;PA 大哥 or 樂手長期在那樣的工作環境之下, 聽力已經受傷了, 所以要開很大的音量才聽的到.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;如果是最後一點那就真的有點注意了。畢竟我們不是貝多芬，只剩一隻耳朵還能寫出曠世鉅作。要是樂手耳朵受傷了，不要說彈琴，可以能連平常要聆聽自己喜歡的音樂都會有問題 … 玩Rock / Metal的吉他手和鼓手通常也是耳朵傷害的高危險群。&lt;/p&gt;
-&lt;p&gt;如果不可避免的要長時間戴耳機聽音樂，我的方式是這樣的：自從那次的經驗之後，我開始試著把音量越開越小聲，讓耳朵即使在很微量的音量中，或者在很吵雜的環境當中，還能夠清楚的聽到想要的音樂。長期這樣&amp;quot;訓練&amp;quot;下來，因為耳朵能夠聽到高動態範圍，對於音樂製作的混音來講，對於Comp / EQ的應用，應該是有幫助的。&lt;/p&gt;
-&lt;p&gt;在練團室的音量控制，就複雜的多。比較簡單的方式就是戴耳塞，作基本的保護。然後選擇空間大一點，吸音好一點的練團室。有心的話，加強樂手們的對聲音基本概念和認知、認識聲音的物理特性，還有Comp / EQ的應用與概念。如果有固定的練團室，大家可一起嘗試調整、實驗、找到最佳的音量數據、人員位置、FX設定…等，而不是一直把音量一直堆大，如此只會惡性循環。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;ol&gt;
+&lt;p&gt;如果是最後一點那就真的有點注意了.&lt;br&gt;
+畢竟我們不是貝多芬, 只剩一隻耳朵還能寫出曠世鉅作.&lt;br&gt;
+要是樂手耳朵受傷了, 不要說彈琴,&lt;br&gt;
+可以能連平常要聆聽自己喜歡的音樂都會有問題 &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;另外玩 Rock/Metal, 和鼓手通常也是耳朵傷害的高危險群.&lt;/p&gt;
+&lt;p&gt;如果不可避免的要長時間戴耳機聽音樂, 我的方式是這樣的.&lt;br&gt;
+自從那次的經驗之後, 我開始試著把音量越開越小聲,&lt;br&gt;
+讓耳朵即使在很微量的音量中, 或者在很吵雜的環境當中,&lt;br&gt;
+還能夠清楚的聽到想要的音樂.&lt;/p&gt;
+&lt;p&gt;除了依舊可以聽自己喜歡的音樂,&lt;br&gt;
+另外就是保護耳朵不需要長時間承受大音壓.&lt;br&gt;
+特別是在室外的時候, 像是坐公車, 捷運等公共場所,&lt;br&gt;
+這種地方通常都很吵, 機械運作的音量就很大,&lt;br&gt;
+戴耳機聽音樂的時候, 很容易不自主的樂開越大聲,&lt;br&gt;
+在這樣的環境就要越特別去控制音量.&lt;/p&gt;
+&lt;p&gt;長期這樣 &amp;ldquo;訓練&amp;rdquo; 下來, 因為耳朵能夠聽到高動態範圍,&lt;br&gt;
+對於音樂製作的混音來講, 對於 Comp/EQ 的應用, 應該是有幫助的.&lt;/p&gt;
+&lt;p&gt;另外, 在練團室的音量控制, 就複雜的多.&lt;br&gt;
+比較簡單的就是戴耳塞, 作基本的保護.&lt;br&gt;
+然後選擇空間大一點, 吸音好一點的練團室.&lt;/p&gt;
+&lt;p&gt;有心的話, 加強樂手們的基本概念和認知,&lt;br&gt;
+認識聲音的物理特性, 還有 Comp/EQ 的應用,&lt;br&gt;
+如果有固定的練團室, 大家可一起嘗試調整, 實驗,&lt;br&gt;
+找到最佳的音量數據, 人員位置, FX 設定 &amp;hellip; 等&lt;br&gt;
+而不是一直把音量一直堆大, 如此只會惡性循環.&lt;/p&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/br&gt;
+------- Copyright © 2011-2015 Rick KY Hwang All rights reserved -------&lt;/div&gt;
+&lt;h2 id=&#34;延伸閱讀-站內&#34;&gt;延伸閱讀 (站內)&lt;/h2&gt;
+&lt;ul&gt;
 &lt;li&gt;如何聽一首歌&lt;/li&gt;
 &lt;li&gt;樂團經營&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;延伸閱讀-站外&#34;&gt;延伸閱讀 (站外)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;原文網址：http://rickmidi.blogspot.tw/2011/03/blog-post.html&lt;/li&gt;
-&lt;li&gt;初版：2011/03/11&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.techbang.com/posts/22533-who-remind-you-that-using-headphones-every-day-should-be-limited-to-1-hour&#34;&gt;今天是國際護耳日！WHO提醒大家，使用耳機每天應以1小時為限&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.commonhealth.com.tw/article/68083&#34;&gt;耳機正一步步吃掉孩子的聽力&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;異動紀錄&#34;&gt;異動紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2011/03/blog-post.html&lt;/li&gt;
+&lt;li&gt;2011/03/13：初版&lt;/li&gt;
+&lt;li&gt;2025/12/24：搬遷至 &lt;a href=&#34;https://www.GTCafe.com&#34;&gt;www.GTCafe.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

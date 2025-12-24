@@ -240,7 +240,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;和弦名稱 &lt;!-- raw HTML omitted --&gt; (Chord Name)&lt;/th&gt;
+          &lt;th&gt;和弦名稱 &lt;br/&gt; (Chord Name)&lt;/th&gt;
           &lt;th&gt;組成音 (Notation)&lt;/th&gt;
           &lt;th&gt;和弦音程 (Interval)&lt;/th&gt;
           &lt;th&gt;和弦屬性 (Chord Type)&lt;/th&gt;
@@ -555,6 +555,271 @@ Photo Credit: Hugh MacLeod&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;原文位址：https://rickmidi.blogspot.com/2015/03/arpeggios-gmaj7.html&lt;/li&gt;
 &lt;li&gt;2015/03/08: 初版&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rickmidi: 如何選擇適合的數位設備 - 以吉他綜合效果器為例</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/</link>
+      <pubDate>Sun, 22 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/</guid>
+      <description>
+        
+        
+        &lt;p&gt;學吉他會有一部分都要跟設備扯上關係，不管是琴、效果器、甚至於錄音設備等。一些朋友、或者跟我學琴的同學都會問相關的問題，問題大概會有幾纇：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;這顆 (效果器) 好不好？這個型號好不好？&lt;/li&gt;
+&lt;li&gt;哪一顆效果器比較好聽？那一台綜合效果器的聲音比較自然？&lt;/li&gt;
+&lt;li&gt;哪一顆音箱聲音比較讚？&lt;/li&gt;
+&lt;li&gt;壓縮器 (Comp) 是做什麼的？Attack, Threshold, Release, Ratio &amp;hellip; etc 是做什麼的？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這些問題不好回答，特別是『好聽』這種很主觀的，所以我習慣從另一個角度來思考：設備好壞是一回事，使用者用什麼態度、方法使用又是另一回事。&lt;/p&gt;
+&lt;p&gt;一般來說：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;好的設備 + 正確的態度，容易有 1 + 1 &amp;raquo;&amp;gt; 2 的效果&lt;/li&gt;
+&lt;li&gt;爛的設備 + 正確的態度，雖然設備不好，但是方法正確，態度認真：1 + 1 &amp;gt;= 2，效果還是會不錯&lt;/li&gt;
+&lt;li&gt;好的設備 + 不正確的態度：1 + 1 &amp;lt; 2, 甚至 &amp;lt; 0&lt;/li&gt;
+&lt;li&gt;當然，爛的設備 + 爛的態度 &amp;hellip;.. 這就不提了. &amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;但是好的設備通常價錢不會便宜，但是態度卻是可以養成的。便宜入門的設備，只要運用得當，也是可以有很好的效果。&lt;/p&gt;
+&lt;p&gt;所以上述朋友會問我的問題，我大部分不會給直接的答案，反而會有以下的 SOP 程序，幫助如何做功課，如何選擇適合自己的設備。&lt;/p&gt;
+&lt;p&gt;『數位設備』的範圍有點大，所以如同文章標題，本文先鎖定在吉他手的『數位綜合效果器』為主、『吉他音箱』為輔。其他諸如：單顆效果器、錄音介面、鍵盤、監聽 &amp;hellip; 等，選購的 SOP 道理是通的。&lt;/p&gt;
+&lt;h2 id=&#34;選購前&#34;&gt;選購前&lt;/h2&gt;
+&lt;h3 id=&#34;一了解用途需求預算&#34;&gt;一、了解用途、需求、預算&lt;/h3&gt;
+&lt;p&gt;買設備之前，要先了解自己的用途、需求、還有預算，選擇 『適合』『自己』 的數位器材，而不是選擇『別人』認為『最好的』。&lt;/p&gt;
+&lt;p&gt;像吉他效果器可以分成幾種用途：練習用、娛樂/自娛用、表演用、錄音用、裝飾用、考古用。如果不知道自己主要用途是啥，建議以練習用為考量方向。大部分的時間，效果器都是練習用途比較多，之後是娛樂用途，所以盡量考量練習時的必要輔助工具，像是調音器、節拍器、MP3 播放器、甚至於接電腦錄音、調 Tone、Loop (Jammer) &amp;hellip; 等。&lt;/p&gt;
+&lt;p&gt;知道用途，接下來是要了解自己的需求。需求就是要看看自己到底需要買到什麼等級的機器。以吉他綜合效果器來說，通常都是包山包海包你昏頭轉向，一堆東西，設定很多，如果不是每個都清楚，那麼可以先找有自己需要的那種就好，其他的日久慢慢就會見真情。&lt;/p&gt;
+&lt;p&gt;用途中提到練習用的需求：調音器、節拍器、MP3 播放器、甚至於接電腦錄音、調 Tone、Loop (Jammer) ，這些是我個人在幫朋友選購效果器用途的第一考量，詳述在下一段說明。&lt;/p&gt;
+&lt;p&gt;最後就是要看看自己的荷包深度啦，正所謂：荷包的深度，決定設備的廣度。。。。。&lt;/p&gt;
+&lt;h3 id=&#34;二考慮實用性&#34;&gt;二、考慮實用性&lt;/h3&gt;
+&lt;p&gt;買新設備很爽、很開心。但是買回來要是派不上用場，只能當裝飾品，就像在市開跑車，怎麼開都無發發揮跑車的性能。&lt;/p&gt;
+&lt;p&gt;像是買吉他音箱來說，大部分的吉他手都認同真空管聲音比數位好，通常也都期望擁有真空管音箱。但是就現實面來看，要在家裡擺一個 4x12 的管機，然後用機器的正常音量工作，幾乎是不太可能的，除非你有自己的練團室、或者錄音室，否則以都會區狹窄的居住空間，幾乎是不太可能派的上用場的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;※ &lt;a href=&#34;http://www.modernmusician.com/forum/showthread.php?t=147911&#34;&gt;另類管機思考&lt;/a&gt; by 黃中嶽 (當代樂手)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;吉他音箱廠商這幾年也注意到這點了，開始研發所謂的『小管機』，讓居住在都會區裡，空間不夠的吉他手，也能夠享受管機美好的聲音。『小管機』有一個小字，實際上音量、音壓和數位音相比起來還是蠻大的，但是適度的調整，是可以正常的在小空間裡使用的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;關於小管機，當代樂手論壇有很多熱心的網友整理了很多資訊，有興趣的朋友可以參考看看：&lt;a href=&#34;http://www.modernmusician.com/forum/showthread.php?t=101123&#34;&gt;小管機 Show&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;另外，『派不上用場』和『不會用』是兩回事，前者是有很高的環境需求、預算門檻，不容易長期擁有的；後者是可以透過『學習』進而了解、融會貫通，而且終身受用。&lt;/p&gt;
+&lt;p&gt;一個論壇常見的問題：該買單顆還是綜合效果器？初學者，特別是沒有經濟能力的學生，或者不清楚自己要什麼的朋友，我的建議是先買『綜合效果器』。因為機器相關觀念是一樣的，把一台的功能、概念弄熟了，一則通，萬則同。剩下要考慮的就是各個廠牌 Tone 的特色、外觀、介面、耐用度、價位 &amp;hellip; 等。&lt;/p&gt;
+&lt;p&gt;這幾年拜數位科技的進步之賜，數位綜合效果器的功能都很強大，在第一段的需求中提到的練習用需求：調音器、節拍器、MP3 播放器、電腦錄音、調 Tone、Loop (Jammer) ，這些以往都是單獨賣、高價位功能，現在一台小小的機器可能就同時包含好幾種。&lt;/p&gt;
+&lt;p&gt;所以以實用性來看，練習階段的選擇，我個人比較推薦綜合效果器。&lt;/p&gt;
+&lt;h3 id=&#34;三考慮耐用度擴充性&#34;&gt;三、考慮耐用度、擴充性&lt;/h3&gt;
+&lt;p&gt;這兩點也是選購設備時必要考量的，耐用度通常牽涉到作工、用料、組裝、品管等因素，這部分就跟廠商的成本考量有關係。這幾年很多大廠都基於成本因素，都把生產線移到生產成本低廉的地方，整體來講，品質多少受到影響。一些綜合效果器的耐用度大大降低，通常是腳踏開關、電子材料用料不佳、品管不佳等因素，造成機器往往沒多久就掛了。&lt;/p&gt;
+&lt;p&gt;另外要考慮擴充性，有多少組 IO？如果機器是練習用 + 錄音用，多組 IO 會比較方便作業，不用在那邊為了接線而花時間、花心思，專注在音樂上。&lt;/p&gt;
+&lt;p&gt;能否接電腦？能存多少組設定？能否備份資料？&lt;/p&gt;
+&lt;p&gt;能否外接其他單顆效果器？通常需要有 Send、Return 這兩個。&lt;/p&gt;
+&lt;h3 id=&#34;四了解設備的規格和特色-spec--features&#34;&gt;四、了解設備的規格和特色 (Spec. &amp;amp; Features)&lt;/h3&gt;
+&lt;p&gt;規格 (Spec.) 就是告訴使用者，這台機器工作規格、有多少記憶空間、 IO、記憶空間、訊號輸出的範圍、機器實體大小、重量 &amp;hellip; 等。&lt;/p&gt;
+&lt;p&gt;特色 (Features)：幾組音箱模擬、單體模擬、單顆效果器、控制踏板 &amp;hellip; 等等。&lt;/p&gt;
+&lt;p&gt;所以吉他綜合效果器有幾個名詞一定會常出現：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Preamp&lt;/code&gt;：經典音箱前級模擬，模擬一些經典吉他音箱的前級，像是 Fender Twin Reverb、Bassman、VOX AC-30TB、MESA/Boogie combo/Rectifier、Marshall JCM800/900/2000 &amp;hellip; 等。分類大多有三大類：Clean、Low Gain、High Gain&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Cabinet&lt;/code&gt;: 音箱單體, 常見的就是 1x10, 2x10, 2x12, 4x12 &amp;hellip;. 等&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;FX&lt;/code&gt;: 包含了 OD/DS/Fuzz (破音)、Modulations (Chorus, Flange, Phase )、空間類 (Delay, Reverb)、Dynamic/Filter (Comp, EQ, Wah, Noise Gate &amp;hellip; etc)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Controller&lt;/code&gt;: 通常就是用來決定現場表演時機動性的，例如指定參數到某個開關、或者踏板，Wah-Wah 是最常見的應用之一。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;五官方網站--手冊&#34;&gt;五、官方網站 / 手冊&lt;/h3&gt;
+&lt;p&gt;購買前最後去官方網站逛一下，了解確切的相關資訊，包含是否有提供其他軟體工具的下載、軔體更新、有沒有提供官方的 User Club、使用者手冊、技術規格 &amp;hellip;. 等。&lt;/p&gt;
+&lt;p&gt;大部分的廠商都有免費下載手冊的服務，建議事先大概閱讀一下，特別是規格的部份，支援到什麼程度，有多少 I/O &amp;hellip;. 有沒有覺得該有的卻沒有 &amp;hellip;. (後敘)&lt;/p&gt;
+&lt;p&gt;另外一點是可以注意的，因為市場競爭激烈，廠商更新版本的頻率都頗高，所以注意一下時間點，留意每年在美國舉辦的 NAMM Show &amp;hellip;. 。 (後敘.)&lt;/p&gt;
+&lt;h3 id=&#34;六週邊設備&#34;&gt;六、週邊設備&lt;/h3&gt;
+&lt;p&gt;有沒有其他額外周邊可以選購，通常夠專業的廠商，有設計過的產品，都會有這樣的選擇。提供給不同需求的使用者更有彈性的使用空間。&lt;/p&gt;
+&lt;h3 id=&#34;七社群論壇--google--youtube&#34;&gt;七、社群論壇 / Google / Youtube&lt;/h3&gt;
+&lt;p&gt;這部份很簡單，如果是已經上市的產品，那就到處看看別人的使用心得，聽聽 Demo。&lt;/p&gt;
+&lt;p&gt;聽別人的 Demo 最好找有列出詳細錄音的規格的。如果只一直在強調產品本身，故意不提它用啥東西錄音的 (搞不好搭配高檔的音箱+錄音介面+後製)，那就看看就好。因為只要是可以後製的，都可以改、可以修。&lt;/p&gt;
+&lt;p&gt;最好有詳細錄音規格、使用的音箱、麥克風、接線配置、使用的吉他型號等，這樣才是比較完整的參考依據。&lt;/p&gt;
+&lt;p&gt;就像某個數位相機的廣告，廣告自家的產品，卻用對手的箱機拍，如果不夠細心，可能真的會被唬過去。&lt;/p&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;------- Copyright © 2011-2015 Rick KY Hwang All rights reserved -------&lt;/div&gt;
+&lt;h2 id=&#34;選購中-勸敗&#34;&gt;選購中 (勸敗??)&lt;/h2&gt;
+&lt;p&gt;到樂器行時，先確定有沒有貨、同時能不能試，不給試就再聯絡。&lt;/p&gt;
+&lt;p&gt;可以的話，找一顆跟自己用的音箱差不多大小的試，不要找樂器行裡最好的音箱。如果可以找到同一個型號的更好。&lt;/p&gt;
+&lt;p&gt;做單元測試，因為數位綜合效果器通常東西會很多，先了解怎麼獨立控制每一個部分，例如只開一顆 OD，其他都關掉，以此類推，大概知道每一個類別怎麼單獨操作。&lt;/p&gt;
+&lt;p&gt;接下來分別找有 Clean 、Power Chord、 Solo，自己熟悉的歌，然後用上述的單元單獨彈奏。&lt;/p&gt;
+&lt;p&gt;另外也可以試驗看看 Preamp 的動態部分，試著調整琴的 Volume 大小、彈彈看，聽聽看 Preamp 的音色變化；另外也可以用 picking 的大小力測試 Preamp 的動態表現。&lt;/p&gt;
+&lt;p&gt;如果上述在現場很快就可以找到，基本上這台機器的使用者介面是很 OK 的，就可以準備衝了 (勸敗) ～&lt;/p&gt;
+&lt;h2 id=&#34;選購後&#34;&gt;選購後&lt;/h2&gt;
+&lt;p&gt;了解機器的特性、發揮他最大的效果。&lt;/p&gt;
+&lt;p&gt;每一台機器其實都有他自己的個性，雖然都會有所謂的『前級模擬』，但是不見得都會 100% 像模擬的對象。&lt;/p&gt;
+&lt;p&gt;很多模仿藝人，雖然在模仿別人，但是其實模仿到最後，漸漸的，他們會有屬於各自的特色。&lt;/p&gt;
+&lt;p&gt;所以了解機器的特性，了解自己的需求，發會他最大的效果。&lt;/p&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/div&gt;
+&lt;p&gt;基本上，『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。&lt;/p&gt;
+&lt;p&gt;剛好，最近我也想要添購效果器，訴求是耐用、方便攜帶、具備學習或者練習輔助的，所以還是以數位綜合效果器為主。&lt;/p&gt;
+&lt;p&gt;因為用很久的 GNX4 按鈕又壞了兩顆，雖然他具備了我個人覺得一個練習時必備的所有功能：Drum Machine、Looper、MP3 player、可外接記憶卡 &amp;hellip; 但是可惜的是，GNX 系列的開關、踏板一直以來都不是很耐用，而且官方也已經沒有繼續研發新產品了。&lt;/p&gt;
+&lt;p&gt;我另外有一台 VG99 ，是功能非常強大的吉他合成器，除了主機本身，還有另一個踏板 FC300，在練團室時放在譜架上，一個不小心就會扯到 &amp;hellip;. 最後狠下心，把它賣掉，雖然聲音很棒。&lt;/p&gt;
+&lt;p&gt;所以我開始 Survey 下一個目標，鎖定目標大概就是：GT10、POD HD 500&lt;/p&gt;
+&lt;p&gt;不過經過上述的 SOP 之後我決定暫緩這個計畫。&lt;/p&gt;
+&lt;p&gt;首先是 GT10，這個時間點，讓我想到上市時間的問題：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1995: VG8&lt;/li&gt;
+&lt;li&gt;1996: GT5&lt;/li&gt;
+&lt;li&gt;1998: GT3              (2000: VG88, GR33)&lt;/li&gt;
+&lt;li&gt;2001: GT6              (2003: GK3)&lt;/li&gt;
+&lt;li&gt;2004: GT8, GR20   (2007: VG99)&lt;/li&gt;
+&lt;li&gt;2008: GT10            (2011: GR55)&lt;/li&gt;
+&lt;li&gt;2012: GT100         &amp;lt;&amp;mdash; 2012/01/26 updated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以從這個週期來看，GT 系列三到四年是一個週期，加上吉他合成器系列 (VG、GR) 通常都在 GT 的前一年上市，新的吉他合成器 GR55今年上市了，所以今年或明年有可能會有新產品上市。&lt;/p&gt;
+&lt;p&gt;一開始看過 GR55 的規格是很心動的，根據行銷的影片介紹：他相當於 GR20 + VG99 + GT10，同時可以外接 USB 播音樂、支援 Looper 功能、踏版型 (方便攜帶)、價格不貴 (25K NTD)，從這些規格看起來真的是超誘人的。&lt;/p&gt;
+&lt;p&gt;不過仔細看過手冊之後發現以下的地雷：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;沒有 Dual channel：VG99、GT10 都有，但是他可以有 Modeling + Normal Input 這樣使用。&lt;/li&gt;
+&lt;li&gt;Looper 只有 20 秒：我以為跟 GNX4 一樣，會存到 USB，由 USB 大小決定&lt;/li&gt;
+&lt;li&gt;播放音樂只支援 WAV, Riff 兩種格式 (嗯, 實用性不高, 如果要自己放 backing 的話)&lt;/li&gt;
+&lt;li&gt;沒有 Normal Guitar Input ( Normal 一定要透過 GK3 pickup，VG99 則可以直接 Input) &amp;hellip;.&lt;/li&gt;
+&lt;li&gt;I/O 不多，沒有 XLR&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;看到上述，同時加上現在的時間點，所以就先取消這個買的念頭。&lt;/p&gt;
+&lt;p&gt;按照上面產品的上市時間點，加上產品前後功能的差異，GR/VG 的新功能會出現在隔年的 GT，GT 的新功能會出現在幾年後的 VG/GR  &amp;hellip;. 以這樣的邏輯來看，上述提到的功能 (Looper、Player) 可能會出現在下一代的機器上。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2012/01/26 後記: Roland 新一代綜合效果器 GT-100 已經在 2012 NAMM Show Announce. 大致上就是估計的產品上是週期.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;至於 POD HD 500 暫時不考慮的原因還是因為產地的因素，而且 Line 6 的耐用性網路評價一直不是很好，所以先觀察一個一年再看看。&lt;/p&gt;
+&lt;p&gt;工作之餘我喜歡在樂手相關論壇逛，有時候是在撿便宜、找好康、同時也是在學習、有時候也是在觀察一些社會百態。下是 screenshot 著名效果器大廠 Line6 POD HD 500 上市之後，我觀察到的一個現象：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;xtl_mark.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;很有趣的現象 ～&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀-站內&#34;&gt;延伸閱讀 (站內)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;前級、後級和單體&lt;/li&gt;
+&lt;li&gt;DigiTech GNX4 Guitar Workstation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.modernmusician.com/forum/showthread.php?t=147911&#34;&gt;另類管機思考&lt;/a&gt; by 黃中嶽 (當代樂手)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.modernmusician.com/forum/showthread.php?t=101123&#34;&gt;小管機 Show&lt;/a&gt; (當代樂手)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文位址： &lt;a href=&#34;https://rickmidi.blogspot.com/2011/05/blog-post.html&#34;&gt;https://rickmidi.blogspot.com/2011/05/blog-post.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;2011/05/22: 初版&lt;/li&gt;
+&lt;li&gt;2012/01/26: 更新 GT100 資訊&lt;/li&gt;
+&lt;li&gt;2025/12/25: 搬移到 &lt;a href=&#34;https://www.GTCafe.com&#34;&gt;www.GTCafe.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rickmidi: 一些練習吉他的提醒和建議</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/guitar/some-tips-and-suggestions-for-practicing-guitar/</link>
+      <pubDate>Sat, 30 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/guitar/some-tips-and-suggestions-for-practicing-guitar/</guid>
+      <description>
+        
+        
+        &lt;p&gt;在 Youtube 的 Next level guitar 看到這段『十個練習吉他的提醒和建議』，不管是什麼樣的吉他手，都是一個不錯的自我修練的參考。&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/IdKyD_XIeh8?si=ZJWLDh2OsNCjLqef&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;裡面的想法，和我的一些文字心得都很類似，有心想要學琴的朋友，或許可以當成是一個借鏡。&lt;/p&gt;
+&lt;p&gt;以下是中文簡單的整理、我的註解、還有站內相關文章對應參考：&lt;/p&gt;
+&lt;p&gt;這些建議在『吉他的基本功』裡都有提到，所以該文的連結就不放上了。&lt;/p&gt;
+&lt;h2 id=&#34;know-a-large-catalog-of-chords-知道和弦的大項目分類&#34;&gt;Know a LARGE catalog of CHORDS (知道和弦的大項目分類)&lt;/h2&gt;
+&lt;p&gt;就是要試著學習、了解、知道所有和弦的類別有哪些，例如常見的大三、小三 (不是最近流行的小三)、減三、增三、大七、小七、屬七、減七、附加和弦、六九和弦、掛留和弦、九和弦、延伸和弦、 &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;除了知道這些和弦的分類、知道他們的組成音，還要知道如何在吉他上按出來。一般來說，一個和弦至少五種基本按法、變化按法 &amp;hellip; 等。&lt;/p&gt;
+&lt;p&gt;這些東西很多，所以一個好的吉他手，應該不斷的學習新的和弦，不斷發展屬於自己特色的按法。不管是找特殊的按法、改變把位、省略某幾根弦、使用調弦法、用七弦琴、八弦琴 &amp;hellip; 都會有不一樣的想法。&lt;/p&gt;
+&lt;p&gt;上面都是吉他技術層面的東西，除了這些，另外也一定要知道的就是：這些和弦屬性 (級數關係) 在自然大調順階和弦裡扮演著什麼角色，他的功能性如何、甚至他有沒有其他可以互相代理的和弦 &amp;hellip; etc.&lt;/p&gt;
+&lt;p&gt;站內相關文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;和弦概念／工具表格：和弦基礎、和弦學習地圖、順階和弦表&lt;/li&gt;
+&lt;li&gt;吉他和弦聲位的基本概念、TSD 代換、關係和弦&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;know-how-to-play-solid-rhythm知道如何去彈奏好的節奏&#34;&gt;Know how to play SOLID RHYTHM　(知道如何去彈奏好的節奏)&lt;/h2&gt;
+&lt;p&gt;吉他手不管是 Lead Guitarist (主奏吉他手) 還是 Rhythm Guitarist (節奏吉他手)，節奏本身在音樂裡都是非常重要的。節奏吉他手通常會是負責彈奏 Riff ，撐起整首曲子的主架構，同時和鼓手、Bassist 配合產生歌曲的主律動。&lt;/p&gt;
+&lt;p&gt;Lead Guitar 很多時候，負責歌曲的張力氣氛營造，通常 Solo 的句子節奏都不會是很單純的，例如：四連音、三連音、六連音之間的互換、付點、切分、常出現的五聲音階推弦 Lick、更進階的六音一組的十六分音符樂句、或者四音一組三連音樂句、等複雜的拍子 &amp;hellip; 等。所以找一些類似的經典 Solo 來練習，從中練習他的節奏型態，然後創造屬於自己的句子。&lt;/p&gt;
+&lt;p&gt;站內相關文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如何練習 Lick&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;develop-your-ear-開發你的耳朵&#34;&gt;Develop your EAR (開發你的耳朵)&lt;/h2&gt;
+&lt;p&gt;用耳朵『聽』進去，例如：呼應第一點，聽每個和弦類別的特色、感覺，用自己的形容詞記憶他。像是『掛留和弦』一文提到的記憶方法。&lt;/p&gt;
+&lt;p&gt;目的就是練習聽到、就要能彈出來。就像我們學習如何唱一首新歌的時候，不就是如此？&lt;/p&gt;
+&lt;p&gt;然後也要聽自己彈的東西、聽出優缺在哪、認真的面對，然後改善。現在錄音設備發達、方便、且品質又好，所以面對真實的自己，對自己的音符負責才是正確的學習態度。&lt;/p&gt;
+&lt;p&gt;很多吉他手習慣看六線譜，然後『用眼睛』彈吉他，彈出來的東西對不對也沒有去修正，經年累月下來，變成和一些 (不是全部) 彈古典鋼琴的人很像：只會看五線譜彈東西─變成只會看六線譜，耳朵都沒在聽，那就很可惜了。&lt;/p&gt;
+&lt;p&gt;另外，想要用耳朵彈東西的前提是：指版上的音階位置最好能夠熟練幾個把位，這樣比較能夠事半功倍，段落 『Know the NOTES one the NECK』提的。&lt;/p&gt;
+&lt;p&gt;站內相關文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;掛留和弦&lt;/li&gt;
+&lt;li&gt;吉他手怎麼訓練音感&lt;/li&gt;
+&lt;li&gt;怎樣練一首歌、練習的層次&lt;/li&gt;
+&lt;li&gt;如何練習 Lick、聊聊 MIDI Guitar&lt;/li&gt;
+&lt;li&gt;保護耳朵&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;learn-and-develop-licks-學習和發展樂句&#34;&gt;Learn and Develop LICKS (學習和發展樂句)&lt;/h2&gt;
+&lt;p&gt;這段在『如何練習 Lick』有詳細的說明。&lt;/p&gt;
+&lt;p&gt;簡單說，要試著去把聽到的東西應用到不同的地方、延伸他、發展他。聽到一段簡單的 Lick、一段 Riff，適合把他做延伸、變化、應用到不同的把位、調性、節奏、演奏技巧、甚至是音色／其他樂器。&lt;/p&gt;
+&lt;p&gt;站內相關文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;怎樣練一首歌、練習的層次&lt;/li&gt;
+&lt;li&gt;如何練習 Lick、聊聊 MIDI Guitar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;know-the-notes-on-the-neck-知道指版上所有的音名&#34;&gt;Know the NOTES on the NECK (知道指版上所有的音名)&lt;/h2&gt;
+&lt;p&gt;不只是看六線譜，而是要知道指版上所有的音名位置。手上沒有吉他的時候，也能夠做視覺化的練習，以下是幾種常見的練習方法：&lt;/p&gt;
+&lt;p&gt;指版視覺化：第五弦第七格是 E，表示成 (5, 7, E)、(4, 10, C)、(3, 9, E) &amp;hellip; 等。&lt;br&gt;
+給一個音名，例如 Eb，然後很快的找出指板上所有的 Eb&lt;br&gt;
+給一個音名，找出他的完全四度、完全五度&lt;br&gt;
+給一個和弦、和調姓，找出一定範圍之內的所有順階和弦&lt;br&gt;
+上述的練習，手上是都不可以有吉他的，通常是坐車、搭捷運的時候可以這樣練習。&lt;/p&gt;
+&lt;p&gt;這部分很重要，但是很多學習者都很容易忽略他。認為只要看六線譜就夠了，但往往會造就不思考的習慣。這樣對於學習是很不好的。&lt;/p&gt;
+&lt;p&gt;站內相關文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;吉他音階學習引導&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dont-rely-solely-on-tablature-or-just-learn-shapes-不要只是倚賴六線譜或者學習的指型&#34;&gt;Don&amp;rsquo;t Rely solely on tablature or just learn shapes (不要只是倚賴六線譜或者學習的指型)&lt;/h2&gt;
+&lt;p&gt;上一段提到的，不要指是依賴六線譜，要知道對應的音名、然後知道彼此的音程關係，而是要知道六線譜表示的調姓是啥，是啥和弦。六線譜如果沒有寫出這些東西，自己試著去把他分析出來。好的六線譜應該都會提供這些資訊。&lt;/p&gt;
+&lt;p&gt;站內相關文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;怎樣練一首歌&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;learn-to-analyze-the-chords-to-get-the-lead-guitar-roadmap-學習分析和弦進行和旋律的關係&#34;&gt;Learn to analyze the chords to get the lead guitar roadmap (學習分析和弦進行和旋律的關係)&lt;/h2&gt;
+&lt;p&gt;了解歌曲的和弦進行，分析和弦進行的模式，然後進而了解和弦和音階 (歌曲旋律、吉他 Solo) 之間的關係，這在站內『歌曲分析』類別裡有很多例子。&lt;/p&gt;
+&lt;p&gt;學習一新首歌的時候，都要試著去分析和弦進行， 像是：卡農進行 ，分析多了，對於歌曲的結構慢慢的會有概念，&lt;/p&gt;
+&lt;p&gt;站內相關文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;歌曲分析&lt;/li&gt;
+&lt;li&gt;怎樣練一首歌、練習的層次&lt;/li&gt;
+&lt;li&gt;如何練習 Lick&lt;/li&gt;
+&lt;li&gt;吉他音階學習引導、吉他和弦聲位的基本概念&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;just-dont-learn-scale-alone--also-learn-how-to-apply-them-不要只是學音階也要學習如何應用&#34;&gt;Just don&amp;rsquo;t learn scale alone &amp;hellip; also learn how to apply them (不要只是學音階，也要學習如何應用)&lt;/h2&gt;
+&lt;p&gt;很多同學都喜歡探索各式各樣的音階，然後像考試一樣的，『背』了一堆音階。但是卻很少會去思考那些音階要怎麼用？有什麼歌曲用到那樣的音階？&lt;/p&gt;
+&lt;p&gt;這種學習模式有點像學英文，背字典，背一堆文章，但是卻還是不會說一樣。&lt;/p&gt;
+&lt;p&gt;站內相關文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;工具：音階學習地圖、音階基礎&lt;/li&gt;
+&lt;li&gt;吉他音階學習引導&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;learn-the-major-scale-cold-學習大調音階&#34;&gt;Learn the major scale cold (學習大調音階)&lt;/h2&gt;
+&lt;p&gt;不管學習啥音階，像是吉他手應用特別多的五聲音階等，自然大調音階是最重要的，因為他是所有其他音階的參考依據，也是音程關係的定義來源。所以不管是不是吉他手，這個音階都會是很重要的，特別是 C 大調音階，一定要滾瓜爛熟。&lt;/p&gt;
+&lt;p&gt;站內相關文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大調音階、小調音階&lt;/li&gt;
+&lt;li&gt;工具：音階學習地圖、音階基礎&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/br&gt;
+------- Copyright © 2011 Rick KY Hwang All rights reserved -------&lt;/div&gt;
+&lt;p&gt;十點很不錯的建議，在林正如老師的《征服琴海》也有類似的『十件事情』的想法，在『吉他的基本功』一文中也差不多都提到了這些東西。&lt;/p&gt;
+&lt;p&gt;我們眼前所看到的一切，被視為『理所當然』的事物，不管是日常生活當中手機、電腦、音樂、車、電、 &amp;hellip; 實際上，這些東西都是很多前輩、先知經過不知道多少歲月的努力、累積、去蕪存菁，最後得到的結果。&lt;/p&gt;
+&lt;p&gt;我們聽到一段理所當然的旋律，實際上可能是音樂家們的心血結晶，而他們背後的努力，是不被人們知道的。吉他手也是，大師之所為大師，不單單是他的天賦，還有他背後的努力與練習，所以：&lt;/p&gt;
+&lt;div class=&#34;gt-highlight-h2&#34;&gt;『不要問多久，要問你自己，練習了多少。』&lt;/div&gt;
+&lt;h2 id=&#34;參考資料延伸閱讀-站外&#34;&gt;參考資料／延伸閱讀 (站外)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IdKyD_XIeh8&amp;amp;feature=player_embedded&#34;&gt;Top TEN guitar practice tips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;林正如 - 征服琴海&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文位址：https://rickmidi.blogspot.com/2011/04/some-guitar-practice-tips-suggestions.html&lt;/li&gt;
+&lt;li&gt;2011/04/30：初版&lt;/li&gt;
+&lt;li&gt;2025/12/24：搬遷至 &lt;a href=&#34;https://www.GTCafe.com&#34;&gt;www.GTCafe.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

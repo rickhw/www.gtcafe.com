@@ -13796,6 +13796,20 @@ readers do not read off random characters that represent icons */
   @media (min-width: 576px) {
     .td-title {
       font-size: 3rem; } }
+.gt-copyright-cliam {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  margin-top: 3rem;
+  margin-bottom: 3rem; }
+
+.gt-highlight-h2 {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  margin-top: 3rem;
+  margin-bottom: 3rem; }
+
 .td-search-input {
   background: transparent;
   max-width: 90%;

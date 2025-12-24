@@ -36,7 +36,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;和弦名稱 &lt;!-- raw HTML omitted --&gt; (Chord Name)&lt;/th&gt;
+          &lt;th&gt;和弦名稱 &lt;br/&gt; (Chord Name)&lt;/th&gt;
           &lt;th&gt;組成音 (Notation)&lt;/th&gt;
           &lt;th&gt;和弦音程 (Interval)&lt;/th&gt;
           &lt;th&gt;和弦屬性 (Chord Type)&lt;/th&gt;

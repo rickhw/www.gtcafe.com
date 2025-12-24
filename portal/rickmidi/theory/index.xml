@@ -26,7 +26,7 @@
         
         &lt;p&gt;之前提到簡單的調式分析的方式和例子，這一篇我接著討論基本的觀念： 調與調式、和轉調之間的差異。最後以吉他演奏技術的角度說明：如何練習 / 記憶 / 理解 - 調、調式、轉調 … 等在吉他上的應用。&lt;/p&gt;
 &lt;h2 id=&#34;調的基本觀念&#34;&gt;調的基本觀念&lt;/h2&gt;
-&lt;p&gt;環繞一個 &lt;code&gt;主音&lt;/code&gt; 的 &lt;code&gt;和聲關係&lt;/code&gt; 系統 &lt;!-- raw HTML omitted --&gt;(註)&lt;!-- raw HTML omitted --&gt; 可以稱為一個 &amp;ldquo;&lt;code&gt;調 (Tonality)&lt;/code&gt;&amp;quot;。形成 &amp;ldquo;調&amp;rdquo; 有三個條件：&lt;/p&gt;
+&lt;p&gt;環繞一個 &lt;code&gt;主音&lt;/code&gt; 的 &lt;code&gt;和聲關係&lt;/code&gt; 系統 &lt;sub&gt;(註)&lt;/sub&gt; 可以稱為一個 &amp;ldquo;&lt;code&gt;調 (Tonality)&lt;/code&gt;&amp;quot;。形成 &amp;ldquo;調&amp;rdquo; 有三個條件：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;註：參考自 &amp;ldquo;&lt;a href=&#34;http://www.books.com.tw/exep/prod/booksfile.php?item=0010331672&#34;&gt;lies 音樂老師曾說過&lt;/a&gt;&amp;rdquo; - 謊言七 - 一個調 便是一個音階第一個音的名字。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -88,7 +88,7 @@
 &lt;li&gt;音程關係為小調 =&amp;gt; 1 2 b3 4 5 b6 b7 =&amp;gt; W H W W H W W&lt;/li&gt;
 &lt;li&gt;有一組順階和弦通過此音階。歌曲中超出順階和弦以外的，要用其他理論解釋。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;當一個樂句，或者一個段落的和弦進行落在其順階和弦上，同時旋律也落在音階上，我們將該段落定義 &amp;ldquo;可能&amp;rdquo; 為 &amp;ldquo;某調&amp;rdquo;。&lt;!-- raw HTML omitted --&gt;&amp;ldquo;可能&amp;rdquo; 是因為我沒還沒確定根音到底是誰，因為相同的音階可能 &amp;ldquo;同時&amp;rdquo; 符合很多音程關係，樂理分析的專有名詞叫做「關係調」&lt;!-- raw HTML omitted --&gt;。&lt;/p&gt;
+&lt;p&gt;當一個樂句，或者一個段落的和弦進行落在其順階和弦上，同時旋律也落在音階上，我們將該段落定義 &amp;ldquo;可能&amp;rdquo; 為 &amp;ldquo;某調&amp;rdquo;。&lt;span style=&#34;color:color&#34;&gt;&amp;ldquo;可能&amp;rdquo; 是因為我沒還沒確定根音到底是誰，因為相同的音階可能 &amp;ldquo;同時&amp;rdquo; 符合很多音程關係，樂理分析的專有名詞叫做「關係調」&lt;/span&gt;。&lt;/p&gt;
 &lt;p&gt;要確立調的根音，可以參考歌曲的終止或者起始。接下來 &amp;ldquo;調式&amp;rdquo; 將解釋當根音落在不一樣的起始點的時候，他們的意義就不一樣了。&lt;/p&gt;
 &lt;h2 id=&#34;調與調式&#34;&gt;調與調式&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;調式 (Mode)&lt;/code&gt; 是以 &amp;ldquo;調&amp;rdquo; 的觀念為基礎，但是從不同角度理解的概念。&lt;/p&gt;
@@ -1165,6 +1165,67 @@
     </item>
     
     <item>
+      <title>Rickmidi: 再談『首調、固定唱名』與『相對、絕對音感』</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch/</link>
+      <pubDate>Sun, 17 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch/</guid>
+      <description>
+        
+        
+        &lt;p&gt;兩個主題我把他們併成一個來談。&lt;/p&gt;
+&lt;p&gt;這兩個主題，一般會討論的是，哪一個比較好、哪一個比較強、比較利害、要學哪一種 &amp;hellip;.. 。以前我不太會在哪一個比較好、或者哪一個比較強。有時候，我也會像討論區那樣的想法，好像是一般大眾認為的那樣 &amp;hellip;&amp;hellip;. BUT &amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;.. 我現在已經不那麼認為，且聽我道來。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主題一：『首調和固定唱名』比較了兩種唱名的方式，另外 &amp;ldquo;關於唱名&amp;rdquo; 的說明也是有關係&lt;/li&gt;
+&lt;li&gt;主題二：『相對、絕對音感』是兩種對於聲音感覺 / 辨識的定義&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;概念上，『固定唱名』 和『絕對音感』是類似的，因為都是表示固定的音高。固定唱名表示固定的音名位置；絕對音感表示固定的音高頻率。固定的頻率音高，我們用字母 C ~ B 來定義她們，這些字母叫做『音名』。&lt;del&gt;如果你跟我一樣愛用國貨，可以用『ㄅㄆㄇㄈㄉㄊㄋ』來定義這些音名。&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;但是要注意的是，『音名』只是一個符號，用來取代 440Hz 這種沒意義的數字概念，但是即使有名字，他依舊只是一個符號，沒有什麼意義。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;同樣的，概念上『首調唱名』和『相對音感』是類似的，都是表示音和音的『距離』關係，音樂上的概念就是 &lt;strong&gt;音程 (Interval)&lt;/strong&gt; 的意思。&lt;/p&gt;
+&lt;p&gt;音程表示兩個音之間的距離，舉例來說：Do 表示 Do 和 Do 的距離；Sol 則表示 Do - Sol 之間的距離，套上音名來說，他可以是 C - G、A - E&lt;del&gt;、ㄅ - ㄉ (這個我自己定義的 XDD)&lt;/del&gt;，我們給他一個 &lt;strong&gt;完全五度 (Perfect 5th)&lt;/strong&gt; 的名稱，用來告訴人們，這兩個聲音撞在一起的時候聽起來是 Perfect 的。&lt;/p&gt;
+&lt;p&gt;所以，當我們口語上在表達一個音符說他是 Sol 的時候，實際上表示，目前這個位置的前面，應該會有一個相對音 Do 的存在，而假設這個位置音名叫做 G，則前面應該會有一個 C 存在。或者，我們說大七度，也可以用 Ti 這個唱名來表示。&lt;/p&gt;
+&lt;p&gt;同理，其他的音程則可以用來表示各式各樣的情緒：情緒向上的、明朗的、憂鬱的、詭譎的 &amp;hellip;.. etc。音程就是聲音的調色盤，有了基本的顏色，音樂家們才能透過他們來表達情感、情緒。&lt;/p&gt;
+&lt;p&gt;無論如何，就是要有兩個聲音的共鳴所造成的聽覺感受，這就一般說的唱名的內涵所在。C 和 G 撞在一起，不是完全五度、就是完全四度，可以是一種 Sol or Fa 的唱名。但是只有一個 C 或一個 G 單獨是沒有意義的，了不起去把頻率計算出來，但是不能表達些什麼。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2018/12/28 補充：引用這段語言學的解釋 &lt;a href=&#34;https://www.youtube.com/watch?v=vbMLqVuoQC4&#34;&gt;異星入境的語言學與時間哲學&lt;/a&gt; 提到的符號與關係的意義說明，符號本身沒有什麼意義，只有他們連結之後產生的關係才有意義。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;------- Copyright © 2010-2018 Rick KY Hwang All rights reserved -------&lt;/div&gt;
+&lt;p&gt;音樂發展到現在，基本上說這種藝術是一種『語言』，我想大家應該都能夠認同。因為我們用音樂來表達我們的情感、說故事、發洩情緒。而語言的目的在於溝通，語言最具像的表示方式就是『文字』。同樣的一段『文字』，不管誰唸出來，目的都是『溝通』、『表達』。&lt;/p&gt;
+&lt;p&gt;『語言』是人類文明的產物之一，『語言』的目的在於『溝通』、『表達』，『文字』本身是一個把意念具像化的工具，經過很多先知們的嘗試、實驗、演進、去蕪存菁，最後他就是我們現在所使用的文字，就像定義調音叉的頻率為 440Hz 一樣。&lt;/p&gt;
+&lt;p&gt;人們利用『文字』來達到『溝通』、『表達』的目的。&lt;/p&gt;
+&lt;p&gt;所以標題提到的兩種概念，絕對與相對、固定與首調，前者 ─ 絕對音感、固定唱名 ─ 就是所謂的一種固定、且具像的『文字』；而後者 ─ 相對音感、首調唱名 ─ 就是用來表達情感、讓人們達到『溝通』、『表達』的目的。&lt;/p&gt;
+&lt;p&gt;人們在溝通的時候，常常喜歡用『比喻』的方式來表達同樣且類似的想法、概念；而音樂同一首歌常常會用『轉調』來描述同樣的主題、情緒。但是不管是『比喻』、還是『轉調』，依舊都是在描述、表達同樣的一個『主題』，如果偏離『主題』，就是所謂的『不知所云』、『文不對題』、『亂彈』、『Outside』。&lt;/p&gt;
+&lt;p&gt;所以讀到這裡，如果你還沒睡著，還清楚我在鬼扯啥，那表示我已經達到我的『溝通』和『表達』的目的了；如果你已經睡著了，那就是表示這段『文字』是沒有用的。&lt;/p&gt;
+&lt;p&gt;如果『音符』是一種音樂的文字，那麼『音程』就是用來達到『溝通』的目的。『文字』因為『溝通』的需求而存在，但是『溝通』不一樣要透過『文字』，但是『文字』是一個很好的媒介。&lt;/p&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/div&gt;
+&lt;p&gt;彈吉他通常我會要同學學會調音，不管是相對調音還是泛音法，但是我不要求同學一定要有調音器。原因很簡單，因為音樂是相對的。會調音，一樣可以彈出 『大三和弦、大七和弦』的『感覺』，一樣可以彈出卡農進行的『味道』，一樣可以很『開心的』彈彈唱唱。但是有調音器，卻不會調音，別說卡農進行，可能連 C 和弦的『感覺』都彈不出來。&lt;/p&gt;
+&lt;p&gt;音感的問題，一直是芭樂問題，教學時同學也都很喜歡問，而且他們都是直覺式的覺得絕對音感比較強、比較利害，或者固定唱名才是正統。&lt;/p&gt;
+&lt;p&gt;但是我會這樣問他：當你聽歌時，是要聽出音符的高低比較利害，還是聽出音樂要表達的情緒比較重要？&lt;/p&gt;
+&lt;p&gt;BTW：呃 &amp;hellip;&amp;hellip;.. 經濟許可，還是要有調音器 XDDD&lt;/p&gt;
+&lt;h2 id=&#34;延伸閱讀-站內&#34;&gt;延伸閱讀 (站內)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;首調和固定唱名&lt;/li&gt;
+&lt;li&gt;相對、絕對音感&lt;/li&gt;
+&lt;li&gt;關於唱名&lt;/li&gt;
+&lt;li&gt;意念傳達&lt;/li&gt;
+&lt;li&gt;溝通與單字&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2010/10/blog-post.html&lt;/li&gt;
+&lt;li&gt;2011/10/17：初版&lt;/li&gt;
+&lt;li&gt;2011/02/17: 增加描述&lt;/li&gt;
+&lt;li&gt;2018/12/28: 引用語言學的符號與意義連結說明，參考電影解析『異星入境的語言學與時間哲學』&lt;/li&gt;
+&lt;li&gt;2025/12/24：搬遷至 &lt;a href=&#34;https://www.GTCafe.com&#34;&gt;www.GTCafe.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Rickmidi: 大調音階 (Major Scale)</title>
       <link>https://www.gtcafe.com/portal/rickmidi/theory/major-scale/</link>
       <pubDate>Sat, 16 Oct 2010 00:00:00 +0000</pubDate>
@@ -1179,7 +1240,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;音級 &lt;!-- raw HTML omitted --&gt;Scale Degree&lt;/th&gt;
+          &lt;th&gt;音級 &lt;br&gt;Scale Degree&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;I&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;Ⅱ&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;Ⅲ&lt;/th&gt;
@@ -1191,7 +1252,7 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;音名 &lt;!-- raw HTML omitted --&gt;Notation Name&lt;/td&gt;
+          &lt;td&gt;音名 &lt;br&gt;Notation Name&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;C&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;D&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;E&lt;/td&gt;
@@ -1201,17 +1262,17 @@
           &lt;td style=&#34;text-align: center&#34;&gt;B&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;功能 &lt;!-- raw HTML omitted --&gt;Functional&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;主音 &lt;!-- raw HTML omitted --&gt; (Tonic)&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;上主音 &lt;!-- raw HTML omitted --&gt; (Supertonic)&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;中音  &lt;!-- raw HTML omitted --&gt; (Midiant)&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;下屬音 &lt;!-- raw HTML omitted --&gt; (Subdominant)&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;屬音 &lt;!-- raw HTML omitted --&gt; (Dominat)&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;下中音 &lt;!-- raw HTML omitted --&gt; (Submidiant)&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;導音 &lt;!-- raw HTML omitted --&gt; (Leading Tone)&lt;/td&gt;
+          &lt;td&gt;功能 &lt;br&gt;Functional&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;主音 &lt;br&gt; (Tonic)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;上主音 &lt;br&gt; (Supertonic)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中音  &lt;br&gt; (Midiant)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;下屬音 &lt;br&gt; (Subdominant)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;屬音 &lt;br&gt; (Dominat)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;下中音 &lt;br&gt; (Submidiant)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;導音 &lt;br&gt; (Leading Tone)&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;簡譜 &lt;!-- raw HTML omitted --&gt;Numbered System&lt;/td&gt;
+          &lt;td&gt;簡譜 &lt;br&gt;Numbered System&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
@@ -1221,7 +1282,7 @@
           &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;唱名 &lt;!-- raw HTML omitted --&gt;Solfege&lt;/td&gt;
+          &lt;td&gt;唱名 &lt;br&gt;Solfege&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Do&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Re&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Mi&lt;/td&gt;
@@ -1231,7 +1292,7 @@
           &lt;td style=&#34;text-align: center&#34;&gt;Ti&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;音程 &lt;!-- raw HTML omitted --&gt;Interval&lt;/td&gt;
+          &lt;td&gt;音程 &lt;br&gt;Interval&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;完全一度&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;大二度&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;大三度&lt;/td&gt;
@@ -2806,6 +2867,16 @@ G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C =&amp;gt; Dm
 &lt;/table&gt;
 &lt;p&gt;最常見的應用就是，已知大調音階，要找其平行小調音階，或者已知小調音階，要找其平行大調音階，可以透過關係大小調來聯想。下圖表示一般流行歌曲常用的技巧之一，歌曲主要的調性假設是 C 大調 或者 A 小調。如果歌曲進行中進行轉調（通常在 Bridge、男女對唱），則會有以下的選擇：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;minor-key-applied.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!--
+┌─ 關係調 ─┐
+┌─ 關係調 ─┐
+┌─ 關係調 ─┐
+F# 小調	≒	A 大調	←→	A 小調	≒	C 大調	←→	C 小調	≒	Eb 大調
+
+
+└─ 平行調 ─┘
+└─ 平行調 ─┘
+--&gt;
 &lt;p&gt;Eb 大調和 C 小調是關係大小調，這兩個音階的音群是一樣的。所以已知 C 大調音階要找 C 小調音階可以看成 C 大調轉 Eb 大調，之後再彈 Eb 大調的關係小調：C 小調。有興趣的朋友可以試著抓 &lt;a href=&#34;https://www.youtube.com/watch?v=E4V-uj0yvQA&#34;&gt;張學友 - In Love with You&lt;/a&gt; 各段落的調性，概念就是應用上述的技巧。&lt;/p&gt;
 &lt;p&gt;這種技巧在吉他上很常見，尤其彈奏藍調的時候，經常會 G 大調直接轉 G 小調，這時候只要把音階指型往上或往下平移三格，即可以找到新的大小調音階。當然原本的根音位置是不會變的, 指板上的根音位置 C 是不會動的。詳細參閱 吉他音階學習引導 說明.&lt;/p&gt;
 &lt;p&gt;平行調其實不只有大小調，其實在解釋調式音階時，平行調的概念是最常用的。例如 C Major、C Mixolydian、C Lydian &amp;hellip; 這些都是平行調的關係，因為它們都從 C 出發，但是音程關係都不一樣。&lt;/p&gt;

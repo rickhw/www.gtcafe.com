@@ -26,7 +26,7 @@
         
         &lt;p&gt;之前提到簡單的調式分析的方式和例子，這一篇我接著討論基本的觀念： 調與調式、和轉調之間的差異。最後以吉他演奏技術的角度說明：如何練習 / 記憶 / 理解 - 調、調式、轉調 … 等在吉他上的應用。&lt;/p&gt;
 &lt;h2 id=&#34;調的基本觀念&#34;&gt;調的基本觀念&lt;/h2&gt;
-&lt;p&gt;環繞一個 &lt;code&gt;主音&lt;/code&gt; 的 &lt;code&gt;和聲關係&lt;/code&gt; 系統 &lt;!-- raw HTML omitted --&gt;(註)&lt;!-- raw HTML omitted --&gt; 可以稱為一個 &amp;ldquo;&lt;code&gt;調 (Tonality)&lt;/code&gt;&amp;quot;。形成 &amp;ldquo;調&amp;rdquo; 有三個條件：&lt;/p&gt;
+&lt;p&gt;環繞一個 &lt;code&gt;主音&lt;/code&gt; 的 &lt;code&gt;和聲關係&lt;/code&gt; 系統 &lt;sub&gt;(註)&lt;/sub&gt; 可以稱為一個 &amp;ldquo;&lt;code&gt;調 (Tonality)&lt;/code&gt;&amp;quot;。形成 &amp;ldquo;調&amp;rdquo; 有三個條件：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;註：參考自 &amp;ldquo;&lt;a href=&#34;http://www.books.com.tw/exep/prod/booksfile.php?item=0010331672&#34;&gt;lies 音樂老師曾說過&lt;/a&gt;&amp;rdquo; - 謊言七 - 一個調 便是一個音階第一個音的名字。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -88,7 +88,7 @@
 &lt;li&gt;音程關係為小調 =&amp;gt; 1 2 b3 4 5 b6 b7 =&amp;gt; W H W W H W W&lt;/li&gt;
 &lt;li&gt;有一組順階和弦通過此音階。歌曲中超出順階和弦以外的，要用其他理論解釋。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;當一個樂句，或者一個段落的和弦進行落在其順階和弦上，同時旋律也落在音階上，我們將該段落定義 &amp;ldquo;可能&amp;rdquo; 為 &amp;ldquo;某調&amp;rdquo;。&lt;!-- raw HTML omitted --&gt;&amp;ldquo;可能&amp;rdquo; 是因為我沒還沒確定根音到底是誰，因為相同的音階可能 &amp;ldquo;同時&amp;rdquo; 符合很多音程關係，樂理分析的專有名詞叫做「關係調」&lt;!-- raw HTML omitted --&gt;。&lt;/p&gt;
+&lt;p&gt;當一個樂句，或者一個段落的和弦進行落在其順階和弦上，同時旋律也落在音階上，我們將該段落定義 &amp;ldquo;可能&amp;rdquo; 為 &amp;ldquo;某調&amp;rdquo;。&lt;span style=&#34;color:color&#34;&gt;&amp;ldquo;可能&amp;rdquo; 是因為我沒還沒確定根音到底是誰，因為相同的音階可能 &amp;ldquo;同時&amp;rdquo; 符合很多音程關係，樂理分析的專有名詞叫做「關係調」&lt;/span&gt;。&lt;/p&gt;
 &lt;p&gt;要確立調的根音，可以參考歌曲的終止或者起始。接下來 &amp;ldquo;調式&amp;rdquo; 將解釋當根音落在不一樣的起始點的時候，他們的意義就不一樣了。&lt;/p&gt;
 &lt;h2 id=&#34;調與調式&#34;&gt;調與調式&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;調式 (Mode)&lt;/code&gt; 是以 &amp;ldquo;調&amp;rdquo; 的觀念為基礎，但是從不同角度理解的概念。&lt;/p&gt;
