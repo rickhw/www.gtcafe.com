@@ -2,152 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/changelog/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/git/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/misc/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/principle/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/tags/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/faq/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/overview/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/arch/api-gateway/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/arch/overview/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/design/overview/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/development/codegen/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/development/overview/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/mechanism/async-comm/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/mechanism/idempotency/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/api/mechanism/overview/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/errors/4XX/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/errors/5XX/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/java/maven/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.gtcafe.com/study-area/v1/java/source-set/</loc>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/java/spring/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/rust/day1/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/rust/day2/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/rust/day3/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/rust/day4/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.gtcafe.com/study-area/v1/se/build/</loc>
+         <lastmod>2025-12-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.gtcafe.com/study-area/v1/springboot/overview/</loc>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/springboot/validation/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/springboot/exception-handler/global-exception/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/springboot/exception-handler/overview/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/springboot/exception-handler/payload-structure/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
     <url>
          <loc>https://www.gtcafe.com/study-area/v1/springboot/exception-handler/payload-validation/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.gtcafe.com/study-area/v1/tags/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-26</lastmod>
     </url>
 </urlset>

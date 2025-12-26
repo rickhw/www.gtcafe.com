@@ -8,9 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/springboot/validation/">
+        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/java/source-set/">
       
       
+        <link rel="prev" href="../../tags/">
+      
+      
+        <link rel="next" href="../../rust/day1/">
       
       
         
@@ -21,7 +25,7 @@
     
     
       
-        <title>Validation - Study Notes @ GTCafe</title>
+        <title>Source Set - Study Notes @ GTCafe</title>
       
     
     
@@ -72,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#validation" class="md-skip">
+        <a href="#gradle-java" class="md-skip">
           Skip to content
         </a>
       
@@ -112,7 +116,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Validation
+              Source Set
             
           </span>
         </div>
@@ -157,11 +161,13 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../../java/source-set/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
           
   
   
@@ -241,7 +247,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../overview/" class="md-tabs__link">
+        <a href="../../springboot/overview/" class="md-tabs__link">
           
   
   
@@ -488,28 +494,31 @@
       
   
   
+    
   
   
+  
     
     
     
     
+      
+        
+        
       
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
         
           
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
-        
-          
-          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
             
   
   
@@ -527,7 +536,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
             
@@ -542,10 +551,37 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../java/source-set/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Source Set
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -561,6 +597,81 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        場景一：在同專案中隔離「練習」或「實驗」代碼
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        場景二：像執行腳本一樣運行「特定課程」
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#srcmainweb" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        場景三：處理第三層目錄 (如 src/main/web)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#api-consumer-webui" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        場景四：系統角色拆分 (API, Consumer, WebUI)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        總結對照表
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -985,7 +1096,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../overview/" class="md-nav__link">
+      <a href="../../springboot/overview/" class="md-nav__link">
         
   
   
@@ -1067,7 +1178,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../exception-handler/overview/" class="md-nav__link">
+      <a href="../../springboot/exception-handler/overview/" class="md-nav__link">
         
   
   
@@ -1095,7 +1206,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../exception-handler/global-exception/" class="md-nav__link">
+      <a href="../../springboot/exception-handler/global-exception/" class="md-nav__link">
         
   
   
@@ -1123,7 +1234,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../exception-handler/payload-structure/" class="md-nav__link">
+      <a href="../../springboot/exception-handler/payload-structure/" class="md-nav__link">
         
   
   
@@ -1151,7 +1262,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../exception-handler/payload-validation/" class="md-nav__link">
+      <a href="../../springboot/exception-handler/payload-validation/" class="md-nav__link">
         
   
   
@@ -1241,10 +1352,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#prerequesite" class="md-nav__link">
+  <a href="#_1" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Prerequesite
+        場景一：在同專案中隔離「練習」或「實驗」代碼
       
     </span>
   </a>
@@ -1252,10 +1363,43 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#request-validation" class="md-nav__link">
+  <a href="#_2" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Request Validation
+        場景二：像執行腳本一樣運行「特定課程」
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#srcmainweb" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        場景三：處理第三層目錄 (如 src/main/web)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#api-consumer-webui" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        場景四：系統角色拆分 (API, Consumer, WebUI)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        總結對照表
       
     </span>
   </a>
@@ -1285,22 +1429,150 @@
 
 
 
-<h1 id="validation">Validation</h1>
-<h2 id="prerequesite">Prerequesite</h2>
-<ul>
-<li>java version: 17</li>
-<li>springboot: 3.1</li>
-<li>maven: 13.5.2</li>
-</ul>
-<h2 id="request-validation">Request Validation</h2>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="err">POST</span><span class="w"> </span><span class="err">/</span>
-<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="err">Co</span><span class="kc">ntent</span><span class="mi">-</span><span class="err">Type</span><span class="p">:</span><span class="w"> </span><span class="err">applica</span><span class="kc">t</span><span class="err">io</span><span class="kc">n</span><span class="err">/jso</span><span class="kc">n</span>
-<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>
-<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="p">{</span>
-<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="w">    </span><span class="nt">&quot;userId&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;12345&quot;</span><span class="p">,</span>
-<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a><span class="w">    </span><span class="nt">&quot;username&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;rick123&quot;</span>
-<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="p">}</span>
+<h1 id="gradle-java">[Gradle 筆記] 從實驗代碼到多模組架構：Java 專案目錄結構的最佳實踐</h1>
+<p>在 Java 專案開發中，標準的 <code>src/main/java</code> 結構有時無法滿足所有場景。當我們需要加入「實驗性質的代碼」、「教學課程」、「前端資源」，甚至是「將系統拆分為不同角色」時，該如何調整 Gradle 與目錄結構？</p>
+<p>這篇文章整理了從 <strong>SourceSet 隔離</strong> 到 <strong>Multi-Module 多模組架構</strong> 的演進路徑與配置指南。</p>
+<hr />
+<h2 id="_1">場景一：在同專案中隔離「練習」或「實驗」代碼</h2>
+<p><strong>需求</strong>：
+我想在現有的 Git Repository 中新增一個 <code>src/learning/java</code> 目錄，用來放練習題或實驗功能。我不希望這些代碼污染正式的 <code>src/main/java</code>，但它們需要能引用主程式的類別（如 Utils）。</p>
+<p><strong>解決方案：使用 Gradle SourceSets</strong>
+Gradle 允許自定義 SourceSet，將其視為獨立的編譯單元。</p>
+<p><strong>目錄結構</strong>：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>src/
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>├── main/java/       (正式代碼)
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>└── learning/java/   (練習代碼)
 </code></pre></div>
+<p><strong>build.gradle 配置</strong>：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="n">sourceSets</span><span class="w"> </span><span class="o">{</span>
+<a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="w">    </span><span class="n">learning</span><span class="w"> </span><span class="o">{</span>
+<a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a><span class="w">        </span><span class="n">java</span><span class="w"> </span><span class="o">{</span><span class="w"> </span><span class="n">srcDir</span><span class="w"> </span><span class="s1">&#39;src/learning/java&#39;</span><span class="w"> </span><span class="o">}</span>
+<a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a><span class="w">        </span><span class="n">resources</span><span class="w"> </span><span class="o">{</span><span class="w"> </span><span class="n">srcDir</span><span class="w"> </span><span class="s1">&#39;src/learning/resources&#39;</span><span class="w"> </span><span class="o">}</span>
+<a id="__codelineno-1-5" name="__codelineno-1-5" href="#__codelineno-1-5"></a>
+<a id="__codelineno-1-6" name="__codelineno-1-6" href="#__codelineno-1-6"></a><span class="w">        </span><span class="c1">// 關鍵：讓 learning 可以讀取 main 的編譯結果與依賴</span>
+<a id="__codelineno-1-7" name="__codelineno-1-7" href="#__codelineno-1-7"></a><span class="w">        </span><span class="n">compileClasspath</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="n">sourceSets</span><span class="o">.</span><span class="na">main</span><span class="o">.</span><span class="na">output</span>
+<a id="__codelineno-1-8" name="__codelineno-1-8" href="#__codelineno-1-8"></a><span class="w">        </span><span class="n">runtimeClasspath</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="n">sourceSets</span><span class="o">.</span><span class="na">main</span><span class="o">.</span><span class="na">output</span>
+<a id="__codelineno-1-9" name="__codelineno-1-9" href="#__codelineno-1-9"></a><span class="w">    </span><span class="o">}</span>
+<a id="__codelineno-1-10" name="__codelineno-1-10" href="#__codelineno-1-10"></a><span class="o">}</span>
+<a id="__codelineno-1-11" name="__codelineno-1-11" href="#__codelineno-1-11"></a>
+<a id="__codelineno-1-12" name="__codelineno-1-12" href="#__codelineno-1-12"></a><span class="c1">// 繼承 main 的 dependencies</span>
+<a id="__codelineno-1-13" name="__codelineno-1-13" href="#__codelineno-1-13"></a><span class="n">configurations</span><span class="w"> </span><span class="o">{</span>
+<a id="__codelineno-1-14" name="__codelineno-1-14" href="#__codelineno-1-14"></a><span class="w">    </span><span class="n">learningImplementation</span><span class="o">.</span><span class="na">extendsFrom</span><span class="w"> </span><span class="n">implementation</span>
+<a id="__codelineno-1-15" name="__codelineno-1-15" href="#__codelineno-1-15"></a><span class="o">}</span>
+</code></pre></div>
+<hr />
+<h2 id="_2">場景二：像執行腳本一樣運行「特定課程」</h2>
+<p><strong>需求</strong>：
+在 <code>src/learning</code> 下有許多獨立的課程（例如 <code>Lesson1</code>, <code>Lesson2</code>），我希望透過指令 <code>gradle runLesson1</code> 直接執行，而不是每次修改 Main Class 設定。</p>
+<p><strong>解決方案：動態生成 Task</strong>
+利用 Groovy 的靈活性，配合 Map 或檔案掃描動態建立 Gradle Task。</p>
+<p><strong>build.gradle 配置</strong>：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="c1">// 定義課程名稱與 Entry Point</span>
+<a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a><span class="kt">def</span><span class="w"> </span><span class="n">courses</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="o">[</span>
+<a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a><span class="w">    </span><span class="s1">&#39;Lesson1&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;com.learning.basic.HelloWorld&#39;</span><span class="o">,</span>
+<a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a><span class="w">    </span><span class="s1">&#39;Lesson2&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;com.learning.algo.DfsDemo&#39;</span>
+<a id="__codelineno-2-5" name="__codelineno-2-5" href="#__codelineno-2-5"></a><span class="o">]</span>
+<a id="__codelineno-2-6" name="__codelineno-2-6" href="#__codelineno-2-6"></a>
+<a id="__codelineno-2-7" name="__codelineno-2-7" href="#__codelineno-2-7"></a><span class="n">courses</span><span class="o">.</span><span class="na">each</span><span class="w"> </span><span class="o">{</span><span class="w"> </span><span class="n">lessonName</span><span class="o">,</span><span class="w"> </span><span class="n">mainClassPath</span><span class="w"> </span><span class="o">-&gt;</span>
+<a id="__codelineno-2-8" name="__codelineno-2-8" href="#__codelineno-2-8"></a><span class="w">    </span><span class="n">tasks</span><span class="o">.</span><span class="na">create</span><span class="o">(</span><span class="nl">name:</span><span class="w"> </span><span class="s2">&quot;run${lessonName}&quot;</span><span class="o">,</span><span class="w"> </span><span class="nl">type:</span><span class="w"> </span><span class="n">JavaExec</span><span class="o">)</span><span class="w"> </span><span class="o">{</span>
+<a id="__codelineno-2-9" name="__codelineno-2-9" href="#__codelineno-2-9"></a><span class="w">        </span><span class="n">group</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;Learning Courses&#39;</span>
+<a id="__codelineno-2-10" name="__codelineno-2-10" href="#__codelineno-2-10"></a><span class="w">        </span><span class="n">classpath</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">sourceSets</span><span class="o">.</span><span class="na">learning</span><span class="o">.</span><span class="na">runtimeClasspath</span>
+<a id="__codelineno-2-11" name="__codelineno-2-11" href="#__codelineno-2-11"></a><span class="w">        </span><span class="n">mainClass</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">mainClassPath</span>
+<a id="__codelineno-2-12" name="__codelineno-2-12" href="#__codelineno-2-12"></a><span class="w">    </span><span class="o">}</span>
+<a id="__codelineno-2-13" name="__codelineno-2-13" href="#__codelineno-2-13"></a><span class="o">}</span>
+</code></pre></div>
+<p><strong>使用方式</strong>：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a>./gradlew<span class="w"> </span>runLesson1
+</code></pre></div>
+<hr />
+<h2 id="srcmainweb">場景三：處理第三層目錄 (如 src/main/web)</h2>
+<p><strong>需求</strong>：
+標準結構是 <code>src/main/java</code> 和 <code>src/main/resources</code>。如果我有 <code>src/main/web</code> 或 <code>src/main/frontend</code>，該如何處理？</p>
+<p><strong>觀念釐清</strong>：
+Gradle 第三層目錄通常代表 <strong>語言 (Language)</strong> 或 <strong>用途 (Function)</strong>。</p>
+<p><strong>三種常見做法</strong>：</p>
+<table>
+<thead>
+<tr>
+<th>目錄範例</th>
+<th>應用場景</th>
+<th>配置策略</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>src/main/web</strong></td>
+<td><strong>靜態資源</strong><br></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><br>(HTML/CSS/JS) | <strong>加入 Resources</strong>：<br></p>
+<p><br><code>sourceSets.main.resources.srcDir 'src/main/web'</code><br></p>
+<p><br>編譯時會被複製到 Classpath。 |
+| <strong>src/main/webapp</strong> | <strong>傳統 Web App</strong><br></p>
+<p><br>(JSP/WAR) | <strong>使用 War Plugin</strong>：<br></p>
+<p><br><code>plugins { id 'war' }</code><br></p>
+<p><br>這是 Maven/Gradle 的標準目錄，自動識別。 |
+| <strong>src/main/frontend</strong> | <strong>現代前端</strong><br></p>
+<p><br>(React/Vue/Angular) | <strong>使用 Node Plugin</strong>：<br></p>
+<p><br>不視為 Java 資源，而是透過 <code>gradle-node-plugin</code> 觸發 <code>npm build</code>，再將產物複製進 jar。 |</p>
+<hr />
+<h2 id="api-consumer-webui">場景四：系統角色拆分 (API, Consumer, WebUI)</h2>
+<p><strong>需求</strong>：
+我的系統包含 <code>api</code> (對外服務), <code>consumer</code> (背景處理), <code>web-ui</code> (前台)。它們合起來是一個完整系統，但部署時是獨立的 Artifacts (Jar/Image)。</p>
+<p><strong>錯誤做法</strong>：
+❌ 將它們放在 <code>src/main/api</code>, <code>src/main/consumer</code>。</p>
+<ul>
+<li><strong>後果</strong>：依賴地獄 (Dependency Hell)，無法獨立打包，架構邊界模糊。</li>
+</ul>
+<p><strong>最佳實踐：Gradle Multi-Project Builds (多模組架構)</strong>
+採用 Monorepo 策略，將每個角色提升為獨立的 <strong>Module</strong>。</p>
+<p><strong>推薦結構</strong>：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a>MySystem/
+<a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a>├── settings.gradle       (定義模組)
+<a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a>├── build.gradle          (共用配置)
+<a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a>├── common/               (共用邏輯, Utils)
+<a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a>├── api/                  (依賴 common + Web starter)
+<a id="__codelineno-4-6" name="__codelineno-4-6" href="#__codelineno-4-6"></a>├── consumer/             (依賴 common + Kafka client)
+<a id="__codelineno-4-7" name="__codelineno-4-7" href="#__codelineno-4-7"></a>└── web-ui/               (前端專案)
+</code></pre></div>
+<p><strong>settings.gradle 配置</strong>：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="n">rootProject</span><span class="o">.</span><span class="na">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;my-system&#39;</span>
+<a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a><span class="n">include</span><span class="w"> </span><span class="s1">&#39;common&#39;</span><span class="o">,</span><span class="w"> </span><span class="s1">&#39;api&#39;</span><span class="o">,</span><span class="w"> </span><span class="s1">&#39;consumer&#39;</span><span class="o">,</span><span class="w"> </span><span class="s1">&#39;web-ui&#39;</span>
+</code></pre></div>
+<p><strong>子模組依賴 (例如 api/build.gradle)</strong>：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a><span class="n">dependencies</span><span class="w"> </span><span class="o">{</span>
+<a id="__codelineno-6-2" name="__codelineno-6-2" href="#__codelineno-6-2"></a><span class="w">    </span><span class="n">implementation</span><span class="w"> </span><span class="n">project</span><span class="o">(</span><span class="s1">&#39;:common&#39;</span><span class="o">)</span><span class="w"> </span><span class="c1">// 引用兄弟模組</span>
+<a id="__codelineno-6-3" name="__codelineno-6-3" href="#__codelineno-6-3"></a><span class="w">    </span><span class="n">implementation</span><span class="w"> </span><span class="s1">&#39;org.springframework.boot:spring-boot-starter-web&#39;</span>
+<a id="__codelineno-6-4" name="__codelineno-6-4" href="#__codelineno-6-4"></a><span class="o">}</span>
+</code></pre></div>
+<hr />
+<h2 id="_3">總結對照表</h2>
+<p>在決定目錄結構時，請依據「隔離程度」與「部署需求」來選擇：</p>
+<table>
+<thead>
+<tr>
+<th>架構模式</th>
+<th>適用情境</th>
+<th>優點</th>
+<th>缺點</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Standard</strong><br></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><br>(<code>src/main/java</code>) | 一般應用程式 | 簡單，符合慣例。 | 所有代碼混雜，難以區分邊界。 |
+| <strong>SourceSets</strong><br></p>
+<p><br>(<code>src/learning/java</code>) | 實驗代碼、測試輔助、整合測試 | 在同一個 Jar 產出前進行邏輯隔離，不污染 Main。 | 仍然共用同一個 <code>build.gradle</code>，依賴管理較難細分。 |
+| <strong>Multi-Module</strong><br></p>
+<p><br>(<code>:api</code>, <code>:common</code>) | 完整系統、微服務、多種部署目標 | <strong>實體隔離</strong>。每個模組有獨立的 Jar、依賴與 Task。 | 配置稍微複雜 (需維護 <code>settings.gradle</code>)。 |</p>
 
 
 

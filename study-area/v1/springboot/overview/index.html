@@ -8,9 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/springboot/validation/">
+        <link rel="canonical" href="https://www.gtcafe.com/study-area/v1/springboot/overview/">
       
       
+        <link rel="prev" href="../../se/build/">
+      
+      
+        <link rel="next" href="../exception-handler/overview/">
       
       
         
@@ -21,7 +25,7 @@
     
     
       
-        <title>Validation - Study Notes @ GTCafe</title>
+        <title>Overview - Study Notes @ GTCafe</title>
       
     
     
@@ -71,11 +75,6 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
-        
-        <a href="#validation" class="md-skip">
-          Skip to content
-        </a>
-      
     </div>
     <div data-md-component="announce">
       
@@ -112,7 +111,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Validation
+              Overview
             
           </span>
         </div>
@@ -237,11 +236,13 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../overview/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
           
   
   
@@ -288,6 +289,8 @@
         <div class="md-main__inner md-grid">
           
             
+              
+                
               
               <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
                 <div class="md-sidebar__scrollwrap">
@@ -928,28 +931,31 @@
       
   
   
+    
   
   
+  
     
     
     
     
+      
+        
+        
       
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
         
           
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
-        
-          
-          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
             
   
   
@@ -967,7 +973,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_6">
             <span class="md-nav__icon md-icon"></span>
             
@@ -982,10 +988,17 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../overview/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -1001,6 +1014,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -1019,10 +1033,13 @@
       
       
         
+          
+          
+        
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
@@ -1031,7 +1048,7 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_2" >
         
           
-          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="">
             
   
   
@@ -1222,7 +1239,9 @@
             
             
               
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -1231,38 +1250,6 @@
   
   
   
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#prerequesite" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Prerequesite
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#request-validation" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Request Validation
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
   
 </nav>
                   </div>
@@ -1275,6 +1262,8 @@
               
                 
 
+  
+
 
 
 
@@ -1282,25 +1271,95 @@
               <article class="md-content__inner md-typeset">
                 
                   
+  
 
 
 
-<h1 id="validation">Validation</h1>
-<h2 id="prerequesite">Prerequesite</h2>
+
+  <h1>Overview</h1>
+
 <ul>
-<li>java version: 17</li>
-<li>springboot: 3.1</li>
-<li>maven: 13.5.2</li>
+<li>Data Structure and Formation</li>
+<li>
+<p>Serialization: Object to JSON</p>
+</li>
+<li>
+<p>Logging</p>
+</li>
+<li>Security<ul>
+<li>JWT</li>
+<li>OAuth2</li>
 </ul>
-<h2 id="request-validation">Request Validation</h2>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="err">POST</span><span class="w"> </span><span class="err">/</span>
-<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="err">Co</span><span class="kc">ntent</span><span class="mi">-</span><span class="err">Type</span><span class="p">:</span><span class="w"> </span><span class="err">applica</span><span class="kc">t</span><span class="err">io</span><span class="kc">n</span><span class="err">/jso</span><span class="kc">n</span>
-<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>
-<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="p">{</span>
-<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="w">    </span><span class="nt">&quot;userId&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;12345&quot;</span><span class="p">,</span>
-<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a><span class="w">    </span><span class="nt">&quot;username&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;rick123&quot;</span>
-<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="p">}</span>
-</code></pre></div>
+</li>
+<li>Spring Boot Web<ul>
+<li>REST Route</li>
+<li>Exception Handler</li>
+<li>Validation</li>
+<li>AOP:<ul>
+<li>Filter</li>
+<li>Interceptor</li>
+</ul>
+</li>
+<li>Annotation: Bean, Service, Component, ControllerAdvice<ul>
+<li>SpringBoot<ul>
+<li>SpringBootApplication, Configuration</li>
+<li>EnableAutoConfiguration</li>
+<li>ComponentScan</li>
+</ul>
+</li>
+<li>Controller<ul>
+<li>RestController</li>
+<li>RequestMapping</li>
+<li>GetMapping</li>
+<li>PostMapping</li>
+<li>DeleteMapping</li>
+<li>PutMapping</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Data<ul>
+<li>JDBC</li>
+<li>JPA</li>
+<li>Annoation: https://hackmd.io/@LeeLo/leelo/spring-boot-jpa<ul>
+<li>Entity</li>
+<li>Table</li>
+<li>Id</li>
+<li>GeneratedValue</li>
+</ul>
+</li>
+<li>RDB<ul>
+<li>MySQL</li>
+<li>MariaDB</li>
+</ul>
+</li>
+<li>Cache<ul>
+<li>Redis</li>
+</ul>
+</li>
+<li>NoSQL: MongoDB</li>
+<li>Search<ul>
+<li>Elasticsearch</li>
+</ul>
+</li>
+<li>Queue<ul>
+<li>Kafka</li>
+<li>RabbitMQ</li>
+<li>NATS</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Build and Package<ul>
+<li>Maven</li>
+<li>Gradle</li>
+</ul>
+</li>
+<li>Spring Boot DevTools</li>
+<li>Spring Boot Actuator</li>
+</ul>
 
 
 
@@ -1308,8 +1367,13 @@
 
 
 
+  
+  
 
 
+
+
+  
 
 
 
