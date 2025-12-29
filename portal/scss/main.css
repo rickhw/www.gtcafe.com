@@ -15224,12 +15224,7 @@ body:lang(fa) {
     left: 1rem !important;
     right: auto !important; }
 
-/*
-
-Nothing defined here. The Hugo project that uses this theme can override Bootstrap by adding a file to:
-
-assets/scss/_styles_project.scss
-
-*/
+section.books .td-content {
+  padding-top: 1rem; }
 
 /*# sourceMappingURL=main.css.map */
