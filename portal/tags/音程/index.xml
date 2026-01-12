@@ -16,6 +16,327 @@
     
     
     <item>
+      <title>Rickmidi: 三全音 (Tritone)</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/theory/tritone/</link>
+      <pubDate>Thu, 05 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/theory/tritone/</guid>
+      <description>
+        
+        
+        &lt;p&gt;三全音是指音程是 &lt;code&gt;三個全音&lt;/code&gt; 的距離 (六個半音)，也就是 &lt;code&gt;增四度 (augmented fourth)&lt;/code&gt; 或 &lt;code&gt;減五度 (diminished fifth)&lt;/code&gt;。例如：&lt;code&gt;C - F#&lt;/code&gt; 或者說 &lt;code&gt;C - Gb&lt;/code&gt; 的距離。這個音程的聲響特性就是極度的不安定，詭異。有人用魔鬼、地獄、痛苦、銷魂 &amp;hellip; 來形容。&lt;/p&gt;
+&lt;h2 id=&#34;基本概念&#34;&gt;基本概念&lt;/h2&gt;
+&lt;p&gt;最常出現三全音的是大調順階七和弦的五級。C 大調的五級和弦 &lt;code&gt;G7：G B D F&lt;/code&gt; 中的 &lt;code&gt;B - F&lt;/code&gt; 就是一個 &lt;code&gt;增四度&lt;/code&gt;，同時也是造成屬七和弦聲響不穩定的主要原因。所以一般來說，因為聽到屬七和弦的不穩定性，使得聽覺心理會趨向、渴望聽到穩定的感覺，調性音樂中最穩定的就是 &lt;code&gt;一級&lt;/code&gt;。從不穩定的轉向穩定的過程，在音樂術語上稱為 &lt;code&gt;解決 (Resolved)&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;因為只有屬七和弦才會有三全音，所以意味著，一個大調音階裡，只會有一組三全音。所以我們可以根據一組三全音來推出該組三全音屬於哪一個調。例如 B - F 的距離，把 B 加一個半音，可以推出是屬於 C 大調的。&lt;/p&gt;
+&lt;p&gt;另外，三全音剛好把一個八度音切成兩半，所以 &lt;code&gt;C - F#&lt;/code&gt;、&lt;code&gt;F# - C&lt;/code&gt; 都是三全音。所以上段描述的 &lt;code&gt;B - F&lt;/code&gt; 反過來 &lt;code&gt;F - B&lt;/code&gt; 也是三全音，把 F 加一個半音可以得知是 F# 大調的三全音。也就是說，同一組三全音會分別屬於 C 大調和 F# 大調，可以說是一體兩面，從不同角度看一個東西.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Comping (伴奏)&lt;/code&gt; 的時候，使用 &lt;code&gt;Shell Chord (根音 + 三度音 + 七度音)&lt;/code&gt; 的基本概念就是強調出和弦屬性的 &lt;code&gt;特性聲響 (Guide Tone)&lt;/code&gt;，屬七和弦的 Guide Tone，G7 也就是 B - F：三全音。所以 Comping 屬七和弦選擇彈奏 Guide Tone 用意就是要強調出三全音的聲響。當然其他七和弦也是要強調出她們各自的聲響.&lt;/p&gt;
+&lt;h2 id=&#34;判斷三全音&#34;&gt;判斷三全音&lt;/h2&gt;
+&lt;p&gt;要找出三全音的音程，可以利用五度圈來找。三全音就是增四度或者減五度，所以五度圈順時針的方向 &lt;code&gt;F - C - G - D - A - E - B&lt;/code&gt;，因為每一組都是完全五度的關係，所以每一組當中只要五度音少了半音，那麼就是一組三全音的關係，例如:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;F - C =&amp;gt; F - Cb(=B)&lt;/li&gt;
+&lt;li&gt;C - G =&amp;gt; C - Gb&lt;/li&gt;
+&lt;li&gt;G - D =&amp;gt; G - Db&lt;/li&gt;
+&lt;li&gt;&amp;hellip; 類推&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;同理，五度圈逆時針方向是完全四度，&lt;code&gt;C - F - Bb - Eb - Ab - Db&lt;/code&gt;，只要四度音增加一個半音，也會形成一組三全音:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C - F =&amp;gt; C -F#&lt;/li&gt;
+&lt;li&gt;F - Bb =&amp;gt; F - B&lt;/li&gt;
+&lt;li&gt;Bb - Eb =&amp;gt; Bb - E&lt;/li&gt;
+&lt;li&gt;&amp;hellip; 類推&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;降二代五-tritone-substitute&#34;&gt;降二代五 (Tritone Substitute)&lt;/h2&gt;
+&lt;p&gt;另外三全音的應用最有名的就是 &lt;code&gt;降二代五 (Tritone Substitute，三全音代理)&lt;/code&gt;。爵士樂理最常用的 &lt;code&gt;ii-Ⅴ-I&lt;/code&gt; 進行中的五級，以 C 大調來說:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dm7 - G7 - Cmaj7&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;改成：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dm7 - Db7 - Cmaj7&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;其中和弦的組成：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;G：G B D F =&amp;gt; B - F&lt;/li&gt;
+&lt;li&gt;Db：Db F Ab Cb(=B) =&amp;gt; F - B&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他們都有一組三全音，同時 Bass line 由原來的 &lt;code&gt;D - G - C&lt;/code&gt; 變成 &lt;code&gt;D - Db - C&lt;/code&gt;，經過音。這樣的代換，除了保留了原本三全音的聲響，同時又讓 Bass Line 增加了 &lt;code&gt;Passing Tone (經過 音)&lt;/code&gt; 的效果。另外就是 G 和 Db 和弦的組成音，上下比較，除了 B - F 之外，G - Db 是三全音，D - Ab 也是三全音，很神奇吧 ~&lt;/p&gt;
+&lt;h2 id=&#34;減七和弦-diminshed-7th&#34;&gt;減七和弦 (Diminshed 7th)&lt;/h2&gt;
+&lt;p&gt;另外一個跟三全音有關的是 &lt;code&gt;減七和弦 (Diminshed 7th)&lt;/code&gt;。減和弦把八度音平分四等份，以 Cdim7 來說:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cdim7：C Eb Gb Bbb(=A) = Ebdim7 = Gbdim7 = Adim7&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;三全音是把八度音分成兩等份，所以以數學概念來看，12 個半音對半切可以找到三全音; 切成四份，可以得到減七和弦，所以不難發現減七和弦會包含兩組三全音:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cdim7 =&amp;gt; C - Gb 和 Eb - Bbb&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這也是單獨彈奏減七和 &lt;code&gt;弦的琶音 (Arpeggios)&lt;/code&gt; 時，會有更魔鬼的感覺.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;p&gt;三全音在現代音樂中，應用的非常廣泛，除了上述提到的基本概念和和聲代換技巧，另外一個就是藍調。都是使用屬七和弦和弦進行的藍調裡，三全音聲響出現的頻率就更高了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Shell Chord&lt;/li&gt;
+&lt;li&gt;Guide Tone&lt;/li&gt;
+&lt;li&gt;五度圈&lt;/li&gt;
+&lt;li&gt;減七和弦 (Diminished Seventh)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/major-scale/&#34;&gt;大調音階&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/02/tritone.html&lt;/li&gt;
+&lt;li&gt;2009/02/05：初版&lt;/li&gt;
+&lt;li&gt;2021/10/31：搬移新站&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rickmidi: 再談『首調、固定唱名』與『相對、絕對音感』</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch/</link>
+      <pubDate>Sun, 17 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch/</guid>
+      <description>
+        
+        
+        &lt;p&gt;兩個主題我把他們併成一個來談。&lt;/p&gt;
+&lt;p&gt;這兩個主題，一般會討論的是，哪一個比較好、哪一個比較強、比較利害、要學哪一種 &amp;hellip;.. 。以前我不太會在哪一個比較好、或者哪一個比較強。有時候，我也會像討論區那樣的想法，好像是一般大眾認為的那樣 &amp;hellip;&amp;hellip;. BUT &amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;.. 我現在已經不那麼認為，且聽我道來。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主題一：『首調和固定唱名』比較了兩種唱名的方式，另外 &amp;ldquo;關於唱名&amp;rdquo; 的說明也是有關係&lt;/li&gt;
+&lt;li&gt;主題二：『相對、絕對音感』是兩種對於聲音感覺 / 辨識的定義&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;概念上，『固定唱名』 和『絕對音感』是類似的，因為都是表示固定的音高。固定唱名表示固定的音名位置；絕對音感表示固定的音高頻率。固定的頻率音高，我們用字母 C ~ B 來定義她們，這些字母叫做『音名』。&lt;del&gt;如果你跟我一樣愛用國貨，可以用『ㄅㄆㄇㄈㄉㄊㄋ』來定義這些音名。&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;但是要注意的是，『音名』只是一個符號，用來取代 440Hz 這種沒意義的數字概念，但是即使有名字，他依舊只是一個符號，沒有什麼意義。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;同樣的，概念上『首調唱名』和『相對音感』是類似的，都是表示音和音的『距離』關係，音樂上的概念就是 &lt;strong&gt;音程 (Interval)&lt;/strong&gt; 的意思。&lt;/p&gt;
+&lt;p&gt;音程表示兩個音之間的距離，舉例來說：Do 表示 Do 和 Do 的距離；Sol 則表示 Do - Sol 之間的距離，套上音名來說，他可以是 C - G、A - E&lt;del&gt;、ㄅ - ㄉ (這個我自己定義的 XDD)&lt;/del&gt;，我們給他一個 &lt;strong&gt;完全五度 (Perfect 5th)&lt;/strong&gt; 的名稱，用來告訴人們，這兩個聲音撞在一起的時候聽起來是 Perfect 的。&lt;/p&gt;
+&lt;p&gt;所以，當我們口語上在表達一個音符說他是 Sol 的時候，實際上表示，目前這個位置的前面，應該會有一個相對音 Do 的存在，而假設這個位置音名叫做 G，則前面應該會有一個 C 存在。或者，我們說大七度，也可以用 Ti 這個唱名來表示。&lt;/p&gt;
+&lt;p&gt;同理，其他的音程則可以用來表示各式各樣的情緒：情緒向上的、明朗的、憂鬱的、詭譎的 &amp;hellip;.. etc。音程就是聲音的調色盤，有了基本的顏色，音樂家們才能透過他們來表達情感、情緒。&lt;/p&gt;
+&lt;p&gt;無論如何，就是要有兩個聲音的共鳴所造成的聽覺感受，這就一般說的唱名的內涵所在。C 和 G 撞在一起，不是完全五度、就是完全四度，可以是一種 Sol or Fa 的唱名。但是只有一個 C 或一個 G 單獨是沒有意義的，了不起去把頻率計算出來，但是不能表達些什麼。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2018/12/28 補充：引用這段語言學的解釋 &lt;a href=&#34;https://www.youtube.com/watch?v=vbMLqVuoQC4&#34;&gt;異星入境的語言學與時間哲學&lt;/a&gt; 提到的符號與關係的意義說明，符號本身沒有什麼意義，只有他們連結之後產生的關係才有意義。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;------- Copyright © 2010-2018 Rick KY Hwang All rights reserved -------&lt;/div&gt;
+&lt;p&gt;音樂發展到現在，基本上說這種藝術是一種『語言』，我想大家應該都能夠認同。因為我們用音樂來表達我們的情感、說故事、發洩情緒。而語言的目的在於溝通，語言最具像的表示方式就是『文字』。同樣的一段『文字』，不管誰唸出來，目的都是『溝通』、『表達』。&lt;/p&gt;
+&lt;p&gt;『語言』是人類文明的產物之一，『語言』的目的在於『溝通』、『表達』，『文字』本身是一個把意念具像化的工具，經過很多先知們的嘗試、實驗、演進、去蕪存菁，最後他就是我們現在所使用的文字，就像定義調音叉的頻率為 440Hz 一樣。&lt;/p&gt;
+&lt;p&gt;人們利用『文字』來達到『溝通』、『表達』的目的。&lt;/p&gt;
+&lt;p&gt;所以標題提到的兩種概念，絕對與相對、固定與首調，前者 ─ 絕對音感、固定唱名 ─ 就是所謂的一種固定、且具像的『文字』；而後者 ─ 相對音感、首調唱名 ─ 就是用來表達情感、讓人們達到『溝通』、『表達』的目的。&lt;/p&gt;
+&lt;p&gt;人們在溝通的時候，常常喜歡用『比喻』的方式來表達同樣且類似的想法、概念；而音樂同一首歌常常會用『轉調』來描述同樣的主題、情緒。但是不管是『比喻』、還是『轉調』，依舊都是在描述、表達同樣的一個『主題』，如果偏離『主題』，就是所謂的『不知所云』、『文不對題』、『亂彈』、『Outside』。&lt;/p&gt;
+&lt;p&gt;所以讀到這裡，如果你還沒睡著，還清楚我在鬼扯啥，那表示我已經達到我的『溝通』和『表達』的目的了；如果你已經睡著了，那就是表示這段『文字』是沒有用的。&lt;/p&gt;
+&lt;p&gt;如果『音符』是一種音樂的文字，那麼『音程』就是用來達到『溝通』的目的。『文字』因為『溝通』的需求而存在，但是『溝通』不一樣要透過『文字』，但是『文字』是一個很好的媒介。&lt;/p&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/div&gt;
+&lt;p&gt;彈吉他通常我會要同學學會調音，不管是相對調音還是泛音法，但是我不要求同學一定要有調音器。原因很簡單，因為音樂是相對的。會調音，一樣可以彈出 『大三和弦、大七和弦』的『感覺』，一樣可以彈出卡農進行的『味道』，一樣可以很『開心的』彈彈唱唱。但是有調音器，卻不會調音，別說卡農進行，可能連 C 和弦的『感覺』都彈不出來。&lt;/p&gt;
+&lt;p&gt;音感的問題，一直是芭樂問題，教學時同學也都很喜歡問，而且他們都是直覺式的覺得絕對音感比較強、比較利害，或者固定唱名才是正統。&lt;/p&gt;
+&lt;p&gt;但是我會這樣問他：當你聽歌時，是要聽出音符的高低比較利害，還是聽出音樂要表達的情緒比較重要？&lt;/p&gt;
+&lt;p&gt;BTW：呃 &amp;hellip;&amp;hellip;.. 經濟許可，還是要有調音器 XDDD&lt;/p&gt;
+&lt;h2 id=&#34;延伸閱讀-站內&#34;&gt;延伸閱讀 (站內)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;首調和固定唱名&lt;/li&gt;
+&lt;li&gt;相對、絕對音感&lt;/li&gt;
+&lt;li&gt;關於唱名&lt;/li&gt;
+&lt;li&gt;意念傳達&lt;/li&gt;
+&lt;li&gt;溝通與單字&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2010/10/blog-post.html&lt;/li&gt;
+&lt;li&gt;2011/10/17：初版&lt;/li&gt;
+&lt;li&gt;2011/02/17: 增加描述&lt;/li&gt;
+&lt;li&gt;2018/12/28: 引用語言學的符號與意義連結說明，參考電影解析『異星入境的語言學與時間哲學』&lt;/li&gt;
+&lt;li&gt;2025/12/24：搬遷至 &lt;a href=&#34;https://www.GTCafe.com&#34;&gt;www.GTCafe.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rickmidi: 調式概念</title>
+      <link>https://www.gtcafe.com/portal/rickmidi/theory/musical-mode/</link>
+      <pubDate>Mon, 19 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gtcafe.com/portal/rickmidi/theory/musical-mode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;市面上有很多講調式概念的書，大多不太容易理解，一些的解釋是這樣的：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;調式一級就是從 Do 開始、二級就是從 Re、三級就是從 Mi 開始 &amp;hellip;&amp;hellip;&amp;hellip;..&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;或者&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用 Chord-Tone 解釋調式&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;經過我自己分析 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/tonality-key-mode/&#34;&gt;調、調式及轉調&lt;/a&gt; 的關係之後，整理一些個人對於調式概念的理解，大概會用以下的角度切入：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;調式的功能&lt;/li&gt;
+&lt;li&gt;理解與記憶&lt;/li&gt;
+&lt;li&gt;聽覺分析&lt;/li&gt;
+&lt;li&gt;歌曲例子&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;用這樣的方式希望可以讓更多學習的朋友也可以理解。&lt;/p&gt;
+&lt;h2 id=&#34;調式的功能&#34;&gt;調式的功能&lt;/h2&gt;
+&lt;p&gt;就技術層面來說，同樣的音階元素，例如 CDEFGAB 這七個音，直覺上我們會覺得這些音會是 C 大調或者 A 小調，姑且稱這兩個為中心調。利用同樣元素，想要製造出不同調的感覺，像是 G 大調的感覺，這時候就要利用調式了。&lt;/p&gt;
+&lt;p&gt;G Mixolydian (GABCDEFG) 就是一種要偏離 C 大調或 A 小調的感覺。他可以讓聽的人覺得現在聽到的是 G 大調，而不是 C 大調。簡單說就是遠離中心調，有轉調的感覺，但不同於轉調那麼直接.&lt;/p&gt;
+&lt;p&gt;調式另外一種就是想要取得特別感覺的時候，例如想要有異國風味，那麼 Phrygian (調三) 就是一個不錯的選擇；想要彈出夢幻的感覺，那可以選擇 Lydian (調四)；想要 Jam Blues，那除了基本的 Blues Scale，還可以選擇 Mixolydian、Dorian &amp;hellip;等混搭。&lt;/p&gt;
+&lt;h2 id=&#34;理解與記憶方法&#34;&gt;理解與記憶方法&lt;/h2&gt;
+&lt;p&gt;以下是我個人學習調式時的一個總體理解方式。基本觀念是以 &lt;strong&gt;自然大小調音階&lt;/strong&gt; 為參考，其中可以留意升降記號的使用。&lt;code&gt;強調&lt;/code&gt; 的音程為該調式的 &lt;code&gt;Leading-tone (特徵音)&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;一、四、五級屬於 &lt;code&gt;大調系統&lt;/code&gt;，以一級 (Ionian，自然大調) 做參考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Ionian (一級)&lt;/code&gt;: 1 2 3 4 5 6 &lt;code&gt;7&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Lydian (四級)&lt;/code&gt;: 1 2 3 &lt;code&gt;#4&lt;/code&gt; 5 6 7&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Mixo-Lydian (五級)&lt;/code&gt;: 1 2 3 4 5 6 &lt;code&gt;b7&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;二、三、六級屬於 &lt;code&gt;小調系統&lt;/code&gt;，可以以六級 (Aeolian，自然小調) 作參考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Aeolian (六級)&lt;/code&gt;: 1 2 b3 4 5 &lt;code&gt;b6&lt;/code&gt; b7&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Dorian (二級)&lt;/code&gt;: 1 2 b3 4 5 &lt;code&gt;6&lt;/code&gt; b7&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Phrygian (三級)&lt;/code&gt;: 1 &lt;code&gt;b2&lt;/code&gt; b3 4 5 b6 b7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;七級也可以參考 &lt;code&gt;小調系統&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Aeolian (六級)&lt;/code&gt;: 1 2 b3 4 5 &lt;code&gt;b6&lt;/code&gt; b7&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Locrian (七級)&lt;/code&gt;: 1 &lt;code&gt;b2&lt;/code&gt; b3 4 &lt;code&gt;b5&lt;/code&gt; b6 b7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;聽覺顏色分析&#34;&gt;聽覺顏色分析&lt;/h2&gt;
+&lt;p&gt;以自然大調關係與各個調式的升降記號多寡作顏色分析，以升記號 (#, Sharp) 表示明亮 (Bright)；降音記號 (b, Flat) 表灰暗 (Dark)。升記號越多，音階聲響越明亮、明朗；降記號越多，聲響越灰暗、悲傷。以下式七個調式的聽覺顏色與聲響形容詞：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;調式名稱&lt;/th&gt;
+          &lt;th&gt;升降記號&lt;/th&gt;
+          &lt;th&gt;Leading-tone&lt;/th&gt;
+          &lt;th&gt;和弦聲響&lt;/th&gt;
+          &lt;th&gt;聽覺顏色形容詞&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lydian&lt;/td&gt;
+          &lt;td&gt;#4&lt;/td&gt;
+          &lt;td&gt;#4&lt;/td&gt;
+          &lt;td&gt;大和弦&lt;/td&gt;
+          &lt;td&gt;最明亮，Bright、夢幻、神蹟、神秘&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ionian&lt;/td&gt;
+          &lt;td&gt;無&lt;/td&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;大和弦&lt;/td&gt;
+          &lt;td&gt;最自然、Natural、活潑、開心&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mixolydian&lt;/td&gt;
+          &lt;td&gt;b7&lt;/td&gt;
+          &lt;td&gt;b7&lt;/td&gt;
+          &lt;td&gt;屬和弦&lt;/td&gt;
+          &lt;td&gt;熱情、Funky&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dorian&lt;/td&gt;
+          &lt;td&gt;b3 b7&lt;/td&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;小和弦&lt;/td&gt;
+          &lt;td&gt;接近自然小調，親切溫和、高貴&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aeolian&lt;/td&gt;
+          &lt;td&gt;b3 b6 b7&lt;/td&gt;
+          &lt;td&gt;b6&lt;/td&gt;
+          &lt;td&gt;小和弦&lt;/td&gt;
+          &lt;td&gt;Natural Minor、羅曼蒂克&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Phrygian&lt;/td&gt;
+          &lt;td&gt;b2 b3 b6 b7&lt;/td&gt;
+          &lt;td&gt;b2&lt;/td&gt;
+          &lt;td&gt;小和弦&lt;/td&gt;
+          &lt;td&gt;異國風味小調、西班牙、中東國家等&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Locrian&lt;/td&gt;
+          &lt;td&gt;b2 b3 b5 b6 b7&lt;/td&gt;
+          &lt;td&gt;b2 b5&lt;/td&gt;
+          &lt;td&gt;減和弦&lt;/td&gt;
+          &lt;td&gt;最憂暗、Dark、減和弦、詭異&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;調式音階應用曲例&#34;&gt;調式音階應用曲例&lt;/h2&gt;
+&lt;p&gt;音樂最終還是回歸到 - 聽。沒得聽的東西，理論都只是空談。對於調式的學習，多聽歌曲是最好的方式。不管是國內、國外，這些理論其實都一直在被使用著，所以試著去採譜、聆聽、練習，很快就可以抓到調式的感覺了。&lt;/p&gt;
+&lt;p&gt;自然大小調例子最多，我就不列了。一些重金屬 (Heavy Metal) 樂手喜歡用調七，不過我個人鮮少聽 Metal 所以就不舉例調七。以下僅列出其他調式一些例子和喜歡使用該調式的樂手：&lt;/p&gt;
+&lt;p&gt;Dorian (調二)：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;綠袖子 (Greensleeves, 英國歌謠)&lt;/li&gt;
+&lt;li&gt;Jimi Hendrix&lt;/li&gt;
+&lt;li&gt;Carlos Santana&lt;/li&gt;
+&lt;li&gt;Stevie Ray Vaughan&lt;/li&gt;
+&lt;li&gt;Jimmy Page&lt;/li&gt;
+&lt;li&gt;Robby Krieger&lt;/li&gt;
+&lt;li&gt;FF9 - The place I&amp;rsquo;ll return to someday&lt;/li&gt;
+&lt;li&gt;民謠老歌: 橄欖樹&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Phrygian (調三):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Steve Vai - For the Love of God&lt;/li&gt;
+&lt;li&gt;佛朗明哥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lydian (調四):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Joe Satriani - Fly in a Blue Dream&lt;/li&gt;
+&lt;li&gt;Dream Theater - Overture 1928&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mixolydian (調五):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gun N&amp;rsquo; Rose - Sweet Child o&amp;rsquo; Mine (Eb Mixolydian)&lt;/li&gt;
+&lt;li&gt;孫燕姿 - Hey Jude (最後一段 G Mixolydian)&lt;/li&gt;
+&lt;li&gt;張惠妹 - Walking by Myself (G Mixolydian)&lt;/li&gt;
+&lt;li&gt;SRV - Pride and Joy (Eb Mixolydian)&lt;/li&gt;
+&lt;li&gt;Final Fantasy (太空戰士) 的陸行鳥之歌&lt;/li&gt;
+&lt;li&gt;Jack Thammarat - On the Way&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;gt-copyright-cliam&#34;&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/div&gt;
+&lt;h2 id=&#34;建議學習地圖&#34;&gt;建議學習地圖&lt;/h2&gt;
+&lt;p&gt;大概有以下學習階段：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;用耳朵去分辨自然大小調（超級重要！），瞭解他們的組成音、音程關係、順階和弦功能、大小調轉調、終止式&lt;/li&gt;
+&lt;li&gt;接下來瞭解平行調的定義，了解應用方法&lt;/li&gt;
+&lt;li&gt;然後再接觸調式，這樣會比較容易瞭解調與調式的關係與差別。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這是我個人學習調式的總論，只能說是大略的描述一下調式的輪廓而已。一些例子與應用，日後會慢慢繼續補上，至於理論基礎的大方向，應該是沒問題的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
+&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/tonality-key-mode/&#34;&gt;調、調式及轉調&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;簡單的調式分析 - Mixolydian&lt;/li&gt;
+&lt;li&gt;和弦基礎&lt;/li&gt;
+&lt;li&gt;淺談 Modal Harmony (調式和聲)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mode_(music)&#34;&gt;Musical Mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mixolydian&lt;/li&gt;
+&lt;li&gt;Dorian&lt;/li&gt;
+&lt;li&gt;Phrygian&lt;/li&gt;
+&lt;li&gt;Lydian&lt;/li&gt;
+&lt;li&gt;調式音階 (中文, 推薦閱讀)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2007/10/blog-post_02.html&lt;/li&gt;
+&lt;li&gt;2007/11/19: 初版&lt;/li&gt;
+&lt;li&gt;2021/09/04: 搬移新站&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Rickmidi: 調、調式及轉調</title>
       <link>https://www.gtcafe.com/portal/rickmidi/theory/tonality-key-mode/</link>
       <pubDate>Sat, 29 Sep 2007 00:00:00 +0000</pubDate>
@@ -498,6 +819,7 @@
 &lt;/table&gt;
 &lt;p&gt;不難發現一個有趣的現象，以 G13 來看，他是屬七和弦延伸，所以算是 C 大調的順階和弦（因為 G7 是 C 大大調的五級)，所以 G13 參考 C 大調音階，剛好組成因都是 C 大調音階的組成音（所有白鍵）；同理，Cmaj13 也用了 C 大調音階所有的音。&lt;/p&gt;
 &lt;p&gt;不過實際上一個和弦有那麼多音，全部彈基本上沒什麼意義。所以接下來要面對的就是『取捨』的智慧與哲學。同時，到這裡有人一定會想到調式音階，且讓我們繼續看下去。&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;記憶方式&#34;&gt;記憶方式&lt;/h2&gt;
 &lt;p&gt;這種組成音很多的和弦，很難記，所以我參考 X11 和弦的記憶方式，不過是以 &lt;strong&gt;七和弦&lt;/strong&gt; 作為基礎，以 G 和弦為例子，如下：&lt;/p&gt;
 &lt;table&gt;
@@ -584,6 +906,7 @@
 &lt;/ul&gt;
 &lt;p&gt;在樂器上找到 G7 ，然後再把 Am 加上去就得到 G13，其中Am 是 G7 的延伸音，也就是我們想要強調的東西，一般會把它放在高音位置。在鍵盤上很簡單，左手按個 G7，右手按個 Am，甚至可以任意用不同的轉位的 Am。&lt;/p&gt;
 &lt;p&gt;除了上述的方法，另外可以用 Shell Chord  + Tension (延伸音)。吉他手用這種方式會比較容易思考。&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;取捨&#34;&gt;取捨&lt;/h2&gt;
 &lt;p&gt;一個和弦有七個組成音，其中有些會和其他因形成 &lt;strong&gt;不協和音程 (Dissonant)&lt;/strong&gt;，像是小二度、小七度、減五度、增五度，因為功能上的調整，而會有所取捨。&lt;/p&gt;
 &lt;p&gt;以 G13 為例，我們看看每個音的重要性：&lt;/p&gt;
@@ -605,7 +928,8 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;上述每個音的描述，依照狀況以及和弦進行，會有不同的取捨，上述是基本的原則與概念，但不要當作公式來套，因為實際應用要看前後文才知道（跟英文一樣，文法只是通則、慣例）。『前後文』指的是和弦進行。類似概念參考『再談 Guide Tone』的說明。&lt;/p&gt;
-&lt;p&gt;十三和弦與調式音階&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;十三和弦與調式音階&#34;&gt;十三和弦與調式音階&lt;/h2&gt;
 &lt;p&gt;G13 這個例子剛好使用的是 G Mixolydian 音階的組成音。其他像 Xm13、Xmaj13 也都有剛好組成音和調式音階一樣，特徵音用紅色標示，整理如下表：&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -709,6 +1033,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;那 Locrian 呢？當然也可以湊出來，只是不好懂而已。長這樣：Xm7 b5 b9 b13。。。很壯觀，但不實際 XD&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;十三和弦六九和弦與五聲音階&#34;&gt;十三和弦、六九和弦與五聲音階&lt;/h2&gt;
 &lt;p&gt;十三和弦通常會省略十一度，形成七和弦再加上九度和十三度的狀態。&lt;/p&gt;
 &lt;p&gt;七和弦是和聲應用的分水嶺，七和弦以上算是繽紛，豐富色彩的和聲畫面。但有些音樂 (通常是 Fusion、Smooth Jazz、New Age、Epic &amp;hellip; 等 Styles) 喜歡用節奏、音色、或者混音技巧來營造豐富的音樂畫面，所以為了讓音樂畫面繽紛但不紊亂。改變複雜的和聲是其中一種編曲方式。&lt;/p&gt;
@@ -760,6 +1085,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;這個組成音，眼熟的人應該不難發現剛好也是五聲音階。在很多 Fusion 音樂裡很常出現 69 和弦 + 五聲音階為主體的結構。這樣的音樂聽起來不會有太複雜的和聲系統，同時又具備好聽的旋律線。&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;結語&#34;&gt;結語&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;『我以為聲音像是波浪，一波一波推過來的海浪，看不見的海浪，如果看得見這種海浪，那就可以畫出一幅歌聲，也可以聽見彩虹的聲音』&lt;/p&gt;
@@ -1001,67 +1327,6 @@
     </item>
     
     <item>
-      <title>Rickmidi: 再談『首調、固定唱名』與『相對、絕對音感』</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch/</link>
-      <pubDate>Sun, 17 Oct 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch/</guid>
-      <description>
-        
-        
-        &lt;p&gt;兩個主題我把他們併成一個來談。&lt;/p&gt;
-&lt;p&gt;這兩個主題，一般會討論的是，哪一個比較好、哪一個比較強、比較利害、要學哪一種 &amp;hellip;.. 。以前我不太會在哪一個比較好、或者哪一個比較強。有時候，我也會像討論區那樣的想法，好像是一般大眾認為的那樣 &amp;hellip;&amp;hellip;. BUT &amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;.. 我現在已經不那麼認為，且聽我道來。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;主題一：『首調和固定唱名』比較了兩種唱名的方式，另外 &amp;ldquo;關於唱名&amp;rdquo; 的說明也是有關係&lt;/li&gt;
-&lt;li&gt;主題二：『相對、絕對音感』是兩種對於聲音感覺 / 辨識的定義&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;概念上，『固定唱名』 和『絕對音感』是類似的，因為都是表示固定的音高。固定唱名表示固定的音名位置；絕對音感表示固定的音高頻率。固定的頻率音高，我們用字母 C ~ B 來定義她們，這些字母叫做『音名』。&lt;del&gt;如果你跟我一樣愛用國貨，可以用『ㄅㄆㄇㄈㄉㄊㄋ』來定義這些音名。&lt;/del&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;但是要注意的是，『音名』只是一個符號，用來取代 440Hz 這種沒意義的數字概念，但是即使有名字，他依舊只是一個符號，沒有什麼意義。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;同樣的，概念上『首調唱名』和『相對音感』是類似的，都是表示音和音的『距離』關係，音樂上的概念就是 &lt;strong&gt;音程 (Interval)&lt;/strong&gt; 的意思。&lt;/p&gt;
-&lt;p&gt;音程表示兩個音之間的距離，舉例來說：Do 表示 Do 和 Do 的距離；Sol 則表示 Do - Sol 之間的距離，套上音名來說，他可以是 C - G、A - E&lt;del&gt;、ㄅ - ㄉ (這個我自己定義的 XDD)&lt;/del&gt;，我們給他一個 &lt;strong&gt;完全五度 (Perfect 5th)&lt;/strong&gt; 的名稱，用來告訴人們，這兩個聲音撞在一起的時候聽起來是 Perfect 的。&lt;/p&gt;
-&lt;p&gt;所以，當我們口語上在表達一個音符說他是 Sol 的時候，實際上表示，目前這個位置的前面，應該會有一個相對音 Do 的存在，而假設這個位置音名叫做 G，則前面應該會有一個 C 存在。或者，我們說大七度，也可以用 Ti 這個唱名來表示。&lt;/p&gt;
-&lt;p&gt;同理，其他的音程則可以用來表示各式各樣的情緒：情緒向上的、明朗的、憂鬱的、詭譎的 &amp;hellip;.. etc。音程就是聲音的調色盤，有了基本的顏色，音樂家們才能透過他們來表達情感、情緒。&lt;/p&gt;
-&lt;p&gt;無論如何，就是要有兩個聲音的共鳴所造成的聽覺感受，這就一般說的唱名的內涵所在。C 和 G 撞在一起，不是完全五度、就是完全四度，可以是一種 Sol or Fa 的唱名。但是只有一個 C 或一個 G 單獨是沒有意義的，了不起去把頻率計算出來，但是不能表達些什麼。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;2018/12/28 補充：引用這段語言學的解釋 &lt;a href=&#34;https://www.youtube.com/watch?v=vbMLqVuoQC4&#34;&gt;異星入境的語言學與時間哲學&lt;/a&gt; 提到的符號與關係的意義說明，符號本身沒有什麼意義，只有他們連結之後產生的關係才有意義。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&#34;gt-copyright-cliam&#34;&gt;------- Copyright © 2010-2018 Rick KY Hwang All rights reserved -------&lt;/div&gt;
-&lt;p&gt;音樂發展到現在，基本上說這種藝術是一種『語言』，我想大家應該都能夠認同。因為我們用音樂來表達我們的情感、說故事、發洩情緒。而語言的目的在於溝通，語言最具像的表示方式就是『文字』。同樣的一段『文字』，不管誰唸出來，目的都是『溝通』、『表達』。&lt;/p&gt;
-&lt;p&gt;『語言』是人類文明的產物之一，『語言』的目的在於『溝通』、『表達』，『文字』本身是一個把意念具像化的工具，經過很多先知們的嘗試、實驗、演進、去蕪存菁，最後他就是我們現在所使用的文字，就像定義調音叉的頻率為 440Hz 一樣。&lt;/p&gt;
-&lt;p&gt;人們利用『文字』來達到『溝通』、『表達』的目的。&lt;/p&gt;
-&lt;p&gt;所以標題提到的兩種概念，絕對與相對、固定與首調，前者 ─ 絕對音感、固定唱名 ─ 就是所謂的一種固定、且具像的『文字』；而後者 ─ 相對音感、首調唱名 ─ 就是用來表達情感、讓人們達到『溝通』、『表達』的目的。&lt;/p&gt;
-&lt;p&gt;人們在溝通的時候，常常喜歡用『比喻』的方式來表達同樣且類似的想法、概念；而音樂同一首歌常常會用『轉調』來描述同樣的主題、情緒。但是不管是『比喻』、還是『轉調』，依舊都是在描述、表達同樣的一個『主題』，如果偏離『主題』，就是所謂的『不知所云』、『文不對題』、『亂彈』、『Outside』。&lt;/p&gt;
-&lt;p&gt;所以讀到這裡，如果你還沒睡著，還清楚我在鬼扯啥，那表示我已經達到我的『溝通』和『表達』的目的了；如果你已經睡著了，那就是表示這段『文字』是沒有用的。&lt;/p&gt;
-&lt;p&gt;如果『音符』是一種音樂的文字，那麼『音程』就是用來達到『溝通』的目的。『文字』因為『溝通』的需求而存在，但是『溝通』不一樣要透過『文字』，但是『文字』是一個很好的媒介。&lt;/p&gt;
-&lt;div class=&#34;gt-copyright-cliam&#34;&gt;※ 版權所有，謝絕轉載，請尊重著作權法 ※&lt;/div&gt;
-&lt;p&gt;彈吉他通常我會要同學學會調音，不管是相對調音還是泛音法，但是我不要求同學一定要有調音器。原因很簡單，因為音樂是相對的。會調音，一樣可以彈出 『大三和弦、大七和弦』的『感覺』，一樣可以彈出卡農進行的『味道』，一樣可以很『開心的』彈彈唱唱。但是有調音器，卻不會調音，別說卡農進行，可能連 C 和弦的『感覺』都彈不出來。&lt;/p&gt;
-&lt;p&gt;音感的問題，一直是芭樂問題，教學時同學也都很喜歡問，而且他們都是直覺式的覺得絕對音感比較強、比較利害，或者固定唱名才是正統。&lt;/p&gt;
-&lt;p&gt;但是我會這樣問他：當你聽歌時，是要聽出音符的高低比較利害，還是聽出音樂要表達的情緒比較重要？&lt;/p&gt;
-&lt;p&gt;BTW：呃 &amp;hellip;&amp;hellip;.. 經濟許可，還是要有調音器 XDDD&lt;/p&gt;
-&lt;h2 id=&#34;延伸閱讀-站內&#34;&gt;延伸閱讀 (站內)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;首調和固定唱名&lt;/li&gt;
-&lt;li&gt;相對、絕對音感&lt;/li&gt;
-&lt;li&gt;關於唱名&lt;/li&gt;
-&lt;li&gt;意念傳達&lt;/li&gt;
-&lt;li&gt;溝通與單字&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2010/10/blog-post.html&lt;/li&gt;
-&lt;li&gt;2011/10/17：初版&lt;/li&gt;
-&lt;li&gt;2011/02/17: 增加描述&lt;/li&gt;
-&lt;li&gt;2018/12/28: 引用語言學的符號與意義連結說明，參考電影解析『異星入境的語言學與時間哲學』&lt;/li&gt;
-&lt;li&gt;2025/12/24：搬遷至 &lt;a href=&#34;https://www.GTCafe.com&#34;&gt;www.GTCafe.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Rickmidi: 卡農進行 (Canon Chord Progression)</title>
       <link>https://www.gtcafe.com/portal/rickmidi/theory/canon-chord-progression/</link>
       <pubDate>Sat, 27 Mar 2010 00:00:00 +0000</pubDate>
@@ -1193,83 +1458,6 @@
     </item>
     
     <item>
-      <title>Rickmidi: 三全音 (Tritone)</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/theory/tritone/</link>
-      <pubDate>Thu, 05 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/theory/tritone/</guid>
-      <description>
-        
-        
-        &lt;p&gt;三全音是指音程是 &lt;code&gt;三個全音&lt;/code&gt; 的距離 (六個半音)，也就是 &lt;code&gt;增四度 (augmented fourth)&lt;/code&gt; 或 &lt;code&gt;減五度 (diminished fifth)&lt;/code&gt;。例如：&lt;code&gt;C - F#&lt;/code&gt; 或者說 &lt;code&gt;C - Gb&lt;/code&gt; 的距離。這個音程的聲響特性就是極度的不安定，詭異。有人用魔鬼、地獄、痛苦、銷魂 &amp;hellip; 來形容。&lt;/p&gt;
-&lt;h2 id=&#34;基本概念&#34;&gt;基本概念&lt;/h2&gt;
-&lt;p&gt;最常出現三全音的是大調順階七和弦的五級。C 大調的五級和弦 &lt;code&gt;G7：G B D F&lt;/code&gt; 中的 &lt;code&gt;B - F&lt;/code&gt; 就是一個 &lt;code&gt;增四度&lt;/code&gt;，同時也是造成屬七和弦聲響不穩定的主要原因。所以一般來說，因為聽到屬七和弦的不穩定性，使得聽覺心理會趨向、渴望聽到穩定的感覺，調性音樂中最穩定的就是 &lt;code&gt;一級&lt;/code&gt;。從不穩定的轉向穩定的過程，在音樂術語上稱為 &lt;code&gt;解決 (Resolved)&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;因為只有屬七和弦才會有三全音，所以意味著，一個大調音階裡，只會有一組三全音。所以我們可以根據一組三全音來推出該組三全音屬於哪一個調。例如 B - F 的距離，把 B 加一個半音，可以推出是屬於 C 大調的。&lt;/p&gt;
-&lt;p&gt;另外，三全音剛好把一個八度音切成兩半，所以 &lt;code&gt;C - F#&lt;/code&gt;、&lt;code&gt;F# - C&lt;/code&gt; 都是三全音。所以上段描述的 &lt;code&gt;B - F&lt;/code&gt; 反過來 &lt;code&gt;F - B&lt;/code&gt; 也是三全音，把 F 加一個半音可以得知是 F# 大調的三全音。也就是說，同一組三全音會分別屬於 C 大調和 F# 大調，可以說是一體兩面，從不同角度看一個東西.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Comping (伴奏)&lt;/code&gt; 的時候，使用 &lt;code&gt;Shell Chord (根音 + 三度音 + 七度音)&lt;/code&gt; 的基本概念就是強調出和弦屬性的 &lt;code&gt;特性聲響 (Guide Tone)&lt;/code&gt;，屬七和弦的 Guide Tone，G7 也就是 B - F：三全音。所以 Comping 屬七和弦選擇彈奏 Guide Tone 用意就是要強調出三全音的聲響。當然其他七和弦也是要強調出她們各自的聲響.&lt;/p&gt;
-&lt;h2 id=&#34;判斷三全音&#34;&gt;判斷三全音&lt;/h2&gt;
-&lt;p&gt;要找出三全音的音程，可以利用五度圈來找。三全音就是增四度或者減五度，所以五度圈順時針的方向 &lt;code&gt;F - C - G - D - A - E - B&lt;/code&gt;，因為每一組都是完全五度的關係，所以每一組當中只要五度音少了半音，那麼就是一組三全音的關係，例如:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;F - C =&amp;gt; F - Cb(=B)&lt;/li&gt;
-&lt;li&gt;C - G =&amp;gt; C - Gb&lt;/li&gt;
-&lt;li&gt;G - D =&amp;gt; G - Db&lt;/li&gt;
-&lt;li&gt;&amp;hellip; 類推&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;同理，五度圈逆時針方向是完全四度，&lt;code&gt;C - F - Bb - Eb - Ab - Db&lt;/code&gt;，只要四度音增加一個半音，也會形成一組三全音:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;C - F =&amp;gt; C -F#&lt;/li&gt;
-&lt;li&gt;F - Bb =&amp;gt; F - B&lt;/li&gt;
-&lt;li&gt;Bb - Eb =&amp;gt; Bb - E&lt;/li&gt;
-&lt;li&gt;&amp;hellip; 類推&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;降二代五-tritone-substitute&#34;&gt;降二代五 (Tritone Substitute)&lt;/h2&gt;
-&lt;p&gt;另外三全音的應用最有名的就是 &lt;code&gt;降二代五 (Tritone Substitute，三全音代理)&lt;/code&gt;。爵士樂理最常用的 &lt;code&gt;ii-Ⅴ-I&lt;/code&gt; 進行中的五級，以 C 大調來說:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Dm7 - G7 - Cmaj7&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;改成：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Dm7 - Db7 - Cmaj7&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;其中和弦的組成：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;G：G B D F =&amp;gt; B - F&lt;/li&gt;
-&lt;li&gt;Db：Db F Ab Cb(=B) =&amp;gt; F - B&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;他們都有一組三全音，同時 Bass line 由原來的 &lt;code&gt;D - G - C&lt;/code&gt; 變成 &lt;code&gt;D - Db - C&lt;/code&gt;，經過音。這樣的代換，除了保留了原本三全音的聲響，同時又讓 Bass Line 增加了 &lt;code&gt;Passing Tone (經過 音)&lt;/code&gt; 的效果。另外就是 G 和 Db 和弦的組成音，上下比較，除了 B - F 之外，G - Db 是三全音，D - Ab 也是三全音，很神奇吧 ~&lt;/p&gt;
-&lt;h2 id=&#34;減七和弦-diminshed-7th&#34;&gt;減七和弦 (Diminshed 7th)&lt;/h2&gt;
-&lt;p&gt;另外一個跟三全音有關的是 &lt;code&gt;減七和弦 (Diminshed 7th)&lt;/code&gt;。減和弦把八度音平分四等份，以 Cdim7 來說:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Cdim7：C Eb Gb Bbb(=A) = Ebdim7 = Gbdim7 = Adim7&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;三全音是把八度音分成兩等份，所以以數學概念來看，12 個半音對半切可以找到三全音; 切成四份，可以得到減七和弦，所以不難發現減七和弦會包含兩組三全音:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Cdim7 =&amp;gt; C - Gb 和 Eb - Bbb&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;這也是單獨彈奏減七和 &lt;code&gt;弦的琶音 (Arpeggios)&lt;/code&gt; 時，會有更魔鬼的感覺.&lt;/p&gt;
-&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
-&lt;p&gt;三全音在現代音樂中，應用的非常廣泛，除了上述提到的基本概念和和聲代換技巧，另外一個就是藍調。都是使用屬七和弦和弦進行的藍調裡，三全音聲響出現的頻率就更高了。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Shell Chord&lt;/li&gt;
-&lt;li&gt;Guide Tone&lt;/li&gt;
-&lt;li&gt;五度圈&lt;/li&gt;
-&lt;li&gt;減七和弦 (Diminished Seventh)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/major-scale/&#34;&gt;大調音階&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2009/02/tritone.html&lt;/li&gt;
-&lt;li&gt;2009/02/05：初版&lt;/li&gt;
-&lt;li&gt;2021/10/31：搬移新站&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Rickmidi: 五度圈順階和弦表</title>
       <link>https://www.gtcafe.com/portal/rickmidi/dict/diatonic-chords-in-circle-of-5ths/</link>
       <pubDate>Sun, 28 Dec 2008 00:00:00 +0000</pubDate>
@@ -1350,192 +1538,6 @@
 &lt;li&gt;原文位址：https://rickmidi.blogspot.com/2008/10/blog-post.html&lt;/li&gt;
 &lt;li&gt;2008/10/04: 初版&lt;/li&gt;
 &lt;li&gt;2021/11/06: 搬移新站&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rickmidi: 調式概念</title>
-      <link>https://www.gtcafe.com/portal/rickmidi/theory/musical-mode/</link>
-      <pubDate>Mon, 19 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gtcafe.com/portal/rickmidi/theory/musical-mode/</guid>
-      <description>
-        
-        
-        &lt;p&gt;市面上有很多講調式概念的書，大多不太容易理解，一些的解釋是這樣的：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;調式一級就是從 Do 開始、二級就是從 Re、三級就是從 Mi 開始 &amp;hellip;&amp;hellip;&amp;hellip;..&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;或者&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;用 Chord-Tone 解釋調式&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;經過我自己分析 &lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/tonality-key-mode/&#34;&gt;調、調式及轉調&lt;/a&gt; 的關係之後，整理一些個人對於調式概念的理解，大概會用以下的角度切入：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;調式的功能&lt;/li&gt;
-&lt;li&gt;理解與記憶&lt;/li&gt;
-&lt;li&gt;聽覺分析&lt;/li&gt;
-&lt;li&gt;歌曲例子&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;用這樣的方式希望可以讓更多學習的朋友也可以理解。&lt;/p&gt;
-&lt;h2 id=&#34;調式的功能&#34;&gt;調式的功能&lt;/h2&gt;
-&lt;p&gt;就技術層面來說，同樣的音階元素，例如 CDEFGAB 這七個音，直覺上我們會覺得這些音會是 C 大調或者 A 小調，姑且稱這兩個為中心調。利用同樣元素，想要製造出不同調的感覺，像是 G 大調的感覺，這時候就要利用調式了。&lt;/p&gt;
-&lt;p&gt;G Mixolydian (GABCDEFG) 就是一種要偏離 C 大調或 A 小調的感覺。他可以讓聽的人覺得現在聽到的是 G 大調，而不是 C 大調。簡單說就是遠離中心調，有轉調的感覺，但不同於轉調那麼直接.&lt;/p&gt;
-&lt;p&gt;調式另外一種就是想要取得特別感覺的時候，例如想要有異國風味，那麼 Phrygian (調三) 就是一個不錯的選擇；想要彈出夢幻的感覺，那可以選擇 Lydian (調四)；想要 Jam Blues，那除了基本的 Blues Scale，還可以選擇 Mixolydian、Dorian &amp;hellip;等混搭。&lt;/p&gt;
-&lt;h2 id=&#34;理解與記憶方法&#34;&gt;理解與記憶方法&lt;/h2&gt;
-&lt;p&gt;以下是我個人學習調式時的一個總體理解方式。基本觀念是以 &lt;strong&gt;自然大小調音階&lt;/strong&gt; 為參考，其中可以留意升降記號的使用。&lt;code&gt;強調&lt;/code&gt; 的音程為該調式的 &lt;code&gt;Leading-tone (特徵音)&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;一、四、五級屬於 &lt;code&gt;大調系統&lt;/code&gt;，以一級 (Ionian，自然大調) 做參考：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Ionian (一級)&lt;/code&gt;: 1 2 3 4 5 6 &lt;code&gt;7&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Lydian (四級)&lt;/code&gt;: 1 2 3 &lt;code&gt;#4&lt;/code&gt; 5 6 7&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Mixo-Lydian (五級)&lt;/code&gt;: 1 2 3 4 5 6 &lt;code&gt;b7&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;二、三、六級屬於 &lt;code&gt;小調系統&lt;/code&gt;，可以以六級 (Aeolian，自然小調) 作參考：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Aeolian (六級)&lt;/code&gt;: 1 2 b3 4 5 &lt;code&gt;b6&lt;/code&gt; b7&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Dorian (二級)&lt;/code&gt;: 1 2 b3 4 5 &lt;code&gt;6&lt;/code&gt; b7&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Phrygian (三級)&lt;/code&gt;: 1 &lt;code&gt;b2&lt;/code&gt; b3 4 5 b6 b7&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;七級也可以參考 &lt;code&gt;小調系統&lt;/code&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Aeolian (六級)&lt;/code&gt;: 1 2 b3 4 5 &lt;code&gt;b6&lt;/code&gt; b7&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Locrian (七級)&lt;/code&gt;: 1 &lt;code&gt;b2&lt;/code&gt; b3 4 &lt;code&gt;b5&lt;/code&gt; b6 b7&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;聽覺顏色分析&#34;&gt;聽覺顏色分析&lt;/h2&gt;
-&lt;p&gt;以自然大調關係與各個調式的升降記號多寡作顏色分析，以升記號 (#, Sharp) 表示明亮 (Bright)；降音記號 (b, Flat) 表灰暗 (Dark)。升記號越多，音階聲響越明亮、明朗；降記號越多，聲響越灰暗、悲傷。以下式七個調式的聽覺顏色與聲響形容詞：&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;調式名稱&lt;/th&gt;
-          &lt;th&gt;升降記號&lt;/th&gt;
-          &lt;th&gt;Leading-tone&lt;/th&gt;
-          &lt;th&gt;和弦聲響&lt;/th&gt;
-          &lt;th&gt;聽覺顏色形容詞&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Lydian&lt;/td&gt;
-          &lt;td&gt;#4&lt;/td&gt;
-          &lt;td&gt;#4&lt;/td&gt;
-          &lt;td&gt;大和弦&lt;/td&gt;
-          &lt;td&gt;最明亮，Bright、夢幻、神蹟、神秘&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Ionian&lt;/td&gt;
-          &lt;td&gt;無&lt;/td&gt;
-          &lt;td&gt;7&lt;/td&gt;
-          &lt;td&gt;大和弦&lt;/td&gt;
-          &lt;td&gt;最自然、Natural、活潑、開心&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Mixolydian&lt;/td&gt;
-          &lt;td&gt;b7&lt;/td&gt;
-          &lt;td&gt;b7&lt;/td&gt;
-          &lt;td&gt;屬和弦&lt;/td&gt;
-          &lt;td&gt;熱情、Funky&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Dorian&lt;/td&gt;
-          &lt;td&gt;b3 b7&lt;/td&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;小和弦&lt;/td&gt;
-          &lt;td&gt;接近自然小調，親切溫和、高貴&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Aeolian&lt;/td&gt;
-          &lt;td&gt;b3 b6 b7&lt;/td&gt;
-          &lt;td&gt;b6&lt;/td&gt;
-          &lt;td&gt;小和弦&lt;/td&gt;
-          &lt;td&gt;Natural Minor、羅曼蒂克&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Phrygian&lt;/td&gt;
-          &lt;td&gt;b2 b3 b6 b7&lt;/td&gt;
-          &lt;td&gt;b2&lt;/td&gt;
-          &lt;td&gt;小和弦&lt;/td&gt;
-          &lt;td&gt;異國風味小調、西班牙、中東國家等&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Locrian&lt;/td&gt;
-          &lt;td&gt;b2 b3 b5 b6 b7&lt;/td&gt;
-          &lt;td&gt;b2 b5&lt;/td&gt;
-          &lt;td&gt;減和弦&lt;/td&gt;
-          &lt;td&gt;最憂暗、Dark、減和弦、詭異&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;調式音階應用曲例&#34;&gt;調式音階應用曲例&lt;/h2&gt;
-&lt;p&gt;音樂最終還是回歸到 - 聽。沒得聽的東西，理論都只是空談。對於調式的學習，多聽歌曲是最好的方式。不管是國內、國外，這些理論其實都一直在被使用著，所以試著去採譜、聆聽、練習，很快就可以抓到調式的感覺了。&lt;/p&gt;
-&lt;p&gt;自然大小調例子最多，我就不列了。一些重金屬 (Heavy Metal) 樂手喜歡用調七，不過我個人鮮少聽 Metal 所以就不舉例調七。以下僅列出其他調式一些例子和喜歡使用該調式的樂手：&lt;/p&gt;
-&lt;p&gt;Dorian (調二)：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;綠袖子 (Greensleeves, 英國歌謠)&lt;/li&gt;
-&lt;li&gt;Jimi Hendrix&lt;/li&gt;
-&lt;li&gt;Carlos Santana&lt;/li&gt;
-&lt;li&gt;Stevie Ray Vaughan&lt;/li&gt;
-&lt;li&gt;Jimmy Page&lt;/li&gt;
-&lt;li&gt;Robby Krieger&lt;/li&gt;
-&lt;li&gt;FF9 - The place I&amp;rsquo;ll return to someday&lt;/li&gt;
-&lt;li&gt;民謠老歌: 橄欖樹&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Phrygian (調三):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Steve Vai - For the Love of God&lt;/li&gt;
-&lt;li&gt;佛朗明哥&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lydian (調四):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Joe Satriani - Fly in a Blue Dream&lt;/li&gt;
-&lt;li&gt;Dream Theater - Overture 1928&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Mixolydian (調五):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Gun N&amp;rsquo; Rose - Sweet Child o&amp;rsquo; Mine (Eb Mixolydian)&lt;/li&gt;
-&lt;li&gt;孫燕姿 - Hey Jude (最後一段 G Mixolydian)&lt;/li&gt;
-&lt;li&gt;張惠妹 - Walking by Myself (G Mixolydian)&lt;/li&gt;
-&lt;li&gt;SRV - Pride and Joy (Eb Mixolydian)&lt;/li&gt;
-&lt;li&gt;Final Fantasy (太空戰士) 的陸行鳥之歌&lt;/li&gt;
-&lt;li&gt;Jack Thammarat - On the Way&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;div style=&#34;align:center; color: red&#34;&gt;※ 版權所有，未經允許，請勿隨意轉載 ※&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h2 id=&#34;建議學習地圖&#34;&gt;建議學習地圖&lt;/h2&gt;
-&lt;p&gt;大概有以下學習階段：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;用耳朵去分辨自然大小調（超級重要！），瞭解他們的組成音、音程關係、順階和弦功能、大小調轉調、終止式&lt;/li&gt;
-&lt;li&gt;接下來瞭解平行調的定義，了解應用方法&lt;/li&gt;
-&lt;li&gt;然後再接觸調式，這樣會比較容易瞭解調與調式的關係與差別。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;這是我個人學習調式的總論，只能說是大略的描述一下調式的輪廓而已。一些例子與應用，日後會慢慢繼續補上，至於理論基礎的大方向，應該是沒問題的。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;延伸閱讀&#34;&gt;延伸閱讀&lt;/h2&gt;
-&lt;h3 id=&#34;站內資料&#34;&gt;站內資料&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gtcafe.com/portal/rickmidi/theory/tonality-key-mode/&#34;&gt;調、調式及轉調&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;簡單的調式分析 - Mixolydian&lt;/li&gt;
-&lt;li&gt;和弦基礎&lt;/li&gt;
-&lt;li&gt;淺談 Modal Harmony (調式和聲)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mode_(music)&#34;&gt;Musical Mode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Mixolydian&lt;/li&gt;
-&lt;li&gt;Dorian&lt;/li&gt;
-&lt;li&gt;Phrygian&lt;/li&gt;
-&lt;li&gt;Lydian&lt;/li&gt;
-&lt;li&gt;調式音階 (中文, 推薦閱讀)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;更新紀錄&#34;&gt;更新紀錄&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;原文網址：https://rickmidi.blogspot.com/2007/10/blog-post_02.html&lt;/li&gt;
-&lt;li&gt;2007/11/19: 初版&lt;/li&gt;
-&lt;li&gt;2021/09/04: 搬移新站&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
