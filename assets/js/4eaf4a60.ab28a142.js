@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksite_www_gtcafe_com_src=globalThis.webpackChunksite_www_gtcafe_com_src||[]).push([[9128],{2353(e){e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"\u500b\u4eba\u8457\u4f5c","slug":"/portfolios","permalink":"/portfolios","sidebar":"tutorialSidebar","navigation":{}}}')}}]);
