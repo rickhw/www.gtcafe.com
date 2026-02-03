@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksite_www_gtcafe_com_src=globalThis.webpackChunksite_www_gtcafe_com_src||[]).push([[2224],{81976(e,c,s){s.r(c),s.d(c,{default:()=>t});s(96540);var a=s(21656),i=s(74848);function t(){return(0,i.jsxs)(a.A,{children:[(0,i.jsx)("h1",{children:"My React page"}),(0,i.jsx)("p",{children:"This is a React page"})]})}}}]);
