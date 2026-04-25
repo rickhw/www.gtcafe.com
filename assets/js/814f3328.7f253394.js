@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksite_www_gtcafe_com_src=globalThis.webpackChunksite_www_gtcafe_com_src||[]).push([[67472],{55513(s){s.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
