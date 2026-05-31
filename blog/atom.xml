@@ -179,6 +179,23 @@
         <category label="科幻" term="科幻"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thread 實驗]]></title>
+        <id>https://www.gtcafe.com/blog/2026/03/02/thread</id>
+        <link href="https://www.gtcafe.com/blog/2026/03/02/thread"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thread 小實驗結果摘要]]></summary>
+        <content type="html"><![CDATA[<p>Thread 小實驗結果摘要</p>
+<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
+<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
+<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="人生" term="人生"/>
+        <category label="社交" term="社交"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[遊戲設計理論：MDA 框架模型]]></title>
         <id>https://www.gtcafe.com/blog/2026/03/02/mda</id>
         <link href="https://www.gtcafe.com/blog/2026/03/02/mda"/>
@@ -214,23 +231,6 @@
         <category label="遊戲" term="遊戲"/>
         <category label="遊戲設計" term="遊戲設計"/>
         <category label="MDA" term="MDA"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thread 實驗]]></title>
-        <id>https://www.gtcafe.com/blog/2026/03/02/thread</id>
-        <link href="https://www.gtcafe.com/blog/2026/03/02/thread"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thread 小實驗結果摘要]]></summary>
-        <content type="html"><![CDATA[<p>Thread 小實驗結果摘要</p>
-<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
-<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
-<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="人生" term="人生"/>
-        <category label="社交" term="社交"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[時間、遺憾與冒險：聊聊「葬送的芙莉蓮」原聲配樂]]></title>
@@ -399,6 +399,26 @@ OST 完全是我的菜
         <category label="個人" term="個人"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[市場六階段]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。]]></summary>
+        <content type="html"><![CDATA[<p>市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。</p>
+<p>1.承接（要抄底的時候）: 新聞告訴你要多留現金，不過機構已經看到復甦的訊號開始佈局。
+2.上升（最容易賺到錢的時候）: 慢慢開始有好消息釋出，價格跟著快速上漲。
+3.沸騰（最多人想加入市場）: 市場充斥著利多，目標價格每天都在上移，但價格卻漲不上去。
+4.出貨（新手容易買在這個價格）: 常出現緩漲急跌，大家滿手持倉即便套牢也不願意賣出。
+5.恐慌（壞消息開始瘋狂釋出）: 下跌最快速的時候，市場極度不理性過去的壞消息都會被挖出來當作下跌理由。
+6.絕望（左側抄底）: 市場就算出現壞消息價格也跌不下去了</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/cycle-of-market-emotion-b904d5c60430278e2a2951e3183ae61a.jpg" width="675" height="368" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[最近軟體股很慘]]></title>
         <id>https://www.gtcafe.com/blog/2026/02/07/software-and-ai</id>
         <link href="https://www.gtcafe.com/blog/2026/02/07/software-and-ai"/>
@@ -439,26 +459,6 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
         <category label="趨勢" term="趨勢"/>
         <category label="AI" term="AI"/>
         <category label="軟體工程" term="軟體工程"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市場六階段]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion"/>
-        <updated>2026-02-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。]]></summary>
-        <content type="html"><![CDATA[<p>市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。</p>
-<p>1.承接（要抄底的時候）: 新聞告訴你要多留現金，不過機構已經看到復甦的訊號開始佈局。
-2.上升（最容易賺到錢的時候）: 慢慢開始有好消息釋出，價格跟著快速上漲。
-3.沸騰（最多人想加入市場）: 市場充斥著利多，目標價格每天都在上移，但價格卻漲不上去。
-4.出貨（新手容易買在這個價格）: 常出現緩漲急跌，大家滿手持倉即便套牢也不願意賣出。
-5.恐慌（壞消息開始瘋狂釋出）: 下跌最快速的時候，市場極度不理性過去的壞消息都會被挖出來當作下跌理由。
-6.絕望（左側抄底）: 市場就算出現壞消息價格也跌不下去了</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/cycle-of-market-emotion-b904d5c60430278e2a2951e3183ae61a.jpg" width="675" height="368" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="投資" term="投資"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[美股七崩賢 2]]></title>
