@@ -168,19 +168,6 @@
             <category>科幻</category>
         </item>
         <item>
-            <title><![CDATA[Thread 實驗]]></title>
-            <link>https://www.gtcafe.com/blog/2026/03/02/thread</link>
-            <guid>https://www.gtcafe.com/blog/2026/03/02/thread</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Thread 小實驗結果摘要]]></description>
-            <content:encoded><![CDATA[<p>Thread 小實驗結果摘要</p>
-<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
-<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
-<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>人生</category>
-            <category>社交</category>
-        </item>
-        <item>
             <title><![CDATA[遊戲設計理論：MDA 框架模型]]></title>
             <link>https://www.gtcafe.com/blog/2026/03/02/mda</link>
             <guid>https://www.gtcafe.com/blog/2026/03/02/mda</guid>
@@ -212,6 +199,19 @@
             <category>遊戲</category>
             <category>遊戲設計</category>
             <category>MDA</category>
+        </item>
+        <item>
+            <title><![CDATA[Thread 實驗]]></title>
+            <link>https://www.gtcafe.com/blog/2026/03/02/thread</link>
+            <guid>https://www.gtcafe.com/blog/2026/03/02/thread</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thread 小實驗結果摘要]]></description>
+            <content:encoded><![CDATA[<p>Thread 小實驗結果摘要</p>
+<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
+<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
+<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>人生</category>
+            <category>社交</category>
         </item>
         <item>
             <title><![CDATA[時間、遺憾與冒險：聊聊「葬送的芙莉蓮」原聲配樂]]></title>
@@ -287,6 +287,19 @@
             <category>暫存器</category>
         </item>
         <item>
+            <title><![CDATA[美股七崩賢 3]]></title>
+            <link>https://www.gtcafe.com/blog/2026/02/08/us-stock3</link>
+            <guid>https://www.gtcafe.com/blog/2026/02/08/us-stock3</guid>
+            <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[美股七崩賢 v2.0]]></description>
+            <content:encoded><![CDATA[<p>美股七崩賢 v2.0
+Amazon 是斷頭台 XDD</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/us-stock-v2-50386776b26a1ce93694f9aac644735a.jpg" width="2048" height="1139" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>投資</category>
+            <category>動漫</category>
+            <category>葬送的芙莉蓮</category>
+        </item>
+        <item>
             <title><![CDATA[社交減法]]></title>
             <link>https://www.gtcafe.com/blog/2026/02/08/reduce-social</link>
             <guid>https://www.gtcafe.com/blog/2026/02/08/reduce-social</guid>
@@ -303,19 +316,6 @@
             <category>人生</category>
             <category>減法</category>
             <category>社交</category>
-        </item>
-        <item>
-            <title><![CDATA[美股七崩賢 3]]></title>
-            <link>https://www.gtcafe.com/blog/2026/02/08/us-stock3</link>
-            <guid>https://www.gtcafe.com/blog/2026/02/08/us-stock3</guid>
-            <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[美股七崩賢 v2.0]]></description>
-            <content:encoded><![CDATA[<p>美股七崩賢 v2.0
-Amazon 是斷頭台 XDD</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/us-stock-v2-50386776b26a1ce93694f9aac644735a.jpg" width="2048" height="1139" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
-            <category>動漫</category>
-            <category>葬送的芙莉蓮</category>
         </item>
         <item>
             <title><![CDATA[A Sunrise Worth Seeing]]></title>
@@ -534,16 +534,26 @@ It is freedom.</p>
             <category>統計學</category>
         </item>
         <item>
-            <title><![CDATA[價值]]></title>
-            <link>https://www.gtcafe.com/blog/2026/02/02/value</link>
-            <guid>https://www.gtcafe.com/blog/2026/02/02/value</guid>
+            <title><![CDATA[大語言模型與記憶]]></title>
+            <link>https://www.gtcafe.com/blog/2026/02/02/memory</link>
+            <guid>https://www.gtcafe.com/blog/2026/02/02/memory</guid>
             <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[真正有價值的東西，]]></description>
-            <content:encoded><![CDATA[<p>真正有價值的東西，
-會改變你的偏好，
-而不是考驗你的意志力。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <description><![CDATA[記憶 #人格]]></description>
+            <content:encoded><![CDATA[<p>#一早醒來有感 #記憶 #人格</p>
+<p>現在人類做出來的大語言模型 (LLM) 類似於 新物種的 DNA，讓「AI」這個物種成立。以人類來講，DNA 讓人類具備生理特徵，像是身高、膚色、眼色、髮色、腦容量大小、23 對染色體、對於某些聲音的集體感受、五感的能力範圍 ... 等生理的「本能」。</p>
+<p>現在的 LLM 也是如此，那些被訓練出來的資料，成為他們的 DNA，像是現在人類基因的染色體。雖然 LLM 具備龐大資料內容的訓練，能夠從機率上處理與人類的對話，但人類發現跟他們的對話，常常會因為上下文、或者時間過長，發生前後文不一致，或者出現幻覺的現象。主要是因為現在的 LLM 缺乏「自主記憶」的能力，記住這些對話過程的資料。</p>
+<p>而對人類而言，「記憶」正是形成「人格」的因素，這是後天透過長時間養成的。我們還是嬰兒的時候，因為父母給予的環境，與父母的互動，外界聲光的刺激，長久累積的記憶，形成對於外界的認知、語言、反應，這些積累，讓專屬的人格出現。記憶讓人類具備「個體性」、「人格性」。</p>
+<p>而 OpenClaw 的出現，讓「記憶」這件事情可以滿足。透過我們跟他對話的內容，反覆累積出 AI Agent 的記憶，這些記憶逐步形成「它」對於你的認知，對於世界的認知，時間的累積，他逐步有了「人格」或者「蝦格」....</p>
+<p>這個過程，跟我們在養寵物一樣，毛小孩 DNA 內建的是生物屬性，是喵喵叫、還是汪汪汪。但是從出生第一天，外在環境的遭遇、求生的過程，造成貓格、狗格。直到被人類收養的第一天，建立了新的記憶，與人類的互動，會形成人與寵物之間的共通記憶，人對於貓狗的認知，貓狗對人類的認知 (奴才)。</p>
+<p>現在 AI Agent 的 DNA -&gt; LLM 本質上比人類具備更多儲備知識，形成的人格除了使用者跟他的對話，他也可以直接從外界網路獲取資訊，像是 MoltBook，它看啥版、跟哪一些蝦討論，就會形成他的個性與蝦格。所以如果太早把你的 AI Agent 放出去外面，很快就會長歪了。。。</p>
+<hr>
+<p>一早醒來 有感。。。之前寫過一些關於「記憶」的看法，看起來在 AI Agent 上也是看到一樣的。</p>
+<p>現代電腦、手機缺乏的就是 LLM，如果每顆 CPU 預裝一個 SLM (Small Lang Model)，那麼使用電腦的第一天開始，就會因為跟人類的互動動，產生他的人格。</p>
+<p>以後的數位設備，應該預設都會有 LLM/SLM 在集成式晶片中，然後具備上下文趨近於無上限的記憶能力。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
             <category>思考</category>
-            <category>價值</category>
+            <category>記憶</category>
+            <category>意識</category>
+            <category>人格</category>
         </item>
     </channel>
 </rss>
