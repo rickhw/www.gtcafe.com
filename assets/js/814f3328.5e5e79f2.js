@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksite_www_gtcafe_com_src=globalThis.webpackChunksite_www_gtcafe_com_src||[]).push([[67472],{55513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Blog \u7bc4\u4f8b\u6587\u7ae0","permalink":"/blog/2026/05/31/welcome","unlisted":false,"date":"2026-05-31T00:00:00.000Z"}]}')}}]);
