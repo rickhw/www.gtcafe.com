@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksite_www_gtcafe_com_src=globalThis.webpackChunksite_www_gtcafe_com_src||[]).push([[19174],{5332(s){s.exports=JSON.parse('{"tags":[{"label":"\u539f\u5247","permalink":"/tags/\u539f\u5247","count":1}]}')}}]);

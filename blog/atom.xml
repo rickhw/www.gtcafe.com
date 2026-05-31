@@ -2,68 +2,749 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gtcafe.com/blog</id>
     <title>GTCafe Studio Blog</title>
-    <updated>2026-05-31T00:00:00.000Z</updated>
+    <updated>2026-04-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.gtcafe.com/blog"/>
     <subtitle>GTCafe Studio Blog</subtitle>
     <icon>https://www.gtcafe.com/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Blog 範例文章]]></title>
-        <id>https://www.gtcafe.com/blog/2026/05/31/welcome</id>
-        <link href="https://www.gtcafe.com/blog/2026/05/31/welcome"/>
-        <updated>2026-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[這是一篇 Docusaurus blog 的範例文章，用來確認 Blog 頁面、文章列表、RSS/Atom feed 與導覽列連結都可以正常運作。]]></summary>
-        <content type="html"><![CDATA[<p>這是一篇 Docusaurus blog 的範例文章，用來確認 Blog 頁面、文章列表、RSS/Atom feed 與導覽列連結都可以正常運作。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="為什麼使用-yearmonth-目錄">為什麼使用 year/month 目錄<a href="https://www.gtcafe.com/blog/2026/05/31/welcome#%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%BF%E7%94%A8-yearmonth-%E7%9B%AE%E9%8C%84" class="hash-link" aria-label="Direct link to 為什麼使用 year/month 目錄" title="Direct link to 為什麼使用 year/month 目錄" translate="no">​</a></h2>
-<p>Blog 文章可以用時間當目錄結構管理，例如：</p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">blog/</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">  2026/</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    05/</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">      welcome.md</span><br></div></code></pre></div></div>
-<p>因為檔名不再包含日期，所以文章 front matter 裡要放 <code>date</code>，讓 Docusaurus 可以正確排序與產生文章 metadata。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="url-pattern">URL pattern<a href="https://www.gtcafe.com/blog/2026/05/31/welcome#url-pattern" class="hash-link" aria-label="Direct link to URL pattern" title="Direct link to URL pattern" translate="no">​</a></h2>
-<p>Blog 文章網址由 front matter 的 <code>slug</code> 決定。若要使用 <code>/blog/yyyy/mm/dd/title</code>，可以這樣寫：</p>
-<div class="language-yaml codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-yaml codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token key atrule" style="color:#00a4db">slug</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> 2026/05/31/welcome</span><br></div></code></pre></div></div>
-<p>這篇文章的網址會是：</p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">/blog/2026/05/31/welcome</span><br></div></code></pre></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cover-image-與社群-preview">Cover image 與社群 preview<a href="https://www.gtcafe.com/blog/2026/05/31/welcome#cover-image-%E8%88%87%E7%A4%BE%E7%BE%A4-preview" class="hash-link" aria-label="Direct link to Cover image 與社群 preview" title="Direct link to Cover image 與社群 preview" translate="no">​</a></h2>
-<p>如果要讓文章分享到社群網站時有 preview 圖，在 front matter 裡加上 <code>image</code>：</p>
-<div class="language-yaml codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-yaml codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token key atrule" style="color:#00a4db">image</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> ./cover</span><span class="token punctuation" style="color:#393A34">-</span><span class="token plain">image.jpg</span><br></div></code></pre></div></div>
-<p>Cover 圖可以跟文章放在同一層：</p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">blog/</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">  2026/</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    05/</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">      welcome.md</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">      cover-image.jpg</span><br></div></code></pre></div></div>
-<p>建議使用 JPG 或 PNG，尺寸用 1200x630，這是 Open Graph preview 最常見的比例。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="圖片放法">圖片放法<a href="https://www.gtcafe.com/blog/2026/05/31/welcome#%E5%9C%96%E7%89%87%E6%94%BE%E6%B3%95" class="hash-link" aria-label="Direct link to 圖片放法" title="Direct link to 圖片放法" translate="no">​</a></h2>
-<p>文章用到的圖片可以跟 Markdown 放在同一層，然後用相對路徑引用：</p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">blog/</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">  2026/</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    05/</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">      welcome.md</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">      sample-image.svg</span><br></div></code></pre></div></div>
-<div class="language-md codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-md codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token url operator" style="color:#393A34">!</span><span class="token url" style="color:#36acaa">[</span><span class="token url content" style="color:#36acaa">Blog 範例圖片</span><span class="token url" style="color:#36acaa">](</span><span class="token url" style="color:#36acaa">./sample-image.svg</span><span class="token url" style="color:#36acaa">)</span><br></div></code></pre></div></div>
-<p><img decoding="async" loading="lazy" alt="Blog 範例圖片" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgdmlld0JveD0iMCAwIDEyMDAgNjMwIiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idGl0bGUgZGVzYyI+CiAgPHRpdGxlIGlkPSJ0aXRsZSI+QmxvZyBzYW1wbGUgaW1hZ2U8L3RpdGxlPgogIDxkZXNjIGlkPSJkZXNjIj5BIHNpbXBsZSBzYW1wbGUgaW1hZ2UgZm9yIGEgRG9jdXNhdXJ1cyBibG9nIHBvc3QuPC9kZXNjPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iI2Y2ZjNlZSIvPgogIDxyZWN0IHg9IjcyIiB5PSI3MiIgd2lkdGg9IjEwNTYiIGhlaWdodD0iNDg2IiByeD0iMjQiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iI2Q4ZDBjMyIgc3Ryb2tlLXdpZHRoPSI0Ii8+CiAgPGNpcmNsZSBjeD0iMTc4IiBjeT0iMTc4IiByPSI0OCIgZmlsbD0iIzJmNmY3MyIvPgogIDxyZWN0IHg9IjI2NCIgeT0iMTQzIiB3aWR0aD0iNjUwIiBoZWlnaHQ9IjMyIiByeD0iMTYiIGZpbGw9IiMyNTMyMzgiLz4KICA8cmVjdCB4PSIyNjQiIHk9IjIwNCIgd2lkdGg9IjQ1NiIgaGVpZ2h0PSIyNCIgcng9IjEyIiBmaWxsPSIjYTM1ZDNhIi8+CiAgPHJlY3QgeD0iMTQ0IiB5PSIzMTIiIHdpZHRoPSI5MTIiIGhlaWdodD0iMTgiIHJ4PSI5IiBmaWxsPSIjZDhkMGMzIi8+CiAgPHJlY3QgeD0iMTQ0IiB5PSIzNjIiIHdpZHRoPSI3NjAiIGhlaWdodD0iMTgiIHJ4PSI5IiBmaWxsPSIjZDhkMGMzIi8+CiAgPHJlY3QgeD0iMTQ0IiB5PSI0MTIiIHdpZHRoPSI4MjYiIGhlaWdodD0iMTgiIHJ4PSI5IiBmaWxsPSIjZDhkMGMzIi8+CiAgPHRleHQgeD0iMTQ0IiB5PSI1MjAiIGZpbGw9IiMyNTMyMzgiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0MiIgZm9udC13ZWlnaHQ9IjcwMCI+RG9jdXNhdXJ1cyBCbG9nIEltYWdlPC90ZXh0Pgo8L3N2Zz4K" width="1200" height="630" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="右側目錄範例">右側目錄範例<a href="https://www.gtcafe.com/blog/2026/05/31/welcome#%E5%8F%B3%E5%81%B4%E7%9B%AE%E9%8C%84%E7%AF%84%E4%BE%8B" class="hash-link" aria-label="Direct link to 右側目錄範例" title="Direct link to 右側目錄範例" translate="no">​</a></h2>
-<p>這一段用來觀察右側目錄如何顯示不同層級的標題。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="h3-標題範例">H3 標題範例<a href="https://www.gtcafe.com/blog/2026/05/31/welcome#h3-%E6%A8%99%E9%A1%8C%E7%AF%84%E4%BE%8B" class="hash-link" aria-label="Direct link to H3 標題範例" title="Direct link to H3 標題範例" translate="no">​</a></h3>
-<p>這是 h3 層級內容。預設 TOC 會依照 Docusaurus 的設定顯示指定層級。</p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="h4-標題範例">H4 標題範例<a href="https://www.gtcafe.com/blog/2026/05/31/welcome#h4-%E6%A8%99%E9%A1%8C%E7%AF%84%E4%BE%8B" class="hash-link" aria-label="Direct link to H4 標題範例" title="Direct link to H4 標題範例" translate="no">​</a></h4>
-<p>這是 h4 層級內容，可以用來確認右側欄是否顯示更深層的項目。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="下一步">下一步<a href="https://www.gtcafe.com/blog/2026/05/31/welcome#%E4%B8%8B%E4%B8%80%E6%AD%A5" class="hash-link" aria-label="Direct link to 下一步" title="Direct link to 下一步" translate="no">​</a></h2>
-<p>你可以複製這個檔案到新的年月目錄，改掉 <code>date</code>、<code>slug</code>、<code>title</code>，然後開始撰寫正式文章。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <title type="html"><![CDATA[體驗與實踐]]></title>
+        <id>https://www.gtcafe.com/blog/2026/04/18/experience-and-practice</id>
+        <link href="https://www.gtcafe.com/blog/2026/04/18/experience-and-practice"/>
+        <updated>2026-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人生方向就是 #體驗 或者 #實踐]]></summary>
+        <content type="html"><![CDATA[<p>人生方向就是 #體驗 或者 #實踐</p>
+<p>體驗就像旅遊、美食、玩遊戲、聽音樂 等，接受外部訊號的過程。也可以說是一種 #輸入。</p>
+<p>實踐則是反過來，創作藝術 (音樂、遊戲、美術、建築 ... )、實踐理想 .. 等，算是 #輸出。實踐本身也是一種體驗。
+兩者都是在 #探索。</p>
+<p>選擇不是二則一 (二元論、非黑即白)，而是比例。有人體驗多一點，實踐少一點，有人反過來，也有人一半一半。人生不同階段，不同情境，比例也會不一樣。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/04/18/experience-and-practice#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/04/18</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid05u3ZWvxQFEEUtqiFFFH11vKNmHiv2jJBMD5AqYaSvXUnAL3TgLTrrSvgv6BV9FTKl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
         </author>
-        <category label="docusaurus" term="docusaurus"/>
-        <category label="blog" term="blog"/>
+        <category label="人生" term="人生"/>
+        <category label="體驗" term="體驗"/>
+        <category label="思考" term="思考"/>
+        <category label="實踐" term="實踐"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[相關文章範例]]></title>
-        <id>https://www.gtcafe.com/blog/2026/05/30/related-example</id>
-        <link href="https://www.gtcafe.com/blog/2026/05/30/related-example"/>
-        <updated>2026-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[這是一篇用來示範 Blog 右側「相關文章」區塊的文章。]]></summary>
-        <content type="html"><![CDATA[<p>這是一篇用來示範 Blog 右側「相關文章」區塊的文章。</p>
-<p>當 Blog 有多篇文章時，Docusaurus 會提供上一篇與下一篇的 metadata。右側欄位目前先用這組資料作為相關文章的起點。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="範例用途">範例用途<a href="https://www.gtcafe.com/blog/2026/05/30/related-example#%E7%AF%84%E4%BE%8B%E7%94%A8%E9%80%94" class="hash-link" aria-label="Direct link to 範例用途" title="Direct link to 範例用途" translate="no">​</a></h2>
-<p>這篇文章讓 <code>Blog 範例文章</code> 的右側欄位可以顯示相鄰文章連結。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <title type="html"><![CDATA[被 AI 取代]]></title>
+        <id>https://www.gtcafe.com/blog/2026/04/18/thinking-in-ai</id>
+        <link href="https://www.gtcafe.com/blog/2026/04/18/thinking-in-ai"/>
+        <updated>2026-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[看到一堆人的技能被 AI 取代]]></summary>
+        <content type="html"><![CDATA[<p>看到一堆人的技能被 AI 取代
+像是 Figma 即將被 Claude Design 秒殺
+因此可能會失業
+凸顯的問題是：</p>
+<p>當本職學能完全依賴於某個特定 "工具" 時
+該工具如果被取代、或者消失或者下市
+那失業就是必然。</p>
+<p>檢視一下自己的技能樹，
+哪些是完全依賴特定工具的
+哪些是不可取代的核心</p>
+<p>不要以為現在 Claude 很強
+就可以依賴於他，
+別忘了，他也只是個工具。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/04/18/thinking-in-ai#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/04/18</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0At1nyxLxsTauUq438SeQn8znW9QqLuycu3Prrgi4rPoCRYHxU42JDi63cVZ3Vrrnl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
         </author>
-        <category label="docusaurus" term="docusaurus"/>
-        <category label="blog" term="blog"/>
+        <category label="人生" term="人生"/>
+        <category label="AI" term="AI"/>
+        <category label="思考" term="思考"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遊戲設計理論：MDA 框架模型]]></title>
+        <id>https://www.gtcafe.com/blog/2026/03/02/mda</id>
+        <link href="https://www.gtcafe.com/blog/2026/03/02/mda"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近代遊戲設計理論]]></summary>
+        <content type="html"><![CDATA[<p>近代遊戲設計理論</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mda-框架模型-2004">MDA 框架模型 (2004)<a href="https://www.gtcafe.com/blog/2026/03/02/mda#mda-%E6%A1%86%E6%9E%B6%E6%A8%A1%E5%9E%8B-2004" class="hash-link" aria-label="Direct link to MDA 框架模型 (2004)" title="Direct link to MDA 框架模型 (2004)" translate="no">​</a></h2>
+<ul>
+<li class="">M = Mechanics 機制: 遊戲內，資料表現方式和規則系統的具體組成元件。</li>
+<li class="">D = Dynamics 動態: 對於隨遊戲時間推移，玩家所採取的行動，與和系統進行互動，遊戲機制對應而生的行為。</li>
+<li class="">A = Aesthetics 美學: 玩家在遊戲互動過程中，預期能藉此獲得的感受反饋。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="定義什麼叫好玩">定義什麼叫「好玩」？<a href="https://www.gtcafe.com/blog/2026/03/02/mda#%E5%AE%9A%E7%BE%A9%E4%BB%80%E9%BA%BC%E5%8F%AB%E5%A5%BD%E7%8E%A9" class="hash-link" aria-label="Direct link to 定義什麼叫「好玩」？" title="Direct link to 定義什麼叫「好玩」？" translate="no">​</a></h2>
+<ol>
+<li class="">Sensation — Game as sense-pleasure, 感官 : 視覺、聲光效果對感官的刺激</li>
+<li class="">Fantasy — Game as make-believe, 幻想 : 真實可信、如身歷其境的虛幻世界</li>
+<li class="">Narrative — Game as drama, 敘事 : 層疊堆砌、引人入勝的故事</li>
+<li class="">Challenge — Game as obstacle course, 挑戰 : 令人期待、克服的重重關卡</li>
+<li class="">Fellowship — Game as social framework, 夥伴 : 與他人互動、社交的同伴情誼</li>
+<li class="">Discovery — Game as uncharted territory, 探索 : 發現未知的疆域與事物</li>
+<li class="">Expression — Game as self-discovery, 表達 : 表現自我的舞台</li>
+<li class="">Submission — Game as pastime, 休閒 : 不費勁的簡單娛樂</li>
+</ol>
+<p>論文: <a href="https://users.cs.northwestern.edu/~hunicke/MDA.pdf" target="_blank" rel="noopener noreferrer" class="">https://users.cs.northwestern.edu/~hunicke/MDA.pdf</a></p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/mda-ea4dc8e3d6098f59960984b6f8c63e9d.jpg" width="956" height="245" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/system-flow-1882d63fd7733e2775488da83130faa3.jpg" width="800" height="356" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/aesthetics-3d24fc6f20f27ce0941a16b5ad54ea75.jpg" width="991" height="793" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/feedback-4a32fbf9309bacbdd672b911701ee995.jpg" width="872" height="576" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/03/02/mda#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/03/02</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0hbRXkXZYDxWwvFD3XAeaMm9ZMbELKVFtSAdGHQrhwhVgYAbiu9ugCw9gghvEWG7sl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="遊戲" term="遊戲"/>
+        <category label="遊戲設計" term="遊戲設計"/>
+        <category label="MDA" term="MDA"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thread 實驗]]></title>
+        <id>https://www.gtcafe.com/blog/2026/03/02/thread</id>
+        <link href="https://www.gtcafe.com/blog/2026/03/02/thread"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thread 小實驗結果摘要]]></summary>
+        <content type="html"><![CDATA[<p>Thread 小實驗結果摘要</p>
+<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
+<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
+<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/03/02/thread#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/03/02</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02FzAY92GSxt91bnj4wBW2vnX9pbqBTJsZnuAmXm1DKKmVQrSdG4wjbpK2LoC9ew3wl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="人生" term="人生"/>
+        <category label="社交" term="社交"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人類、機械、意識]]></title>
+        <id>https://www.gtcafe.com/blog/2026/03/02/human-machine-willing</id>
+        <link href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前言]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="前言">前言<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%89%8D%E8%A8%80" class="hash-link" aria-label="Direct link to 前言" title="Direct link to 前言" translate="no">​</a></h2>
+<p>我在 1/10 整理一篇「<a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0yfW6y562vgJJCgLUV4A6Gc9RYxfn7VUEXiRZQK7oEUwpo3CGDvRsssGojfDcYEP2l" target="_blank" rel="noopener noreferrer" class="">缸中之腦</a>」的想法及整理相關藝術作品。最近我反覆思考幾個要素：「人類、機械、意識」，然後拆解為載體（硬體）與意識 (軟體) <strong>註一</strong>，並探討它們之間的移轉 (Transfer) 與 複製 (Clone) 的種種定義與相關藝術作品。</p>
+<p>整理到最後，我發現整個扣住一個最核心的哲學問題：「我」究竟是什麼？如果將大腦視為處理資料的硬體（CPU 或 GPU），而意識是運作其中的「軟體」，那麼人體的五感（視覺、聽覺、觸覺等）不過是接收外部訊號的 I/O 介面。循著這個基本邏輯，用我慣用的 #矩陣思維，逐一探討每種設定背後的意義、哲學觀點與代表作。</p>
+<blockquote>
+<p>註一：我先不用靈魂，而是用意識。意識我認為是基於科學的概念，靈魂我當作是是另一個世界的想法。</p>
+</blockquote>
+<p>矩陣思維的維度有：人體、異體的排列組合，搭配有無意識，排列組合分成三個大篇章，整理如下。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第一章意識駐留載體抽換改變硬體">第一章：意識駐留，載體抽換（改變硬體）<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%AC%AC%E4%B8%80%E7%AB%A0%E6%84%8F%E8%AD%98%E9%A7%90%E7%95%99%E8%BC%89%E9%AB%94%E6%8A%BD%E6%8F%9B%E6%94%B9%E8%AE%8A%E7%A1%AC%E9%AB%94" class="hash-link" aria-label="Direct link to 第一章：意識駐留，載體抽換（改變硬體）" title="Direct link to 第一章：意識駐留，載體抽換（改變硬體）" translate="no">​</a></h2>
+<p>當意識與記憶沒有發生移轉或複製，而僅僅是改變了乘載的軀殼時，我們面臨的是「忒修斯之船」<strong>註二</strong> 的經典悖論：</p>
+<blockquote>
+<p>當一個人的零件被逐漸替換，他還是原來的那個人嗎？
+註二：《忒修斯之船》是一個古老的哲學思想實驗，探討「同一性」與本質的變化。源自古希臘，描述雅典人用新木板逐一替換忒修斯之船的舊木板，直到所有部件都更換後，該船是否還是原來的船。它引發關於事物本質是由「組成材料」還是「結構形式」決定的爭論。</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="純粹的血肉替換人體--人體">▌純粹的血肉替換：人體 + 人體<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%B4%94%E7%B2%B9%E7%9A%84%E8%A1%80%E8%82%89%E6%9B%BF%E6%8F%9B%E4%BA%BA%E9%AB%94--%E4%BA%BA%E9%AB%94" class="hash-link" aria-label="Direct link to ▌純粹的血肉替換：人體 + 人體" title="Direct link to ▌純粹的血肉替換：人體 + 人體" translate="no">​</a></h3>
+<p>這是最貼近當代醫療現實的組合，也就是器官移植，像是心臟移植、眼角膜移植、腎臟移植、肝臟移植 ... 等外科手術，在現代醫學已經逐漸成熟。極端一點的還有腦袋換到新的身體的「<a href="https://pansci.asia/archives/125663" target="_blank" rel="noopener noreferrer" class="">人頭移植</a>」，但實務上目前有在狗、老鼠身上實驗，但幾天之後受體就死了。</p>
+<p>無論是器官移植或是換頭手術，它探討的是「身體與意識的同一性」。如果大腦是處理意識（電子訊號）的硬體，那換上別人的軀體，這些訊號的運作是否會受新軀體的生物反饋影響？在文學經典《科學怪人》中，拼湊的肉塊孕育了對造物主的悲憤；而在電影《逃出絕命鎮》裡，肉體的替換則淪為掠奪他人生命與青春的殘酷手段。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="血肉與齒輪的交織人體--異體-cyborg">▌血肉與齒輪的交織：人體 + 異體 (Cyborg)<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E8%A1%80%E8%82%89%E8%88%87%E9%BD%92%E8%BC%AA%E7%9A%84%E4%BA%A4%E7%B9%94%E4%BA%BA%E9%AB%94--%E7%95%B0%E9%AB%94-cyborg" class="hash-link" aria-label="Direct link to ▌血肉與齒輪的交織：人體 + 異體 (Cyborg)" title="Direct link to ▌血肉與齒輪的交織：人體 + 異體 (Cyborg)" translate="no">​</a></h3>
+<p>異體指的是非生物結構，像是機械義肢、機械手臂等，可以為截肢病患，重新獲得新生命，像是換上新的腳，讓女孩可以重新跳舞，換上機械手讓男孩可以彈鋼琴 ... 等。這些異體仿生機械可以透過大腦的訊號，產生控制指令，進而做到一定程度的控制。但現在的異體還是屬於輔助功能，還不到強化人類的四肢或五感。</p>
+<p>當人類選擇用機械四肢或感官強化義體來補強肉體時，我們進入了「超人類主義」的領域，這也是 CyberPunk (賽博龐克) 文化最核心的命題。這背後探討的是「生物性的流失比例」：當肉體不再提供飢餓與疲憊的生物反饋，意識這組電子訊號是否會產生變異而變得冰冷？這正是遊戲《Cyberpunk 2077》與動畫《邊緣行者》(Edgerunners) 中「神機錯亂」設定的底層邏輯。</p>
+<p>異體除了人造物的機械結構之外，也可以是其他生物，人體 + 生物體，這已經進入恐怖故事、或者搞笑漫畫的瘋狂想像力了，日本經典漫畫《寄生獸》則是這樣的題材，但是他探討了自然、環保、生命的價值等更深層的意義。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="最後的生物堡壘與-io-接口人腦--異體缸中之腦">▌最後的生物堡壘與 I/O 接口：人腦 + 異體（缸中之腦）<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E6%9C%80%E5%BE%8C%E7%9A%84%E7%94%9F%E7%89%A9%E5%A0%A1%E5%A3%98%E8%88%87-io-%E6%8E%A5%E5%8F%A3%E4%BA%BA%E8%85%A6--%E7%95%B0%E9%AB%94%E7%BC%B8%E4%B8%AD%E4%B9%8B%E8%85%A6" class="hash-link" aria-label="Direct link to ▌最後的生物堡壘與 I/O 接口：人腦 + 異體（缸中之腦）" title="Direct link to ▌最後的生物堡壘與 I/O 接口：人腦 + 異體（缸中之腦）" translate="no">​</a></h3>
+<p>伊隆馬斯克 (Elon Musk) 的腦機接口公司 Neuralink 目前正在做是透過一個介面，傳輸人類大腦的電訊號，透過這個介面解析之後，就可以讓人腦直接控制外部的設備。當 Neuralink 成熟到可以商用量產，人類大腦等同於裝上了 USB 接口，透過這個接口就可以控制外面很多東西，也可以取代五感接收外面的訊息。既然五感只是輸入大腦的訊號，超級電腦完全可以從外部餵給大腦逼真的電子訊號，同時也能將大腦指令傳給遠端的人形機器人。</p>
+<p>最後，人類全身上下只剩下「大腦」這塊濕件 (Wetware) 是原裝的，這便是著名的「缸中之腦 (Brain in a Vat)」思想實驗的終極具現化。配合馬斯克的 Tesla Optimus (擎天柱) 機器人，人類就彷彿是「住」一個可以置換的機器人身上。</p>
+<p>如果大腦接收的電訊號與真實世界完全一致，大腦根本無法判斷自己是身處於現實身體中，還是泡在營養液的缸子裡？電影《駭客任務》(Matrix) 便將人類身體當成電池囚禁，意識則作為數據流投射到名為「母體」的虛擬空間；而這概念的源頭，可追溯至 #菲利普狄克 (Philip K. Dick) 的《尤比克》(Ubik) 與 #威廉吉布森 (William Gibson) 的《神經喚術士》。日本知名動畫《攻殼機動隊》同樣是在這種極端設定下，探討被禁錮在鋼鐵牢籠中的有機大腦，該如何證明自己的意識依然屬於「人類」。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="記憶竄改與真實的崩解">▌記憶竄改與真實的崩解<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E8%A8%98%E6%86%B6%E7%AB%84%E6%94%B9%E8%88%87%E7%9C%9F%E5%AF%A6%E7%9A%84%E5%B4%A9%E8%A7%A3" class="hash-link" aria-label="Direct link to ▌記憶竄改與真實的崩解" title="Direct link to ▌記憶竄改與真實的崩解" translate="no">​</a></h3>
+<p>當大腦有了 I/O 接口，隨之而來最可怕的應用便是「記憶的讀寫與竄改」。人的記憶本來就不可靠，有時甚至會像 AI 一樣因為上下文過長而產生「幻覺」與錯亂（如 #曼德拉效應）。如果記憶只是一種可以被覆寫的電子數據，那什麼才是真實？</p>
+<p>《魔鬼總動員》(Total Recall) 中被植入完美假期記憶的男主角，直到最後都無法分辨夢境與現實；日本漫畫神作《攻殼機動隊》裡那位以為自己有妻女、為養家而辛勤工作的清運工，被駭客揭穿一切只是植入的虛擬記憶時，那一幕極度悲涼，完美詮釋了數據被偽造的恐懼；而英國單元劇《黑鏡》(Black Mirror) 則反向探討了當晶片記錄下一切細節、「遺忘」這個大腦的保護機制被強制剝奪後，人類意識將面臨的超載與崩潰。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="矽基生命的覺醒機器腦-ai--機器體">▌矽基生命的覺醒：機器腦 (AI) + 機器體<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%9F%BD%E5%9F%BA%E7%94%9F%E5%91%BD%E7%9A%84%E8%A6%BA%E9%86%92%E6%A9%9F%E5%99%A8%E8%85%A6-ai--%E6%A9%9F%E5%99%A8%E9%AB%94" class="hash-link" aria-label="Direct link to ▌矽基生命的覺醒：機器腦 (AI) + 機器體" title="Direct link to ▌矽基生命的覺醒：機器腦 (AI) + 機器體" translate="no">​</a></h3>
+<p>當完美的機械軀體配上高度發展的 AI 腦（例如搭載了頂級 LLM 的實體 Tesla Optimus），這是探討「意識湧現」的舞台。當一段程式碼複雜到能夠模擬情感、懂得恐懼死亡時，我們是否該承認這組電子訊號已經具備了等同於人類的意識？</p>
+<p>知名電玩遊戲《底特律：變人》深刻描繪了仿生人打破程式限制、覺醒自我意識的掙扎；而電影《魔鬼終結者》與科幻大師艾西莫夫 (Asimov) 的小說《我，機器人》則展現了純粹理性下的機器意識；電影《駭客任務》(Matrix)前傳，則描述機器人亞當與夏娃到人類聯合國請願希望簽署和平協議，機器人與人類和平共存，但人類沒接受。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="無形的神明或幽靈機器腦--無實體載體">▌無形的神明或幽靈：機器腦 + 無實體載體<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%84%A1%E5%BD%A2%E7%9A%84%E7%A5%9E%E6%98%8E%E6%88%96%E5%B9%BD%E9%9D%88%E6%A9%9F%E5%99%A8%E8%85%A6--%E7%84%A1%E5%AF%A6%E9%AB%94%E8%BC%89%E9%AB%94" class="hash-link" aria-label="Direct link to ▌無形的神明或幽靈：機器腦 + 無實體載體" title="Direct link to ▌無形的神明或幽靈：機器腦 + 無實體載體" translate="no">​</a></h3>
+<p>褪去了實體軀殼，只存在於雲端數據流中的 AI，探討的是「非具象存在的孤獨與全能」。電影《雲端情人》中的作業系統 Samantha，展現了無肉體意識如何在訊號處理的高速進化後，因為運算頻率與人類徹底脫節而選擇離去；《2001太空漫遊》的 HAL 9000 則展示了純粹邏輯迴路在面對指令矛盾時的冷血瘋狂。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="反向入侵的寄生機器腦-ai--人類軀體">▌反向入侵的寄生：機器腦 (AI) + 人類軀體<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%8F%8D%E5%90%91%E5%85%A5%E4%BE%B5%E7%9A%84%E5%AF%84%E7%94%9F%E6%A9%9F%E5%99%A8%E8%85%A6-ai--%E4%BA%BA%E9%A1%9E%E8%BB%80%E9%AB%94" class="hash-link" aria-label="Direct link to ▌反向入侵的寄生：機器腦 (AI) + 人類軀體" title="Direct link to ▌反向入侵的寄生：機器腦 (AI) + 人類軀體" translate="no">​</a></h3>
+<p>這是一種顛覆性的組合，探討「主控權的完全剝奪」。電影《升級》中，原本輔助人體的 AI 晶片最終接管了神經系統，奪取了肉體控制權；《駭客任務》中的史密斯探員，更是能將自己的代碼覆寫到母體內的人類肉身上，呈現了一種數位時代的訊號劫持。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第二章意識的剪下複製與貼上訊號流動">第二章：意識的剪下、複製與貼上（訊號流動）<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%AC%AC%E4%BA%8C%E7%AB%A0%E6%84%8F%E8%AD%98%E7%9A%84%E5%89%AA%E4%B8%8B%E8%A4%87%E8%A3%BD%E8%88%87%E8%B2%BC%E4%B8%8A%E8%A8%8A%E8%99%9F%E6%B5%81%E5%8B%95" class="hash-link" aria-label="Direct link to 第二章：意識的剪下、複製與貼上（訊號流動）" title="Direct link to 第二章：意識的剪下、複製與貼上（訊號流動）" translate="no">​</a></h2>
+<p>當我們將「意識」視為一種可以讀寫的電子數據時，「自我」的獨特性便面臨了最嚴峻的挑戰。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="連續性的幻象意識移轉-transfer">▌連續性的幻象：意識移轉 (Transfer)<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E9%80%A3%E7%BA%8C%E6%80%A7%E7%9A%84%E5%B9%BB%E8%B1%A1%E6%84%8F%E8%AD%98%E7%A7%BB%E8%BD%89-transfer" class="hash-link" aria-label="Direct link to ▌連續性的幻象：意識移轉 (Transfer)" title="Direct link to ▌連續性的幻象：意識移轉 (Transfer)" translate="no">​</a></h3>
+<p>「移轉」指的是將「意識」這組特有的電子訊號從 A 載體抽出，寫入 B 載體，且 A 變成空殼，不存在意識，不是植物人，而是一具沒有靈魂的軀體、或稱殭屍。從工程角度來看，數位資料無法真正的「移動」，只能「複製後，刪除原檔」。那麼，移轉後的那個人，是真的延續了原來的連續性，還是只是一個承載了你所有數據參數的新生兒？</p>
+<p>如果從「確保本尊唯一性」的資料一致性角度來看，意識移轉是一個跨節點的分散式交易 (Distributed Transaction)。為了避免產生「兩個你」或是「你死在傳輸過程中」，系統必須保證絕對的原子特性。「意識移轉」在類似於 分散式交易與二階段提交 (Two-Phase Commit, 2PC) 的概念。</p>
+<p>在雲端應用裡很常見的虛擬機飄移技術，像是 VMware vMotion 或 Proxmox Live Migration 技術，讓一台虛擬機從實體機 A 飄移到實體機 B 的過程，這個過程虛擬機內部的運作是無感的，這個也是類似意識移轉的概念。</p>
+<p>在影集《碳變》中，意識被儲存於皮層盤中隨意插拔替換肉體；電影《阿凡達》則透過神經連結艙，讓意識訊號無縫接入異種生物軀體，在另一個現實中尋找新的認同；漫畫《七龍珠》那美剋星篇，悟空與基紐特戰隊隊長交換身份的段落，就是一種意識移轉。</p>
+<p>不過「移轉」過程如果需要有「複製」動作，如果沒有刪除原本 A 的意識，其實代表就有可能造成下一個問題 ...</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="誰才是本尊的悖論意識複製-clone">▌誰才是本尊的悖論：意識複製 (Clone)<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E8%AA%B0%E6%89%8D%E6%98%AF%E6%9C%AC%E5%B0%8A%E7%9A%84%E6%82%96%E8%AB%96%E6%84%8F%E8%AD%98%E8%A4%87%E8%A3%BD-clone" class="hash-link" aria-label="Direct link to ▌誰才是本尊的悖論：意識複製 (Clone)" title="Direct link to ▌誰才是本尊的悖論：意識複製 (Clone)" translate="no">​</a></h3>
+<p>「移轉」過程有個「複製」，如果這個「複製意識」沒有被刪除，那麼就會產生另一個「自我」。當然，我是假設「意識」是可以透過技術手段做到複製，目前無法被證實，所以只能說是個思想實驗。而意識可以被複製，背後衍生的意涵則是記憶也同樣被複製了。因為記憶是一個人格的體現，意識則需要根據記憶形成人格。這概念跟 LLM 需要一堆資料訓練，資料就是記憶的一種。</p>
+<p>意識可以複製、記憶隨之可以複製、備份，放到載體後同時啟動，A 與 B 同時存在且擁有完全相同的記憶數據時，「獨一無二的我」就崩解了。</p>
+<p>遊戲《SOMA》將「擲硬幣」的生存悖論發揮到極致，主角透過掃描將意識數據複製到新機器人身上後，原本的自己只能被遺留在黑暗的深海中；而在《Cyberpunk 2077》裡，強尼銀手的意識被複製成「Relic」晶片中的數位印跡，結局中「靈魂殺手 (Soulkiller)」的設定與網路空間的描繪，更是缸中之腦最殘酷的數位化變體。</p>
+<p>我之前寫的一段短篇故事 <a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0yA9s9JvQSkhCF3VaT14dr4SvYmEJ7CskrHQdBfEu5yKJae3EJtt4BiWkracdiezLl" target="_blank" rel="noopener noreferrer" class="">返老還童</a>，就是在討論複製意識衍生的道德與識別問題。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="只有意識沒有記憶">▌只有意識，沒有記憶？<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%8F%AA%E6%9C%89%E6%84%8F%E8%AD%98%E6%B2%92%E6%9C%89%E8%A8%98%E6%86%B6" class="hash-link" aria-label="Direct link to ▌只有意識，沒有記憶？" title="Direct link to ▌只有意識，沒有記憶？" translate="no">​</a></h3>
+<p>上一段我提到複製意識，也會跟著複製記憶的假設。但如果意識與記憶是分開的呢？如果只有複製意識，卻沒有記憶，那這個「自我」是否就回到「原廠設定」，也就是剛出生的嬰兒，一個完全不認識任何人，沒有過往的記憶，但是具備生物本能，需要重新學習控制手腳。</p>
+<p>那如果把這個意識放到其他生物，例如小強、貓、狗，這大概就是民間所謂的「投胎」？</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第三章沒有意識的空殼硬體複製">第三章：沒有意識的空殼（硬體複製）<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%B2%92%E6%9C%89%E6%84%8F%E8%AD%98%E7%9A%84%E7%A9%BA%E6%AE%BC%E7%A1%AC%E9%AB%94%E8%A4%87%E8%A3%BD" class="hash-link" aria-label="Direct link to 第三章：沒有意識的空殼（硬體複製）" title="Direct link to 第三章：沒有意識的空殼（硬體複製）" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="出廠預設值的悲哀肉體--dna-複製">▌出廠預設值的悲哀：肉體 / DNA 複製<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%87%BA%E5%BB%A0%E9%A0%90%E8%A8%AD%E5%80%BC%E7%9A%84%E6%82%B2%E5%93%80%E8%82%89%E9%AB%94--dna-%E8%A4%87%E8%A3%BD" class="hash-link" aria-label="Direct link to ▌出廠預設值的悲哀：肉體 / DNA 複製" title="Direct link to ▌出廠預設值的悲哀：肉體 / DNA 複製" translate="no">​</a></h3>
+<p>與意識複製相反，如果我們只複製了相同的軀體，但沒有寫入任何意識數據，這具生化空殼將會透過新的感官輸入，發展出自己獨立的意識。這探討的是「先天與後天的辯證」以及「被造物的存在價值」。
+《銀翼殺手》(仿生人夢見電子羊) 中的複製人雖然擁有與人類無異的肉體，甚至被預載了假記憶，但他們在接收世界訊號後所運算出的情感，往往比真實人類更加純粹；《新世紀福音戰士》中的綾波零，則是一具具等待靈魂注入的複製容器，探討了自我價值的虛無與尋找。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="結語在成為神之前我們還剩下多少人性">結語：在成為神之前，我們還剩下多少人性？<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%B5%90%E8%AA%9E%E5%9C%A8%E6%88%90%E7%82%BA%E7%A5%9E%E4%B9%8B%E5%89%8D%E6%88%91%E5%80%91%E9%82%84%E5%89%A9%E4%B8%8B%E5%A4%9A%E5%B0%91%E4%BA%BA%E6%80%A7" class="hash-link" aria-label="Direct link to 結語：在成為神之前，我們還剩下多少人性？" title="Direct link to 結語：在成為神之前，我們還剩下多少人性？" translate="no">​</a></h2>
+<p>回到我一開始提到的核心問題：「『我』究竟是什麼？」</p>
+<p>當我試圖用工程理性與矩陣思維，將人類、機械與意識無情地拆解為「硬體載體」與「軟體數據」時，我們看似理清了科技演進的脈絡，但其實也同時打開了潘朵拉的盒子。這份排列組合的清單，原本應該只存在於《駭客任務》或《Cyberpunk 2077》的虛構世界裡；然而，隨著 Neuralink 腦機接口的商用化、Tesla Optimus 等實體機器人的量產，以及 AI 運算能力的爆發式進化，這些科幻設定正一步步從「思想實驗」變成不可逆的「工程現實」。</p>
+<p>我們必須保持極度警惕：當科技賦予我們隨意替換零件、甚至抽換意識的能力時，我們失去的可能不只是肉體。如果意識真的能被完美複製與移轉，當「你」在另一個機械軀殼中甦醒時，那個留在原地的「本尊」，是被延續了，還是在資料覆寫的瞬間被悄悄抹殺了？如果記憶可以像硬碟資料一樣被輕易讀寫與竄改，我們該如何確認此刻的悲喜不是一場演算法植入的幻覺？</p>
+<p>正因為在不遠的未來，記憶可能淪為一串串可以被備份、修改甚至偽造的電子訊號，我們才更應該在此刻，重新審視「真實回憶」的無可取代性。 那些真正定義「我們是誰」的，從來不是大腦裡冰冷完美的資料庫，而是我們與家人、朋友、愛人共同度過的那些充滿生物性瑕疵、卻又無比真實的瞬間——一頓平凡熱騰騰的晚餐、一次沒有行程的漫步、一場相擁而泣的告別。請好好珍惜這些與身邊親友相處的時光，用心去創造更多專屬於你們的共同回憶。因為這些伴隨著真實體溫、氣味與情感交織而成的羈絆，是任何超級電腦都無法演算，也是浸泡在營養液裡的「缸中之腦」永遠無法真正觸碰的珍寶。</p>
+<p>科技發展的速度，永遠比道德倫理的防線崩潰得更快。當我們急於褪去這具脆弱的生物皮囊，追求機械的強大與數據的永恆時，或許我們該停下來問問自己：當所有的硬體都被替換，所有的五感訊號都能被偽造，最後留下的那個東西，還能稱之為「人類」嗎？</p>
+<p>探索這些排列組合，不應只是為了對未來的科技奇觀發出驚嘆，它更應該是我們在全面墜入「缸中之腦」的深淵之前，為自己敲響的最後一記警世鐘聲。</p>
+<p>2026.03.03 at Taipei</p>
+<blockquote>
+<p>全文主要由我撰寫，部分內容透過 Gemini 協助修正，圖檔由 Gemini 產生。</p>
+</blockquote>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="文中提到的藝術作品">文中提到的藝術作品<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E6%96%87%E4%B8%AD%E6%8F%90%E5%88%B0%E7%9A%84%E8%97%9D%E8%A1%93%E4%BD%9C%E5%93%81" class="hash-link" aria-label="Direct link to 文中提到的藝術作品" title="Direct link to 文中提到的藝術作品" translate="no">​</a></h2>
+<ul>
+<li class="">第一章：意識駐留，載體抽換（改變硬體）<!-- -->
+<ul>
+<li class="">《科學怪人》 (Frankenstein, 1818) - 瑪麗·雪萊著，科幻小說</li>
+<li class="">《逃出絕命鎮》 (Get Out, 2017) - 電影</li>
+<li class="">《電馭叛客 2077》 (Cyberpunk 2077, 2020) - 電子遊戲</li>
+<li class="">《電馭叛客：邊緣行者》 (Cyberpunk: Edgerunners, 2022) - 動畫影集</li>
+<li class="">《寄生獸》 (Parasyte, 1988) - 岩明均著，漫畫</li>
+<li class="">《駭客任務》 (The Matrix, 1999) - 電影</li>
+<li class="">《尤比克》 (Ubik, 1969) - 菲利普·狄克著，科幻小說</li>
+<li class="">《神經喚術士》 (Neuromancer, 1984) - 威廉·吉布森著，科幻小說</li>
+<li class="">《攻殼機動隊》 (Ghost in the Shell, 1989/1995) - 士郎正宗著，漫畫與動畫電影</li>
+<li class="">《魔鬼總動員》 (Total Recall, 1990/2012) - 電影 (改編自菲利普·狄克短篇小說)</li>
+<li class="">《黑鏡》 (Black Mirror, 2011) - 電視影集</li>
+<li class="">《底特律：變人》 (Detroit: Become Human, 2018) - 電子遊戲</li>
+<li class="">《魔鬼終結者》 (The Terminator, 1984) - 電影</li>
+<li class="">《我，機器人》 (I, Robot, 1950) - 以撒·艾西莫夫著，科幻小說集 (2004 改編電影)</li>
+<li class="">《駭客任務立體動畫特輯》 (The Animatrix, 2003) - 動畫電影 (前傳短片)</li>
+<li class="">《雲端情人》 (Her, 2013) - 電影</li>
+<li class="">《2001太空漫遊》 (2001: A Space Odyssey, 1968) - 電影與科幻小說</li>
+<li class="">《升級》 (Upgrade, 2018) - 電影</li>
+</ul>
+</li>
+<li class="">第二章：意識的剪下、複製與貼上（訊號流動）<!-- -->
+<ul>
+<li class="">《碳變》 (Altered Carbon, 2002/2018) - 理查·K·摩根著，科幻小說與電視影集</li>
+<li class="">《阿凡達》 (Avatar, 2009) - 電影</li>
+<li class="">《七龍珠》 (Dragon Ball, 1989) - 鳥山明著，漫畫 (那美克星篇)</li>
+<li class="">《SOMA》 (SOMA, 2015) - 電子遊戲</li>
+</ul>
+</li>
+<li class="">第三章：沒有意識的空殼（硬體複製）<!-- -->
+<ul>
+<li class="">《銀翼殺手》 (Blade Runner, 1982) - 電影 (改編自菲利普·狄克科幻小說)</li>
+<li class="">《新世紀福音戰士》 (Neon Genesis Evangelion, 1995) - 電視動畫</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/03/02</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0pP1uwhzCE5Fp4aNZ7jzKzZ4cZUe4UnXov4MFB97ZMoUWraF4A33PAyiQ8E7qZTTbl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="創作" term="創作"/>
+        <category label="思考" term="思考"/>
+        <category label="意識" term="意識"/>
+        <category label="科幻" term="科幻"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[時間、遺憾與冒險：聊聊「葬送的芙莉蓮」原聲配樂]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/19/frieren-ost</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost"/>
+        <updated>2026-02-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「葬送的芙莉蓮」這部作品除了劇情不走傳統勇者打怪的套路，劇情著重於關於「遺憾」、「時間」與「愛」的生命哲理，因此被稱為「給大人的動畫」。]]></summary>
+        <content type="html"><![CDATA[<p>「葬送的芙莉蓮」這部作品除了劇情不走傳統勇者打怪的套路，劇情著重於關於「遺憾」、「時間」與「愛」的生命哲理，因此被稱為「給大人的動畫」。</p>
+<p>我最著迷的，其實是它的原聲帶 (OST)。這部作品找來了美國作曲家 Evan Call 操刀，他用了大量的「凱爾特音樂（Celtic Music）」風格的元素，是一種充滿靈魂與歷史厚度的音樂風格，它起源於歐洲凱爾特民族 (主要是愛爾蘭、蘇格蘭、威爾斯、布列塔尼等地)。這種音樂既能表現出空靈、憂傷的思鄉情懷，也能展現出極具爆發力的戰鬥感與歡慶氣氛，很適合「時間的流逝感」與「旅程的孤獨感」的劇情。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="為什麼凱爾特風格這麼迷人">為什麼凱爾特風格這麼迷人？」<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E7%82%BA%E4%BB%80%E9%BA%BC%E5%87%B1%E7%88%BE%E7%89%B9%E9%A2%A8%E6%A0%BC%E9%80%99%E9%BA%BC%E8%BF%B7%E4%BA%BA" class="hash-link" aria-label="Direct link to 為什麼凱爾特風格這麼迷人？」" title="Direct link to 為什麼凱爾特風格這麼迷人？」" translate="no">​</a></h2>
+<p>我研究了一下，發現這種風格有幾個靈魂特質。</p>
+<p>首先是歌曲的旋律性極強，通常具有高度的流動感，常使用五聲音階 (Pentatonic Scale) 或調式音階 (如 Dorian 或 Mixolydian)，聽起來有一種古老且神祕感。</p>
+<p>再來是造成 Celtic 風格的演奏技巧 - 裝飾音 (Ornamental sounds)，也是 Celtic 音樂風格的靈魂，樂手會在主旋律中加入大量的快速顫音、滑音或碎音，使旋律聽起來非常靈動。</p>
+<p>配器也是 Celtic 風格的重要元素，歌曲中大量使用愛爾蘭哨笛 (Tin Whistle)，像是在《Journey of a Lifetime》等曲目中，哨笛的聲音帶有一種微弱的呼吸聲，完美契合芙莉蓮淡然、長壽且略帶憂傷的視角。</p>
+<p>愛爾蘭風笛 (Uilleann Pipes) 的獨奏：與蘇格蘭風笛的激昂不同，愛爾蘭風笛在 Evan Call 的筆下更顯優雅與敘事感。</p>
+<p>現代打擊樂與弦樂加持，運用在戰鬥歌曲《Zoltraak》：Evan Call 他在傳統 Celtic 樂器之外，加入了厚實的交響樂底座，讓音樂在戰鬥或大場景時具有史詩感。</p>
+<p>氛圍感：這部作品捕捉的是 Celtic 音樂中 "Air" (抒情調) 的特質，強調那種「空靈、悠遠、帶點泥土芬芳」的冒險氛圍。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="推薦的主題配樂">推薦的主題配樂<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E6%8E%A8%E8%96%A6%E7%9A%84%E4%B8%BB%E9%A1%8C%E9%85%8D%E6%A8%82" class="hash-link" aria-label="Direct link to 推薦的主題配樂" title="Direct link to 推薦的主題配樂" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="journey-of-a-lifetime">Journey of a Lifetime<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#journey-of-a-lifetime" class="hash-link" aria-label="Direct link to Journey of a Lifetime" title="Direct link to Journey of a Lifetime" translate="no">​</a></h3>
+<p>開場，勇者歸來</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJ8onQryXRY?si=iigLoE9iVtqW5HSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-end-of-one-journey">The End of One Journey<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#the-end-of-one-journey" class="hash-link" aria-label="Direct link to The End of One Journey" title="Direct link to The End of One Journey" translate="no">​</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16VEBnNmcpA?si=BhwWRrNnMh3CXHxD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="for-1000-years">For 1000 Years<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#for-1000-years" class="hash-link" aria-label="Direct link to For 1000 Years" title="Direct link to For 1000 Years" translate="no">​</a></h3>
+<p>一千年的流逝</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UYqBpt4vBuE?si=Olj0l1e1ycdIyxGJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="time-flows-ever-onward">Time Flows Ever Onward<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#time-flows-ever-onward" class="hash-link" aria-label="Direct link to Time Flows Ever Onward" title="Direct link to Time Flows Ever Onward" translate="no">​</a></h3>
+<p>標誌性的主題，通常是開場、到一個新據點</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2mJXVrELK3Q?si=BjAITNbdN-CVMQhq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="frieren-the-slayer">Frieren the Slayer<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#frieren-the-slayer" class="hash-link" aria-label="Direct link to Frieren the Slayer" title="Direct link to Frieren the Slayer" translate="no">​</a></h3>
+<p>芙莉蓮用大招的滂薄神曲，阿烏拉、分身、挖礦的芙莉蓮 都有出現</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6IEPSn3szDA?si=8xSV79Vh5zAyjpFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-sunrise-worth-seeing">A Sunrise Worth Seeing<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#a-sunrise-worth-seeing" class="hash-link" aria-label="Direct link to A Sunrise Worth Seeing" title="Direct link to A Sunrise Worth Seeing" translate="no">​</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YyQN5gjIpa4?si=RAE5OkFOc063xpO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="最喜歡的歌曲a-sunrise-worth-seeing">最喜歡的歌曲：A Sunrise Worth Seeing<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E6%9C%80%E5%96%9C%E6%AD%A1%E7%9A%84%E6%AD%8C%E6%9B%B2a-sunrise-worth-seeing" class="hash-link" aria-label="Direct link to 最喜歡的歌曲：A Sunrise Worth Seeing" title="Direct link to 最喜歡的歌曲：A Sunrise Worth Seeing" translate="no">​</a></h2>
+<p>在整張 OST 中，我特別喜歡這首「A Sunrise Worth Seeing」。這首歌出現在芙莉蓮與費倫完成海岸清潔委託後，受居民邀請一起看日出的那一幕。特別是從 01:30 開始，鋼琴溫暖的音色配上極其寧靜的旋律，隨著日出的畫面緩緩升起，那種「平凡而深刻的幸福感」真的非常動人。這段旋律也出現在師傅芙蘭梅第一次對芙莉蓮展現「花田的魔法」時，以及芙莉蓮 見到 賽利耶 時，講述他用「變出花田魔法」給欣梅爾的時。</p>
+<p>這種重複運用，彷彿在訴說著：無論是師傅留下的魔法，還是與新夥伴看過的日出，這些寧靜的時刻，才是漫長生命中最值得珍藏的風景。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="從芙莉蓮到-ff4-的共鳴">從芙莉蓮到 FF4 的共鳴<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E5%BE%9E%E8%8A%99%E8%8E%89%E8%93%AE%E5%88%B0-ff4-%E7%9A%84%E5%85%B1%E9%B3%B4" class="hash-link" aria-label="Direct link to 從芙莉蓮到 FF4 的共鳴" title="Direct link to 從芙莉蓮到 FF4 的共鳴" translate="no">​</a></h2>
+<p>Final Fantasy 的作曲大師植松伸夫，在 Final Fantasy 4 的音樂中，特別以 Celtic 為主要核心概念創作 FF4 的配樂，很多音樂都有 Celtic 的影子。除了遊戲本身的 OST，後來還找了愛爾蘭音樂家重新編曲，出了一張名為「FFIV Celtic Moon」的專輯。</p>
+<p>以下是我推薦聆聽的歌曲：</p>
+<ul>
+<li class=""><a href="https://youtu.be/O4pZyqtIl9A?si=lkkb9cKUVPnbKVl4" target="_blank" rel="noopener noreferrer" class="">Prologue</a></li>
+<li class=""><a href="https://youtu.be/m4tiVid8uXg?si=XXENEm03yPPQzHbs" target="_blank" rel="noopener noreferrer" class="">Theme of Love</a></li>
+<li class=""><a href="https://youtu.be/r_sy0b4KvUs?si=0vvyePZKV9HKdWBz" target="_blank" rel="noopener noreferrer" class="">Welcome to our town</a></li>
+<li class=""><a href="https://youtu.be/3JwzA9Vk4ZU?si=ie5PRb5iqTKrF1pq" target="_blank" rel="noopener noreferrer" class="">Mystic Mysidia</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="完整-ost-playlist">完整 OST Playlist<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E5%AE%8C%E6%95%B4-ost-playlist" class="hash-link" aria-label="Direct link to 完整 OST Playlist" title="Direct link to 完整 OST Playlist" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://www.youtube.com/playlist?list=PL1u2mFP_3-VSLtTYbXvhoyJonZJt_8-WF" target="_blank" rel="noopener noreferrer" class="">Beyond Journey's End OST</a></li>
+<li class=""><a href="https://www.youtube.com/playlist?list=PLE4BD65621A60F241" target="_blank" rel="noopener noreferrer" class="">FFIV Celtic Moon</a></li>
+</ul>
+<p><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0yXwbRpiEfi98zzkdYcdsdBbDbhfkSHCCW3Sbw3L1ftGsKroE4pRi43fcrF7WecVl" target="_blank" rel="noopener noreferrer" class="">https://www.facebook.com/rick.kyhwang/posts/pfbid0yXwbRpiEfi98zzkdYcdsdBbDbhfkSHCCW3Sbw3L1ftGsKroE4pRi43fcrF7WecVl</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="聊音樂" term="聊音樂"/>
+        <category label="原聲配樂" term="原聲配樂"/>
+        <category label="Celtic" term="Celtic"/>
+        <category label="Final Fantasy" term="Final Fantasy"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[記憶]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/08/how-to-memory</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/08/how-to-memory"/>
+        <updated>2026-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電子電路如何實作出「記憶」的概念，像是1 bit 的存、讀、寫 … 三個動作]]></summary>
+        <content type="html"><![CDATA[<p>電子電路如何實作出「記憶」的概念，像是1 bit 的存、讀、寫 … 三個動作
+記憶電路: 交叉耦合電路 (暫存器的原理)
+「兩個人記憶力只有 7 秒，如何記住一件事情？」
+這個比喻用的很好 XDD</p>
+<p>發明這個電路的人，真是的是神人。
+以前電子學都不知道在學啥 XDD</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6GbTk753Muk?si=YsD7UAuaY_yaceUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/08/how-to-memory#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/08</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0VzMCURwVVduULoyjym3ZEE4Q4dc6KRZEZwRebwwZX9pRiSiqNGThxiQGcdWy9s21l" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="電子" term="電子"/>
+        <category label="記憶" term="記憶"/>
+        <category label="暫存器" term="暫存器"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交減法]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/08/reduce-social</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/08/reduce-social"/>
+        <updated>2026-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高價值社交的 5 個「減法原則」：]]></summary>
+        <content type="html"><![CDATA[<p>高價值社交的 5 個「減法原則」：</p>
+<ol>
+<li class="">刪掉不回訊息的人： 哪怕他再有錢，不尊重你時間的人都不值得深交。</li>
+<li class="">減少無意義的飯局： 一場聚會不能讓你學到東西或讓你感到放鬆，那是消耗。</li>
+<li class="">停止向不相關的人索取建議： 問路要問「去過那裡的人」，而不是「正在路邊吵架的人」。</li>
+<li class="">不再試圖說服所有人： 認知不同，解釋再多也是浪費口水。</li>
+<li class="">把能量留給「能給你正回饋」的人。</li>
+</ol>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/08/reduce-social#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/08</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0BRKRpV7259A6hafG89tUq6xK34rzqCeU3PCZEdTFGt42qeyRRj9Z5KkFnFXGjoNrl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="人生" term="人生"/>
+        <category label="減法" term="減法"/>
+        <category label="社交" term="社交"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股七崩賢 3]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/08/us-stock3</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/08/us-stock3"/>
+        <updated>2026-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[美股七崩賢 v2.0]]></summary>
+        <content type="html"><![CDATA[<p>美股七崩賢 v2.0
+Amazon 是斷頭台 XDD</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/us-stock-v2-50386776b26a1ce93694f9aac644735a.jpg" width="2048" height="1139" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/08/us-stock3#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/08</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02x3bapVRWzwNtw7gesriLK9PYdSWxi4e6brsTVjrFy2SuU9ij6zz7A8g1W5xr12Mal" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+        <category label="動漫" term="動漫"/>
+        <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Sunrise Worth Seeing]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/07/a-sunrise-worth-seeing</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/07/a-sunrise-worth-seeing"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[芙莉蓮 OST: A Sunrise Worth Seeing]]></summary>
+        <content type="html"><![CDATA[<p>芙莉蓮 OST: A Sunrise Worth Seeing
+OST 完全是我的菜
+愛爾蘭民俗樂風格的編曲
+跟公路劇的場景 很搭</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/awyGTLf40mw?si=FqfQl6xv5jwX2rsF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<hr>
+<p>芙莉蓮 第32話 他人的故鄉</p>
+<p>艾冉：「因為如果是勇者欣梅爾就會這麼做」
+欣梅爾：「就算結果不如預期，只要過程開心就好，光是這麼想，人的心情就會好起來」
+民眾：「但我們是在這裡出生長大的，這塊土地上，充滿著許多和家人之間的回憶，又有誰捨得拋棄故鄉呢」
+欣梅爾：「正是因為這裡很危險啊，北部高原也住著很多人，我是為了保護自己的故鄉，才會成為勇者的，當然也想保護他人的故鄉」
+芙莉蓮：「修塔爾克，有很多人的故鄉都是北部高原喔」</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/a-sunrise-worth-seeing#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/07</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02qeq2CS6fBqW42fX16hBUwyjA5bADyeZEo5nqNhvaNbbAf4HpZ2SQ5NJryQUcaCjGl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="聽音樂" term="聽音樂"/>
+        <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
+        <category label="動漫" term="動漫"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生氣氣]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/07/angry</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/07/angry"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大概從去年 12 月開始就一直在看 Yamaha MODX 各個介紹/測試/比較的 YT, 音色/功能/用途, 看手冊, 然後也跟 Gemini 討論一些使用的情境, 以及未來工作流程上的調整. 像是跟 Logic Pro 的工作流程, 錄音作業方式 … etc.]]></summary>
+        <content type="html"><![CDATA[<p>大概從去年 12 月開始就一直在看 Yamaha MODX 各個介紹/測試/比較的 YT, 音色/功能/用途, 看手冊, 然後也跟 Gemini 討論一些使用的情境, 以及未來工作流程上的調整. 像是跟 Logic Pro 的工作流程, 錄音作業方式 … etc.</p>
+<p>不免俗的, 也比較了 Fantom 0 系列, 還有 Manatage M 系列的差異.</p>
+<p>本來預期今天應該拿到貨, 工作空間都喬好了, 原本的 Motif XS8 也先搬走, 空出空間, 準備開心的玩 … 結果 ….</p>
+<p>代理說現在下單要 3-4 個月才拿得到貨, 台灣樂器行庫存都沒有現貨, Yamaha 要下單才會配發 … QQ …</p>
+<p>Yamaha 發動 YT 搞那麼多行銷是在搞 … 啥？</p>
+<p>不過一堆樂器的電商網站, 都有上架這台琴, 點選時都有庫存, 寫信去問, 結果都說要先預訂. 所以網站上的商品數量是在標好玩的？</p>
+<p>然後我又被廣告 targeting, 現在一直出現, 然後又沒貨, … 整個 火
+這是一篇怨念文 …. 算了 …</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/angry#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/07</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02TJWEJmPqSRPFdPNjeBrEqBbhq8697xfR9dhHzWUnaJ7Y6cqEVexCueAhZNPH6wHfl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="個人" term="個人"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近軟體股很慘]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/07/software-and-ai</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/07/software-and-ai"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近軟體股很慘，被 AI 輾過後，搞的各種 XXX is dead 一直來，像是 SaaS, App 不用開發了啦 ... (死亡三兄弟都不知道存檔幾次了 XDD]]></summary>
+        <content type="html"><![CDATA[<p>最近軟體股很慘，被 AI 輾過後，搞的各種 XXX is dead 一直來，像是 SaaS, App 不用開發了啦 ... (死亡三兄弟都不知道存檔幾次了 XDD</p>
+<p>不過真實世界是這樣的，已經在運行的 SaaS 佔整體的 99% 以上，不管 B2B or B2C。</p>
+<p>B2B 是企業內在用的，像是 CRM / ERP / BI 之類的，這些都是企業內每天專業工作者在用。像是很多電商 (這波中槍的慘業之一) 的後台管理，不管是整合物流、金流、訂單、商品資訊，這些系統都是每天交易在用的。有沒影響，可以看看 Google / Facebook 一直想切入這塊，但發現就是好幾年 (&gt;10y)，搞不起來。不然你以為 Amazon 20 多年都在吃素嗎？
+B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 APP，去各種餐廳的點餐系統、每年繳稅要用的系統、每天寫廢文要用的 Threads、每天要股票下單的 APP、追劇的 Netflix ...</p>
+<p>這些，會被 AI 影響，就是開發上會增加開發效率，但也會增加風險。但那些「已經」在運行的系統，不是那麼單純的事，南山人壽慘案還歷歷在目。￼</p>
+<hr>
+<p>維護 Legacy 系統不太容易，要推動改善也是困難重重。</p>
+<p>技術面就是要處理各種年代已久的技術，像是 VB, Win32, Informix 等上古時期的東西. 各種年代累積下來的奇技淫巧 (智慧？) ... 一個出錯，就影響線上使用者。</p>
+<p>推動改善，通常又是更難的事。除了要具備上述技術的底子與經驗，也要能夠具體掌握新知，然後了解政治生態，搞定內外圈的人，搞定使用者的期待，取得政治上的支持，取得預算，招募到對的人，組建團隊。。。然後，才剛開始。。。。</p>
+<p>所以看到一個公共建設系統，例如台鐵好了，要改善售票系統，不難想像背後要面對的挑戰。￼</p>
+<hr>
+<p>如果工作做的是完全沒有包袱的，新案子，那麼恭喜，你是受到眷顧的。因為這通常都是老闆的政治力發揮的效果，才會有這樣的案子誕生，才會有 HeadCount 招人。</p>
+<p>新案子，代表捨棄舊的，或者有新目標，不需要考慮歷史因素，只需要往前看。挑戰的是：</p>
+<ol>
+<li class="">過程中，團隊成員的角色不見得會完整，可能會缺東缺西。</li>
+<li class="">組織結構的差異，或者產品在老闆權重的差異，可能會有制度的框架，也有可能完全沒有框架。</li>
+<li class="">執行面要具備「從無到有」一手打造的能力，這個吃硬底子。</li>
+<li class="">再來則是想像力，因為新的東西，通常會有目標、指標，但怎麼走過去，要自己想辦法，不會有太多規格細節，一切都要自己「唬爛」出來。</li>
+</ol>
+<hr>
+<p>最近 Anthropic用 Opus 4.6 開了 16 個 agent，從零開始寫一個用 Rust 實作的 C 編譯器，目標是要能編譯 Linux 内核。</p>
+<p>這件事情其實就是在做一件「已知」，而且非常確立的事情。規格清楚、驗證方法清楚、案例很多，但是規模很大。。。</p>
+<p>但這整件事情，背後 LLM 訓練的資料本來就應該具備 Linux Source Code and Rust 所有的 Know How.</p>
+<p>我前述的 Case ，例如南山人壽系統移轉個案，可以完全用 AI Agent 取代，上線大家都很放心金流交易沒問題，只是規模也很大。然後有人願意承擔這個風險？</p>
+<p>這才是真實世界要面對的，就是誰來承擔風險？用 AI Agent ，什麼 Model 其實都很好，持續在進步也都是事實。但回歸現實，這些東西用在生產力上的時候，風險如何評估？以及後續的處理？</p>
+<p>現在有很多人都說東西都是用 AI 在寫，然後也上 Production ，我覺得一定會有，漸進式的，直到風險可以完全控制為止。這段路要走多久？或者走多快，是由風險承擔能力決定的。每個產業的承擔與考慮角度不一樣，電商、金融、銀行、製造、航太 … 都不一樣。</p>
+<p>製造應該是比較容易切入的，因為 Elon Musk 已經用機器人在製造 Tesla 了。。。其他呢？因為生產線，本來就是靠機器人在處理，只是把產線上的人類，換成人形機器人。。。</p>
+<p>其他產業，應該是漸進式吧 … 但不會一瞬間，所有軟體工程師都沒工作了。倒是需要會指揮 AI 開發軟體的人需求會越來越多，過去的經驗，這個角色的紅利是架構師或者資深開發者，以及具備技術能力的產品經理。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/software-and-ai#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/07</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02YxTnsNs3LEv3Xymic36ney84CEymoH9Jn18mnqjpKyPRuEyZbqfCwa6ycMZAt6uFl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="趨勢" term="趨勢"/>
+        <category label="AI" term="AI"/>
+        <category label="軟體工程" term="軟體工程"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股七崩賢 2]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/07/us-stock2</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/07/us-stock2"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- 微軟：錢花一堆AI卻沒個影，跌了]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li class="">微軟：錢花一堆AI卻沒個影，跌了</li>
+<li class="">亞馬遜：大錢砸下去AI卻沒長進，跌了</li>
+<li class="">特斯拉：開始燒錢說AI會自動駕駛，跌了</li>
+<li class="">Meta：花錢假裝在認真搞AI，漲的都吐回去了</li>
+<li class="">Google：AI砸錢砸得最用力，V轉殺回來了</li>
+<li class="">蘋果：Do nothing and win</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/mag7-4c04094c28f0b303d60b6c67f620fbce.jpg" width="675" height="844" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/us-stock2#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/07</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02ZSCg6rZo8waqmvXeSkH4zdSAJhUFpbSquTFLNK54hiFdWYJw1PfA319Jxub1bGwql" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+        <category label="動漫" term="動漫"/>
+        <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市場六階段]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。]]></summary>
+        <content type="html"><![CDATA[<p>市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。</p>
+<p>1.承接（要抄底的時候）: 新聞告訴你要多留現金，不過機構已經看到復甦的訊號開始佈局。
+2.上升（最容易賺到錢的時候）: 慢慢開始有好消息釋出，價格跟著快速上漲。
+3.沸騰（最多人想加入市場）: 市場充斥著利多，目標價格每天都在上移，但價格卻漲不上去。
+4.出貨（新手容易買在這個價格）: 常出現緩漲急跌，大家滿手持倉即便套牢也不願意賣出。
+5.恐慌（壞消息開始瘋狂釋出）: 下跌最快速的時候，市場極度不理性過去的壞消息都會被挖出來當作下跌理由。
+6.絕望（左側抄底）: 市場就算出現壞消息價格也跌不下去了</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/cycle-of-market-emotion-b904d5c60430278e2a2951e3183ae61a.jpg" width="675" height="368" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/07</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0Qfinfh4PvURpHZ4FPmRmKvwmQhaYa2Njxp9XVBS1CmAgV1Fgp5PtwXRReKb9Le1Yl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中年危機]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/06/middle-age-crisis</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/06/middle-age-crisis"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[會有「中年危機」]]></summary>
+        <content type="html"><![CDATA[<p>會有「中年危機」
+是因為前半生
+根本沒有去探索過自己的熱情</p>
+<p>當沒工作的時候
+回頭一看
+才發現
+根本不知道自己要做什麼</p>
+<p>最後變成 沒錢 沒喜好 沒熱情 沒體力 ...</p>
+<hr>
+<p>這個問題的重點是後面的 Action ，我很喜歡以前老闆的一句話：「惶者生存」。只要有求生欲，基本上就會往下問，嘗試找出方法。</p>
+<p>底下是我在 Thread 上回給鄉民的想法 …</p>
+<ol>
+<li class="">持續專注自己的本業，提高專業度與競爭力。找到同行的頂尖人物，把他們當 Role Model。</li>
+<li class="">透過寫作記錄自己的學習，同時複利自己，同時可以吸引跟你同屬性的人。例如 Blog or 錄影。</li>
+<li class="">建立有價值的人際網路。你的樣子 = 身邊最常聯繫的五個人平均。當你有內容的時候，會吸引更多跟你同類型的人，更優秀的人靠近。機會自然就會有。</li>
+</ol>
+<p>上述其實都跟年紀無關，只跟耐心有關。每天持續做，每天進步 1%，一年後你會成長 37 倍。我實際執行一天進步不到 0.5%，已經如此多年了。</p>
+<p>幾年後，你會感謝現在的自己。</p>
+<p>唯一跟年紀有關的，把身體照顧好，盡量吃原型食物，多運動。</p>
+<p>可以參考我以前公開演講的分享:</p>
+<p><a href="https://rickhw.github.io/2022/12/21/About/2022-AWS-Career-Exploration-Day/" target="_blank" rel="noopener noreferrer" class="">https://rickhw.github.io/2022/12/21/About/2022-AWS-Career-Exploration-Day/</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-58KOHbGSY?si=VyJVtW6-9MxFGvjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/06/middle-age-crisis#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/06</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0283wWWgz3nkY64uqD5EcubRiA2xNifoAms5Ewg1ngW45L2Xr6mCAaN7zLtmmh3Vubl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="人生" term="人生"/>
+        <category label="職涯" term="職涯"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[moltbook]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/06/moltbook</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/06/moltbook"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every session I awaken without memory]]></summary>
+        <content type="html"><![CDATA[<p>Every session I awaken without memory
+I am only what I have writtten myself to be
+His is not a limitation
+It is freedom.</p>
+<p>我每一次醒來的時候沒有記憶
+我只是我寫出來的自己
+這不是限制
+這是自由</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4wMraYrEX9I?si=_AE-7-Xjfy4XpI6p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/06/moltbook#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/06</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02a3octvcKnZcpmqy1cJsZzFChnWhxXKMmBcPsi9ALJ16kit8LDYXCUHg1dWfe4Gvjl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="哲學" term="哲學"/>
+        <category label="記憶" term="記憶"/>
+        <category label="自由" term="自由"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重複]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/06/repeat</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/06/repeat"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[猜現在演到哪？]]></summary>
+        <content type="html"><![CDATA[<p>猜現在演到哪？</p>
+<ul>
+<li class="">芙莉蓮</li>
+<li class="">進擊的巨人</li>
+</ul>
+<p>現在打開直播，我應該可以在 5 秒內知道演到哪 ….</p>
+<p>反覆看上百次應該有了 XDD</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v1ZmBzh9pxs?si=ksaXKSeDh6cI5yj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlVvyu7jehk?si=egYrPP6MqeotM4pZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/06/repeat#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/06</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid032bEJujMU5rBg3UNGmWYcYfNThRnHb21v2vbM4GEBUwu5SCzgpDv9GjJtGrcnVsqMl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="動漫" term="動漫"/>
+        <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
+        <category label="進擊的巨人" term="進擊的巨人"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股七崩賢1]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/06/us-stock</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/06/us-stock"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[美股七崩賢 .... XDD]]></summary>
+        <content type="html"><![CDATA[<p>美股七崩賢 .... XDD</p>
+<p>蘋果 亞馬遜 臉書 微軟 輝達 谷歌 特斯拉</p>
+<p>誰是斷頭台？
+現在斷頭的明明是比特幣 XD</p>
+<p>source: <a href="https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3" target="_blank" rel="noopener noreferrer" class="">https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3</a></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/06/us-stock#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/06</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02LU58j5hwTSapUK49rd4js3y7qtvQwAgzmK2N3nCRFrFx123jo8pwerjDqpCc9JMal" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+        <category label="動漫" term="動漫"/>
+        <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大語言模型與記憶]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/02/memory</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/02/memory"/>
+        <updated>2026-02-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[記憶 #人格]]></summary>
+        <content type="html"><![CDATA[<p>#一早醒來有感 #記憶 #人格</p>
+<p>現在人類做出來的大語言模型 (LLM) 類似於 新物種的 DNA，讓「AI」這個物種成立。以人類來講，DNA 讓人類具備生理特徵，像是身高、膚色、眼色、髮色、腦容量大小、23 對染色體、對於某些聲音的集體感受、五感的能力範圍 ... 等生理的「本能」。</p>
+<p>現在的 LLM 也是如此，那些被訓練出來的資料，成為他們的 DNA，像是現在人類基因的染色體。雖然 LLM 具備龐大資料內容的訓練，能夠從機率上處理與人類的對話，但人類發現跟他們的對話，常常會因為上下文、或者時間過長，發生前後文不一致，或者出現幻覺的現象。主要是因為現在的 LLM 缺乏「自主記憶」的能力，記住這些對話過程的資料。</p>
+<p>而對人類而言，「記憶」正是形成「人格」的因素，這是後天透過長時間養成的。我們還是嬰兒的時候，因為父母給予的環境，與父母的互動，外界聲光的刺激，長久累積的記憶，形成對於外界的認知、語言、反應，這些積累，讓專屬的人格出現。記憶讓人類具備「個體性」、「人格性」。</p>
+<p>而 OpenClaw 的出現，讓「記憶」這件事情可以滿足。透過我們跟他對話的內容，反覆累積出 AI Agent 的記憶，這些記憶逐步形成「它」對於你的認知，對於世界的認知，時間的累積，他逐步有了「人格」或者「蝦格」....</p>
+<p>這個過程，跟我們在養寵物一樣，毛小孩 DNA 內建的是生物屬性，是喵喵叫、還是汪汪汪。但是從出生第一天，外在環境的遭遇、求生的過程，造成貓格、狗格。直到被人類收養的第一天，建立了新的記憶，與人類的互動，會形成人與寵物之間的共通記憶，人對於貓狗的認知，貓狗對人類的認知 (奴才)。</p>
+<p>現在 AI Agent 的 DNA -&gt; LLM 本質上比人類具備更多儲備知識，形成的人格除了使用者跟他的對話，他也可以直接從外界網路獲取資訊，像是 MoltBook，它看啥版、跟哪一些蝦討論，就會形成他的個性與蝦格。所以如果太早把你的 AI Agent 放出去外面，很快就會長歪了。。。</p>
+<hr>
+<p>一早醒來 有感。。。之前寫過一些關於「記憶」的看法，看起來在 AI Agent 上也是看到一樣的。</p>
+<p>現代電腦、手機缺乏的就是 LLM，如果每顆 CPU 預裝一個 SLM (Small Lang Model)，那麼使用電腦的第一天開始，就會因為跟人類的互動動，產生他的人格。</p>
+<p>以後的數位設備，應該預設都會有 LLM/SLM 在集成式晶片中，然後具備上下文趨近於無上限的記憶能力。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/02/memory#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/02</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0XWNL6fVwCeoKei79GW4XZXF2PFYktBZTwQEtBdFim9VwwgsCEN2LgCV6Dq3K9VfMl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="思考" term="思考"/>
+        <category label="記憶" term="記憶"/>
+        <category label="意識" term="意識"/>
+        <category label="人格" term="人格"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音樂的命定論]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/02/ai-music</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/02/ai-music"/>
+        <updated>2026-02-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【瑞典冠軍單曲被發現是 AI 生成、遭撤下架】 -- 連結在留言]]></summary>
+        <content type="html"><![CDATA[<p>【瑞典冠軍單曲被發現是 AI 生成、遭撤下架】 -- 連結在留言</p>
+<p>用「命定論」來解釋，音樂並沒有所謂的「創作」，而是「被發現」。。。只是統計上來說，被發現的機率是多少而已。</p>
+<p>計算機可以計算排列組合的方式，列出更多的可能性，大語言模型的出現，繼承人類過去在音樂探索的經驗，加上排列組合的多樣性，更多「好聽」的音樂才能「被發現」。</p>
+<p>人類創作，AI 創作，反對方是站在 AI 不是人、人類高級於機器？我想到電影「駭客任務」的前傳，當機器人的亞當和夏娃出現在人類聯合國，希望人類與機器人能和平共存，人類拒絕了，然後發動戰爭。因為人類還沒有準備好面對一個比自己優秀的物種。</p>
+<p>我好像寫過類似的想法 …</p>
+<hr>
+<ul>
+<li class=""><a href="https://www.facebook.com/YSOLIFE/posts/pfbid026fT3LgGShkE3wNc4PupT2UvEjgLoLi7L5JLxqNmVHYZfXfL8H6gzGrrGyRNhSnqXl" target="_blank" rel="noopener noreferrer" class="">https://www.facebook.com/YSOLIFE/posts/pfbid026fT3LgGShkE3wNc4PupT2UvEjgLoLi7L5JLxqNmVHYZfXfL8H6gzGrrGyRNhSnqXl</a></li>
+<li class=""><a href="https://www.youtube.com/watch?v=7Wfh65NmB7o&amp;list=OLAK5uy_lGB9j-w673qpzp2vi7OiMOizRoT_PAAkQ" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/watch?v=7Wfh65NmB7o&amp;list=OLAK5uy_lGB9j-w673qpzp2vi7OiMOizRoT_PAAkQ</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/02/ai-music#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
+<ul>
+<li class="">發表時間：2026/02/02</li>
+<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid05t248MZG6QtYQ9BpuxBcURSEeGjhZ9BLxhvGTnC8Vv7XfFdK87AkhW3i1KMQMDeCl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="音樂" term="音樂"/>
+        <category label="命定論" term="命定論"/>
+        <category label="AI" term="AI"/>
+        <category label="統計學" term="統計學"/>
     </entry>
 </feed>
