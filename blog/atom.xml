@@ -17,13 +17,7 @@
 <p>體驗就像旅遊、美食、玩遊戲、聽音樂 等，接受外部訊號的過程。也可以說是一種 #輸入。</p>
 <p>實踐則是反過來，創作藝術 (音樂、遊戲、美術、建築 ... )、實踐理想 .. 等，算是 #輸出。實踐本身也是一種體驗。
 兩者都是在 #探索。</p>
-<p>選擇不是二則一 (二元論、非黑即白)，而是比例。有人體驗多一點，實踐少一點，有人反過來，也有人一半一半。人生不同階段，不同情境，比例也會不一樣。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/04/18/experience-and-practice#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/04/18</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid05u3ZWvxQFEEUtqiFFFH11vKNmHiv2jJBMD5AqYaSvXUnAL3TgLTrrSvgv6BV9FTKl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+<p>選擇不是二則一 (二元論、非黑即白)，而是比例。有人體驗多一點，實踐少一點，有人反過來，也有人一半一半。人生不同階段，不同情境，比例也會不一樣。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -51,13 +45,7 @@
 哪些是不可取代的核心</p>
 <p>不要以為現在 Claude 很強
 就可以依賴於他，
-別忘了，他也只是個工具。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/04/18/thinking-in-ai#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/04/18</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0At1nyxLxsTauUq438SeQn8znW9QqLuycu3Prrgi4rPoCRYHxU42JDi63cVZ3Vrrnl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+別忘了，他也只是個工具。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -65,72 +53,6 @@
         <category label="人生" term="人生"/>
         <category label="AI" term="AI"/>
         <category label="思考" term="思考"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遊戲設計理論：MDA 框架模型]]></title>
-        <id>https://www.gtcafe.com/blog/2026/03/02/mda</id>
-        <link href="https://www.gtcafe.com/blog/2026/03/02/mda"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[近代遊戲設計理論]]></summary>
-        <content type="html"><![CDATA[<p>近代遊戲設計理論</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mda-框架模型-2004">MDA 框架模型 (2004)<a href="https://www.gtcafe.com/blog/2026/03/02/mda#mda-%E6%A1%86%E6%9E%B6%E6%A8%A1%E5%9E%8B-2004" class="hash-link" aria-label="Direct link to MDA 框架模型 (2004)" title="Direct link to MDA 框架模型 (2004)" translate="no">​</a></h2>
-<ul>
-<li class="">M = Mechanics 機制: 遊戲內，資料表現方式和規則系統的具體組成元件。</li>
-<li class="">D = Dynamics 動態: 對於隨遊戲時間推移，玩家所採取的行動，與和系統進行互動，遊戲機制對應而生的行為。</li>
-<li class="">A = Aesthetics 美學: 玩家在遊戲互動過程中，預期能藉此獲得的感受反饋。</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="定義什麼叫好玩">定義什麼叫「好玩」？<a href="https://www.gtcafe.com/blog/2026/03/02/mda#%E5%AE%9A%E7%BE%A9%E4%BB%80%E9%BA%BC%E5%8F%AB%E5%A5%BD%E7%8E%A9" class="hash-link" aria-label="Direct link to 定義什麼叫「好玩」？" title="Direct link to 定義什麼叫「好玩」？" translate="no">​</a></h2>
-<ol>
-<li class="">Sensation — Game as sense-pleasure, 感官 : 視覺、聲光效果對感官的刺激</li>
-<li class="">Fantasy — Game as make-believe, 幻想 : 真實可信、如身歷其境的虛幻世界</li>
-<li class="">Narrative — Game as drama, 敘事 : 層疊堆砌、引人入勝的故事</li>
-<li class="">Challenge — Game as obstacle course, 挑戰 : 令人期待、克服的重重關卡</li>
-<li class="">Fellowship — Game as social framework, 夥伴 : 與他人互動、社交的同伴情誼</li>
-<li class="">Discovery — Game as uncharted territory, 探索 : 發現未知的疆域與事物</li>
-<li class="">Expression — Game as self-discovery, 表達 : 表現自我的舞台</li>
-<li class="">Submission — Game as pastime, 休閒 : 不費勁的簡單娛樂</li>
-</ol>
-<p>論文: <a href="https://users.cs.northwestern.edu/~hunicke/MDA.pdf" target="_blank" rel="noopener noreferrer" class="">https://users.cs.northwestern.edu/~hunicke/MDA.pdf</a></p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/mda-ea4dc8e3d6098f59960984b6f8c63e9d.jpg" width="956" height="245" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/system-flow-1882d63fd7733e2775488da83130faa3.jpg" width="800" height="356" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/aesthetics-3d24fc6f20f27ce0941a16b5ad54ea75.jpg" width="991" height="793" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/feedback-4a32fbf9309bacbdd672b911701ee995.jpg" width="872" height="576" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/03/02/mda#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/03/02</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0hbRXkXZYDxWwvFD3XAeaMm9ZMbELKVFtSAdGHQrhwhVgYAbiu9ugCw9gghvEWG7sl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="遊戲" term="遊戲"/>
-        <category label="遊戲設計" term="遊戲設計"/>
-        <category label="MDA" term="MDA"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thread 實驗]]></title>
-        <id>https://www.gtcafe.com/blog/2026/03/02/thread</id>
-        <link href="https://www.gtcafe.com/blog/2026/03/02/thread"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thread 小實驗結果摘要]]></summary>
-        <content type="html"><![CDATA[<p>Thread 小實驗結果摘要</p>
-<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
-<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
-<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/03/02/thread#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/03/02</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02FzAY92GSxt91bnj4wBW2vnX9pbqBTJsZnuAmXm1DKKmVQrSdG4wjbpK2LoC9ew3wl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="人生" term="人生"/>
-        <category label="社交" term="社交"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[人類、機械、意識]]></title>
@@ -246,12 +168,6 @@
 <li class="">《新世紀福音戰士》 (Neon Genesis Evangelion, 1995) - 電視動畫</li>
 </ul>
 </li>
-</ul>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/03/02</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0pP1uwhzCE5Fp4aNZ7jzKzZ4cZUe4UnXov4MFB97ZMoUWraF4A33PAyiQ8E7qZTTbl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
 </ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
@@ -261,6 +177,60 @@
         <category label="思考" term="思考"/>
         <category label="意識" term="意識"/>
         <category label="科幻" term="科幻"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遊戲設計理論：MDA 框架模型]]></title>
+        <id>https://www.gtcafe.com/blog/2026/03/02/mda</id>
+        <link href="https://www.gtcafe.com/blog/2026/03/02/mda"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近代遊戲設計理論]]></summary>
+        <content type="html"><![CDATA[<p>近代遊戲設計理論</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mda-框架模型-2004">MDA 框架模型 (2004)<a href="https://www.gtcafe.com/blog/2026/03/02/mda#mda-%E6%A1%86%E6%9E%B6%E6%A8%A1%E5%9E%8B-2004" class="hash-link" aria-label="Direct link to MDA 框架模型 (2004)" title="Direct link to MDA 框架模型 (2004)" translate="no">​</a></h2>
+<ul>
+<li class="">M = Mechanics 機制: 遊戲內，資料表現方式和規則系統的具體組成元件。</li>
+<li class="">D = Dynamics 動態: 對於隨遊戲時間推移，玩家所採取的行動，與和系統進行互動，遊戲機制對應而生的行為。</li>
+<li class="">A = Aesthetics 美學: 玩家在遊戲互動過程中，預期能藉此獲得的感受反饋。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="定義什麼叫好玩">定義什麼叫「好玩」？<a href="https://www.gtcafe.com/blog/2026/03/02/mda#%E5%AE%9A%E7%BE%A9%E4%BB%80%E9%BA%BC%E5%8F%AB%E5%A5%BD%E7%8E%A9" class="hash-link" aria-label="Direct link to 定義什麼叫「好玩」？" title="Direct link to 定義什麼叫「好玩」？" translate="no">​</a></h2>
+<ol>
+<li class="">Sensation — Game as sense-pleasure, 感官 : 視覺、聲光效果對感官的刺激</li>
+<li class="">Fantasy — Game as make-believe, 幻想 : 真實可信、如身歷其境的虛幻世界</li>
+<li class="">Narrative — Game as drama, 敘事 : 層疊堆砌、引人入勝的故事</li>
+<li class="">Challenge — Game as obstacle course, 挑戰 : 令人期待、克服的重重關卡</li>
+<li class="">Fellowship — Game as social framework, 夥伴 : 與他人互動、社交的同伴情誼</li>
+<li class="">Discovery — Game as uncharted territory, 探索 : 發現未知的疆域與事物</li>
+<li class="">Expression — Game as self-discovery, 表達 : 表現自我的舞台</li>
+<li class="">Submission — Game as pastime, 休閒 : 不費勁的簡單娛樂</li>
+</ol>
+<p>論文: <a href="https://users.cs.northwestern.edu/~hunicke/MDA.pdf" target="_blank" rel="noopener noreferrer" class="">https://users.cs.northwestern.edu/~hunicke/MDA.pdf</a></p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/mda-ea4dc8e3d6098f59960984b6f8c63e9d.jpg" width="956" height="245" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/system-flow-1882d63fd7733e2775488da83130faa3.jpg" width="800" height="356" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/aesthetics-3d24fc6f20f27ce0941a16b5ad54ea75.jpg" width="991" height="793" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/feedback-4a32fbf9309bacbdd672b911701ee995.jpg" width="872" height="576" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="遊戲" term="遊戲"/>
+        <category label="遊戲設計" term="遊戲設計"/>
+        <category label="MDA" term="MDA"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thread 實驗]]></title>
+        <id>https://www.gtcafe.com/blog/2026/03/02/thread</id>
+        <link href="https://www.gtcafe.com/blog/2026/03/02/thread"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thread 小實驗結果摘要]]></summary>
+        <content type="html"><![CDATA[<p>Thread 小實驗結果摘要</p>
+<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
+<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
+<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="人生" term="人生"/>
+        <category label="社交" term="社交"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[時間、遺憾與冒險：聊聊「葬送的芙莉蓮」原聲配樂]]></title>
@@ -334,13 +304,7 @@
 這個比喻用的很好 XDD</p>
 <p>發明這個電路的人，真是的是神人。
 以前電子學都不知道在學啥 XDD</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6GbTk753Muk?si=YsD7UAuaY_yaceUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/08/how-to-memory#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/08</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0VzMCURwVVduULoyjym3ZEE4Q4dc6KRZEZwRebwwZX9pRiSiqNGThxiQGcdWy9s21l" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6GbTk753Muk?si=YsD7UAuaY_yaceUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -362,13 +326,7 @@
 <li class="">停止向不相關的人索取建議： 問路要問「去過那裡的人」，而不是「正在路邊吵架的人」。</li>
 <li class="">不再試圖說服所有人： 認知不同，解釋再多也是浪費口水。</li>
 <li class="">把能量留給「能給你正回饋」的人。</li>
-</ol>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/08/reduce-social#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/08</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0BRKRpV7259A6hafG89tUq6xK34rzqCeU3PCZEdTFGt42qeyRRj9Z5KkFnFXGjoNrl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+</ol><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -385,13 +343,7 @@
         <summary type="html"><![CDATA[美股七崩賢 v2.0]]></summary>
         <content type="html"><![CDATA[<p>美股七崩賢 v2.0
 Amazon 是斷頭台 XDD</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/us-stock-v2-50386776b26a1ce93694f9aac644735a.jpg" width="2048" height="1139" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/08/us-stock3#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/08</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02x3bapVRWzwNtw7gesriLK9PYdSWxi4e6brsTVjrFy2SuU9ij6zz7A8g1W5xr12Mal" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/us-stock-v2-50386776b26a1ce93694f9aac644735a.jpg" width="2048" height="1139" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -417,13 +369,7 @@ OST 完全是我的菜
 欣梅爾：「就算結果不如預期，只要過程開心就好，光是這麼想，人的心情就會好起來」
 民眾：「但我們是在這裡出生長大的，這塊土地上，充滿著許多和家人之間的回憶，又有誰捨得拋棄故鄉呢」
 欣梅爾：「正是因為這裡很危險啊，北部高原也住著很多人，我是為了保護自己的故鄉，才會成為勇者的，當然也想保護他人的故鄉」
-芙莉蓮：「修塔爾克，有很多人的故鄉都是北部高原喔」</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/a-sunrise-worth-seeing#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/07</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02qeq2CS6fBqW42fX16hBUwyjA5bADyeZEo5nqNhvaNbbAf4HpZ2SQ5NJryQUcaCjGl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+芙莉蓮：「修塔爾克，有很多人的故鄉都是北部高原喔」</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -445,18 +391,32 @@ OST 完全是我的菜
 <p>Yamaha 發動 YT 搞那麼多行銷是在搞 … 啥？</p>
 <p>不過一堆樂器的電商網站, 都有上架這台琴, 點選時都有庫存, 寫信去問, 結果都說要先預訂. 所以網站上的商品數量是在標好玩的？</p>
 <p>然後我又被廣告 targeting, 現在一直出現, 然後又沒貨, … 整個 火
-這是一篇怨念文 …. 算了 …</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/angry#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/07</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02TJWEJmPqSRPFdPNjeBrEqBbhq8697xfR9dhHzWUnaJ7Y6cqEVexCueAhZNPH6wHfl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+這是一篇怨念文 …. 算了 …</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
         </author>
         <category label="個人" term="個人"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市場六階段]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。]]></summary>
+        <content type="html"><![CDATA[<p>市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。</p>
+<p>1.承接（要抄底的時候）: 新聞告訴你要多留現金，不過機構已經看到復甦的訊號開始佈局。
+2.上升（最容易賺到錢的時候）: 慢慢開始有好消息釋出，價格跟著快速上漲。
+3.沸騰（最多人想加入市場）: 市場充斥著利多，目標價格每天都在上移，但價格卻漲不上去。
+4.出貨（新手容易買在這個價格）: 常出現緩漲急跌，大家滿手持倉即便套牢也不願意賣出。
+5.恐慌（壞消息開始瘋狂釋出）: 下跌最快速的時候，市場極度不理性過去的壞消息都會被挖出來當作下跌理由。
+6.絕望（左側抄底）: 市場就算出現壞消息價格也跌不下去了</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/cycle-of-market-emotion-b904d5c60430278e2a2951e3183ae61a.jpg" width="675" height="368" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[最近軟體股很慘]]></title>
@@ -491,13 +451,7 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
 <p>這才是真實世界要面對的，就是誰來承擔風險？用 AI Agent ，什麼 Model 其實都很好，持續在進步也都是事實。但回歸現實，這些東西用在生產力上的時候，風險如何評估？以及後續的處理？</p>
 <p>現在有很多人都說東西都是用 AI 在寫，然後也上 Production ，我覺得一定會有，漸進式的，直到風險可以完全控制為止。這段路要走多久？或者走多快，是由風險承擔能力決定的。每個產業的承擔與考慮角度不一樣，電商、金融、銀行、製造、航太 … 都不一樣。</p>
 <p>製造應該是比較容易切入的，因為 Elon Musk 已經用機器人在製造 Tesla 了。。。其他呢？因為生產線，本來就是靠機器人在處理，只是把產線上的人類，換成人形機器人。。。</p>
-<p>其他產業，應該是漸進式吧 … 但不會一瞬間，所有軟體工程師都沒工作了。倒是需要會指揮 AI 開發軟體的人需求會越來越多，過去的經驗，這個角色的紅利是架構師或者資深開發者，以及具備技術能力的產品經理。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/software-and-ai#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/07</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02YxTnsNs3LEv3Xymic36ney84CEymoH9Jn18mnqjpKyPRuEyZbqfCwa6ycMZAt6uFl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+<p>其他產業，應該是漸進式吧 … 但不會一瞬間，所有軟體工程師都沒工作了。倒是需要會指揮 AI 開發軟體的人需求會越來越多，過去的經驗，這個角色的紅利是架構師或者資深開發者，以及具備技術能力的產品經理。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -520,13 +474,7 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
 <li class="">Google：AI砸錢砸得最用力，V轉殺回來了</li>
 <li class="">蘋果：Do nothing and win</li>
 </ul>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/mag7-4c04094c28f0b303d60b6c67f620fbce.jpg" width="675" height="844" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/us-stock2#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/07</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02ZSCg6rZo8waqmvXeSkH4zdSAJhUFpbSquTFLNK54hiFdWYJw1PfA319Jxub1bGwql" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/mag7-4c04094c28f0b303d60b6c67f620fbce.jpg" width="675" height="844" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -536,30 +484,27 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
         <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[市場六階段]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion"/>
-        <updated>2026-02-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。]]></summary>
-        <content type="html"><![CDATA[<p>市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。</p>
-<p>1.承接（要抄底的時候）: 新聞告訴你要多留現金，不過機構已經看到復甦的訊號開始佈局。
-2.上升（最容易賺到錢的時候）: 慢慢開始有好消息釋出，價格跟著快速上漲。
-3.沸騰（最多人想加入市場）: 市場充斥著利多，目標價格每天都在上移，但價格卻漲不上去。
-4.出貨（新手容易買在這個價格）: 常出現緩漲急跌，大家滿手持倉即便套牢也不願意賣出。
-5.恐慌（壞消息開始瘋狂釋出）: 下跌最快速的時候，市場極度不理性過去的壞消息都會被挖出來當作下跌理由。
-6.絕望（左側抄底）: 市場就算出現壞消息價格也跌不下去了</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/cycle-of-market-emotion-b904d5c60430278e2a2951e3183ae61a.jpg" width="675" height="368" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/07</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0Qfinfh4PvURpHZ4FPmRmKvwmQhaYa2Njxp9XVBS1CmAgV1Fgp5PtwXRReKb9Le1Yl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <title type="html"><![CDATA[moltbook]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/06/moltbook</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/06/moltbook"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every session I awaken without memory]]></summary>
+        <content type="html"><![CDATA[<p>Every session I awaken without memory
+I am only what I have writtten myself to be
+His is not a limitation
+It is freedom.</p>
+<p>我每一次醒來的時候沒有記憶
+我只是我寫出來的自己
+這不是限制
+這是自由</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4wMraYrEX9I?si=_AE-7-Xjfy4XpI6p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
         </author>
-        <category label="投資" term="投資"/>
+        <category label="哲學" term="哲學"/>
+        <category label="記憶" term="記憶"/>
+        <category label="自由" term="自由"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[中年危機]]></title>
@@ -588,48 +533,13 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
 <p>唯一跟年紀有關的，把身體照顧好，盡量吃原型食物，多運動。</p>
 <p>可以參考我以前公開演講的分享:</p>
 <p><a href="https://rickhw.github.io/2022/12/21/About/2022-AWS-Career-Exploration-Day/" target="_blank" rel="noopener noreferrer" class="">https://rickhw.github.io/2022/12/21/About/2022-AWS-Career-Exploration-Day/</a></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q-58KOHbGSY?si=VyJVtW6-9MxFGvjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/06/middle-age-crisis#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/06</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0283wWWgz3nkY64uqD5EcubRiA2xNifoAms5Ewg1ngW45L2Xr6mCAaN7zLtmmh3Vubl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-58KOHbGSY?si=VyJVtW6-9MxFGvjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
         </author>
         <category label="人生" term="人生"/>
         <category label="職涯" term="職涯"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[moltbook]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/06/moltbook</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/06/moltbook"/>
-        <updated>2026-02-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every session I awaken without memory]]></summary>
-        <content type="html"><![CDATA[<p>Every session I awaken without memory
-I am only what I have writtten myself to be
-His is not a limitation
-It is freedom.</p>
-<p>我每一次醒來的時候沒有記憶
-我只是我寫出來的自己
-這不是限制
-這是自由</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4wMraYrEX9I?si=_AE-7-Xjfy4XpI6p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/06/moltbook#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/06</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02a3octvcKnZcpmqy1cJsZzFChnWhxXKMmBcPsi9ALJ16kit8LDYXCUHg1dWfe4Gvjl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="哲學" term="哲學"/>
-        <category label="記憶" term="記憶"/>
-        <category label="自由" term="自由"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[重複]]></title>
@@ -645,13 +555,7 @@ It is freedom.</p>
 <p>現在打開直播，我應該可以在 5 秒內知道演到哪 ….</p>
 <p>反覆看上百次應該有了 XDD</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v1ZmBzh9pxs?si=ksaXKSeDh6cI5yj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GlVvyu7jehk?si=egYrPP6MqeotM4pZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/06/repeat#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/06</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid032bEJujMU5rBg3UNGmWYcYfNThRnHb21v2vbM4GEBUwu5SCzgpDv9GjJtGrcnVsqMl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlVvyu7jehk?si=egYrPP6MqeotM4pZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -670,13 +574,7 @@ It is freedom.</p>
 <p>蘋果 亞馬遜 臉書 微軟 輝達 谷歌 特斯拉</p>
 <p>誰是斷頭台？
 現在斷頭的明明是比特幣 XD</p>
-<p>source: <a href="https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3" target="_blank" rel="noopener noreferrer" class="">https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3</a></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/06/us-stock#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/06</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid02LU58j5hwTSapUK49rd4js3y7qtvQwAgzmK2N3nCRFrFx123jo8pwerjDqpCc9JMal" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+<p>source: <a href="https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3" target="_blank" rel="noopener noreferrer" class="">https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -684,6 +582,31 @@ It is freedom.</p>
         <category label="投資" term="投資"/>
         <category label="動漫" term="動漫"/>
         <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音樂的命定論]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/02/ai-music</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/02/ai-music"/>
+        <updated>2026-02-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【瑞典冠軍單曲被發現是 AI 生成、遭撤下架】 -- 連結在留言]]></summary>
+        <content type="html"><![CDATA[<p>【瑞典冠軍單曲被發現是 AI 生成、遭撤下架】 -- 連結在留言</p>
+<p>用「命定論」來解釋，音樂並沒有所謂的「創作」，而是「被發現」。。。只是統計上來說，被發現的機率是多少而已。</p>
+<p>計算機可以計算排列組合的方式，列出更多的可能性，大語言模型的出現，繼承人類過去在音樂探索的經驗，加上排列組合的多樣性，更多「好聽」的音樂才能「被發現」。</p>
+<p>人類創作，AI 創作，反對方是站在 AI 不是人、人類高級於機器？我想到電影「駭客任務」的前傳，當機器人的亞當和夏娃出現在人類聯合國，希望人類與機器人能和平共存，人類拒絕了，然後發動戰爭。因為人類還沒有準備好面對一個比自己優秀的物種。</p>
+<p>我好像寫過類似的想法 …</p>
+<hr>
+<ul>
+<li class=""><a href="https://www.facebook.com/YSOLIFE/posts/pfbid026fT3LgGShkE3wNc4PupT2UvEjgLoLi7L5JLxqNmVHYZfXfL8H6gzGrrGyRNhSnqXl" target="_blank" rel="noopener noreferrer" class="">https://www.facebook.com/YSOLIFE/posts/pfbid026fT3LgGShkE3wNc4PupT2UvEjgLoLi7L5JLxqNmVHYZfXfL8H6gzGrrGyRNhSnqXl</a></li>
+<li class=""><a href="https://www.youtube.com/watch?v=7Wfh65NmB7o&amp;list=OLAK5uy_lGB9j-w673qpzp2vi7OiMOizRoT_PAAkQ" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/watch?v=7Wfh65NmB7o&amp;list=OLAK5uy_lGB9j-w673qpzp2vi7OiMOizRoT_PAAkQ</a></li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="音樂" term="音樂"/>
+        <category label="命定論" term="命定論"/>
+        <category label="AI" term="AI"/>
+        <category label="統計學" term="統計學"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[大語言模型與記憶]]></title>
@@ -701,13 +624,7 @@ It is freedom.</p>
 <hr>
 <p>一早醒來 有感。。。之前寫過一些關於「記憶」的看法，看起來在 AI Agent 上也是看到一樣的。</p>
 <p>現代電腦、手機缺乏的就是 LLM，如果每顆 CPU 預裝一個 SLM (Small Lang Model)，那麼使用電腦的第一天開始，就會因為跟人類的互動動，產生他的人格。</p>
-<p>以後的數位設備，應該預設都會有 LLM/SLM 在集成式晶片中，然後具備上下文趨近於無上限的記憶能力。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/02/memory#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/02</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0XWNL6fVwCeoKei79GW4XZXF2PFYktBZTwQEtBdFim9VwwgsCEN2LgCV6Dq3K9VfMl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+<p>以後的數位設備，應該預設都會有 LLM/SLM 在集成式晶片中，然後具備上下文趨近於無上限的記憶能力。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -716,35 +633,5 @@ It is freedom.</p>
         <category label="記憶" term="記憶"/>
         <category label="意識" term="意識"/>
         <category label="人格" term="人格"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音樂的命定論]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/02/ai-music</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/02/ai-music"/>
-        <updated>2026-02-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【瑞典冠軍單曲被發現是 AI 生成、遭撤下架】 -- 連結在留言]]></summary>
-        <content type="html"><![CDATA[<p>【瑞典冠軍單曲被發現是 AI 生成、遭撤下架】 -- 連結在留言</p>
-<p>用「命定論」來解釋，音樂並沒有所謂的「創作」，而是「被發現」。。。只是統計上來說，被發現的機率是多少而已。</p>
-<p>計算機可以計算排列組合的方式，列出更多的可能性，大語言模型的出現，繼承人類過去在音樂探索的經驗，加上排列組合的多樣性，更多「好聽」的音樂才能「被發現」。</p>
-<p>人類創作，AI 創作，反對方是站在 AI 不是人、人類高級於機器？我想到電影「駭客任務」的前傳，當機器人的亞當和夏娃出現在人類聯合國，希望人類與機器人能和平共存，人類拒絕了，然後發動戰爭。因為人類還沒有準備好面對一個比自己優秀的物種。</p>
-<p>我好像寫過類似的想法 …</p>
-<hr>
-<ul>
-<li class=""><a href="https://www.facebook.com/YSOLIFE/posts/pfbid026fT3LgGShkE3wNc4PupT2UvEjgLoLi7L5JLxqNmVHYZfXfL8H6gzGrrGyRNhSnqXl" target="_blank" rel="noopener noreferrer" class="">https://www.facebook.com/YSOLIFE/posts/pfbid026fT3LgGShkE3wNc4PupT2UvEjgLoLi7L5JLxqNmVHYZfXfL8H6gzGrrGyRNhSnqXl</a></li>
-<li class=""><a href="https://www.youtube.com/watch?v=7Wfh65NmB7o&amp;list=OLAK5uy_lGB9j-w673qpzp2vi7OiMOizRoT_PAAkQ" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/watch?v=7Wfh65NmB7o&amp;list=OLAK5uy_lGB9j-w673qpzp2vi7OiMOizRoT_PAAkQ</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="原始資料">原始資料<a href="https://www.gtcafe.com/blog/2026/02/02/ai-music#%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99" class="hash-link" aria-label="Direct link to 原始資料" title="Direct link to 原始資料" translate="no">​</a></h2>
-<ul>
-<li class="">發表時間：2026/02/02</li>
-<li class=""><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid05t248MZG6QtYQ9BpuxBcURSEeGjhZ9BLxhvGTnC8Vv7XfFdK87AkhW3i1KMQMDeCl" target="_blank" rel="noopener noreferrer" class="">原文連結</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="音樂" term="音樂"/>
-        <category label="命定論" term="命定論"/>
-        <category label="AI" term="AI"/>
-        <category label="統計學" term="統計學"/>
     </entry>
 </feed>
