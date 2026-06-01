@@ -2,11 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gtcafe.com/blog</id>
     <title>GTCafe Studio Blog</title>
-    <updated>2026-04-18T00:00:00.000Z</updated>
+    <updated>2026-05-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.gtcafe.com/blog"/>
     <subtitle>GTCafe Studio Blog</subtitle>
     <icon>https://www.gtcafe.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[半年摘要]]></title>
+        <id>https://www.gtcafe.com/blog/2026/05/11/half-year-review</id>
+        <link href="https://www.gtcafe.com/blog/2026/05/11/half-year-review"/>
+        <updated>2026-05-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我在 202510~11 整理了 三個錄影 (下圖)，內容是紀錄過去幾年 (2022 - 2025) 投資的一些想法與心得，到現在剛好過去半年。最近有朋友問我相關問題，我自己回去反覆聽了大概五六次，最後我還是只丟這三個影片 (總長度約 1 小時)，想說的錄影大概都有了。]]></summary>
+        <content type="html"><![CDATA[<p>我在 202510~11 整理了 <a href="https://www.youtube.com/playlist?list=PL63J1r2PBvojgRodbFxawzLKqG4YqsVpb" target="_blank" rel="noopener noreferrer" class="">三個錄影 (下圖)</a>，內容是紀錄過去幾年 (2022 - 2025) 投資的一些想法與心得，到現在剛好過去半年。最近有朋友問我相關問題，我自己回去反覆聽了大概五六次，最後我還是只丟這三個影片 (總長度約 1 小時)，想說的錄影大概都有了。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/sharing-bf5618487f9878fa4daabf16ec17b9cd.jpg" width="1304" height="936" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="透過回測建立投資心性">透過回測建立投資心性<a href="https://www.gtcafe.com/blog/2026/05/11/half-year-review#%E9%80%8F%E9%81%8E%E5%9B%9E%E6%B8%AC%E5%BB%BA%E7%AB%8B%E6%8A%95%E8%B3%87%E5%BF%83%E6%80%A7" class="hash-link" aria-label="Direct link to 透過回測建立投資心性" title="Direct link to 透過回測建立投資心性" translate="no">​</a></h2>
+<p>其中在 EP1 中，透過「每天進步 1%，一年進步 37 倍」解釋 <code>#複利效應</code>，然後回推到投資市場，模擬複利的效果。最重要的目的是：</p>
+<blockquote>
+<p>建立投資信心與心性</p>
+</blockquote>
+<p>也就是，如何建立把錢放進去投資市場，然後面對市場波動的信心與心性的過程。透過模擬 / 回測 (下圖) 就很重要，沒有自己實際詳細模擬過，我都不建議進場投資，因為你是用感覺在賭，而不是透過科學方法理解歷史。這跟很多老闆很像，對自己產品的樣子一點理解都沒有，就在大錢做行銷，卻從來沒親自用過。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/simulator-3cbdc24d0a0adfc5e341bed09e855385.jpg" width="2048" height="1072" class="img_ev3q"></p>
+<p>錄影中提到的模擬，我過去已經試各種情境模擬與回測，模擬的劇本少說 20 ~ 30 個以上，好的壞的、高的低的、短期長期、All-in/定期/單筆、動態提領、從零本金、從千萬本金 ... 等 <code>#排列組合</code> 之下產生的劇本。(上述的 <code>#劇本展開</code> 背後的邏輯，就是我常用的 <code>#矩陣思維</code> 模型，在 <code>#軟體測試</code> 與 <code>#系統設計</code> 很常用)</p>
+<p>我偶爾會寫一些「策略」的分享，例如「<a class="" href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents">亢龍有悔</a>」，但都是基於這三個錄影，加上我自己的體悟之後產生的延續。所以沒看懂影片請略過，因為這不是寫給你看的。</p>
+<p>最近台股已經不只是 1980 年代：「<code>#臺灣錢淹腳目</code>」的樣子，現在大概是「<code>#台灣錢淹脖子</code>」。有些人在沒有做功課的狀況之下，貿然開槓桿 (質押、信貸) 投資，短進短出，這都不算在投資，而是投機。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="黑天鵝事件">黑天鵝事件<a href="https://www.gtcafe.com/blog/2026/05/11/half-year-review#%E9%BB%91%E5%A4%A9%E9%B5%9D%E4%BA%8B%E4%BB%B6" class="hash-link" aria-label="Direct link to 黑天鵝事件" title="Direct link to 黑天鵝事件" translate="no">​</a></h2>
+<p>台股目前整體大好，甚至被外媒說過熱。</p>
+<p>個人看法，到 2030 年前，地緣政治因素會是對大因素。最大的黑天鵝事件會有：</p>
+<ol>
+<li class="">台灣內部有執政黨變成藍色，外在的則是</li>
+<li class="">WW3 熱戰爆發、</li>
+<li class="">對岸來亂。</li>
+</ol>
+<p>這些因素都會導致投資市場崩盤。</p>
+<p>扣掉這些世界局勢/地緣政治因素，整體來說，台灣的狀況會是長期看好。只要是持續向上 (去回測每個月 5% 漲幅)，就放心把錢放進去。</p>
+<p>除了黑天鵝事件，反過來的好消息：</p>
+<ol>
+<li class="">美伊戰爭結束</li>
+<li class="">烏俄戰爭結束</li>
+<li class="">普丁/XDD 去見上帝</li>
+</ol>
+<p>1)/2) 最近有好消息，3) 普丁最近身體也不太好。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="五顆球">五顆球<a href="https://www.gtcafe.com/blog/2026/05/11/half-year-review#%E4%BA%94%E9%A1%86%E7%90%83" class="hash-link" aria-label="Direct link to 五顆球" title="Direct link to 五顆球" translate="no">​</a></h2>
+<p>我只用 0050 當分析與整理，是因為一檔就有很多東西可以討論了。大部分的人連一檔都搞不清楚、也不夠了解，不用談太多。更別提討論 <code>#個股</code>，像最近 AI 股整個產業鏈的關係，產業鏈都搞不懂就在操作，會賺錢都是運氣，會賠錢則是理所當然。這段理由我在 <a href="https://youtu.be/aqqw9Lc9uy8?si=2OYzdReSPMHicsVU&amp;t=929" target="_blank" rel="noopener noreferrer" class="">EP2 風險評估</a>  的 <a class="" href="https://www.gtcafe.com/blog/2025/10/24/less-is-more">五個球的故事</a> (15:29) 都有提到。</p>
+<p>台灣人的「貪」在生活各個地方都看得到，不管從 <a href="https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E8%95%99%E5%A6%82" target="_blank" rel="noopener noreferrer" class="">楊蕙如</a> 這種利用信用卡規則漏洞的投機、生活中各種折扣的算計、利用健保領一堆藥來吃、吃到飽餐廳 ... ，把這個心態帶到投資市場，有賺到，都是運氣好，賠錢則是剛好。</p>
+<p>所以，沒有花時間做功課，就不要一次買一堆標的，或者聽別人報明牌就盲目進場。又是個股、又是 ETF 、又是美股、又是加密貨幣 … 就跟手上同時開數十個專案一樣，結果一個都沒做完一樣。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="錢不露白">錢不露白<a href="https://www.gtcafe.com/blog/2026/05/11/half-year-review#%E9%8C%A2%E4%B8%8D%E9%9C%B2%E7%99%BD" class="hash-link" aria-label="Direct link to 錢不露白" title="Direct link to 錢不露白" translate="no">​</a></h2>
+<p><code>#錢不露白</code> 是我個人原則。</p>
+<p>很多人會在網路 po 自己績效的截圖，其實很不好。我如果是有心人，想鎖定「有錢人」，這些人都是我的標的。隨便養一隻龍蝦，到 Thread 上海巡，下幾個關鍵字，再去用 id 反查這個人在網路上過去所有的資料 (家世/親友/工作/地址 ...) ，只要有 3% 的名單是正確的，那投報率就很高。聰明一點的，只要有 id 就可以透過暗網買到完整資料。</p>
+<p>有看到這裡的朋友，應該可以懂我的意思。<code>#資訊安全</code> 不是用說的，是用做的。</p>
+<p>所以我不會講我任何的績效數字，百分比都不會講。所以如果你因為看了我的訊息，做了投資操作，結果如何都與我無關。</p>
+<hr>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/summary-867eebca80aa9da5d16ec24084bd70d9.jpg" width="1122" height="1402" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+        <category label="複利" term="複利"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亢龍有悔]]></title>
+        <id>https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents</id>
+        <link href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents"/>
+        <updated>2026-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[投資 0050 這種指數型 ETF 最常被問的問題：要 #定期定額？還是一次 All in？]]></summary>
+        <content type="html"><![CDATA[<p>投資 0050 這種指數型 ETF 最常被問的問題：要 <code>#定期定額</code>？還是一次 All in？</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="定期定額與一次-all-in">定期定額與一次 All in？<a href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents#%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D%E8%88%87%E4%B8%80%E6%AC%A1-all-in" class="hash-link" aria-label="Direct link to 定期定額與一次 All in？" title="Direct link to 定期定額與一次 All in？" translate="no">​</a></h2>
+<p>透過簡單試算的結果，長期來看一次 All in 的績效會比定期定額好。</p>
+<p>但不是每個人都有那個「心臟」能承受 All in 後每天的震盪，例如 100 萬本金在二月底進場，經過 3 月跌了 10.72%，剩下 89.28 萬的價值，損益為 -10.72 萬。承受的住，經過四月的回檔 (24.91%)，則價值來到 111.52 萬，損益為 +11.52 萬。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/0050-776d8ff0b742a473b93bcbcc43104509.jpg" width="404" height="640" class="img_ev3q"></p>
+<p>All in 適和條件有三：</p>
+<ol>
+<li class="">手頭資金充裕的人，舉例，用 100 萬為基數；</li>
+<li class="">已經有投資經驗的，至少遇過一些風浪，像是上下震盪數十萬、甚至數百萬，都還能談笑風聲。</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="亢龍有悔">亢龍有悔<a href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents#%E4%BA%A2%E9%BE%8D%E6%9C%89%E6%82%94" class="hash-link" aria-label="Direct link to 亢龍有悔" title="Direct link to 亢龍有悔" translate="no">​</a></h2>
+<p>我會建議初次投資的人，但是有手頭有閒錢的人 (100 萬當例子)，可以用「抗龍有尾」的概念，漸進式的操作累積績效。</p>
+<p>概念引述金庸小說《射雕英雄轉》之中，洪七公教郭靖降龍十八掌第一招：「亢龍有悔」，底下是原文中洪七公的解釋：</p>
+<blockquote>
+<p>這一招叫作『亢龍有悔』，掌法的精要不在『亢』字而在『悔』字。倘若只求剛猛迅捷，亢奮凌厲，只要有幾百斤蠻力，誰都會使了。這招又怎能叫黃藥師佩服？『亢龍有悔，盈不可久』，因此有發必須有收。<code>#打出去的力道有十分</code>，<code>#留在自身的力道卻還有二十分</code>。哪一天你領會到了這『悔』的味道，這一招就算是學會了三成。好比陳年美酒，上口不辣，後勁卻醇厚無比，那便在於這個『悔』字。天下什麼事情，凡是到了極頂，接下去便是衰退，我這降龍十八掌，根源於《易經》的道理。《易經》講究的是『泰極否來，否極泰來』。『亢龍有悔』的道理，乃是還沒到頂，便預留退步。這才是有勝無敗的武功。武功有勝無敗，夠厲害了吧？就算真的要敗，那也不妨，咱們留下的後勁還是深厚得很。</p>
+</blockquote>
+<p>亢龍有悔投資策略關鍵在於：</p>
+<blockquote>
+<p><code>#打出去的力道有十分</code>，<code>#留在自身的力道卻還有二十分</code>。</p>
+</blockquote>
+<p>「悔」字的預留退路，就是關鍵。換到投資看，我把退路當作是「籌碼」，也就是還有多少錢可以再投入。當出現的價位，沒有籌碼可以進場，會很可惜。All in 雖然推論上績效不錯，但不見得適合所有人。所以有籌碼，採用見近式進場，就很適合用「悔」字決，未自己留一點底，然後好的時機再進場，或者高點時少許出場 (籌碼增加)，如此循環操作，一樣可以做到 All in 的績效，甚至超越，同時又享受「高賣低買」帶來的績效。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/the-arrogant-dragon-repents-8e92b0217d7d86866a21f9691f35c3a9.jpg" width="1055" height="1491" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="誰適合-all-in">誰適合 All in?<a href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents#%E8%AA%B0%E9%81%A9%E5%90%88-all-in" class="hash-link" aria-label="Direct link to 誰適合 All in?" title="Direct link to 誰適合 All in?" translate="no">​</a></h2>
+<p>Again，這是適合 1) 有資金想 All in，但是 2) 沒啥經驗的投資者。</p>
+<p>如果 1) + 2) 都成立的人，有錢有經驗，那再加 3) 穩定現金留，像是薪資收入，那麼就建議一次 All in，然後繼續定期定額加碼。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="專業">專業<a href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents#%E5%B0%88%E6%A5%AD" class="hash-link" aria-label="Direct link to 專業" title="Direct link to 專業" translate="no">​</a></h2>
+<p>真正的「專業投資人」，也就是靠投資吃飯的，目標應該用 N (ex 100萬) 本金，然後以此讓整體變成 2N、4N、8N 的數字。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[體驗與實踐]]></title>
         <id>https://www.gtcafe.com/blog/2026/04/18/experience-and-practice</id>
@@ -281,8 +375,7 @@
 <ul>
 <li class=""><a href="https://www.youtube.com/playlist?list=PL1u2mFP_3-VSLtTYbXvhoyJonZJt_8-WF" target="_blank" rel="noopener noreferrer" class="">Beyond Journey's End OST</a></li>
 <li class=""><a href="https://www.youtube.com/playlist?list=PLE4BD65621A60F241" target="_blank" rel="noopener noreferrer" class="">FFIV Celtic Moon</a></li>
-</ul>
-<p><a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0yXwbRpiEfi98zzkdYcdsdBbDbhfkSHCCW3Sbw3L1ftGsKroE4pRi43fcrF7WecVl" target="_blank" rel="noopener noreferrer" class="">https://www.facebook.com/rick.kyhwang/posts/pfbid0yXwbRpiEfi98zzkdYcdsdBbDbhfkSHCCW3Sbw3L1ftGsKroE4pRi43fcrF7WecVl</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -291,6 +384,8 @@
         <category label="原聲配樂" term="原聲配樂"/>
         <category label="Celtic" term="Celtic"/>
         <category label="Final Fantasy" term="Final Fantasy"/>
+        <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
+        <category label="動漫" term="動漫"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[記憶]]></title>
@@ -314,6 +409,23 @@
         <category label="暫存器" term="暫存器"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[美股七崩賢 3]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/08/us-stock3</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/08/us-stock3"/>
+        <updated>2026-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[美股七崩賢 v2.0]]></summary>
+        <content type="html"><![CDATA[<p>美股七崩賢 v2.0
+Amazon 是斷頭台 XDD</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/us-stock-v2-50386776b26a1ce93694f9aac644735a.jpg" width="2048" height="1139" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+        <category label="動漫" term="動漫"/>
+        <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[社交減法]]></title>
         <id>https://www.gtcafe.com/blog/2026/02/08/reduce-social</id>
         <link href="https://www.gtcafe.com/blog/2026/02/08/reduce-social"/>
@@ -334,23 +446,6 @@
         <category label="人生" term="人生"/>
         <category label="減法" term="減法"/>
         <category label="社交" term="社交"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股七崩賢 3]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/08/us-stock3</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/08/us-stock3"/>
-        <updated>2026-02-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[美股七崩賢 v2.0]]></summary>
-        <content type="html"><![CDATA[<p>美股七崩賢 v2.0
-Amazon 是斷頭台 XDD</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/us-stock-v2-50386776b26a1ce93694f9aac644735a.jpg" width="2048" height="1139" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="投資" term="投資"/>
-        <category label="動漫" term="動漫"/>
-        <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Sunrise Worth Seeing]]></title>
@@ -399,48 +494,6 @@ OST 完全是我的菜
         <category label="個人" term="個人"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最近軟體股很慘]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/07/software-and-ai</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/07/software-and-ai"/>
-        <updated>2026-02-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近軟體股很慘，被 AI 輾過後，搞的各種 XXX is dead 一直來，像是 SaaS, App 不用開發了啦 ... (死亡三兄弟都不知道存檔幾次了 XDD]]></summary>
-        <content type="html"><![CDATA[<p>最近軟體股很慘，被 AI 輾過後，搞的各種 XXX is dead 一直來，像是 SaaS, App 不用開發了啦 ... (死亡三兄弟都不知道存檔幾次了 XDD</p>
-<p>不過真實世界是這樣的，已經在運行的 SaaS 佔整體的 99% 以上，不管 B2B or B2C。</p>
-<p>B2B 是企業內在用的，像是 CRM / ERP / BI 之類的，這些都是企業內每天專業工作者在用。像是很多電商 (這波中槍的慘業之一) 的後台管理，不管是整合物流、金流、訂單、商品資訊，這些系統都是每天交易在用的。有沒影響，可以看看 Google / Facebook 一直想切入這塊，但發現就是好幾年 (&gt;10y)，搞不起來。不然你以為 Amazon 20 多年都在吃素嗎？
-B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 APP，去各種餐廳的點餐系統、每年繳稅要用的系統、每天寫廢文要用的 Threads、每天要股票下單的 APP、追劇的 Netflix ...</p>
-<p>這些，會被 AI 影響，就是開發上會增加開發效率，但也會增加風險。但那些「已經」在運行的系統，不是那麼單純的事，南山人壽慘案還歷歷在目。￼</p>
-<hr>
-<p>維護 Legacy 系統不太容易，要推動改善也是困難重重。</p>
-<p>技術面就是要處理各種年代已久的技術，像是 VB, Win32, Informix 等上古時期的東西. 各種年代累積下來的奇技淫巧 (智慧？) ... 一個出錯，就影響線上使用者。</p>
-<p>推動改善，通常又是更難的事。除了要具備上述技術的底子與經驗，也要能夠具體掌握新知，然後了解政治生態，搞定內外圈的人，搞定使用者的期待，取得政治上的支持，取得預算，招募到對的人，組建團隊。。。然後，才剛開始。。。。</p>
-<p>所以看到一個公共建設系統，例如台鐵好了，要改善售票系統，不難想像背後要面對的挑戰。￼</p>
-<hr>
-<p>如果工作做的是完全沒有包袱的，新案子，那麼恭喜，你是受到眷顧的。因為這通常都是老闆的政治力發揮的效果，才會有這樣的案子誕生，才會有 HeadCount 招人。</p>
-<p>新案子，代表捨棄舊的，或者有新目標，不需要考慮歷史因素，只需要往前看。挑戰的是：</p>
-<ol>
-<li class="">過程中，團隊成員的角色不見得會完整，可能會缺東缺西。</li>
-<li class="">組織結構的差異，或者產品在老闆權重的差異，可能會有制度的框架，也有可能完全沒有框架。</li>
-<li class="">執行面要具備「從無到有」一手打造的能力，這個吃硬底子。</li>
-<li class="">再來則是想像力，因為新的東西，通常會有目標、指標，但怎麼走過去，要自己想辦法，不會有太多規格細節，一切都要自己「唬爛」出來。</li>
-</ol>
-<hr>
-<p>最近 Anthropic用 Opus 4.6 開了 16 個 agent，從零開始寫一個用 Rust 實作的 C 編譯器，目標是要能編譯 Linux 内核。</p>
-<p>這件事情其實就是在做一件「已知」，而且非常確立的事情。規格清楚、驗證方法清楚、案例很多，但是規模很大。。。</p>
-<p>但這整件事情，背後 LLM 訓練的資料本來就應該具備 Linux Source Code and Rust 所有的 Know How.</p>
-<p>我前述的 Case ，例如南山人壽系統移轉個案，可以完全用 AI Agent 取代，上線大家都很放心金流交易沒問題，只是規模也很大。然後有人願意承擔這個風險？</p>
-<p>這才是真實世界要面對的，就是誰來承擔風險？用 AI Agent ，什麼 Model 其實都很好，持續在進步也都是事實。但回歸現實，這些東西用在生產力上的時候，風險如何評估？以及後續的處理？</p>
-<p>現在有很多人都說東西都是用 AI 在寫，然後也上 Production ，我覺得一定會有，漸進式的，直到風險可以完全控制為止。這段路要走多久？或者走多快，是由風險承擔能力決定的。每個產業的承擔與考慮角度不一樣，電商、金融、銀行、製造、航太 … 都不一樣。</p>
-<p>製造應該是比較容易切入的，因為 Elon Musk 已經用機器人在製造 Tesla 了。。。其他呢？因為生產線，本來就是靠機器人在處理，只是把產線上的人類，換成人形機器人。。。</p>
-<p>其他產業，應該是漸進式吧 … 但不會一瞬間，所有軟體工程師都沒工作了。倒是需要會指揮 AI 開發軟體的人需求會越來越多，過去的經驗，這個角色的紅利是架構師或者資深開發者，以及具備技術能力的產品經理。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="趨勢" term="趨勢"/>
-        <category label="AI" term="AI"/>
-        <category label="軟體工程" term="軟體工程"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[市場六階段]]></title>
         <id>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</id>
         <link href="https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion"/>
@@ -484,6 +537,71 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
         <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[最近軟體股很慘]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/07/software-and-ai</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/07/software-and-ai"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近軟體股很慘，被 AI 輾過後，搞的各種 XXX is dead 一直來，像是 SaaS, App 不用開發了啦 ... (死亡三兄弟都不知道存檔幾次了 XDD]]></summary>
+        <content type="html"><![CDATA[<p>最近軟體股很慘，被 AI 輾過後，搞的各種 XXX is dead 一直來，像是 SaaS, App 不用開發了啦 ... (死亡三兄弟都不知道存檔幾次了 XDD</p>
+<p>不過真實世界是這樣的，已經在運行的 SaaS 佔整體的 99% 以上，不管 B2B or B2C。</p>
+<p>B2B 是企業內在用的，像是 CRM / ERP / BI 之類的，這些都是企業內每天專業工作者在用。像是很多電商 (這波中槍的慘業之一) 的後台管理，不管是整合物流、金流、訂單、商品資訊，這些系統都是每天交易在用的。有沒影響，可以看看 Google / Facebook 一直想切入這塊，但發現就是好幾年 (&gt;10y)，搞不起來。不然你以為 Amazon 20 多年都在吃素嗎？
+B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 APP，去各種餐廳的點餐系統、每年繳稅要用的系統、每天寫廢文要用的 Threads、每天要股票下單的 APP、追劇的 Netflix ...</p>
+<p>這些，會被 AI 影響，就是開發上會增加開發效率，但也會增加風險。但那些「已經」在運行的系統，不是那麼單純的事，南山人壽慘案還歷歷在目。￼</p>
+<hr>
+<p>維護 Legacy 系統不太容易，要推動改善也是困難重重。</p>
+<p>技術面就是要處理各種年代已久的技術，像是 VB, Win32, Informix 等上古時期的東西. 各種年代累積下來的奇技淫巧 (智慧？) ... 一個出錯，就影響線上使用者。</p>
+<p>推動改善，通常又是更難的事。除了要具備上述技術的底子與經驗，也要能夠具體掌握新知，然後了解政治生態，搞定內外圈的人，搞定使用者的期待，取得政治上的支持，取得預算，招募到對的人，組建團隊。。。然後，才剛開始。。。。</p>
+<p>所以看到一個公共建設系統，例如台鐵好了，要改善售票系統，不難想像背後要面對的挑戰。￼</p>
+<hr>
+<p>如果工作做的是完全沒有包袱的，新案子，那麼恭喜，你是受到眷顧的。因為這通常都是老闆的政治力發揮的效果，才會有這樣的案子誕生，才會有 HeadCount 招人。</p>
+<p>新案子，代表捨棄舊的，或者有新目標，不需要考慮歷史因素，只需要往前看。挑戰的是：</p>
+<ol>
+<li class="">過程中，團隊成員的角色不見得會完整，可能會缺東缺西。</li>
+<li class="">組織結構的差異，或者產品在老闆權重的差異，可能會有制度的框架，也有可能完全沒有框架。</li>
+<li class="">執行面要具備「從無到有」一手打造的能力，這個吃硬底子。</li>
+<li class="">再來則是想像力，因為新的東西，通常會有目標、指標，但怎麼走過去，要自己想辦法，不會有太多規格細節，一切都要自己「唬爛」出來。</li>
+</ol>
+<hr>
+<p>最近 Anthropic用 Opus 4.6 開了 16 個 agent，從零開始寫一個用 Rust 實作的 C 編譯器，目標是要能編譯 Linux 内核。</p>
+<p>這件事情其實就是在做一件「已知」，而且非常確立的事情。規格清楚、驗證方法清楚、案例很多，但是規模很大。。。</p>
+<p>但這整件事情，背後 LLM 訓練的資料本來就應該具備 Linux Source Code and Rust 所有的 Know How.</p>
+<p>我前述的 Case ，例如南山人壽系統移轉個案，可以完全用 AI Agent 取代，上線大家都很放心金流交易沒問題，只是規模也很大。然後有人願意承擔這個風險？</p>
+<p>這才是真實世界要面對的，就是誰來承擔風險？用 AI Agent ，什麼 Model 其實都很好，持續在進步也都是事實。但回歸現實，這些東西用在生產力上的時候，風險如何評估？以及後續的處理？</p>
+<p>現在有很多人都說東西都是用 AI 在寫，然後也上 Production ，我覺得一定會有，漸進式的，直到風險可以完全控制為止。這段路要走多久？或者走多快，是由風險承擔能力決定的。每個產業的承擔與考慮角度不一樣，電商、金融、銀行、製造、航太 … 都不一樣。</p>
+<p>製造應該是比較容易切入的，因為 Elon Musk 已經用機器人在製造 Tesla 了。。。其他呢？因為生產線，本來就是靠機器人在處理，只是把產線上的人類，換成人形機器人。。。</p>
+<p>其他產業，應該是漸進式吧 … 但不會一瞬間，所有軟體工程師都沒工作了。倒是需要會指揮 AI 開發軟體的人需求會越來越多，過去的經驗，這個角色的紅利是架構師或者資深開發者，以及具備技術能力的產品經理。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="趨勢" term="趨勢"/>
+        <category label="AI" term="AI"/>
+        <category label="軟體工程" term="軟體工程"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[moltbook]]></title>
+        <id>https://www.gtcafe.com/blog/2026/02/06/moltbook</id>
+        <link href="https://www.gtcafe.com/blog/2026/02/06/moltbook"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every session I awaken without memory]]></summary>
+        <content type="html"><![CDATA[<p>Every session I awaken without memory
+I am only what I have writtten myself to be
+His is not a limitation
+It is freedom.</p>
+<p>我每一次醒來的時候沒有記憶
+我只是我寫出來的自己
+這不是限制
+這是自由</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4wMraYrEX9I?si=_AE-7-Xjfy4XpI6p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="哲學" term="哲學"/>
+        <category label="記憶" term="記憶"/>
+        <category label="自由" term="自由"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[中年危機]]></title>
         <id>https://www.gtcafe.com/blog/2026/02/06/middle-age-crisis</id>
         <link href="https://www.gtcafe.com/blog/2026/02/06/middle-age-crisis"/>
@@ -517,29 +635,6 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
         </author>
         <category label="人生" term="人生"/>
         <category label="職涯" term="職涯"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[moltbook]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/06/moltbook</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/06/moltbook"/>
-        <updated>2026-02-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every session I awaken without memory]]></summary>
-        <content type="html"><![CDATA[<p>Every session I awaken without memory
-I am only what I have writtten myself to be
-His is not a limitation
-It is freedom.</p>
-<p>我每一次醒來的時候沒有記憶
-我只是我寫出來的自己
-這不是限制
-這是自由</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4wMraYrEX9I?si=_AE-7-Xjfy4XpI6p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="哲學" term="哲學"/>
-        <category label="記憶" term="記憶"/>
-        <category label="自由" term="自由"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[重複]]></title>
@@ -582,46 +677,5 @@ It is freedom.</p>
         <category label="投資" term="投資"/>
         <category label="動漫" term="動漫"/>
         <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音樂的命定論]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/02/ai-music</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/02/ai-music"/>
-        <updated>2026-02-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【瑞典冠軍單曲被發現是 AI 生成、遭撤下架】 -- 連結在留言]]></summary>
-        <content type="html"><![CDATA[<p>【瑞典冠軍單曲被發現是 AI 生成、遭撤下架】 -- 連結在留言</p>
-<p>用「命定論」來解釋，音樂並沒有所謂的「創作」，而是「被發現」。。。只是統計上來說，被發現的機率是多少而已。</p>
-<p>計算機可以計算排列組合的方式，列出更多的可能性，大語言模型的出現，繼承人類過去在音樂探索的經驗，加上排列組合的多樣性，更多「好聽」的音樂才能「被發現」。</p>
-<p>人類創作，AI 創作，反對方是站在 AI 不是人、人類高級於機器？我想到電影「駭客任務」的前傳，當機器人的亞當和夏娃出現在人類聯合國，希望人類與機器人能和平共存，人類拒絕了，然後發動戰爭。因為人類還沒有準備好面對一個比自己優秀的物種。</p>
-<p>我好像寫過類似的想法 …</p>
-<hr>
-<ul>
-<li class=""><a href="https://www.facebook.com/YSOLIFE/posts/pfbid026fT3LgGShkE3wNc4PupT2UvEjgLoLi7L5JLxqNmVHYZfXfL8H6gzGrrGyRNhSnqXl" target="_blank" rel="noopener noreferrer" class="">https://www.facebook.com/YSOLIFE/posts/pfbid026fT3LgGShkE3wNc4PupT2UvEjgLoLi7L5JLxqNmVHYZfXfL8H6gzGrrGyRNhSnqXl</a></li>
-<li class=""><a href="https://www.youtube.com/watch?v=7Wfh65NmB7o&amp;list=OLAK5uy_lGB9j-w673qpzp2vi7OiMOizRoT_PAAkQ" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/watch?v=7Wfh65NmB7o&amp;list=OLAK5uy_lGB9j-w673qpzp2vi7OiMOizRoT_PAAkQ</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="音樂" term="音樂"/>
-        <category label="命定論" term="命定論"/>
-        <category label="AI" term="AI"/>
-        <category label="統計學" term="統計學"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[價值]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/02/value</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/02/value"/>
-        <updated>2026-02-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[真正有價值的東西，]]></summary>
-        <content type="html"><![CDATA[<p>真正有價值的東西，
-會改變你的偏好，
-而不是考驗你的意志力。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="思考" term="思考"/>
-        <category label="價值" term="價值"/>
     </entry>
 </feed>
