@@ -270,6 +270,23 @@
             <category>Final Fantasy</category>
         </item>
         <item>
+            <title><![CDATA[記憶]]></title>
+            <link>https://www.gtcafe.com/blog/2026/02/08/how-to-memory</link>
+            <guid>https://www.gtcafe.com/blog/2026/02/08/how-to-memory</guid>
+            <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[電子電路如何實作出「記憶」的概念，像是1 bit 的存、讀、寫 … 三個動作]]></description>
+            <content:encoded><![CDATA[<p>電子電路如何實作出「記憶」的概念，像是1 bit 的存、讀、寫 … 三個動作
+記憶電路: 交叉耦合電路 (暫存器的原理)
+「兩個人記憶力只有 7 秒，如何記住一件事情？」
+這個比喻用的很好 XDD</p>
+<p>發明這個電路的人，真是的是神人。
+以前電子學都不知道在學啥 XDD</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6GbTk753Muk?si=YsD7UAuaY_yaceUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>電子</category>
+            <category>記憶</category>
+            <category>暫存器</category>
+        </item>
+        <item>
             <title><![CDATA[社交減法]]></title>
             <link>https://www.gtcafe.com/blog/2026/02/08/reduce-social</link>
             <guid>https://www.gtcafe.com/blog/2026/02/08/reduce-social</guid>
@@ -286,23 +303,6 @@
             <category>人生</category>
             <category>減法</category>
             <category>社交</category>
-        </item>
-        <item>
-            <title><![CDATA[記憶]]></title>
-            <link>https://www.gtcafe.com/blog/2026/02/08/how-to-memory</link>
-            <guid>https://www.gtcafe.com/blog/2026/02/08/how-to-memory</guid>
-            <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[電子電路如何實作出「記憶」的概念，像是1 bit 的存、讀、寫 … 三個動作]]></description>
-            <content:encoded><![CDATA[<p>電子電路如何實作出「記憶」的概念，像是1 bit 的存、讀、寫 … 三個動作
-記憶電路: 交叉耦合電路 (暫存器的原理)
-「兩個人記憶力只有 7 秒，如何記住一件事情？」
-這個比喻用的很好 XDD</p>
-<p>發明這個電路的人，真是的是神人。
-以前電子學都不知道在學啥 XDD</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6GbTk753Muk?si=YsD7UAuaY_yaceUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>電子</category>
-            <category>記憶</category>
-            <category>暫存器</category>
         </item>
         <item>
             <title><![CDATA[美股七崩賢 3]]></title>
@@ -394,6 +394,22 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
             <category>軟體工程</category>
         </item>
         <item>
+            <title><![CDATA[市場六階段]]></title>
+            <link>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</link>
+            <guid>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</guid>
+            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。]]></description>
+            <content:encoded><![CDATA[<p>市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。</p>
+<p>1.承接（要抄底的時候）: 新聞告訴你要多留現金，不過機構已經看到復甦的訊號開始佈局。
+2.上升（最容易賺到錢的時候）: 慢慢開始有好消息釋出，價格跟著快速上漲。
+3.沸騰（最多人想加入市場）: 市場充斥著利多，目標價格每天都在上移，但價格卻漲不上去。
+4.出貨（新手容易買在這個價格）: 常出現緩漲急跌，大家滿手持倉即便套牢也不願意賣出。
+5.恐慌（壞消息開始瘋狂釋出）: 下跌最快速的時候，市場極度不理性過去的壞消息都會被挖出來當作下跌理由。
+6.絕望（左側抄底）: 市場就算出現壞消息價格也跌不下去了</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/cycle-of-market-emotion-b904d5c60430278e2a2951e3183ae61a.jpg" width="675" height="368" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>投資</category>
+        </item>
+        <item>
             <title><![CDATA[美股七崩賢 2]]></title>
             <link>https://www.gtcafe.com/blog/2026/02/07/us-stock2</link>
             <guid>https://www.gtcafe.com/blog/2026/02/07/us-stock2</guid>
@@ -411,22 +427,6 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
             <category>投資</category>
             <category>動漫</category>
             <category>葬送的芙莉蓮</category>
-        </item>
-        <item>
-            <title><![CDATA[市場六階段]]></title>
-            <link>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</link>
-            <guid>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</guid>
-            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。]]></description>
-            <content:encoded><![CDATA[<p>市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。</p>
-<p>1.承接（要抄底的時候）: 新聞告訴你要多留現金，不過機構已經看到復甦的訊號開始佈局。
-2.上升（最容易賺到錢的時候）: 慢慢開始有好消息釋出，價格跟著快速上漲。
-3.沸騰（最多人想加入市場）: 市場充斥著利多，目標價格每天都在上移，但價格卻漲不上去。
-4.出貨（新手容易買在這個價格）: 常出現緩漲急跌，大家滿手持倉即便套牢也不願意賣出。
-5.恐慌（壞消息開始瘋狂釋出）: 下跌最快速的時候，市場極度不理性過去的壞消息都會被挖出來當作下跌理由。
-6.絕望（左側抄底）: 市場就算出現壞消息價格也跌不下去了</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/cycle-of-market-emotion-b904d5c60430278e2a2951e3183ae61a.jpg" width="675" height="368" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
         </item>
         <item>
             <title><![CDATA[中年危機]]></title>
@@ -479,21 +479,6 @@ It is freedom.</p>
             <category>自由</category>
         </item>
         <item>
-            <title><![CDATA[美股七崩賢1]]></title>
-            <link>https://www.gtcafe.com/blog/2026/02/06/us-stock</link>
-            <guid>https://www.gtcafe.com/blog/2026/02/06/us-stock</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[美股七崩賢 .... XDD]]></description>
-            <content:encoded><![CDATA[<p>美股七崩賢 .... XDD</p>
-<p>蘋果 亞馬遜 臉書 微軟 輝達 谷歌 特斯拉</p>
-<p>誰是斷頭台？
-現在斷頭的明明是比特幣 XD</p>
-<p>source: <a href="https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3" target="_blank" rel="noopener noreferrer" class="">https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
-            <category>動漫</category>
-            <category>葬送的芙莉蓮</category>
-        </item>
-        <item>
             <title><![CDATA[重複]]></title>
             <link>https://www.gtcafe.com/blog/2026/02/06/repeat</link>
             <guid>https://www.gtcafe.com/blog/2026/02/06/repeat</guid>
@@ -511,6 +496,21 @@ It is freedom.</p>
             <category>動漫</category>
             <category>葬送的芙莉蓮</category>
             <category>進擊的巨人</category>
+        </item>
+        <item>
+            <title><![CDATA[美股七崩賢1]]></title>
+            <link>https://www.gtcafe.com/blog/2026/02/06/us-stock</link>
+            <guid>https://www.gtcafe.com/blog/2026/02/06/us-stock</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[美股七崩賢 .... XDD]]></description>
+            <content:encoded><![CDATA[<p>美股七崩賢 .... XDD</p>
+<p>蘋果 亞馬遜 臉書 微軟 輝達 谷歌 特斯拉</p>
+<p>誰是斷頭台？
+現在斷頭的明明是比特幣 XD</p>
+<p>source: <a href="https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3" target="_blank" rel="noopener noreferrer" class="">https://www.threads.com/@dahlia198484/post/DUZjNJpAXz3</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>投資</category>
+            <category>動漫</category>
+            <category>葬送的芙莉蓮</category>
         </item>
         <item>
             <title><![CDATA[音樂的命定論]]></title>
