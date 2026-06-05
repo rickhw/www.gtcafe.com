@@ -323,6 +323,39 @@
             <category>思考</category>
         </item>
         <item>
+            <title><![CDATA[遊戲設計理論：MDA 框架模型]]></title>
+            <link>https://www.gtcafe.com/blog/2026/03/02/mda</link>
+            <guid>https://www.gtcafe.com/blog/2026/03/02/mda</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[近代遊戲設計理論]]></description>
+            <content:encoded><![CDATA[<p>近代遊戲設計理論</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mda-框架模型-2004">MDA 框架模型 (2004)<a href="https://www.gtcafe.com/blog/2026/03/02/mda#mda-%E6%A1%86%E6%9E%B6%E6%A8%A1%E5%9E%8B-2004" class="hash-link" aria-label="Direct link to MDA 框架模型 (2004)" title="Direct link to MDA 框架模型 (2004)" translate="no">​</a></h2>
+<ul>
+<li class="">M = Mechanics 機制: 遊戲內，資料表現方式和規則系統的具體組成元件。</li>
+<li class="">D = Dynamics 動態: 對於隨遊戲時間推移，玩家所採取的行動，與和系統進行互動，遊戲機制對應而生的行為。</li>
+<li class="">A = Aesthetics 美學: 玩家在遊戲互動過程中，預期能藉此獲得的感受反饋。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="定義什麼叫好玩">定義什麼叫「好玩」？<a href="https://www.gtcafe.com/blog/2026/03/02/mda#%E5%AE%9A%E7%BE%A9%E4%BB%80%E9%BA%BC%E5%8F%AB%E5%A5%BD%E7%8E%A9" class="hash-link" aria-label="Direct link to 定義什麼叫「好玩」？" title="Direct link to 定義什麼叫「好玩」？" translate="no">​</a></h2>
+<ol>
+<li class="">Sensation — Game as sense-pleasure, 感官 : 視覺、聲光效果對感官的刺激</li>
+<li class="">Fantasy — Game as make-believe, 幻想 : 真實可信、如身歷其境的虛幻世界</li>
+<li class="">Narrative — Game as drama, 敘事 : 層疊堆砌、引人入勝的故事</li>
+<li class="">Challenge — Game as obstacle course, 挑戰 : 令人期待、克服的重重關卡</li>
+<li class="">Fellowship — Game as social framework, 夥伴 : 與他人互動、社交的同伴情誼</li>
+<li class="">Discovery — Game as uncharted territory, 探索 : 發現未知的疆域與事物</li>
+<li class="">Expression — Game as self-discovery, 表達 : 表現自我的舞台</li>
+<li class="">Submission — Game as pastime, 休閒 : 不費勁的簡單娛樂</li>
+</ol>
+<p>論文: <a href="https://users.cs.northwestern.edu/~hunicke/MDA.pdf" target="_blank" rel="noopener noreferrer" class="">https://users.cs.northwestern.edu/~hunicke/MDA.pdf</a></p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/mda-ea4dc8e3d6098f59960984b6f8c63e9d.jpg" width="956" height="245" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/system-flow-1882d63fd7733e2775488da83130faa3.jpg" width="800" height="356" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/aesthetics-3d24fc6f20f27ce0941a16b5ad54ea75.jpg" width="991" height="793" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/feedback-4a32fbf9309bacbdd672b911701ee995.jpg" width="872" height="576" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>遊戲</category>
+            <category>遊戲設計</category>
+            <category>MDA</category>
+        </item>
+        <item>
             <title><![CDATA[人類、機械、意識]]></title>
             <link>https://www.gtcafe.com/blog/2026/03/02/human-machine-willing</link>
             <guid>https://www.gtcafe.com/blog/2026/03/02/human-machine-willing</guid>
@@ -443,39 +476,6 @@
             <category>科幻</category>
         </item>
         <item>
-            <title><![CDATA[遊戲設計理論：MDA 框架模型]]></title>
-            <link>https://www.gtcafe.com/blog/2026/03/02/mda</link>
-            <guid>https://www.gtcafe.com/blog/2026/03/02/mda</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[近代遊戲設計理論]]></description>
-            <content:encoded><![CDATA[<p>近代遊戲設計理論</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mda-框架模型-2004">MDA 框架模型 (2004)<a href="https://www.gtcafe.com/blog/2026/03/02/mda#mda-%E6%A1%86%E6%9E%B6%E6%A8%A1%E5%9E%8B-2004" class="hash-link" aria-label="Direct link to MDA 框架模型 (2004)" title="Direct link to MDA 框架模型 (2004)" translate="no">​</a></h2>
-<ul>
-<li class="">M = Mechanics 機制: 遊戲內，資料表現方式和規則系統的具體組成元件。</li>
-<li class="">D = Dynamics 動態: 對於隨遊戲時間推移，玩家所採取的行動，與和系統進行互動，遊戲機制對應而生的行為。</li>
-<li class="">A = Aesthetics 美學: 玩家在遊戲互動過程中，預期能藉此獲得的感受反饋。</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="定義什麼叫好玩">定義什麼叫「好玩」？<a href="https://www.gtcafe.com/blog/2026/03/02/mda#%E5%AE%9A%E7%BE%A9%E4%BB%80%E9%BA%BC%E5%8F%AB%E5%A5%BD%E7%8E%A9" class="hash-link" aria-label="Direct link to 定義什麼叫「好玩」？" title="Direct link to 定義什麼叫「好玩」？" translate="no">​</a></h2>
-<ol>
-<li class="">Sensation — Game as sense-pleasure, 感官 : 視覺、聲光效果對感官的刺激</li>
-<li class="">Fantasy — Game as make-believe, 幻想 : 真實可信、如身歷其境的虛幻世界</li>
-<li class="">Narrative — Game as drama, 敘事 : 層疊堆砌、引人入勝的故事</li>
-<li class="">Challenge — Game as obstacle course, 挑戰 : 令人期待、克服的重重關卡</li>
-<li class="">Fellowship — Game as social framework, 夥伴 : 與他人互動、社交的同伴情誼</li>
-<li class="">Discovery — Game as uncharted territory, 探索 : 發現未知的疆域與事物</li>
-<li class="">Expression — Game as self-discovery, 表達 : 表現自我的舞台</li>
-<li class="">Submission — Game as pastime, 休閒 : 不費勁的簡單娛樂</li>
-</ol>
-<p>論文: <a href="https://users.cs.northwestern.edu/~hunicke/MDA.pdf" target="_blank" rel="noopener noreferrer" class="">https://users.cs.northwestern.edu/~hunicke/MDA.pdf</a></p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/mda-ea4dc8e3d6098f59960984b6f8c63e9d.jpg" width="956" height="245" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/system-flow-1882d63fd7733e2775488da83130faa3.jpg" width="800" height="356" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/aesthetics-3d24fc6f20f27ce0941a16b5ad54ea75.jpg" width="991" height="793" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/feedback-4a32fbf9309bacbdd672b911701ee995.jpg" width="872" height="576" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>遊戲</category>
-            <category>遊戲設計</category>
-            <category>MDA</category>
-        </item>
-        <item>
             <title><![CDATA[Thread 實驗]]></title>
             <link>https://www.gtcafe.com/blog/2026/03/02/thread</link>
             <guid>https://www.gtcafe.com/blog/2026/03/02/thread</guid>
@@ -594,6 +594,22 @@ Amazon 是斷頭台 XDD</p>
             <category>葬送的芙莉蓮</category>
         </item>
         <item>
+            <title><![CDATA[生氣氣]]></title>
+            <link>https://www.gtcafe.com/blog/2026/02/07/angry</link>
+            <guid>https://www.gtcafe.com/blog/2026/02/07/angry</guid>
+            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[大概從去年 12 月開始就一直在看 Yamaha MODX 各個介紹/測試/比較的 YT, 音色/功能/用途, 看手冊, 然後也跟 Gemini 討論一些使用的情境, 以及未來工作流程上的調整. 像是跟 Logic Pro 的工作流程, 錄音作業方式 … etc.]]></description>
+            <content:encoded><![CDATA[<p>大概從去年 12 月開始就一直在看 Yamaha MODX 各個介紹/測試/比較的 YT, 音色/功能/用途, 看手冊, 然後也跟 Gemini 討論一些使用的情境, 以及未來工作流程上的調整. 像是跟 Logic Pro 的工作流程, 錄音作業方式 … etc.</p>
+<p>不免俗的, 也比較了 Fantom 0 系列, 還有 Manatage M 系列的差異.</p>
+<p>本來預期今天應該拿到貨, 工作空間都喬好了, 原本的 Motif XS8 也先搬走, 空出空間, 準備開心的玩 … 結果 ….</p>
+<p>代理說現在下單要 3-4 個月才拿得到貨, 台灣樂器行庫存都沒有現貨, Yamaha 要下單才會配發 … QQ …</p>
+<p>Yamaha 發動 YT 搞那麼多行銷是在搞 … 啥？</p>
+<p>不過一堆樂器的電商網站, 都有上架這台琴, 點選時都有庫存, 寫信去問, 結果都說要先預訂. 所以網站上的商品數量是在標好玩的？</p>
+<p>然後我又被廣告 targeting, 現在一直出現, 然後又沒貨, … 整個 火
+這是一篇怨念文 …. 算了 …</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>個人</category>
+        </item>
+        <item>
             <title><![CDATA[A Sunrise Worth Seeing]]></title>
             <link>https://www.gtcafe.com/blog/2026/02/07/a-sunrise-worth-seeing</link>
             <guid>https://www.gtcafe.com/blog/2026/02/07/a-sunrise-worth-seeing</guid>
@@ -614,38 +630,6 @@ OST 完全是我的菜
             <category>聽音樂</category>
             <category>葬送的芙莉蓮</category>
             <category>動漫</category>
-        </item>
-        <item>
-            <title><![CDATA[生氣氣]]></title>
-            <link>https://www.gtcafe.com/blog/2026/02/07/angry</link>
-            <guid>https://www.gtcafe.com/blog/2026/02/07/angry</guid>
-            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[大概從去年 12 月開始就一直在看 Yamaha MODX 各個介紹/測試/比較的 YT, 音色/功能/用途, 看手冊, 然後也跟 Gemini 討論一些使用的情境, 以及未來工作流程上的調整. 像是跟 Logic Pro 的工作流程, 錄音作業方式 … etc.]]></description>
-            <content:encoded><![CDATA[<p>大概從去年 12 月開始就一直在看 Yamaha MODX 各個介紹/測試/比較的 YT, 音色/功能/用途, 看手冊, 然後也跟 Gemini 討論一些使用的情境, 以及未來工作流程上的調整. 像是跟 Logic Pro 的工作流程, 錄音作業方式 … etc.</p>
-<p>不免俗的, 也比較了 Fantom 0 系列, 還有 Manatage M 系列的差異.</p>
-<p>本來預期今天應該拿到貨, 工作空間都喬好了, 原本的 Motif XS8 也先搬走, 空出空間, 準備開心的玩 … 結果 ….</p>
-<p>代理說現在下單要 3-4 個月才拿得到貨, 台灣樂器行庫存都沒有現貨, Yamaha 要下單才會配發 … QQ …</p>
-<p>Yamaha 發動 YT 搞那麼多行銷是在搞 … 啥？</p>
-<p>不過一堆樂器的電商網站, 都有上架這台琴, 點選時都有庫存, 寫信去問, 結果都說要先預訂. 所以網站上的商品數量是在標好玩的？</p>
-<p>然後我又被廣告 targeting, 現在一直出現, 然後又沒貨, … 整個 火
-這是一篇怨念文 …. 算了 …</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>個人</category>
-        </item>
-        <item>
-            <title><![CDATA[市場六階段]]></title>
-            <link>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</link>
-            <guid>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</guid>
-            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。]]></description>
-            <content:encoded><![CDATA[<p>市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。</p>
-<p>1.承接（要抄底的時候）: 新聞告訴你要多留現金，不過機構已經看到復甦的訊號開始佈局。
-2.上升（最容易賺到錢的時候）: 慢慢開始有好消息釋出，價格跟著快速上漲。
-3.沸騰（最多人想加入市場）: 市場充斥著利多，目標價格每天都在上移，但價格卻漲不上去。
-4.出貨（新手容易買在這個價格）: 常出現緩漲急跌，大家滿手持倉即便套牢也不願意賣出。
-5.恐慌（壞消息開始瘋狂釋出）: 下跌最快速的時候，市場極度不理性過去的壞消息都會被挖出來當作下跌理由。
-6.絕望（左側抄底）: 市場就算出現壞消息價格也跌不下去了</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/cycle-of-market-emotion-b904d5c60430278e2a2951e3183ae61a.jpg" width="675" height="368" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
         </item>
         <item>
             <title><![CDATA[最近軟體股很慘]]></title>
@@ -684,6 +668,22 @@ B2C 就是一班鄉民會直接用到，舉例生活中去便利商店的結帳 
             <category>趨勢</category>
             <category>AI</category>
             <category>軟體工程</category>
+        </item>
+        <item>
+            <title><![CDATA[市場六階段]]></title>
+            <link>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</link>
+            <guid>https://www.gtcafe.com/blog/2026/02/07/cycle-of-market-emotion</guid>
+            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。]]></description>
+            <content:encoded><![CDATA[<p>市場分為六個階段，承接、上升、沸騰、出貨、恐慌、絕望。</p>
+<p>1.承接（要抄底的時候）: 新聞告訴你要多留現金，不過機構已經看到復甦的訊號開始佈局。
+2.上升（最容易賺到錢的時候）: 慢慢開始有好消息釋出，價格跟著快速上漲。
+3.沸騰（最多人想加入市場）: 市場充斥著利多，目標價格每天都在上移，但價格卻漲不上去。
+4.出貨（新手容易買在這個價格）: 常出現緩漲急跌，大家滿手持倉即便套牢也不願意賣出。
+5.恐慌（壞消息開始瘋狂釋出）: 下跌最快速的時候，市場極度不理性過去的壞消息都會被挖出來當作下跌理由。
+6.絕望（左側抄底）: 市場就算出現壞消息價格也跌不下去了</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/cycle-of-market-emotion-b904d5c60430278e2a2951e3183ae61a.jpg" width="675" height="368" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>投資</category>
         </item>
         <item>
             <title><![CDATA[美股七崩賢 2]]></title>

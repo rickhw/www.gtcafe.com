@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksite_www_gtcafe_com_src=globalThis.webpackChunksite_www_gtcafe_com_src||[]).push([[2201],{68878(e){e.exports=JSON.parse('{"metadata":{"permalink":"/blog/page/29","page":29,"postsPerPage":10,"totalPages":38,"totalCount":376,"previousPage":"/blog/page/28","nextPage":"/blog/page/30","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
