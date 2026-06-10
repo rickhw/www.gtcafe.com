@@ -857,19 +857,6 @@
             <category>科幻</category>
         </item>
         <item>
-            <title><![CDATA[Thread 實驗]]></title>
-            <link>https://www.gtcafe.com/blog/2026/03/02/thread</link>
-            <guid>https://www.gtcafe.com/blog/2026/03/02/thread</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Thread 小實驗結果摘要]]></description>
-            <content:encoded><![CDATA[<p>Thread 小實驗結果摘要</p>
-<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
-<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
-<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>人生</category>
-            <category>社交</category>
-        </item>
-        <item>
             <title><![CDATA[遊戲設計理論：MDA 框架模型]]></title>
             <link>https://www.gtcafe.com/blog/2026/03/02/mda</link>
             <guid>https://www.gtcafe.com/blog/2026/03/02/mda</guid>
@@ -901,6 +888,19 @@
             <category>遊戲</category>
             <category>遊戲設計</category>
             <category>MDA</category>
+        </item>
+        <item>
+            <title><![CDATA[Thread 實驗]]></title>
+            <link>https://www.gtcafe.com/blog/2026/03/02/thread</link>
+            <guid>https://www.gtcafe.com/blog/2026/03/02/thread</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thread 小實驗結果摘要]]></description>
+            <content:encoded><![CDATA[<p>Thread 小實驗結果摘要</p>
+<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
+<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
+<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>人生</category>
+            <category>社交</category>
         </item>
         <item>
             <title><![CDATA[時間、遺憾與冒險：聊聊「葬送的芙莉蓮」原聲配樂]]></title>
@@ -977,17 +977,22 @@
             <category>暫存器</category>
         </item>
         <item>
-            <title><![CDATA[美股七崩賢 3]]></title>
-            <link>https://www.gtcafe.com/blog/2026/02/08/us-stock3</link>
-            <guid>https://www.gtcafe.com/blog/2026/02/08/us-stock3</guid>
+            <title><![CDATA[社交減法]]></title>
+            <link>https://www.gtcafe.com/blog/2026/02/08/reduce-social</link>
+            <guid>https://www.gtcafe.com/blog/2026/02/08/reduce-social</guid>
             <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[美股七崩賢 v2.0]]></description>
-            <content:encoded><![CDATA[<p>美股七崩賢 v2.0
-Amazon 是斷頭台 XDD</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/us-stock-v2-50386776b26a1ce93694f9aac644735a.jpg" width="2048" height="1139" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
-            <category>動漫</category>
-            <category>葬送的芙莉蓮</category>
+            <description><![CDATA[高價值社交的 5 個「減法原則」：]]></description>
+            <content:encoded><![CDATA[<p>高價值社交的 5 個「減法原則」：</p>
+<ol>
+<li class="">刪掉不回訊息的人： 哪怕他再有錢，不尊重你時間的人都不值得深交。</li>
+<li class="">減少無意義的飯局： 一場聚會不能讓你學到東西或讓你感到放鬆，那是消耗。</li>
+<li class="">停止向不相關的人索取建議： 問路要問「去過那裡的人」，而不是「正在路邊吵架的人」。</li>
+<li class="">不再試圖說服所有人： 認知不同，解釋再多也是浪費口水。</li>
+<li class="">把能量留給「能給你正回饋」的人。</li>
+</ol><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>人生</category>
+            <category>減法</category>
+            <category>社交</category>
         </item>
     </channel>
 </rss>
