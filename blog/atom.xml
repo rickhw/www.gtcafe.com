@@ -820,6 +820,28 @@
         <category label="思考" term="思考"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[巨獸]]></title>
+        <id>https://www.gtcafe.com/blog/2026/04/10/monster</id>
+        <link href="https://www.gtcafe.com/blog/2026/04/10/monster"/>
+        <updated>2026-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[巨獸 ...]]></summary>
+        <content type="html"><![CDATA[<p>巨獸 ...</p>
+<p>「你們看這片燈海像什麼呢？」</p>
+<p>『像一隻千眼巨獸。巨獸渾身都眨著晶亮的眼睛，每隻眼晴都有一個靈魂，每隻眼睛都以為有自己的獨立生命，獨立作為。』</p>
+<p>『其實眼睛都錯了，它們不知道，其實它們都是附生在巨獸身上的一個器官，它們以為自己可以完全自主，其實巨獸往東它們就全體往東，巨獸呻吟它們就全體受苦，巨獸思考它們就全體困惑。』</p>
+<p>『有時候其中的一隻眼睛覺醒了，開始反省這是它的生命，還是它生活在一個更巨大的生命中。但它只有更迷惑，因為它不能確定這樣覺醒思維的是它自己，還是巨獸。』</p>
+<p>『我也是巨獸身上的一隻眼睛，脫離巨獸，我就乾燥死亡，連眼睛也不是…』</p>
+<p>『一隻失群的螞蟻可以稱之為一隻螞蟻嗎？不是了，包只是一點點神的組茫然懵懂，原來在蟻群中建築巢穴儲存食物的智力都不復存在了，它只能像在一樣走來走去，一直到死。』</p>
+<p>『這隻巨獸，它生成了我們，我們又組成了它。你們稱它為社會，或者是命運共同體，本質都一樣，這隻巨獸長得美我們就美，它長得惡我們就惡…。』￼</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="閱讀" term="閱讀"/>
+        <category label="朱少麟" term="朱少麟"/>
+        <category label="傷心咖啡店之歌" term="傷心咖啡店之歌"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[人類、機械、意識]]></title>
         <id>https://www.gtcafe.com/blog/2026/03/02/human-machine-willing</id>
         <link href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing"/>
@@ -1057,26 +1079,5 @@
         <category label="Final Fantasy" term="Final Fantasy"/>
         <category label="葬送的芙莉蓮" term="葬送的芙莉蓮"/>
         <category label="動漫" term="動漫"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[記憶]]></title>
-        <id>https://www.gtcafe.com/blog/2026/02/08/how-to-memory</id>
-        <link href="https://www.gtcafe.com/blog/2026/02/08/how-to-memory"/>
-        <updated>2026-02-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[電子電路如何實作出「記憶」的概念，像是1 bit 的存、讀、寫 … 三個動作]]></summary>
-        <content type="html"><![CDATA[<p>電子電路如何實作出「記憶」的概念，像是1 bit 的存、讀、寫 … 三個動作
-記憶電路: 交叉耦合電路 (暫存器的原理)
-「兩個人記憶力只有 7 秒，如何記住一件事情？」
-這個比喻用的很好 XDD</p>
-<p>發明這個電路的人，真是的是神人。
-以前電子學都不知道在學啥 XDD</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6GbTk753Muk?si=YsD7UAuaY_yaceUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="電子" term="電子"/>
-        <category label="記憶" term="記憶"/>
-        <category label="暫存器" term="暫存器"/>
     </entry>
 </feed>
