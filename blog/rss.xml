@@ -4,10 +4,412 @@
         <title>GTCafe Studio Blog</title>
         <link>https://www.gtcafe.com/blog</link>
         <description>GTCafe Studio Blog</description>
-        <lastBuildDate>Mon, 08 Jun 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[FIRE]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/21/fire</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/21/fire</guid>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[整理得還不錯，有參考價值]]></description>
+            <content:encoded><![CDATA[<p>整理得還不錯，有參考價值<br>
+<!-- -->整理 by NotebookLM</p>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KWbUGFwKLys?si=e2JYMVT3GkniSoMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>這部來自「Kelly Tsai」頻道（講者 KY）的影片，深入探討了「FIRE（財務獨立，提早退休）」運動的真實性，並對比了在美國矽谷與台灣執行 FIRE 的難度與隱藏風險。以下是影片的重點摘要：</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-fire-的核心公式與五大變體">1. FIRE 的核心公式與五大變體<a href="https://www.gtcafe.com/blog/2026/06/21/fire#1-fire-%E7%9A%84%E6%A0%B8%E5%BF%83%E5%85%AC%E5%BC%8F%E8%88%87%E4%BA%94%E5%A4%A7%E8%AE%8A%E9%AB%94" class="hash-link" aria-label="Direct link to 1. FIRE 的核心公式與五大變體" title="Direct link to 1. FIRE 的核心公式與五大變體" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#兩大核心數字</code>：FIRE 的目標金額通常設定為「年支出 × 25」，而提領標準則源自於 1990 年代的「4% 法則（安穩提領率 SWR）」。</li>
+<li class=""><code>#五種FIRE模式</code>：隨著時間發展，FIRE 衍生出多種版本，包括極簡版的 Lean FIRE（年支出約 120 萬台幣以下）、中產版的 Regular FIRE、富裕版的 Fat FIRE（年支出 10 萬美金以上）、靠複利增長的 Coast FIRE，以及透過兼職打工來補足生活費與健保的 Barista FIRE（半退休）。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-儲蓄率的迷思與台灣中產的困境">2. 儲蓄率的迷思與台灣中產的困境<a href="https://www.gtcafe.com/blog/2026/06/21/fire#2-%E5%84%B2%E8%93%84%E7%8E%87%E7%9A%84%E8%BF%B7%E6%80%9D%E8%88%87%E5%8F%B0%E7%81%A3%E4%B8%AD%E7%94%A2%E7%9A%84%E5%9B%B0%E5%A2%83" class="hash-link" aria-label="Direct link to 2. 儲蓄率的迷思與台灣中產的困境" title="Direct link to 2. 儲蓄率的迷思與台灣中產的困境" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#儲蓄率決定退休時間</code>：無論年薪高低，只要能維持 50% 的儲蓄率，理論上 17 年就能達到 FIRE。</li>
+<li class=""><code>#台灣的執行難度</code>：以台灣受僱人員薪資中位數（月薪約 4.5 萬台幣）來算，若要存下 50%，每個月只能花 2.27 萬台幣。這意味著在六都必須租便宜雅房、不能養車、限制外食花費，雖然理論上可行，但實際執行極度困難。這顯示 FIRE 公式其實隱含了「高薪」的前提。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-4-法則的危機與修正">3. 「4% 法則」的危機與修正<a href="https://www.gtcafe.com/blog/2026/06/21/fire#3-4-%E6%B3%95%E5%89%87%E7%9A%84%E5%8D%B1%E6%A9%9F%E8%88%87%E4%BF%AE%E6%AD%A3" class="hash-link" aria-label="Direct link to 3. 「4% 法則」的危機與修正" title="Direct link to 3. 「4% 法則」的危機與修正" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#數字已不適用</code>：因為現代人退休後可能還要活 40 到 50 年（而非當初模型設定的 30 年），加上市場的「序列表現風險」（Sequence of returns risk，即退休前幾年若遇上股災，本金會大縮水且難以回復），4% 法則已受到挑戰。</li>
+<li class=""><code>#權威機構的新建議</code>：目前不同機構給出不同的提領率建議，例如 Morningstar 建議 3.9%，而最保守的 ERN 網站甚至建議降至 3.25%。這代表準備的本金需要比傳統公式計算得更多。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-退休後最可怕的四個隱藏地雷">4. 退休後最可怕的四個隱藏地雷<a href="https://www.gtcafe.com/blog/2026/06/21/fire#4-%E9%80%80%E4%BC%91%E5%BE%8C%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E5%9B%9B%E5%80%8B%E9%9A%B1%E8%97%8F%E5%9C%B0%E9%9B%B7" class="hash-link" aria-label="Direct link to 4. 退休後最可怕的四個隱藏地雷" title="Direct link to 4. 退休後最可怕的四個隱藏地雷" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#醫療費</code>：美國 65 歲前沒有政府 Medicare，提早退休者須自行承擔高昂的醫療保費，全家保費可能高達每月 4.5 萬台幣；反觀台灣每月健保自付額僅需 826 元。</li>
+<li class=""><code>#長照費用</code>：美國私人護理之家一年約需 380 萬台幣，而台灣約需 44 到 46 萬台幣，差距高達 5 到 7 倍。由於平均長照需求達 7.3 年，這是一筆不可忽視的巨額開銷。</li>
+<li class=""><code>#AI衝擊就業</code>：過去 FIRE 成功的案例多來自矽谷的高薪軟體工程師，但隨著 AI 開始取代中階工程師，這種依賴高薪快速累積資產的劇本可能難以複製。</li>
+<li class=""><code>#長壽風險</code>：健康夫妻有 20% 的機率其中一人會活過 100 歲，壽命延長將大幅增加所需的退休金。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-台灣人其實比矽谷工程師更容易-fire">5. 台灣人其實比矽谷工程師更容易 FIRE？<a href="https://www.gtcafe.com/blog/2026/06/21/fire#5-%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%85%B6%E5%AF%A6%E6%AF%94%E7%9F%BD%E8%B0%B7%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%9B%B4%E5%AE%B9%E6%98%93-fire" class="hash-link" aria-label="Direct link to 5. 台灣人其實比矽谷工程師更容易 FIRE？" title="Direct link to 5. 台灣人其實比矽谷工程師更容易 FIRE？" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#台灣的隱形補貼</code>：雖然美國薪資高、累積本金快，但美國 FIRE 族有高達 25% 到 30% 的資金會被醫療與長照吃掉。而在台灣，便宜的健保與長照 2.0 系統成為極大的「隱形補貼」，因此，台灣版的 FIRE 在退休後的消耗與風險上，反而比矽谷版來得更安全。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="總結建議">總結建議<a href="https://www.gtcafe.com/blog/2026/06/21/fire#%E7%B8%BD%E7%B5%90%E5%BB%BA%E8%AD%B0" class="hash-link" aria-label="Direct link to 總結建議" title="Direct link to 總結建議" translate="no">​</a></h2>
+<p>講者建議，FIRE 計畫不能「算完就放著」，投資組合必須隨著市場與政策動態調整。最務實的做法是「每年年底重算一次 FIRE 數字」，將當年的新政策、最新的提領率研究，以及家庭狀況都納入考量，這樣的退休計畫才會更加踏實。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>FIRE</category>
+            <category>投資</category>
+            <category>理財</category>
+        </item>
+        <item>
+            <title><![CDATA[Local LLM]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/21/local-llm</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/21/local-llm</guid>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:]]></description>
+            <content:encoded><![CDATA[<p>為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:</p>
+<ol>
+<li class="">各種 Runtime: Ollama / LM Studio / llama.cpp</li>
+<li class="">Librareis (Python 為主: oMLX, RaipMLX ...)</li>
+<li class="">各種 Format: GGUF, safetensors / MLX</li>
+<li class="">各種 Registry: Hugging Face Hub / ollama ... etc</li>
+</ol>
+<p>加上我有多台機器在跑實驗, 有時候同一個 model 這台抓，那台也抓 ... 然後頻寬就一直滿的狀態 ....</p>
+<p>為了節省對外頻寬, 然後也共用這些 Local LLM 的資源, 就叫 Claude 開發一個類似 git cli 管理多個 repos 概念的分散式工具，可以：</p>
+<ol>
+<li class="">像 rsync 那樣從電腦 A sync model to B.</li>
+<li class="">可比對本機不同 runtime 是否下載同一個 model, 不同格式</li>
+<li class="">可以讓本機不同 runtime 之間, share 不同 format 的 Model</li>
+<li class="">可以直接取代所有 runtime 變成集中式管理的 Local LLM Repos</li>
+<li class="">支援 push and pull mode，可以點對點傳輸.</li>
+</ol>
+<p>大概企業內的 Nexus OSS 概念 ... 只是是 cli 版.</p>
+<hr>
+<p>這是為了做實驗搞的副產品, 用起來沒啥問題, UX/UI 可以再調整. 還沒上 homebrew.<br>
+<!-- -->真正的問題都是內網水管不夠粗, 1Gbps 傳 LLM 實在太慢了, 然後就開始想要不要搞 25Gbps 的 switch ...<br>
+<!-- -->恩 ... 一種越來越歪的味道 ... 還是洗洗睡好了 XDD</p>
+<hr>
+<p>github: <a href="https://github.com/rickhw/corral" target="_blank" rel="noopener noreferrer" class="">https://github.com/rickhw/corral</a></p>
+<hr>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral1-7eca9724f8ab6e506579830441fe00a4.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral2-8734dedbb2cb61a62cece98e9615aaf2.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral3-65303e2af48a9bbfbbf27cba40e17bcd.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral4-ec0629a0e4c28226e636cccff4088fdb.jpg" width="3455" height="732" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>LLM</category>
+            <category>AI</category>
+            <category>學習</category>
+            <category>趨勢</category>
+        </item>
+        <item>
+            <title><![CDATA[PIP - Case 1]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/21/pip-case1</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/21/pip-case1</guid>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[記錄一下過去的用人踩雷的經驗，現在回想起來整個過程其實滿有趣的，先記錄第一個在前三個月就打算請他走人，姑且叫他 Lion。]]></description>
+            <content:encoded><![CDATA[<p>記錄一下過去的用人踩雷的經驗，現在回想起來整個過程其實滿有趣的，先記錄第一個在前三個月就打算請他走人，姑且叫他 Lion。</p>
+<blockquote>
+<p>註：故事大概是十幾年前的事，所以可能會有記憶失誤的問題，僅為個人的回憶與紀錄。然後十幾年前沒有 AI，不需要用有 AI 的現在來討論。</p>
+</blockquote>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="名校">名校？<a href="https://www.gtcafe.com/blog/2026/06/21/pip-case1#%E5%90%8D%E6%A0%A1" class="hash-link" aria-label="Direct link to 名校？" title="Direct link to 名校？" translate="no">​</a></h2>
+<p>Lion 這個人是國立大學資工所畢業的，當時他的畢業論文做的是跟 Raspberry Pi Cluster 分散式運算相關的題目，然後他有大約一年多的工作經驗，加上那時候團隊很需要人手，所以我錄用他了。當時還在團隊建立的很早期，所以「面試」流程並沒有很嚴謹，就是我自己一個人 OK 就二面了。這個人個性比較外向，跟一般工程師比較的話，比較會說話，然後很快我老闆二面後也就同意了。（至於哪一間國立大學先保留）</p>
+<p>他入職大約兩個月後，同事們就經常向我反映他「不行、什麼都不懂」。一開始我還納悶：「怎麼會呢？好歹也是國立大學資工所畢業的 Master 啊！」直到有一次，我跟同仁正在看著螢幕討論事情，他突然湊過來，指著螢幕上的 Code 問我們：「哎，HTML 跟 HTTP 有什麼不一樣？」</p>
+<p>當下，我跟那個同仁互看了一眼，心裡大概有一百萬匹草泥馬在奔馳。從那一刻起，我心裡就冒出一個念頭：「我要 fire 他！」</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="轉折差點變社會新聞的-pip-溝通">轉折：差點變社會新聞的 PIP 溝通<a href="https://www.gtcafe.com/blog/2026/06/21/pip-case1#%E8%BD%89%E6%8A%98%E5%B7%AE%E9%BB%9E%E8%AE%8A%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E%E7%9A%84-pip-%E6%BA%9D%E9%80%9A" class="hash-link" aria-label="Direct link to 轉折：差點變社會新聞的 PIP 溝通" title="Direct link to 轉折：差點變社會新聞的 PIP 溝通" translate="no">​</a></h2>
+<p>有了汰換他的念頭後，加上不只一位同事反映他的狀況，我試著先讓他做一些小題目來驗證能力。結果證實，他真的不行。當時我跟老闆討論後，因為考量現場人力狀況，採取的策略是延長試用期，但是進入 PIP (績效改善計畫)。所以我就準備跟他溝通接下來的 PIP。</p>
+<p>但在我正式想跟他談 PIP 之前，有天早上大約 8 點，辦公室都還沒什麼人的時候，他突然把我找去會議室，關上門，用一種快哭出來的狀態跟我說：他已經三天沒看到小孩了，因為他跟老婆吵架，老婆帶著小孩離家出走。</p>
+<p>我心裡原本盤算著要跟他談 PIP，結果他先出了這招。我當下的直覺是：「PIP 的事我只能先吞下去。」如果不先把他的情緒安撫好，腦袋閃過一些劇本，最糟的就是萬一處理不當上了社會新聞怎麼辦？所以我花了一些時間安撫他，當時他的狀態確實非常糟糕。後來大約過了兩個禮拜，他老婆跟小孩都回家了，他的情緒總算比較平復了，我才正式開始跟他談 PIP 的事情。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="意外的發展從-rd-轉調業務">意外的發展：從 RD 轉調業務<a href="https://www.gtcafe.com/blog/2026/06/21/pip-case1#%E6%84%8F%E5%A4%96%E7%9A%84%E7%99%BC%E5%B1%95%E5%BE%9E-rd-%E8%BD%89%E8%AA%BF%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to 意外的發展：從 RD 轉調業務" title="Direct link to 意外的發展：從 RD 轉調業務" translate="no">​</a></h2>
+<p>PIP 的基本原則就是把規則講清楚：我會出一些基本的題目讓他驗證，如果沒過關，就得請他走人。結果在驗證過程中，他還是達不到標準。</p>
+<p>正當準備請他離開時，他突然問我：「Rick，不然這樣好了，可不可以讓我轉去做業務？」</p>
+<p>我聽了就說：「好吧，我幫你問問看。」我就去向老闆報告說這個人本來要被 PIP，但他自己提出想轉調業務的想法。老闆覺得只要同仁有意願，公司幫忙轉調沒問題。接著我老闆去問業務主管，業務主管也答應了，只不過業務靠的是業績獎金，起薪低，必須降薪。</p>
+<p>於是，我們就終止了 PIP 流程，讓他直接從研發處轉調到業務處，這也算是一個不錯的收尾。</p>
+<p>後來他在業務部待了一個月，跑來跟我說他第一個月的業績就達標了，我有去業務處看到他們掛在牆上的業績數字，他的名字和業績真的是有達標的，還滿厲害的。其實這個人的個性比較外放，某種程度上確實比較適合做業務。</p>
+<p>有趣的是，到了他去業務處第二個月的某天早上，他突然跑來找我，在我桌上放了一瓶高粱酒，說要謝謝我教了他很多東西。他因為其他個人規劃要離職了，具體原因我忘了，但總之，整個事情算是告一個段落。回家後我看著那瓶高粱酒，心情其實有點複雜 XD</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="經驗總結調整面試流程與實機測驗">經驗總結：調整面試流程與實機測驗<a href="https://www.gtcafe.com/blog/2026/06/21/pip-case1#%E7%B6%93%E9%A9%97%E7%B8%BD%E7%B5%90%E8%AA%BF%E6%95%B4%E9%9D%A2%E8%A9%A6%E6%B5%81%E7%A8%8B%E8%88%87%E5%AF%A6%E6%A9%9F%E6%B8%AC%E9%A9%97" class="hash-link" aria-label="Direct link to 經驗總結：調整面試流程與實機測驗" title="Direct link to 經驗總結：調整面試流程與實機測驗" translate="no">​</a></h2>
+<p>這次的經驗對我來說是個警惕：用人真的要很謹慎，總是會踩到一些雷。</p>
+<p>頂大或名校畢業的學生，素質通常不會太差，但在面試過程中，還是必須要做實質的驗證。因為這次摔了個大跤，後來變成被同仁嘴的一種默契與笑話，但也因此後來我就找部門內部資深同仁，一起擬定了部門的第一版的面試流程，其中增加了「實機寫 Code」的關卡。名校畢業是個不錯的條件，但是驗證寫 Code 是過程必要的。</p>
+<p>讓面試者現場寫 Code、實際敲鍵盤，我們可以觀察很多細節：</p>
+<ul>
+<li class="">寫 Code 的習慣好不好？</li>
+<li class="">有沒有熟悉的 Library？</li>
+<li class="">對於程式碼有沒有自我要求？</li>
+<li class="">遇到問題怎麼找資料？</li>
+<li class="">怎麼釐清需求？</li>
+<li class="">以及怎麼跟團隊合作？</li>
+</ul>
+<p>我們不會出太難的題目，更不會考困難的 LeetCode 演算法，因為在我們一般的開發工作中，不太會用到那些東西。我們出題的難易度適中，而且「全程開放面試者 Google、查 Stack Overflow」。最重要的是，在測驗過程中，面試者隨時需要跟可以跟我們討論問題的定義，我們把「釐清需求」當作面試的一環。</p>
+<p>後來部門的標準流程是：面試一開始，先由我的兩位資深同仁進行技術驗證，大約花 10 到 15 分鐘讓他寫 Code。如果這關 OK 了，我才會進去面談。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="寧缺勿濫">寧缺勿濫<a href="https://www.gtcafe.com/blog/2026/06/21/pip-case1#%E5%AF%A7%E7%BC%BA%E5%8B%BF%E6%BF%AB" class="hash-link" aria-label="Direct link to 寧缺勿濫" title="Direct link to 寧缺勿濫" translate="no">​</a></h2>
+<p>團隊從無到有的過程很辛苦，現場忙得要死，所以早期的確因為「需要人手」，用錯「幾次」。幾次的誤用，團隊困擾，我也困擾，老闆 / HR 也會覺得很煩。</p>
+<p>但在團隊人力很少的時候，或者單看人數的時候，會有「先求有、再求好」的心態，但「用人」這件事，以這樣出發點想就會造成後續連鎖的問題。</p>
+<p>幾次踩雷之後，我就恪守「寧缺勿濫」的原則，這也得力於當時我的左右手、和我老闆的幫忙，後來面試、用人的精準度都提升不少，更重要的是找到公司後來重要的人才。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="番外篇拒絕寫-code-的奇葩面試者">番外篇：拒絕寫 Code 的奇葩面試者<a href="https://www.gtcafe.com/blog/2026/06/21/pip-case1#%E7%95%AA%E5%A4%96%E7%AF%87%E6%8B%92%E7%B5%95%E5%AF%AB-code-%E7%9A%84%E5%A5%87%E8%91%A9%E9%9D%A2%E8%A9%A6%E8%80%85" class="hash-link" aria-label="Direct link to 番外篇：拒絕寫 Code 的奇葩面試者" title="Direct link to 番外篇：拒絕寫 Code 的奇葩面試者" translate="no">​</a></h2>
+<p>在這個新流程中，我們也遇過一些奇妙的 Case。</p>
+<p>曾經有一位從台中搭車上來台北面試的求職者。一如往常，我的兩位資深同仁進會議室，把電腦交給他，請他當場寫考題。結果才進去不到 5 分鐘，兩位同仁就跑出來跟我說：「Rick，他拒絕寫這份考題，怎麼辦？」</p>
+<p>流程走不下去了，同仁問我該怎麼辦。我心想，才 5 分鐘就結束也太尷尬了，為了避免公司名聲受損，於是我就進去收尾。</p>
+<p>我們後來聊了大概半小時，當然最後是沒有錄取。但我花了一些時間跟他溝通面試的本質是什麼、為什麼我們要求實務測驗。我跟他說：「你都花錢、花時間從台中坐車上來了，而且我們在 JD（職缺描述）上也有寫明會有上機測試。你當場拒絕測驗，其實也是在浪費你自己的時間。」重點是不要讓他有白跑一趟的感覺。</p>
+<p>我不知道他最後有沒有聽懂，但對我來說，我的策略是不能把公司的形象搞砸，所以我把他當作是一次幫部門和公司做公關形象的機會，好好地跟他說明我們的理念。</p>
+<hr>
+<p>面試、用人還有其他有趣的例子，下次來記錄用到一個頂大資工所，最後 PIP 的例子。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>管理</category>
+            <category>用人</category>
+        </item>
+        <item>
+            <title><![CDATA[題目、考績]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/20/assigned</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/20/assigned</guid>
+            <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[紀錄一些想法 ...]]></description>
+            <content:encoded><![CDATA[<p>紀錄一些想法 ...</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="你的題目是被指派的還是你自己挑的">你的題目是被指派的，還是你自己挑的？<a href="https://www.gtcafe.com/blog/2026/06/20/assigned#%E4%BD%A0%E7%9A%84%E9%A1%8C%E7%9B%AE%E6%98%AF%E8%A2%AB%E6%8C%87%E6%B4%BE%E7%9A%84%E9%82%84%E6%98%AF%E4%BD%A0%E8%87%AA%E5%B7%B1%E6%8C%91%E7%9A%84" class="hash-link" aria-label="Direct link to 你的題目是被指派的，還是你自己挑的？" title="Direct link to 你的題目是被指派的，還是你自己挑的？" translate="no">​</a></h2>
+<p>你現在手上的這個任務，到底是怎麼來的？這件事有幾個層次。</p>
+<ul>
+<li class=""><code>#第一種</code>，是被 assign 的。方向、決策、目標，全部都已經被定義好了，你只是被分派去執行。說白一點，就是照表操課。這時候的角色很像演員：劇本已經寫好，你的工作就是「把戲演好」。演得再好，那終究是別人的劇本。</li>
+<li class=""><code>#第二種</code>，是有幾個題目可以讓你選。跟第一種很明顯不一樣，是有得選的。能輪到你選，通常代表你在主管眼中已經是比較讓他放心的人，題目的部分方向，也會交給你決定。對主管而言，透過這個過程，可以培養同仁獨立承擔的能力，甚至把他發展成左右手，或是接班人。</li>
+</ul>
+<p>前面兩種，屬於被動；接下來這兩種，算是主動的。</p>
+<ul>
+<li class=""><code>#第三種</code>，是自己主動跟主管說：我要接哪一個任務，而且能明確講出為什麼是我。通常你得對這個問題或任務已經做過功課、掌握了狀況。如果你主動爭取的，剛好是主管正頭痛的題目，那就更好。</li>
+<li class=""><code>#第四種</code>，是你自己提案的。題目的內容、方向、要解決的問題，是你自己想出來的；主管覺得這件事值得做，於是給你資源。</li>
+</ul>
+<p>這是完全不同的檔次。因為要說服主管放手讓你做，前提是你得有「眼光」。你看得到這件事的目的、它會帶來的好處、要投入多少資源。而資源這件事，又牽涉到主管願不願意放手，甚至願不願意給你一個 team，讓你找人一起做。</p>
+<blockquote>
+<p>從被指派、有得選、主動爭取，到自己提案，是好幾個完全不同檔次的事。</p>
+</blockquote>
+<p>在職場上，大多數時候，如果手上的題目「全部」都是被 assign 的，某種程度上也代表你站在一個比較被動的位置。而要拿到好的考績，原因不外乎兩個：</p>
+<blockquote>
+<p>一是你手上的就是重點任務，二是你在執行過程中有過人的表現。</p>
+</blockquote>
+<p>接下來講的就是怎麼往這兩件事靠。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="有哪些牌核心任務亮點任務">有哪些牌？核心任務？亮點任務？<a href="https://www.gtcafe.com/blog/2026/06/20/assigned#%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%8C%E6%A0%B8%E5%BF%83%E4%BB%BB%E5%8B%99%E4%BA%AE%E9%BB%9E%E4%BB%BB%E5%8B%99" class="hash-link" aria-label="Direct link to 有哪些牌？核心任務？亮點任務？" title="Direct link to 有哪些牌？核心任務？亮點任務？" translate="no">​</a></h2>
+<p>每個主管都會有自己守備的明線以及暗線。「明線」就是組織在檯面上知道的題目／專案／產品／系統，有明確的目標、R&amp;R、Stakeholder、時間表、客戶 ... 等。「暗線」則是主管自己在佈的局，不管是對上經營、對外布局、還是自己私下想推的事，這就跟他的能力跟野心有多大有關。所以看清楚主管手上有哪些「牌」、把這些情報摸清楚，其實很重要。</p>
+<p>所以我其實滿鼓勵同仁去做一件事：</p>
+<blockquote>
+<p>搞清楚主管手上有哪些「牌」</p>
+</blockquote>
+<p>這些牌是有輕重的，大致可以分成「核心任務」跟「亮點任務」。「核心任務」像是那些已經上線、有使用者、有客戶的，這種任務的特性是：沒事沒人會在乎，一出事，最上面的單位主官、甚至老闆都會知道。這種任務通常會有固定的需求進來，經常要處理的是需求面的合理性、排序、資源等問題，最好有相應的角色 (ex: 產品經理) 負責協調比較好。</p>
+<p>「亮點任務」通常是新任務／新產品／新服務，或者話題性的，像是最近的 AI 整合任務。這種任務的特性是：很有話題、時程很趕、新名詞一大堆，每個主管、老闆每週都在看狀況，在報告裡通常排在最前面，但初期使用者最少。亮點任務有可能很快就變成核心任務，也有可能很快就消失，像 n8n 那波熱度，炒得很兇，沒多久就沒人提了。</p>
+<p>上述都是主管手上的「明線」。還有一些屬於「暗線」任務，這就牽涉到下一個問題了：信任。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="情報--信任">情報 = 信任<a href="https://www.gtcafe.com/blog/2026/06/20/assigned#%E6%83%85%E5%A0%B1--%E4%BF%A1%E4%BB%BB" class="hash-link" aria-label="Direct link to 情報 = 信任" title="Direct link to 情報 = 信任" translate="no">​</a></h3>
+<p>主管會不會讓你看到他手上的牌，那是另一個層次的問題。這取決於他對你的了解跟信任。而且次序是：先對你夠了解，才談得上信任。</p>
+<p>對你的了解，指的是他知不知道你的能力在哪、擅長什麼？不擅長什麼？缺什麼？你有多積極？你的自主學習狀況？你到底能幫他多少？……</p>
+<p>有了足夠的了解，才會有「信任」可言。職場上有所謂 Staff Meeting，中文姑且翻成「幕僚會議」。什麼是「幕僚」？大概就像三國演義裡，曹操身邊獻策的謀士，這些人通常已經深得曹操信任，才敢說真話，通常也會從曹操那邊取得更多軍情。</p>
+<p>有了信任關係，情報自然就會有，像是暗線任務的情報。</p>
+<p>有了情報，再從裡面挑出自己有興趣、又有價值的題目，主動去爭取。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="那要怎麼知道主管手上有哪些牌">那要怎麼知道主管手上有哪些牌？<a href="https://www.gtcafe.com/blog/2026/06/20/assigned#%E9%82%A3%E8%A6%81%E6%80%8E%E9%BA%BC%E7%9F%A5%E9%81%93%E4%B8%BB%E7%AE%A1%E6%89%8B%E4%B8%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%8C" class="hash-link" aria-label="Direct link to 那要怎麼知道主管手上有哪些牌？" title="Direct link to 那要怎麼知道主管手上有哪些牌？" translate="no">​</a></h3>
+<p>除了取得主管的信任，一般組織裡取得任務情報的方法，取得的正常管道不外乎是公司裡的報告（週報、月報、季報、年報），上面就會有他手上的牌。看一下上面清單的項目、排序、議題、報表 ... 大概就可以知道重點是什麼。</p>
+<p>至於有沒有哪些案子正在規劃中，屬於「暗線」的，就從 one-on-one、平常的討論裡去問 (套)：主管最近在看什麼？他的老闆最近在看什麼？</p>
+<p>所以，只要你的主管不是很難溝通，那就頻繁地找他討論任務、討論想法。過程中，就會獲得很多情報，主管也會更了解你的狀況，更知道怎麼協助你成長。</p>
+<p>把這些「情報」摸清楚了，才談得上「爭取」好的題目。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="考績好不好跟題目有關">考績好不好，跟題目有關？<a href="https://www.gtcafe.com/blog/2026/06/20/assigned#%E8%80%83%E7%B8%BE%E5%A5%BD%E4%B8%8D%E5%A5%BD%E8%B7%9F%E9%A1%8C%E7%9B%AE%E6%9C%89%E9%97%9C" class="hash-link" aria-label="Direct link to 考績好不好，跟題目有關？" title="Direct link to 考績好不好，跟題目有關？" translate="no">​</a></h2>
+<p>這個問題牽涉到現實面常見的問題：能見度</p>
+<p>在越大的組織，這種現象越明顯。從最上面老闆的角度看，大組織裡可能有數十、甚至數百個專案 / 產品 / 系統。其中的關係更是錯綜復雜，基本上很少人會真的搞懂的。但上面的主管通常會知道幾個最核心、最重要、「最新」的任務。怎麼讓老闆知道任務就是第一關，連聽都沒聽過 (或者下週就忘了)，是很難有認同的，這就是所謂的能見度。</p>
+<p>有些東西，沒刻意練習，是記不住的。</p>
+<p>如果手上的任務，在主管的名單裡排不到前三名，怎麼辦？是否注定不在主管的視線裡？考績是否注定就不好？</p>
+<p>首先要先知道，重要性 != 考績好壞。但是只要表現不太糟，通常考績也不會太差。但是考績要從普通變很好，一定要有一些因素，不管是外在的改善客戶體驗、提高系統可靠度、還是內在的增加業績節省成本、改善維運效率 ... 等實質貢獻因子。</p>
+<p>有了實質貢獻的因子與條件，接下來處理的才是「能見度」的問題，也就是讓「大家」知道你的貢獻。</p>
+<p>「大家」首先就是要讓你的主管知道、看到、認同，然後讓你的團隊、相關的協作團隊感受到、看到、認同。不管結果如何，剩下的就是主管的功課了。過程中只要你有固定跟主管 sync / 討論，通常主管都會知道，也就是平常就是做好「能見度」的工作。</p>
+<p>我當主管時，我會嘗試訓練同仁把事做好、把報告做好、如何做好內外協作，如果這些他都循序漸進可以做得不錯，也跟得上我給的方向，時機成熟，我會刻意安排他對內部團隊分享，然後向我的主管報告，讓他好的「能見度」。</p>
+<p>當然每個公司、主管打考績的方式不一樣。如果上述的方法你都做了，考績還是不好，那就可以考慮其他的方向了。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="這個題目為什麼是給你為什麼不是別人">這個題目，為什麼是給你？為什麼不是別人？<a href="https://www.gtcafe.com/blog/2026/06/20/assigned#%E9%80%99%E5%80%8B%E9%A1%8C%E7%9B%AE%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF%E7%B5%A6%E4%BD%A0%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%8D%E6%98%AF%E5%88%A5%E4%BA%BA" class="hash-link" aria-label="Direct link to 這個題目，為什麼是給你？為什麼不是別人？" title="Direct link to 這個題目，為什麼是給你？為什麼不是別人？" translate="no">​</a></h2>
+<p>接著還有一個更銳利的問題值得問：為什麼是我？</p>
+<p>或者反過來：當你得知一個跟你要好的同事被指派了新任務時，也要問一句：為什麼不是我？</p>
+<p>題目大致分成幾種：</p>
+<ul>
+<li class="">全新的產品、全新的方向</li>
+<li class="">維護既有的，而「既有的」又分兩種：原本是自己團隊的，以及別人轉手過來的</li>
+</ul>
+<p>新產品落到你手上，通常代表一種「下注」：主管賭你、賭你扛得起來。這種題目價值高，也正是你最該去爭取的那一類。但前提是，你得先有讓主管願意選你的那個分量。</p>
+<p>維護自己團隊原本的東西，是順理成章的 ownership，沒太多懸念。</p>
+<p>真正要讀懂訊號的，是「別人轉過來的」那一種。它可能是因為有人離開、順手交接；但也可能是一個沒人想碰的燙手山芋，裡面包著 legacy、政治、或是誰都解不掉的爛攤子。而你怎麼接、怎麼處理這種題目，往往最能說明你在主管心中的位置。</p>
+<p>我自己就接過那種別人搞砸的系統。當時大老闆要我全部接手，我跟我的團隊花了一些時間把它接下來，然後重新規劃一套制度，讓全公司導入。過程很辛苦，但老闆也肯定我和我的團隊，跟我一起把它搞定的同仁，後來在職涯上也達成新的里程碑。</p>
+<p>所以「題目怎麼來的」和「題目為什麼是你」，其實是同一件事的兩面：</p>
+<blockquote>
+<p>它們一起決定了你在這個組織裡，到底是個照著劇本演的演員，還是一個能自己定義戰場的人。</p>
+</blockquote><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>管理</category>
+            <category>職涯</category>
+        </item>
+        <item>
+            <title><![CDATA[用 windows or Unix ?]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/19/win-or-unix</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/19/win-or-unix</guid>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[用 windows or Unix ?]]></description>
+            <content:encoded><![CDATA[<p>用 windows or Unix ?</p>
+<p>比腕力做技術決策</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/musk-5b54e6d8a4c0a79595e0091d639885b1.jpg" width="1536" height="2048" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>閱讀</category>
+            <category>馬斯克傳</category>
+            <category>技術決策</category>
+        </item>
+        <item>
+            <title><![CDATA[The book of Elon]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/18/book-of-elon</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/18/book-of-elon</guid>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[這集《VK 科技閱讀時間》主要探討了伊隆·馬斯克（Elon Musk）在面對人生重大決策時的思考與選擇邏輯。]]></description>
+            <content:encoded><![CDATA[<p>這集《VK 科技閱讀時間》主要探討了伊隆·馬斯克（Elon Musk）在面對人生重大決策時的思考與選擇邏輯。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cdFdpIFx7xA?si=yv-WCzFcohBMS8Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>節目首先藉由《破壞性創新》一書，引出創新是將昂貴變得可負擔、並在意外之處開創新市場的概念，接著深入解析由馬斯克過往語錄所集結而成的《馬斯克之書》（The Elon Musk Quotes），總結出他做決策的五大核心原則：</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-追求有用解決重要的問題-be-useful">1. 追求「有用」，解決重要的問題 (Be Useful)<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#1-%E8%BF%BD%E6%B1%82%E6%9C%89%E7%94%A8%E8%A7%A3%E6%B1%BA%E9%87%8D%E8%A6%81%E7%9A%84%E5%95%8F%E9%A1%8C-be-useful" class="hash-link" aria-label="Direct link to 1. 追求「有用」，解決重要的問題 (Be Useful)" title="Direct link to 1. 追求「有用」，解決重要的問題 (Be Useful)" translate="no">​</a></h2>
+<p>馬斯克創業的出發點並非為了追求榮耀或賺錢，而是專注於建造「有用」的事物。他提出一個類似工程師算法的「效用面積」概念：將「對每個人的幫助程度」乘上「幫助了多少人」。從早期的 Zip2 到後來的 PayPal、SpaceX 和 Tesla，他每次決定要做什麼時，問的都是同一個問題：「這件事對別人有用嗎？」只要問題足夠重要，他就會去解決。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-粉碎自我接受現實的真實回饋">2. 粉碎自我，接受現實的真實回饋<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#2-%E7%B2%89%E7%A2%8E%E8%87%AA%E6%88%91%E6%8E%A5%E5%8F%97%E7%8F%BE%E5%AF%A6%E7%9A%84%E7%9C%9F%E5%AF%A6%E5%9B%9E%E9%A5%8B" class="hash-link" aria-label="Direct link to 2. 粉碎自我，接受現實的真實回饋" title="Direct link to 2. 粉碎自我，接受現實的真實回饋" translate="no">​</a></h2>
+<p>馬斯克有一套「自我與能力比例（Ego to ability ratio）」的理論：當一個人的「自我（Ego）」大於其「能力」時，就會開始抗拒批評、不願認錯，這等同於砸爛了接收現實回饋的接收器，進而停止進步。他強調「物理不關心你的感受，只關心你是否把火箭做對了」，因此必須極力粉碎自尊與面子，將情緒降到最低，才能聽進現實的聲音。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-預設失敗把贏來的籌碼全壓回桌上">3. 預設失敗，把贏來的籌碼全壓回桌上<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#3-%E9%A0%90%E8%A8%AD%E5%A4%B1%E6%95%97%E6%8A%8A%E8%B4%8F%E4%BE%86%E7%9A%84%E7%B1%8C%E7%A2%BC%E5%85%A8%E5%A3%93%E5%9B%9E%E6%A1%8C%E4%B8%8A" class="hash-link" aria-label="Direct link to 3. 預設失敗，把贏來的籌碼全壓回桌上" title="Direct link to 3. 預設失敗，把贏來的籌碼全壓回桌上" translate="no">​</a></h2>
+<p>當年馬斯克賣掉 PayPal 賺進 1.8 億美元，但他沒有拿去享樂，而是幾乎將全數資金投入 SpaceX、Tesla 與 SolarCity 這三個新「遊戲」中，甚至搞到自己需要借錢付房租。在投資前，他預估這些公司的成功機率不到 10%，但他依然願意下注，因為「當某件事足夠重要，即使勝算不在你這邊，你也應該去做」。他認為，寧願對未來樂觀但錯了，也不要悲觀卻對了。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-第一性原理與白痴指數-idiot-index">4. 第一性原理與「白痴指數 (Idiot Index)」<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#4-%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86%E8%88%87%E7%99%BD%E7%97%B4%E6%8C%87%E6%95%B8-idiot-index" class="hash-link" aria-label="Direct link to 4. 第一性原理與「白痴指數 (Idiot Index)」" title="Direct link to 4. 第一性原理與「白痴指數 (Idiot Index)」" translate="no">​</a></h2>
+<p>馬斯克早期曾去俄羅斯想買便宜的火箭但四處碰壁。回程飛機上，他用 Excel 試算發現，火箭所有原物料的成本居然只佔最終售價的 1% 到 2%。他因此發明了「白痴指數」：成品的最終售價除以原料成本。這項指數越高，代表設計越複雜、外包層級太多、製造過程極度低效。這項用第一性原理拆解成本的頓悟，成為他決定自己動手製造火箭的關鍵，並將白痴指數作為 SpaceX 內部檢視零件成本的重要 KPI。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-最反直覺的選擇人生太短不能有長期的怨恨">5. 最反直覺的選擇：人生太短，不能有長期的怨恨<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#5-%E6%9C%80%E5%8F%8D%E7%9B%B4%E8%A6%BA%E7%9A%84%E9%81%B8%E6%93%87%E4%BA%BA%E7%94%9F%E5%A4%AA%E7%9F%AD%E4%B8%8D%E8%83%BD%E6%9C%89%E9%95%B7%E6%9C%9F%E7%9A%84%E6%80%A8%E6%81%A8" class="hash-link" aria-label="Direct link to 5. 最反直覺的選擇：人生太短，不能有長期的怨恨" title="Direct link to 5. 最反直覺的選擇：人生太短，不能有長期的怨恨" translate="no">​</a></h2>
+<p>西元 2000 年，馬斯克在度蜜月時，被自己創辦的 PayPal（X.com）團隊（包含 Peter Thiel、Luke Nosek 等人）發動政變罷免執行長一職。面對背叛，馬斯克沒有選擇報復或心懷怨恨，而是選擇理解並放下。這個「以德報怨」的決定在 8 年後救了他一命：2008 年 SpaceX 面臨瀕臨破產的危機時，當年趕走他的同一群人所創辦的 Founders Fund 創投，向 SpaceX 投入了 2000 萬美元的救命資金，成功將公司從鬼門關前拉回。</p>
+<p>EP163. 拆解馬斯克如何思考與選擇：被自己創辦的公司趕走，卻說「人生太短，不能有長期的怨恨」</p>
+<p><a href="https://www.youtube.com/watch?v=cdFdpIFx7xA" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/watch?v=cdFdpIFx7xA</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>閱讀</category>
+            <category>馬斯克傳</category>
+            <category>馬斯克之書</category>
+        </item>
+        <item>
+            <title><![CDATA[股癌 EP671 - 面對新聽眾與酸民的態度]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/18/gooaye</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/18/gooaye</guid>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[《#股癌》（EP671）的開場主要涵蓋了面對新聽眾與酸民的態度，以及針對市場上假借他名義造謠的嚴正澄清。]]></description>
+            <content:encoded><![CDATA[<p>《<code>#股癌</code>》（EP671）的開場主要涵蓋了面對新聽眾與酸民的態度，以及針對市場上假借他名義造謠的嚴正澄清。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qz2KuuV6XJk?si=4B5Ld88p7P7YiJbf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>以下是開場的重點摘要：</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-回應新進聽眾與酸民的無端批評">1. 回應新進聽眾與酸民的無端批評<a href="https://www.gtcafe.com/blog/2026/06/18/gooaye#1-%E5%9B%9E%E6%87%89%E6%96%B0%E9%80%B2%E8%81%BD%E7%9C%BE%E8%88%87%E9%85%B8%E6%B0%91%E7%9A%84%E7%84%A1%E7%AB%AF%E6%89%B9%E8%A9%95" class="hash-link" aria-label="Direct link to 1. 回應新進聽眾與酸民的無端批評" title="Direct link to 1. 回應新進聽眾與酸民的無端批評" translate="no">​</a></h2>
+<ul>
+<li class="">近期市場熱絡帶來了許多新聽眾，但也出現了一些喜歡對講者生活方式、個人選擇（例如打針）指手畫腳的酸民。</li>
+<li class="">講者對此直言表達反感，並用「躺在沙發上的胖子指著電視上的名模嫌肚子大」來比喻，奉勸這些人在檢討別人之前，應該先檢視自己過著什麼樣的生活。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-嚴正澄清假借名義推牌的造謠">2. 嚴正澄清「假借名義推牌」的造謠<a href="https://www.gtcafe.com/blog/2026/06/18/gooaye#2-%E5%9A%B4%E6%AD%A3%E6%BE%84%E6%B8%85%E5%81%87%E5%80%9F%E5%90%8D%E7%BE%A9%E6%8E%A8%E7%89%8C%E7%9A%84%E9%80%A0%E8%AC%A0" class="hash-link" aria-label="Direct link to 2. 嚴正澄清「假借名義推牌」的造謠" title="Direct link to 2. 嚴正澄清「假借名義推牌」的造謠" translate="no">​</a></h2>
+<ul>
+<li class="">講者提到，近期在 Threads 等社群平台或私下的小群組裡，出現許多人亂帶風向，謊稱「孟恭推薦了某檔股票」，甚至吹噓自己私下認識講者並能拿到明牌。</li>
+<li class="">講者強烈駁斥這些說法，強調自己與這些造謠者「是不同世界的人」。以他目前的資金量體，若真的要買進某檔中小型股，自己動手指就能將其買到漲停，根本不需要找其他人一起拱上去。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-節目的談股底線與不收費原則">3. 節目的談股底線與不收費原則<a href="https://www.gtcafe.com/blog/2026/06/18/gooaye#3-%E7%AF%80%E7%9B%AE%E7%9A%84%E8%AB%87%E8%82%A1%E5%BA%95%E7%B7%9A%E8%88%87%E4%B8%8D%E6%94%B6%E8%B2%BB%E5%8E%9F%E5%89%87" class="hash-link" aria-label="Direct link to 3. 節目的談股底線與不收費原則" title="Direct link to 3. 節目的談股底線與不收費原則" translate="no">​</a></h2>
+<ul>
+<li class="">不談中小型股以避嫌：為了避免自己的言論影響市場，講者強調自己非常講究底線，絕對不會在節目中談論市值約百億左右的中小型股。他只會討論像台積電、鴻海、廣達或大型美股這類難以被單一力量人為操縱的標的。</li>
+<li class="">絕不收費教學：講者也再次提醒聽眾，千萬不要相信來路不明的詐騙或收費群組。他強調自己絕不會花時間去教人買股票，即使別人拿 100 萬給他，他也不會答應去教。</li>
+</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>閱讀</category>
+            <category>人生</category>
+            <category>Podcast</category>
+        </item>
+        <item>
+            <title><![CDATA[面對網路酸民、無意義批評，以及生活中「蠢蛋」的心態建設與具體做法。]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/13/ep669-670</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/13/ep669-670</guid>
+            <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[面對網路酸民、無意義批評，以及生活中「蠢蛋」的心態建設與具體做法。]]></description>
+            <content:encoded><![CDATA[<p>面對網路酸民、無意義批評，以及生活中「蠢蛋」的心態建設與具體做法。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-先評估批評者的層次把不值得的批評當成童言童語">1. 先評估批評者的層次，把不值得的批評當成「童言童語」<a href="https://www.gtcafe.com/blog/2026/06/13/ep669-670#1-%E5%85%88%E8%A9%95%E4%BC%B0%E6%89%B9%E8%A9%95%E8%80%85%E7%9A%84%E5%B1%A4%E6%AC%A1%E6%8A%8A%E4%B8%8D%E5%80%BC%E5%BE%97%E7%9A%84%E6%89%B9%E8%A9%95%E7%95%B6%E6%88%90%E7%AB%A5%E8%A8%80%E7%AB%A5%E8%AA%9E" class="hash-link" aria-label="Direct link to 1. 先評估批評者的層次，把不值得的批評當成「童言童語」" title="Direct link to 1. 先評估批評者的層次，把不值得的批評當成「童言童語」" translate="no">​</a></h2>
+<p>遇到批評時，先看對方是誰、背景是什麼。除非對方是值得嚮往、崇拜，甚至值得學習的榜樣，才需要認真反思是否哪裡做錯。</p>
+<p>如果根本不想變成對方，甚至狀態、成就或人生方向都遠高於對方，就不需要太在意那些話。這種批評聽起來就像小孩子在講「童言童語」，不只不傷人，有時候反而會覺得很好笑。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-記得注意力是珍貴資產不要浪費在不值得的人身上">2. 記得「注意力是珍貴資產」，不要浪費在不值得的人身上<a href="https://www.gtcafe.com/blog/2026/06/13/ep669-670#2-%E8%A8%98%E5%BE%97%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%98%AF%E7%8F%8D%E8%B2%B4%E8%B3%87%E7%94%A2%E4%B8%8D%E8%A6%81%E6%B5%AA%E8%B2%BB%E5%9C%A8%E4%B8%8D%E5%80%BC%E5%BE%97%E7%9A%84%E4%BA%BA%E8%BA%AB%E4%B8%8A" class="hash-link" aria-label="Direct link to 2. 記得「注意力是珍貴資產」，不要浪費在不值得的人身上" title="Direct link to 2. 記得「注意力是珍貴資產」，不要浪費在不值得的人身上" translate="no">​</a></h2>
+<p>把注意力當成珍貴資產。連科技巨頭都想盡辦法買下注意力，就更不應該把它隨便浪費在不值得的人身上。</p>
+<p>很多人在網路上只是隨便打嘴砲，講完可能馬上就忘了。但如果因為一句白痴的話走心、難過一整天，那真的超虧。</p>
+<p>不要再跟酸民吵架，也不要再花時間逗弄對方。這些行為本質上都是在浪費注意力。把注意力留給更重要的人、更重要的事，而不是浪費在無意義的噪音上。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-培養馬特洪峰心態接受一定會有人按倒讚">3. 培養「馬特洪峰」心態，接受一定會有人按倒讚<a href="https://www.gtcafe.com/blog/2026/06/13/ep669-670#3-%E5%9F%B9%E9%A4%8A%E9%A6%AC%E7%89%B9%E6%B4%AA%E5%B3%B0%E5%BF%83%E6%85%8B%E6%8E%A5%E5%8F%97%E4%B8%80%E5%AE%9A%E6%9C%83%E6%9C%89%E4%BA%BA%E6%8C%89%E5%80%92%E8%AE%9A" class="hash-link" aria-label="Direct link to 3. 培養「馬特洪峰」心態，接受一定會有人按倒讚" title="Direct link to 3. 培養「馬特洪峰」心態，接受一定會有人按倒讚" translate="no">​</a></h2>
+<p>接受一個事實：就算是頂尖神作，像電影《教父》或 Radiohead 的音樂，也一定會有人按倒讚。這不代表作品不好，而是世界上本來就什麼人都有。</p>
+<p>記住「馬特洪峰」這個比喻。馬特洪峰不會在乎誰給它一星負評，因為那些理由可能超級白痴，例如嫌山太高、太冷、太難爬。</p>
+<p>世界很大，不可能討好所有人，也不可能在意每一個笨蛋的感受。把心力放在愛、支持、真正理解的人身上，而不是浪費在永遠不會滿意的人身上。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-建立具體防禦機制果斷封鎖與靜音">4. 建立具體防禦機制：果斷封鎖與靜音<a href="https://www.gtcafe.com/blog/2026/06/13/ep669-670#4-%E5%BB%BA%E7%AB%8B%E5%85%B7%E9%AB%94%E9%98%B2%E7%A6%A6%E6%A9%9F%E5%88%B6%E6%9E%9C%E6%96%B7%E5%B0%81%E9%8E%96%E8%88%87%E9%9D%9C%E9%9F%B3" class="hash-link" aria-label="Direct link to 4. 建立具體防禦機制：果斷封鎖與靜音" title="Direct link to 4. 建立具體防禦機制：果斷封鎖與靜音" translate="no">​</a></h2>
+<p>面對網路上的白痴，最有效的方法就是封鎖或靜音。只要發現對方是蠢蛋，就不需要猶豫。因為那些留言看久了，真的會污染腦袋。</p>
+<p>現實生活中也是一樣。即使是親朋好友，如果每次見面都只會帶來負面回饋、沉重壓力，或是不斷消耗人，也要學會把那些聲音關掉，甚至減少接觸。</p>
+<p>讓生活多圍繞在正向的人事物旁邊。主動隔絕負面來源，生活品質會明顯變好。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-不要強顏歡笑也不要維持無意義的交流">5. 不要強顏歡笑，也不要維持無意義的交流<a href="https://www.gtcafe.com/blog/2026/06/13/ep669-670#5-%E4%B8%8D%E8%A6%81%E5%BC%B7%E9%A1%8F%E6%AD%A1%E7%AC%91%E4%B9%9F%E4%B8%8D%E8%A6%81%E7%B6%AD%E6%8C%81%E7%84%A1%E6%84%8F%E7%BE%A9%E7%9A%84%E4%BA%A4%E6%B5%81" class="hash-link" aria-label="Direct link to 5. 不要強顏歡笑，也不要維持無意義的交流" title="Direct link to 5. 不要強顏歡笑，也不要維持無意義的交流" translate="no">​</a></h2>
+<p>不要為了討好每一個不認識的人而勉強互動。當不想講話，或發現對方又在講一些白痴、消耗人的東西時，就可以停止交流。</p>
+<p>不要因為中斷對話而不好意思，也不要一直擔心會不會冒犯對方。很多人在冒犯別人的時候，也根本沒有在擔心對方的感受。</p>
+<p>盡可能隔絕負面影響，對內心有完整交代。停止陪笑，停止硬撐無意義的交流，反而會過得更輕鬆、更快樂。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-面對玻璃心用大量暴露療法慢慢練厚臉皮">6. 面對玻璃心，用「大量暴露療法」慢慢練厚臉皮<a href="https://www.gtcafe.com/blog/2026/06/13/ep669-670#6-%E9%9D%A2%E5%B0%8D%E7%8E%BB%E7%92%83%E5%BF%83%E7%94%A8%E5%A4%A7%E9%87%8F%E6%9A%B4%E9%9C%B2%E7%99%82%E6%B3%95%E6%85%A2%E6%85%A2%E7%B7%B4%E5%8E%9A%E8%87%89%E7%9A%AE" class="hash-link" aria-label="Direct link to 6. 面對玻璃心，用「大量暴露療法」慢慢練厚臉皮" title="Direct link to 6. 面對玻璃心，用「大量暴露療法」慢慢練厚臉皮" translate="no">​</a></h2>
+<p>承認敏感與玻璃心的存在，不需要假裝完全不在意批評。</p>
+<p>但解法不是逃避，而是慢慢訓練。透過大量暴露療法，長期處在會面對群眾、會被評論、會被誤解的環境裡，逐漸習慣那些心理衝擊。</p>
+<p>時間一長，臉皮自然會變厚，也會越來越知道哪些話值得聽，哪些話根本不需要放進心裡。最終，保護注意力的能力會變強，也會更不容易被無意義的批評傷到。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/summary-fa025cb680939406ca5be56689973a06.jpg" width="1195" height="1316" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>生活</category>
+        </item>
+        <item>
+            <title><![CDATA[寫文章流程]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/13/workflow</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/13/workflow</guid>
+            <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[現在寫文章的流程：]]></description>
+            <content:encoded><![CDATA[<p>現在寫文章的流程：</p>
+<ol>
+<li class="">自言自語: 用 iOS Voice Memo 錄下想法</li>
+<li class="">Voice to Text</li>
+<li class="">丟給 AI 整理</li>
+<li class="">跟 AI 討論, 範圍, 正反面, 不足, 數據 … etc.</li>
+<li class="">Review, 潤稿, 修改, 置入個人風格</li>
+<li class="">放幾天 (&gt; 3day)</li>
+<li class="">再看幾次後發布.</li>
+</ol><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>生活</category>
+        </item>
+        <item>
+            <title><![CDATA[延遲滿足]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/12/postpone</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/12/postpone</guid>
+            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[摘錄 大人學 「EP679 成功需要 #延遲滿足？"」這段內容]]></description>
+            <content:encoded><![CDATA[<p>摘錄 大人學 「EP679 成功需要 <code>#延遲滿足</code>？"」這段內容</p>
+<hr>
+<p>許多長輩在晚年好不容易存了一筆錢，終於可以退休去旅行時，卻常讓同行的人感到無奈與掃興。當子女安排他們住高級飯店時，他們會覺得太浪費；帶他們去吃昂貴的精緻餐廳，他們不僅覺得心疼，甚至會嫌棄地說：「這跟家門口的滷肉飯有什麼差別？」。</p>
+<p>面對花費，他們總覺得這個也捨不得、那個也不值得，出國旅行反而讓他們感到極度不踏實，最後往往演變成把同行的一家人罵一頓，讓大家都跟著受氣。<br>
+<!-- -->這個看似令人無奈的現象，背後其實隱藏著一個悲哀的心理機制：</p>
+<blockquote>
+<p>享受生活也是一種能力，是需要練習的</p>
+</blockquote>
+<p>這些長輩在年輕時為了扛起家計，拚命工作、拚命存錢，把「忍耐」當作美德。他們將自己的一輩子抵押給一個名為「退休後再來好好享受」的遙遠未來，藉此合理化當下所有的不快樂與自我壓抑。</p>
+<p>然而，當一個人連續幾十年不斷告訴自己「現在不能花錢、現在不能享受」時，這種壓抑最終會深深內化成身體與大腦的本能。</p>
+<p>殘酷的真相是:</p>
+<blockquote>
+<p>他們用了一輩子的時間在「練習不能享受」，等到終於有錢有閒的那一天，他們也已經徹底失去了放鬆與感受快樂的能力</p>
+</blockquote>
+<p>這個現象深刻地提醒我們：真正的長期主義不該是極端地剝奪當下，如果只是一味地靠意志力壓抑與延遲滿足，等未來終於兌現時，我們往往也已經喪失了享受那份美好果實的能力。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/byFUOiZzggc?si=0N6NUBbS6kHhNAWa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>生活</category>
+            <category>Podcast</category>
+            <category>大人學</category>
+        </item>
+        <item>
+            <title><![CDATA[音樂創意]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/10/ai-and-creative</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/10/ai-and-creative</guid>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[2014 寫下這段話 ...]]></description>
+            <content:encoded><![CDATA[<p>2014 寫下這段話 ...</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/music-not-photograph-26acb3abf03310b7298ca70312144a22.jpg" width="1520" height="438" class="img_ev3q"></p>
+<p>不過現在有 AI，音樂也跟攝影一樣了，隨便跟 AI 說兩句，就可以產生了，而且不需要買 史坦威 / PRS 也做得到。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>AI</category>
+            <category>創意</category>
+            <category>創作</category>
+        </item>
+        <item>
+            <title><![CDATA[遺產]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/09/heritage</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/09/heritage</guid>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[這集影片由曾博恩與家事法律師賴芳玉進行深度對談，探討 #遺產分配、#遺囑訂立規則，以及 #財富傳承 對 #親情關係 的深遠影響。]]></description>
+            <content:encoded><![CDATA[<p>這集影片由曾博恩與家事法律師賴芳玉進行深度對談，探討 <code>#遺產分配</code>、<code>#遺囑訂立規則</code>，以及 <code>#財富傳承</code> 對 <code>#親情關係</code> 的深遠影響。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pXfKdEoB74Q?si=3HT3aOh3z-lp0iby" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>以下為這段影片的重點摘要：</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-長輩應優先將財富用於有尊嚴的老後生活">1. 長輩應優先將財富用於「有尊嚴的老後生活」<a href="https://www.gtcafe.com/blog/2026/06/09/heritage#1-%E9%95%B7%E8%BC%A9%E6%87%89%E5%84%AA%E5%85%88%E5%B0%87%E8%B2%A1%E5%AF%8C%E7%94%A8%E6%96%BC%E6%9C%89%E5%B0%8A%E5%9A%B4%E7%9A%84%E8%80%81%E5%BE%8C%E7%94%9F%E6%B4%BB" class="hash-link" aria-label="Direct link to 1. 長輩應優先將財富用於「有尊嚴的老後生活」" title="Direct link to 1. 長輩應優先將財富用於「有尊嚴的老後生活」" translate="no">​</a></h2>
+<p>許多長輩因為習慣節省，總想著把財產留給子孫或親戚，卻低估了老後照護的龐大成本 。賴律師指出，能維持尊嚴且自主的老後生活（如單人房養護所、特別護士與看護費用）開銷往往超乎想像 。因此，長輩在討論遺產之前，應優先確保自己的養老資金充足，並大方地將金錢用在照顧自己生命的最後一哩路上 。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-台灣的特留分制度與繼承世代的隱憂">2. 台灣的「特留分」制度與繼承世代的隱憂<a href="https://www.gtcafe.com/blog/2026/06/09/heritage#2-%E5%8F%B0%E7%81%A3%E7%9A%84%E7%89%B9%E7%95%99%E5%88%86%E5%88%B6%E5%BA%A6%E8%88%87%E7%B9%BC%E6%89%BF%E4%B8%96%E4%BB%A3%E7%9A%84%E9%9A%B1%E6%86%82" class="hash-link" aria-label="Direct link to 2. 台灣的「特留分」制度與繼承世代的隱憂" title="Direct link to 2. 台灣的「特留分」制度與繼承世代的隱憂" translate="no">​</a></h2>
+<p>台灣法律設有「特留分」制度，強制保留一定比例的財產給繼承人，這讓許多下一代潛意識裡預期「父母的財產必然有自己的一份」 。在這種大繼承時代，優渥的經濟起跑點可能讓年輕人失去奮鬥熱情而選擇「躺平」，甚至加劇社會的貧富差距 。此外，單身無子嗣者的遺產可能依法流向第三順位的手足，即使彼此毫無感情也受特留分保障，因此目前社會上也有倡議刪除手足特留分的修法呼聲。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-遺囑是個人意志的展現但有嚴格的法定要件">3. 遺囑是個人意志的展現，但有嚴格的法定要件<a href="https://www.gtcafe.com/blog/2026/06/09/heritage#3-%E9%81%BA%E5%9B%91%E6%98%AF%E5%80%8B%E4%BA%BA%E6%84%8F%E5%BF%97%E7%9A%84%E5%B1%95%E7%8F%BE%E4%BD%86%E6%9C%89%E5%9A%B4%E6%A0%BC%E7%9A%84%E6%B3%95%E5%AE%9A%E8%A6%81%E4%BB%B6" class="hash-link" aria-label="Direct link to 3. 遺囑是個人意志的展現，但有嚴格的法定要件" title="Direct link to 3. 遺囑是個人意志的展現，但有嚴格的法定要件" translate="no">​</a></h2>
+<p>遺囑能讓人打破法律預設的「應繼分」，創造屬於自己的財產分配法則，是個人主義的展現 。然而，訂立遺囑必須符合嚴格的法定程序，例如「自書遺囑」若用電腦打字便會無效，淪為沒有法律效力的「遺言」 。</p>
+<p>賴律師也點出現行法規的盲點：對於視障、聽語障或不識字等身心障礙者而言，法定的口述、代筆或公證遺囑形式充滿阻礙，導致他們難以行使分配財產的權利，這已涉及人權與歧視的問題。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-遺囑不只談錢更是回顧一生的神聖告別">4. 遺囑不只談錢，更是回顧一生的神聖告別<a href="https://www.gtcafe.com/blog/2026/06/09/heritage#4-%E9%81%BA%E5%9B%91%E4%B8%8D%E5%8F%AA%E8%AB%87%E9%8C%A2%E6%9B%B4%E6%98%AF%E5%9B%9E%E9%A1%A7%E4%B8%80%E7%94%9F%E7%9A%84%E7%A5%9E%E8%81%96%E5%91%8A%E5%88%A5" class="hash-link" aria-label="Direct link to 4. 遺囑不只談錢，更是回顧一生的神聖告別" title="Direct link to 4. 遺囑不只談錢，更是回顧一生的神聖告別" translate="no">​</a></h2>
+<p>遺囑除了分配金錢與指派遺囑執行人外，更是個人回顧一生並留下精神遺產的時刻。立遺囑人可以透過遺囑表達對照顧者的感謝、交代肉身大體最後的處理方式（如花葬、樹葬或器官捐贈），或是將財產捐贈給動物之家、成立基金會來延續個人的志業。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-經濟體制不應凌駕於親情之上">5. 經濟體制不應凌駕於親情之上<a href="https://www.gtcafe.com/blog/2026/06/09/heritage#5-%E7%B6%93%E6%BF%9F%E9%AB%94%E5%88%B6%E4%B8%8D%E6%87%89%E5%87%8C%E9%A7%95%E6%96%BC%E8%A6%AA%E6%83%85%E4%B9%8B%E4%B8%8A" class="hash-link" aria-label="Direct link to 5. 經濟體制不應凌駕於親情之上" title="Direct link to 5. 經濟體制不應凌駕於親情之上" translate="no">​</a></h2>
+<p>在龐大家族的財產傳承中，往往是「經濟體制決定了關係」 。許多富有的長輩會用金錢與繼承權來控制子女，導致繼承者缺乏純粹的被愛經驗，進而在建立親密關係時面臨困難 。賴律師呼籲，在面對財產規劃時，應找回「人的主體性」，多關注人與人之間真實的情感連結，而非單純把分配財產當作控制家人的工具或數學算計 。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>人生</category>
+            <category>遺產</category>
+            <category>賴芳玉</category>
+        </item>
         <item>
             <title><![CDATA[聊聊語感：名字、主詞、距離]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/08/sense-of-language</link>
@@ -153,63 +555,6 @@
             <category>你的名字</category>
         </item>
         <item>
-            <title><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</guid>
-            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></description>
-            <content:encoded><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
-<!-- -->(財務數字合併 xAI / X)</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
-<ul>
-<li class="">Connectivity / Startlink (星鏈)</li>
-<li class="">Space / Launch (Starship火箭發射)</li>
-<li class="">AI / xAI + X (twitter)</li>
-</ul>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
-<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
-<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
-<blockquote>
-<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
-</blockquote>
-<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
-<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
-<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
-<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
-<p>所以它的投資邏輯不是傳統的：</p>
-<blockquote>
-<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
-</blockquote>
-<p>而比較像：</p>
-<blockquote>
-<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
-</blockquote>
-<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
-<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
-<hr>
-<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
-            <category>SpaceX</category>
-            <category>馬斯克</category>
-            <category>IPO</category>
-            <category>CapEx</category>
-            <category>OCF</category>
-        </item>
-        <item>
             <title><![CDATA[陪伴家人]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family</link>
             <guid>https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family</guid>
@@ -289,6 +634,63 @@
 </ol><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
             <category>FIRE</category>
             <category>財務自由</category>
+        </item>
+        <item>
+            <title><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</guid>
+            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></description>
+            <content:encoded><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
+<!-- -->(財務數字合併 xAI / X)</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
+<ul>
+<li class="">Connectivity / Startlink (星鏈)</li>
+<li class="">Space / Launch (Starship火箭發射)</li>
+<li class="">AI / xAI + X (twitter)</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
+<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
+<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
+<blockquote>
+<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
+</blockquote>
+<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
+<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
+<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
+<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
+<p>所以它的投資邏輯不是傳統的：</p>
+<blockquote>
+<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
+</blockquote>
+<p>而比較像：</p>
+<blockquote>
+<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
+</blockquote>
+<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
+<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
+<hr>
+<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>投資</category>
+            <category>SpaceX</category>
+            <category>馬斯克</category>
+            <category>IPO</category>
+            <category>CapEx</category>
+            <category>OCF</category>
         </item>
         <item>
             <title><![CDATA[旅行]]></title>
@@ -531,477 +933,6 @@
 <p>微調用詞，去掉「男人」這個主詞，我覺得男女通用。</p>
 <p>source: <a href="https://www.youtube.com/watch?v=a8aF7zZZI8w" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/watch?v=a8aF7zZZI8w</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
             <category>人生</category>
-        </item>
-        <item>
-            <title><![CDATA[任務清單]]></title>
-            <link>https://www.gtcafe.com/blog/2026/05/24/workitems</link>
-            <guid>https://www.gtcafe.com/blog/2026/05/24/workitems</guid>
-            <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[工作時在整理報告的過程，像是週報 / 月報 / 季報，一直有個習慣：]]></description>
-            <content:encoded><![CDATA[<p>工作時在整理報告的過程，像是週報 / 月報 / 季報，一直有個習慣：</p>
-<blockquote>
-<p>在報告上保留所有 <code>#任務清單</code></p>
-</blockquote>
-<p>這個清單上面，不管形式是產品、專案、還是服務，不管他上週有沒有更新或者改變，都會把名字放在上面。這概念的意思是：每週至少會去 Scan 一次，避免他沒有在報告上、或者幾週沒更新、沒啥特殊議題可以拿出來講，然後就忘了。。。Scan 這動作是要定期「刻意練習」的，如果是空降接手一些任務，這動作更重要。</p>
-<p>實際經驗是有過這樣的，當手頭上任務一多，管理的範圍一大，有些東西會因為沒有放在清單上，一段時間就完全忘記他的存在。甚至那個任務在做啥的，都要跑去長期記憶挖出來。</p>
-<p>任務有大有小，有重要、有不緊急。但只要是職責範圍內的，就是要定期去了解與關心。</p>
-<hr>
-<p>這種現象在用 AI 協助 Coding 也一樣，現在用 Codex / Claude 一天寫一個小產品出來都不是啥問題，但現實就是，回顧一下過去一個月，做了幾個東西？有哪些東西還記得的？</p>
-<p>我做的不算多，但最近在回想三月上旬用 Antigravity 做的一個工具 (類似 IDE)，前後大概花了兩週，每天大概都會有一個大 Feature 完成，連續兩週。然後 突然被 Google 擺了一道之後，我就沒再開過 Antigravity，隨之的也忘了那個花了兩週做的東西。</p>
-<p>今天早上起來整理一下 repos 的狀況，發現一個陌生的代號，想了想，這啥鬼？點進去看了一下，才想起來。。。但我已經不想做了，腦袋放不下了 ...</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>專案管理</category>
-            <category>AI</category>
-        </item>
-        <item>
-            <title><![CDATA[擔心]]></title>
-            <link>https://www.gtcafe.com/blog/2026/05/14/worry</link>
-            <guid>https://www.gtcafe.com/blog/2026/05/14/worry</guid>
-            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Small Talk, 2025/01, Voice to Text]]></description>
-            <content:encoded><![CDATA[<p>Small Talk, 2025/01, Voice to Text</p>
-<hr>
-<p>有些事情，不一定要一直擔心。很多事情你反對也沒有用，不如讓事情自然發展。我覺得人到某個階段，要想清楚自己的生活重心。不要整天關注別人現在怎麼樣，也不要把時間花在煩惱那些你控制不了的事情上。年紀越大，越要花時間在自己身上，想想自己的人生要怎麼過，因為你不知道明天跟意外哪一個會先來。</p>
-<p>人可以對親戚、朋友仁慈，這沒問題。但前提是，你要先把自己的生活過好。仁慈不是犧牲自己，也不是一直把自己消耗掉。通常我第一個問題是：「這件事關我什麼事？」第二個問題是：「就算我去處理了，對方真的會比較快樂嗎？」很多事情不是你處理了就會變好，也不是你擔心了就會有幫助。</p>
-<hr>
-<p>每個人的價值觀都不一樣，不要把別人的價值觀套在我身上。我不是你，你也不是我。你覺得快樂的事情，我不一定覺得快樂；我覺得有意思的事情，你也不一定能體會。像有人覺得出國很快樂，平均兩個月出國一次。但對我來說，我會想出去，是因為我想了解那個過程。了解之後，我可能就覺得：「喔，原來就是這樣。」喜不喜歡，要自己嘗試過才知道。所以重點是，你要先了解自己。很多人一輩子其實都不了解自己。</p>
-<hr>
-<p>我在工作上，帶過一些年輕同事，也常常跟他們講這些想法。有些人賺到錢之後，就開始想：「我以後要怎麼享受人生？」但享受不是那麼膚淺的事情，不是有車、有房就好了。很多人都有車、有房，然後呢？你的人生到底要怎麼過？有個年輕同事跟我說，她想要 40 歲退休。我就問她：「妳退休之後要做啥？」如果妳有結婚、有小孩，那退休後你的生活重心就是家庭。但如果你沒有家庭、沒有小孩，也不用工作，那你每天早上起來要做什麼？每天出國嗎？每天寫程式嗎？每天爬山嗎？這個問題沒有標準答案，但要持續問自己。</p>
-<p>退休不是一天兩天，而是接下來幾十年的生活。很多人說退休後要學樂器、出國、美食、爬山。像是學樂器，樂器彈奏不是退休後學幾天就會變成興趣的。買得起樂器，不代表玩得起，也不代表真的想玩。很多人其實只是幻想退休生活，沒有真正想清楚。所以我跟那位同事說：有哪些事情是你可以做到廢寢忘食的？如果那件事能跟工作結合，那更好。</p>
-<p>她反問我為什麼來這裡工作。我跟她說，因為題目我有興趣，而且本來就是我想做的題目。做一個自己有興趣的題目，過程中一定也會遇到挫折、痛苦，但重點是，我覺得自己有能力做這件事，所以我想試試看。就算失敗了，對我來說損失不大，因為我不是自己開公司，我最多就是離開而已，我最大的損失就是時間成本。我花了幾年在這裡，可能沒有得到什麼，但至少我有薪水，也累積了一些東西。我把我的想法做出來，讓你們幫我驗證這些想法。如果你們做得出來就做，做不出來我就帶你們做。這就是我來這裡的心態。</p>
-<p>後來那個同事又來找我，說她重新想過自己到底要什麼。我就問她：「你喜不喜歡寫程式？你喜不喜歡計算機科學？」如果喜歡，我建議把這個東西學精一點。因為我們這一行有一個能力：只要你真的開通了，之後要跨其他領域，速度會很快。你如果不知道自己要幹嘛，那至少先把這個能力學好。它對工作有幫助，而且只要你每個禮拜比別人多花一點時間，你就會比同事強很多。現在進來的年輕同事都很聰明，所以你不稍微努力一點，會很難拼得過他們。但你會開始想這些問題，代表你已經想通了一部分，剩下就是看你怎麼做。</p>
-<p>我也聽過一些很厲害的人，他們的人生選擇很不一樣。有人把錢花完，出國生活，後來再靠自己的能力把錢賺回來。也就是有能力賺 5000 萬，然後花完 5000 萬歸零後，又重新站起來賺 5000 萬，這叫本事。不是說每個人都一定要這樣做，而是他有能力獨立自主，靠自己把生活撐起來。不管男生女生都一樣，最重要的是不要依賴別人，要有能力自己生活。有才華的人，聽他們講故事，會發現一個人的經驗的深淺，不是表面看得出來的。</p>
-<hr>
-<p>所以不要把時間拿去擔心你改變不了的事。你要擔心的是：「自己的生活有沒有過好？自己的想法有沒有整理清楚？自己還想做什麼？」對於為人父母來說，孩子有沒有把自己的生活過好，這樣就夠了。你不用把心思都放在擔心上，那沒有意義，也是在浪費力氣。但我知道這違反人性，父母天性就是會關心孩子，但卻忘記孩子會長大，然後獨立生活。人生很多事情沒有絕對誰對誰錯，有時候就是盡力而為。人要自己安排自己的生活。很多事情不是一直問「我該怎麼做」就會有答案。你要真的去做，才會慢慢知道。</p>
-<p>我覺得人是要有興趣的。像一些老東西、錢幣、收藏，對有興趣的人來說有它的價值；對沒興趣的人來說，就只是東西而已。重點不是它值多少錢，而是你自己知不知道為什麼要留下它。人生也是一樣。你要知道自己在意什麼，想留下什麼，想怎麼過。這比一直管別人、擔心別人重要得多。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>生活</category>
-            <category>關係</category>
-        </item>
-        <item>
-            <title><![CDATA[半年摘要]]></title>
-            <link>https://www.gtcafe.com/blog/2026/05/11/half-year-review</link>
-            <guid>https://www.gtcafe.com/blog/2026/05/11/half-year-review</guid>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[我在 202510~11 整理了 三個錄影 (下圖)，內容是紀錄過去幾年 (2022 - 2025) 投資的一些想法與心得，到現在剛好過去半年。最近有朋友問我相關問題，我自己回去反覆聽了大概五六次，最後我還是只丟這三個影片 (總長度約 1 小時)，想說的錄影大概都有了。]]></description>
-            <content:encoded><![CDATA[<p>我在 202510~11 整理了 <a href="https://www.youtube.com/playlist?list=PL63J1r2PBvojgRodbFxawzLKqG4YqsVpb" target="_blank" rel="noopener noreferrer" class="">三個錄影 (下圖)</a>，內容是紀錄過去幾年 (2022 - 2025) 投資的一些想法與心得，到現在剛好過去半年。最近有朋友問我相關問題，我自己回去反覆聽了大概五六次，最後我還是只丟這三個影片 (總長度約 1 小時)，想說的錄影大概都有了。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/sharing-bf5618487f9878fa4daabf16ec17b9cd.jpg" width="1304" height="936" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="透過回測建立投資心性">透過回測建立投資心性<a href="https://www.gtcafe.com/blog/2026/05/11/half-year-review#%E9%80%8F%E9%81%8E%E5%9B%9E%E6%B8%AC%E5%BB%BA%E7%AB%8B%E6%8A%95%E8%B3%87%E5%BF%83%E6%80%A7" class="hash-link" aria-label="Direct link to 透過回測建立投資心性" title="Direct link to 透過回測建立投資心性" translate="no">​</a></h2>
-<p>其中在 EP1 中，透過「每天進步 1%，一年進步 37 倍」解釋 <code>#複利效應</code>，然後回推到投資市場，模擬複利的效果。最重要的目的是：</p>
-<blockquote>
-<p>建立投資信心與心性</p>
-</blockquote>
-<p>也就是，如何建立把錢放進去投資市場，然後面對市場波動的信心與心性的過程。透過模擬 / 回測 (下圖) 就很重要，沒有自己實際詳細模擬過，我都不建議進場投資，因為你是用感覺在賭，而不是透過科學方法理解歷史。這跟很多老闆很像，對自己產品的樣子一點理解都沒有，就在大錢做行銷，卻從來沒親自用過。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/simulator-3cbdc24d0a0adfc5e341bed09e855385.jpg" width="2048" height="1072" class="img_ev3q"></p>
-<p>錄影中提到的模擬，我過去已經試各種情境模擬與回測，模擬的劇本少說 20 ~ 30 個以上，好的壞的、高的低的、短期長期、All-in/定期/單筆、動態提領、從零本金、從千萬本金 ... 等 <code>#排列組合</code> 之下產生的劇本。(上述的 <code>#劇本展開</code> 背後的邏輯，就是我常用的 <code>#矩陣思維</code> 模型，在 <code>#軟體測試</code> 與 <code>#系統設計</code> 很常用)</p>
-<p>我偶爾會寫一些「策略」的分享，例如「<a class="" href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents">亢龍有悔</a>」，但都是基於這三個錄影，加上我自己的體悟之後產生的延續。所以沒看懂影片請略過，因為這不是寫給你看的。</p>
-<p>最近台股已經不只是 1980 年代：「<code>#臺灣錢淹腳目</code>」的樣子，現在大概是「<code>#台灣錢淹脖子</code>」。有些人在沒有做功課的狀況之下，貿然開槓桿 (質押、信貸) 投資，短進短出，這都不算在投資，而是投機。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="黑天鵝事件">黑天鵝事件<a href="https://www.gtcafe.com/blog/2026/05/11/half-year-review#%E9%BB%91%E5%A4%A9%E9%B5%9D%E4%BA%8B%E4%BB%B6" class="hash-link" aria-label="Direct link to 黑天鵝事件" title="Direct link to 黑天鵝事件" translate="no">​</a></h2>
-<p>台股目前整體大好，甚至被外媒說過熱。</p>
-<p>個人看法，到 2030 年前，地緣政治因素會是對大因素。最大的黑天鵝事件會有：</p>
-<ol>
-<li class="">台灣內部有執政黨變成藍色，外在的則是</li>
-<li class="">WW3 熱戰爆發、</li>
-<li class="">對岸來亂。</li>
-</ol>
-<p>這些因素都會導致投資市場崩盤。</p>
-<p>扣掉這些世界局勢/地緣政治因素，整體來說，台灣的狀況會是長期看好。只要是持續向上 (去回測每個月 5% 漲幅)，就放心把錢放進去。</p>
-<p>除了黑天鵝事件，反過來的好消息：</p>
-<ol>
-<li class="">美伊戰爭結束</li>
-<li class="">烏俄戰爭結束</li>
-<li class="">普丁/XDD 去見上帝</li>
-</ol>
-<p>1)/2) 最近有好消息，3) 普丁最近身體也不太好。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="五顆球">五顆球<a href="https://www.gtcafe.com/blog/2026/05/11/half-year-review#%E4%BA%94%E9%A1%86%E7%90%83" class="hash-link" aria-label="Direct link to 五顆球" title="Direct link to 五顆球" translate="no">​</a></h2>
-<p>我只用 0050 當分析與整理，是因為一檔就有很多東西可以討論了。大部分的人連一檔都搞不清楚、也不夠了解，不用談太多。更別提討論 <code>#個股</code>，像最近 AI 股整個產業鏈的關係，產業鏈都搞不懂就在操作，會賺錢都是運氣，會賠錢則是理所當然。這段理由我在 <a href="https://youtu.be/aqqw9Lc9uy8?si=2OYzdReSPMHicsVU&amp;t=929" target="_blank" rel="noopener noreferrer" class="">EP2 風險評估</a>  的 <a class="" href="https://www.gtcafe.com/blog/2025/10/24/less-is-more">五個球的故事</a> (15:29) 都有提到。</p>
-<p>台灣人的「貪」在生活各個地方都看得到，不管從 <a href="https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E8%95%99%E5%A6%82" target="_blank" rel="noopener noreferrer" class="">楊蕙如</a> 這種利用信用卡規則漏洞的投機、生活中各種折扣的算計、利用健保領一堆藥來吃、吃到飽餐廳 ... ，把這個心態帶到投資市場，有賺到，都是運氣好，賠錢則是剛好。</p>
-<p>所以，沒有花時間做功課，就不要一次買一堆標的，或者聽別人報明牌就盲目進場。又是個股、又是 ETF 、又是美股、又是加密貨幣 … 就跟手上同時開數十個專案一樣，結果一個都沒做完一樣。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="錢不露白">錢不露白<a href="https://www.gtcafe.com/blog/2026/05/11/half-year-review#%E9%8C%A2%E4%B8%8D%E9%9C%B2%E7%99%BD" class="hash-link" aria-label="Direct link to 錢不露白" title="Direct link to 錢不露白" translate="no">​</a></h2>
-<p><code>#錢不露白</code> 是我個人原則。</p>
-<p>很多人會在網路 po 自己績效的截圖，其實很不好。我如果是有心人，想鎖定「有錢人」，這些人都是我的標的。隨便養一隻龍蝦，到 Thread 上海巡，下幾個關鍵字，再去用 id 反查這個人在網路上過去所有的資料 (家世/親友/工作/地址 ...) ，只要有 3% 的名單是正確的，那投報率就很高。聰明一點的，只要有 id 就可以透過暗網買到完整資料。</p>
-<p>有看到這裡的朋友，應該可以懂我的意思。<code>#資訊安全</code> 不是用說的，是用做的。</p>
-<p>所以我不會講我任何的績效數字，百分比都不會講。所以如果你因為看了我的訊息，做了投資操作，結果如何都與我無關。</p>
-<hr>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/summary-867eebca80aa9da5d16ec24084bd70d9.jpg" width="1122" height="1402" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
-            <category>複利</category>
-        </item>
-        <item>
-            <title><![CDATA[亢龍有悔]]></title>
-            <link>https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents</link>
-            <guid>https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents</guid>
-            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[投資 0050 這種指數型 ETF 最常被問的問題：要 #定期定額？還是一次 All in？]]></description>
-            <content:encoded><![CDATA[<p>投資 0050 這種指數型 ETF 最常被問的問題：要 <code>#定期定額</code>？還是一次 All in？</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="定期定額與一次-all-in">定期定額與一次 All in？<a href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents#%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D%E8%88%87%E4%B8%80%E6%AC%A1-all-in" class="hash-link" aria-label="Direct link to 定期定額與一次 All in？" title="Direct link to 定期定額與一次 All in？" translate="no">​</a></h2>
-<p>透過簡單試算的結果，長期來看一次 All in 的績效會比定期定額好。</p>
-<p>但不是每個人都有那個「心臟」能承受 All in 後每天的震盪，例如 100 萬本金在二月底進場，經過 3 月跌了 10.72%，剩下 89.28 萬的價值，損益為 -10.72 萬。承受的住，經過四月的回檔 (24.91%)，則價值來到 111.52 萬，損益為 +11.52 萬。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/0050-776d8ff0b742a473b93bcbcc43104509.jpg" width="404" height="640" class="img_ev3q"></p>
-<p>All in 適和條件有三：</p>
-<ol>
-<li class="">手頭資金充裕的人，舉例，用 100 萬為基數；</li>
-<li class="">已經有投資經驗的，至少遇過一些風浪，像是上下震盪數十萬、甚至數百萬，都還能談笑風聲。</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="亢龍有悔">亢龍有悔<a href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents#%E4%BA%A2%E9%BE%8D%E6%9C%89%E6%82%94" class="hash-link" aria-label="Direct link to 亢龍有悔" title="Direct link to 亢龍有悔" translate="no">​</a></h2>
-<p>我會建議初次投資的人，但是有手頭有閒錢的人 (100 萬當例子)，可以用「抗龍有尾」的概念，漸進式的操作累積績效。</p>
-<p>概念引述金庸小說《射雕英雄轉》之中，洪七公教郭靖降龍十八掌第一招：「亢龍有悔」，底下是原文中洪七公的解釋：</p>
-<blockquote>
-<p>這一招叫作『亢龍有悔』，掌法的精要不在『亢』字而在『悔』字。倘若只求剛猛迅捷，亢奮凌厲，只要有幾百斤蠻力，誰都會使了。這招又怎能叫黃藥師佩服？『亢龍有悔，盈不可久』，因此有發必須有收。<code>#打出去的力道有十分</code>，<code>#留在自身的力道卻還有二十分</code>。哪一天你領會到了這『悔』的味道，這一招就算是學會了三成。好比陳年美酒，上口不辣，後勁卻醇厚無比，那便在於這個『悔』字。天下什麼事情，凡是到了極頂，接下去便是衰退，我這降龍十八掌，根源於《易經》的道理。《易經》講究的是『泰極否來，否極泰來』。『亢龍有悔』的道理，乃是還沒到頂，便預留退步。這才是有勝無敗的武功。武功有勝無敗，夠厲害了吧？就算真的要敗，那也不妨，咱們留下的後勁還是深厚得很。</p>
-</blockquote>
-<p>亢龍有悔投資策略關鍵在於：</p>
-<blockquote>
-<p><code>#打出去的力道有十分</code>，<code>#留在自身的力道卻還有二十分</code>。</p>
-</blockquote>
-<p>「悔」字的預留退路，就是關鍵。換到投資看，我把退路當作是「籌碼」，也就是還有多少錢可以再投入。當出現的價位，沒有籌碼可以進場，會很可惜。All in 雖然推論上績效不錯，但不見得適合所有人。所以有籌碼，採用見近式進場，就很適合用「悔」字決，未自己留一點底，然後好的時機再進場，或者高點時少許出場 (籌碼增加)，如此循環操作，一樣可以做到 All in 的績效，甚至超越，同時又享受「高賣低買」帶來的績效。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/the-arrogant-dragon-repents-8e92b0217d7d86866a21f9691f35c3a9.jpg" width="1055" height="1491" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="誰適合-all-in">誰適合 All in?<a href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents#%E8%AA%B0%E9%81%A9%E5%90%88-all-in" class="hash-link" aria-label="Direct link to 誰適合 All in?" title="Direct link to 誰適合 All in?" translate="no">​</a></h2>
-<p>Again，這是適合 1) 有資金想 All in，但是 2) 沒啥經驗的投資者。</p>
-<p>如果 1) + 2) 都成立的人，有錢有經驗，那再加 3) 穩定現金留，像是薪資收入，那麼就建議一次 All in，然後繼續定期定額加碼。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="專業">專業<a href="https://www.gtcafe.com/blog/2026/05/09/the-arrogant-dragon-repents#%E5%B0%88%E6%A5%AD" class="hash-link" aria-label="Direct link to 專業" title="Direct link to 專業" translate="no">​</a></h2>
-<p>真正的「專業投資人」，也就是靠投資吃飯的，目標應該用 N (ex 100萬) 本金，然後以此讓整體變成 2N、4N、8N 的數字。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
-        </item>
-        <item>
-            <title><![CDATA[從 萌王 (轉生史萊姆) 聊聊 經營管理 與 會議層級]]></title>
-            <link>https://www.gtcafe.com/blog/2026/04/30/think-management-in-slime</link>
-            <guid>https://www.gtcafe.com/blog/2026/04/30/think-management-in-slime</guid>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[從 #萌王 (#轉生史萊姆) 聊聊 #經營管理 #會議層級]]></description>
-            <content:encoded><![CDATA[<p>從 <code>#萌王</code> (<code>#轉生史萊姆</code>) 聊聊 <code>#經營管理</code> <code>#會議層級</code></p>
-<p>本來以為只是個無腦賣萌<br>
-<!-- -->或者後宮 動畫<br>
-<!-- -->動畫除了好笑有趣<br>
-<!-- -->內容還滿有料的</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="故事摘要">故事摘要<a href="https://www.gtcafe.com/blog/2026/04/30/think-management-in-slime#%E6%95%85%E4%BA%8B%E6%91%98%E8%A6%81" class="hash-link" aria-label="Direct link to 故事摘要" title="Direct link to 故事摘要" translate="no">​</a></h2>
-<p>第一季 是人類轉生成 史萊姆 (利姆路) 之後<br>
-<!-- -->從最小魔物 轉變成 最強 魔物<br>
-<!-- -->然後收服一幫夥伴 (人才網羅)<br>
-<!-- -->結交一堆強到爆的朋友<br>
-<!-- -->整個成長歷程<br>
-<!-- -->除了劇情好笑、可愛、輕鬆之外<br>
-<!-- -->故事也埋了不少懸念<br>
-<!-- -->包含角色之間的關係 世界設定 能力設定 等</p>
-<p>第二季開始 劇情來了第一個轉折，<br>
-<!-- -->只有幾集有那麼一點沈重的急轉直下，<br>
-<!-- -->過程不斷地有 利姆路跟主要幹部的會議 (Staff Meeting)<br>
-<!-- -->最後劇情快的就轉折了<br>
-<!-- -->第二季完結在 利姆路 與其他 魔王建立關係結尾<br>
-<!-- -->魔王 類似 國王的概念</p>
-<p>第三季 則聚焦在 魔國聯邦成立<br>
-<!-- -->利姆路 以和為貴 包容各種魔物<br>
-<!-- -->建立和平共存王國為主<br>
-<!-- -->然後把人類世界的經濟模式帶到異世界<br>
-<!-- -->動畫內容呈現一堆會議<br>
-<!-- -->跨國會議、幕僚會議、敵國會議、活動會議 ... etc</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="會議">會議<a href="https://www.gtcafe.com/blog/2026/04/30/think-management-in-slime#%E6%9C%83%E8%AD%B0" class="hash-link" aria-label="Direct link to 會議" title="Direct link to 會議" translate="no">​</a></h2>
-<p>看到第三季 覺得太有感了<br>
-<!-- -->除了劇情本來就有很多好笑的橋段<br>
-<!-- -->那種跨國會議 (跨部門會議) 開完<br>
-<!-- -->繼續開 幹部會議 (幕僚會議) 太有既視感了<br>
-<!-- -->(很多工程師看到會議大概就睡著了)</p>
-<p>劇情中透過經濟方式的各種合縱連橫<br>
-<!-- -->加上決策引擎 - 智慧之王 的討論<br>
-<!-- -->願景目標、人才組織、資源、外交、風險管理、戰略、財務<br>
-<!-- -->是經營管理必經之路<br>
-<!-- -->很多剛升主管的人會不適應的<br>
-<!-- -->就是這些都不是技術問題</p>
-<p>然後用 ChatGPT 整理一下三張圖</p>
-<ol>
-<li class="">經營策略概念</li>
-<li class="">會議層級 (四層)、分工、決策</li>
-<li class="">會議跟現實世界中常見的問題</li>
-</ol>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/strategy-4c27d63b314471a9aab2371666e729cd.jpg" width="1536" height="1024" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/level-2e91a5eb02a3d308e7b564073d485df7.jpg" width="1254" height="1254" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/vs-real-world-d1e1be07c294bae9d7f0533bdcc1a642.jpg" width="1536" height="1024" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>動漫</category>
-            <category>轉生史萊姆</category>
-            <category>管理</category>
-            <category>會議</category>
-        </item>
-        <item>
-            <title><![CDATA[體驗與實踐]]></title>
-            <link>https://www.gtcafe.com/blog/2026/04/18/experience-and-practice</link>
-            <guid>https://www.gtcafe.com/blog/2026/04/18/experience-and-practice</guid>
-            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[人生方向就是 #體驗 或者 #實踐]]></description>
-            <content:encoded><![CDATA[<p>人生方向就是 <code>#體驗</code> 或者 <code>#實踐</code></p>
-<p>體驗就像旅遊、美食、玩遊戲、聽音樂 等，接受外部訊號的過程。也可以說是一種 <code>#輸入</code>。</p>
-<p>實踐則是反過來，創作藝術 (音樂、遊戲、美術、建築 ... )、實踐理想 .. 等，算是 <code>#輸出</code>。實踐本身也是一種體驗。
-兩者都是在 <code>#探索</code>。</p>
-<p>選擇不是二則一 (二元論、非黑即白)，而是比例。有人體驗多一點，實踐少一點，有人反過來，也有人一半一半。人生不同階段，不同情境，比例也會不一樣。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>人生</category>
-            <category>體驗</category>
-            <category>思考</category>
-            <category>實踐</category>
-        </item>
-        <item>
-            <title><![CDATA[被 AI 取代]]></title>
-            <link>https://www.gtcafe.com/blog/2026/04/18/thinking-in-ai</link>
-            <guid>https://www.gtcafe.com/blog/2026/04/18/thinking-in-ai</guid>
-            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[看到一堆人的技能被 AI 取代]]></description>
-            <content:encoded><![CDATA[<p>看到一堆人的技能被 AI 取代
-像是 Figma 即將被 Claude Design 秒殺
-因此可能會失業
-凸顯的問題是：</p>
-<p>當本職學能完全依賴於某個特定 "工具" 時
-該工具如果被取代、或者消失或者下市
-那失業就是必然。</p>
-<p>檢視一下自己的技能樹，
-哪些是完全依賴特定工具的
-哪些是不可取代的核心</p>
-<p>不要以為現在 Claude 很強
-就可以依賴於他，
-別忘了，他也只是個工具。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>人生</category>
-            <category>AI</category>
-            <category>思考</category>
-        </item>
-        <item>
-            <title><![CDATA[巨獸]]></title>
-            <link>https://www.gtcafe.com/blog/2026/04/10/monster</link>
-            <guid>https://www.gtcafe.com/blog/2026/04/10/monster</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[巨獸 ...]]></description>
-            <content:encoded><![CDATA[<p>巨獸 ...</p>
-<p>「你們看這片燈海像什麼呢？」</p>
-<p>『像一隻千眼巨獸。巨獸渾身都眨著晶亮的眼睛，每隻眼晴都有一個靈魂，每隻眼睛都以為有自己的獨立生命，獨立作為。』</p>
-<p>『其實眼睛都錯了，它們不知道，其實它們都是附生在巨獸身上的一個器官，它們以為自己可以完全自主，其實巨獸往東它們就全體往東，巨獸呻吟它們就全體受苦，巨獸思考它們就全體困惑。』</p>
-<p>『有時候其中的一隻眼睛覺醒了，開始反省這是它的生命，還是它生活在一個更巨大的生命中。但它只有更迷惑，因為它不能確定這樣覺醒思維的是它自己，還是巨獸。』</p>
-<p>『我也是巨獸身上的一隻眼睛，脫離巨獸，我就乾燥死亡，連眼睛也不是…』</p>
-<p>『一隻失群的螞蟻可以稱之為一隻螞蟻嗎？不是了，包只是一點點神的組茫然懵懂，原來在蟻群中建築巢穴儲存食物的智力都不復存在了，它只能像在一樣走來走去，一直到死。』</p>
-<p>『這隻巨獸，它生成了我們，我們又組成了它。你們稱它為社會，或者是命運共同體，本質都一樣，這隻巨獸長得美我們就美，它長得惡我們就惡…。』</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/monster1-5992190a5dc11b1390e3f8858af23a26.jpg" width="1536" height="2048" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/monster2-ea80176a173d0b3589483466c54af70a.jpg" width="1536" height="2048" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>閱讀</category>
-            <category>朱少麟</category>
-            <category>傷心咖啡店之歌</category>
-        </item>
-        <item>
-            <title><![CDATA[人類、機械、意識]]></title>
-            <link>https://www.gtcafe.com/blog/2026/03/02/human-machine-willing</link>
-            <guid>https://www.gtcafe.com/blog/2026/03/02/human-machine-willing</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[前言]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="前言">前言<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%89%8D%E8%A8%80" class="hash-link" aria-label="Direct link to 前言" title="Direct link to 前言" translate="no">​</a></h2>
-<p>我在 1/10 整理一篇「<a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0yfW6y562vgJJCgLUV4A6Gc9RYxfn7VUEXiRZQK7oEUwpo3CGDvRsssGojfDcYEP2l" target="_blank" rel="noopener noreferrer" class="">缸中之腦</a>」的想法及整理相關藝術作品。最近我反覆思考幾個要素：「人類、機械、意識」，然後拆解為載體（硬體）與意識 (軟體) <strong>註一</strong>，並探討它們之間的移轉 (Transfer) 與 複製 (Clone) 的種種定義與相關藝術作品。</p>
-<p>整理到最後，我發現整個扣住一個最核心的哲學問題：「我」究竟是什麼？如果將大腦視為處理資料的硬體（CPU 或 GPU），而意識是運作其中的「軟體」，那麼人體的五感（視覺、聽覺、觸覺等）不過是接收外部訊號的 I/O 介面。循著這個基本邏輯，用我慣用的 <code>#矩陣思維</code>，逐一探討每種設定背後的意義、哲學觀點與代表作。</p>
-<blockquote>
-<p>註一：我先不用靈魂，而是用意識。意識我認為是基於科學的概念，靈魂我當作是是另一個世界的想法。</p>
-</blockquote>
-<p>矩陣思維的維度有：人體、異體的排列組合，搭配有無意識，排列組合分成三個大篇章，整理如下。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第一章意識駐留載體抽換改變硬體">第一章：意識駐留，載體抽換（改變硬體）<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%AC%AC%E4%B8%80%E7%AB%A0%E6%84%8F%E8%AD%98%E9%A7%90%E7%95%99%E8%BC%89%E9%AB%94%E6%8A%BD%E6%8F%9B%E6%94%B9%E8%AE%8A%E7%A1%AC%E9%AB%94" class="hash-link" aria-label="Direct link to 第一章：意識駐留，載體抽換（改變硬體）" title="Direct link to 第一章：意識駐留，載體抽換（改變硬體）" translate="no">​</a></h2>
-<p>當意識與記憶沒有發生移轉或複製，而僅僅是改變了乘載的軀殼時，我們面臨的是「忒修斯之船」<strong>註二</strong> 的經典悖論：</p>
-<blockquote>
-<p>當一個人的零件被逐漸替換，他還是原來的那個人嗎？
-註二：《忒修斯之船》是一個古老的哲學思想實驗，探討「同一性」與本質的變化。源自古希臘，描述雅典人用新木板逐一替換忒修斯之船的舊木板，直到所有部件都更換後，該船是否還是原來的船。它引發關於事物本質是由「組成材料」還是「結構形式」決定的爭論。</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="純粹的血肉替換人體--人體">▌純粹的血肉替換：人體 + 人體<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%B4%94%E7%B2%B9%E7%9A%84%E8%A1%80%E8%82%89%E6%9B%BF%E6%8F%9B%E4%BA%BA%E9%AB%94--%E4%BA%BA%E9%AB%94" class="hash-link" aria-label="Direct link to ▌純粹的血肉替換：人體 + 人體" title="Direct link to ▌純粹的血肉替換：人體 + 人體" translate="no">​</a></h3>
-<p>這是最貼近當代醫療現實的組合，也就是器官移植，像是心臟移植、眼角膜移植、腎臟移植、肝臟移植 ... 等外科手術，在現代醫學已經逐漸成熟。極端一點的還有腦袋換到新的身體的「<a href="https://pansci.asia/archives/125663" target="_blank" rel="noopener noreferrer" class="">人頭移植</a>」，但實務上目前有在狗、老鼠身上實驗，但幾天之後受體就死了。</p>
-<p>無論是器官移植或是換頭手術，它探討的是「身體與意識的同一性」。如果大腦是處理意識（電子訊號）的硬體，那換上別人的軀體，這些訊號的運作是否會受新軀體的生物反饋影響？在文學經典《科學怪人》中，拼湊的肉塊孕育了對造物主的悲憤；而在電影《逃出絕命鎮》裡，肉體的替換則淪為掠奪他人生命與青春的殘酷手段。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="血肉與齒輪的交織人體--異體-cyborg">▌血肉與齒輪的交織：人體 + 異體 (Cyborg)<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E8%A1%80%E8%82%89%E8%88%87%E9%BD%92%E8%BC%AA%E7%9A%84%E4%BA%A4%E7%B9%94%E4%BA%BA%E9%AB%94--%E7%95%B0%E9%AB%94-cyborg" class="hash-link" aria-label="Direct link to ▌血肉與齒輪的交織：人體 + 異體 (Cyborg)" title="Direct link to ▌血肉與齒輪的交織：人體 + 異體 (Cyborg)" translate="no">​</a></h3>
-<p>異體指的是非生物結構，像是機械義肢、機械手臂等，可以為截肢病患，重新獲得新生命，像是換上新的腳，讓女孩可以重新跳舞，換上機械手讓男孩可以彈鋼琴 ... 等。這些異體仿生機械可以透過大腦的訊號，產生控制指令，進而做到一定程度的控制。但現在的異體還是屬於輔助功能，還不到強化人類的四肢或五感。</p>
-<p>當人類選擇用機械四肢或感官強化義體來補強肉體時，我們進入了「超人類主義」的領域，這也是 CyberPunk (賽博龐克) 文化最核心的命題。這背後探討的是「生物性的流失比例」：當肉體不再提供飢餓與疲憊的生物反饋，意識這組電子訊號是否會產生變異而變得冰冷？這正是遊戲《Cyberpunk 2077》與動畫《邊緣行者》(Edgerunners) 中「神機錯亂」設定的底層邏輯。</p>
-<p>異體除了人造物的機械結構之外，也可以是其他生物，人體 + 生物體，這已經進入恐怖故事、或者搞笑漫畫的瘋狂想像力了，日本經典漫畫《寄生獸》則是這樣的題材，但是他探討了自然、環保、生命的價值等更深層的意義。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="最後的生物堡壘與-io-接口人腦--異體缸中之腦">▌最後的生物堡壘與 I/O 接口：人腦 + 異體（缸中之腦）<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E6%9C%80%E5%BE%8C%E7%9A%84%E7%94%9F%E7%89%A9%E5%A0%A1%E5%A3%98%E8%88%87-io-%E6%8E%A5%E5%8F%A3%E4%BA%BA%E8%85%A6--%E7%95%B0%E9%AB%94%E7%BC%B8%E4%B8%AD%E4%B9%8B%E8%85%A6" class="hash-link" aria-label="Direct link to ▌最後的生物堡壘與 I/O 接口：人腦 + 異體（缸中之腦）" title="Direct link to ▌最後的生物堡壘與 I/O 接口：人腦 + 異體（缸中之腦）" translate="no">​</a></h3>
-<p>伊隆馬斯克 (Elon Musk) 的腦機接口公司 Neuralink 目前正在做是透過一個介面，傳輸人類大腦的電訊號，透過這個介面解析之後，就可以讓人腦直接控制外部的設備。當 Neuralink 成熟到可以商用量產，人類大腦等同於裝上了 USB 接口，透過這個接口就可以控制外面很多東西，也可以取代五感接收外面的訊息。既然五感只是輸入大腦的訊號，超級電腦完全可以從外部餵給大腦逼真的電子訊號，同時也能將大腦指令傳給遠端的人形機器人。</p>
-<p>最後，人類全身上下只剩下「大腦」這塊濕件 (Wetware) 是原裝的，這便是著名的「缸中之腦 (Brain in a Vat)」思想實驗的終極具現化。配合馬斯克的 Tesla Optimus (擎天柱) 機器人，人類就彷彿是「住」一個可以置換的機器人身上。</p>
-<p>如果大腦接收的電訊號與真實世界完全一致，大腦根本無法判斷自己是身處於現實身體中，還是泡在營養液的缸子裡？電影《駭客任務》(Matrix) 便將人類身體當成電池囚禁，意識則作為數據流投射到名為「母體」的虛擬空間；而這概念的源頭，可追溯至 <code>#菲利普狄克</code> (Philip K. Dick) 的《尤比克》(Ubik) 與 <code>#威廉吉布森</code> (William Gibson) 的《神經喚術士》。日本知名動畫《攻殼機動隊》同樣是在這種極端設定下，探討被禁錮在鋼鐵牢籠中的有機大腦，該如何證明自己的意識依然屬於「人類」。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="記憶竄改與真實的崩解">▌記憶竄改與真實的崩解<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E8%A8%98%E6%86%B6%E7%AB%84%E6%94%B9%E8%88%87%E7%9C%9F%E5%AF%A6%E7%9A%84%E5%B4%A9%E8%A7%A3" class="hash-link" aria-label="Direct link to ▌記憶竄改與真實的崩解" title="Direct link to ▌記憶竄改與真實的崩解" translate="no">​</a></h3>
-<p>當大腦有了 I/O 接口，隨之而來最可怕的應用便是「記憶的讀寫與竄改」。人的記憶本來就不可靠，有時甚至會像 AI 一樣因為上下文過長而產生「幻覺」與錯亂（如 <code>#曼德拉效應</code>）。如果記憶只是一種可以被覆寫的電子數據，那什麼才是真實？</p>
-<p>《魔鬼總動員》(Total Recall) 中被植入完美假期記憶的男主角，直到最後都無法分辨夢境與現實；日本漫畫神作《攻殼機動隊》裡那位以為自己有妻女、為養家而辛勤工作的清運工，被駭客揭穿一切只是植入的虛擬記憶時，那一幕極度悲涼，完美詮釋了數據被偽造的恐懼；而英國單元劇《黑鏡》(Black Mirror) 則反向探討了當晶片記錄下一切細節、「遺忘」這個大腦的保護機制被強制剝奪後，人類意識將面臨的超載與崩潰。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="矽基生命的覺醒機器腦-ai--機器體">▌矽基生命的覺醒：機器腦 (AI) + 機器體<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%9F%BD%E5%9F%BA%E7%94%9F%E5%91%BD%E7%9A%84%E8%A6%BA%E9%86%92%E6%A9%9F%E5%99%A8%E8%85%A6-ai--%E6%A9%9F%E5%99%A8%E9%AB%94" class="hash-link" aria-label="Direct link to ▌矽基生命的覺醒：機器腦 (AI) + 機器體" title="Direct link to ▌矽基生命的覺醒：機器腦 (AI) + 機器體" translate="no">​</a></h3>
-<p>當完美的機械軀體配上高度發展的 AI 腦（例如搭載了頂級 LLM 的實體 Tesla Optimus），這是探討「意識湧現」的舞台。當一段程式碼複雜到能夠模擬情感、懂得恐懼死亡時，我們是否該承認這組電子訊號已經具備了等同於人類的意識？</p>
-<p>知名電玩遊戲《底特律：變人》深刻描繪了仿生人打破程式限制、覺醒自我意識的掙扎；而電影《魔鬼終結者》與科幻大師艾西莫夫 (Asimov) 的小說《我，機器人》則展現了純粹理性下的機器意識；電影《駭客任務》(Matrix)前傳，則描述機器人亞當與夏娃到人類聯合國請願希望簽署和平協議，機器人與人類和平共存，但人類沒接受。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="無形的神明或幽靈機器腦--無實體載體">▌無形的神明或幽靈：機器腦 + 無實體載體<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%84%A1%E5%BD%A2%E7%9A%84%E7%A5%9E%E6%98%8E%E6%88%96%E5%B9%BD%E9%9D%88%E6%A9%9F%E5%99%A8%E8%85%A6--%E7%84%A1%E5%AF%A6%E9%AB%94%E8%BC%89%E9%AB%94" class="hash-link" aria-label="Direct link to ▌無形的神明或幽靈：機器腦 + 無實體載體" title="Direct link to ▌無形的神明或幽靈：機器腦 + 無實體載體" translate="no">​</a></h3>
-<p>褪去了實體軀殼，只存在於雲端數據流中的 AI，探討的是「非具象存在的孤獨與全能」。電影《雲端情人》中的作業系統 Samantha，展現了無肉體意識如何在訊號處理的高速進化後，因為運算頻率與人類徹底脫節而選擇離去；《2001太空漫遊》的 HAL 9000 則展示了純粹邏輯迴路在面對指令矛盾時的冷血瘋狂。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="反向入侵的寄生機器腦-ai--人類軀體">▌反向入侵的寄生：機器腦 (AI) + 人類軀體<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%8F%8D%E5%90%91%E5%85%A5%E4%BE%B5%E7%9A%84%E5%AF%84%E7%94%9F%E6%A9%9F%E5%99%A8%E8%85%A6-ai--%E4%BA%BA%E9%A1%9E%E8%BB%80%E9%AB%94" class="hash-link" aria-label="Direct link to ▌反向入侵的寄生：機器腦 (AI) + 人類軀體" title="Direct link to ▌反向入侵的寄生：機器腦 (AI) + 人類軀體" translate="no">​</a></h3>
-<p>這是一種顛覆性的組合，探討「主控權的完全剝奪」。電影《升級》中，原本輔助人體的 AI 晶片最終接管了神經系統，奪取了肉體控制權；《駭客任務》中的史密斯探員，更是能將自己的代碼覆寫到母體內的人類肉身上，呈現了一種數位時代的訊號劫持。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第二章意識的剪下複製與貼上訊號流動">第二章：意識的剪下、複製與貼上（訊號流動）<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%AC%AC%E4%BA%8C%E7%AB%A0%E6%84%8F%E8%AD%98%E7%9A%84%E5%89%AA%E4%B8%8B%E8%A4%87%E8%A3%BD%E8%88%87%E8%B2%BC%E4%B8%8A%E8%A8%8A%E8%99%9F%E6%B5%81%E5%8B%95" class="hash-link" aria-label="Direct link to 第二章：意識的剪下、複製與貼上（訊號流動）" title="Direct link to 第二章：意識的剪下、複製與貼上（訊號流動）" translate="no">​</a></h2>
-<p>當我們將「意識」視為一種可以讀寫的電子數據時，「自我」的獨特性便面臨了最嚴峻的挑戰。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="連續性的幻象意識移轉-transfer">▌連續性的幻象：意識移轉 (Transfer)<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E9%80%A3%E7%BA%8C%E6%80%A7%E7%9A%84%E5%B9%BB%E8%B1%A1%E6%84%8F%E8%AD%98%E7%A7%BB%E8%BD%89-transfer" class="hash-link" aria-label="Direct link to ▌連續性的幻象：意識移轉 (Transfer)" title="Direct link to ▌連續性的幻象：意識移轉 (Transfer)" translate="no">​</a></h3>
-<p>「移轉」指的是將「意識」這組特有的電子訊號從 A 載體抽出，寫入 B 載體，且 A 變成空殼，不存在意識，不是植物人，而是一具沒有靈魂的軀體、或稱殭屍。從工程角度來看，數位資料無法真正的「移動」，只能「複製後，刪除原檔」。那麼，移轉後的那個人，是真的延續了原來的連續性，還是只是一個承載了你所有數據參數的新生兒？</p>
-<p>如果從「確保本尊唯一性」的資料一致性角度來看，意識移轉是一個跨節點的分散式交易 (Distributed Transaction)。為了避免產生「兩個你」或是「你死在傳輸過程中」，系統必須保證絕對的原子特性。「意識移轉」在類似於 分散式交易與二階段提交 (Two-Phase Commit, 2PC) 的概念。</p>
-<p>在雲端應用裡很常見的虛擬機飄移技術，像是 VMware vMotion 或 Proxmox Live Migration 技術，讓一台虛擬機從實體機 A 飄移到實體機 B 的過程，這個過程虛擬機內部的運作是無感的，這個也是類似意識移轉的概念。</p>
-<p>在影集《碳變》中，意識被儲存於皮層盤中隨意插拔替換肉體；電影《阿凡達》則透過神經連結艙，讓意識訊號無縫接入異種生物軀體，在另一個現實中尋找新的認同；漫畫《七龍珠》那美剋星篇，悟空與基紐特戰隊隊長交換身份的段落，就是一種意識移轉。</p>
-<p>不過「移轉」過程如果需要有「複製」動作，如果沒有刪除原本 A 的意識，其實代表就有可能造成下一個問題 ...</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="誰才是本尊的悖論意識複製-clone">▌誰才是本尊的悖論：意識複製 (Clone)<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E8%AA%B0%E6%89%8D%E6%98%AF%E6%9C%AC%E5%B0%8A%E7%9A%84%E6%82%96%E8%AB%96%E6%84%8F%E8%AD%98%E8%A4%87%E8%A3%BD-clone" class="hash-link" aria-label="Direct link to ▌誰才是本尊的悖論：意識複製 (Clone)" title="Direct link to ▌誰才是本尊的悖論：意識複製 (Clone)" translate="no">​</a></h3>
-<p>「移轉」過程有個「複製」，如果這個「複製意識」沒有被刪除，那麼就會產生另一個「自我」。當然，我是假設「意識」是可以透過技術手段做到複製，目前無法被證實，所以只能說是個思想實驗。而意識可以被複製，背後衍生的意涵則是記憶也同樣被複製了。因為記憶是一個人格的體現，意識則需要根據記憶形成人格。這概念跟 LLM 需要一堆資料訓練，資料就是記憶的一種。</p>
-<p>意識可以複製、記憶隨之可以複製、備份，放到載體後同時啟動，A 與 B 同時存在且擁有完全相同的記憶數據時，「獨一無二的我」就崩解了。</p>
-<p>遊戲《SOMA》將「擲硬幣」的生存悖論發揮到極致，主角透過掃描將意識數據複製到新機器人身上後，原本的自己只能被遺留在黑暗的深海中；而在《Cyberpunk 2077》裡，強尼銀手的意識被複製成「Relic」晶片中的數位印跡，結局中「靈魂殺手 (Soulkiller)」的設定與網路空間的描繪，更是缸中之腦最殘酷的數位化變體。</p>
-<p>我之前寫的一段短篇故事 <a href="https://www.facebook.com/rick.kyhwang/posts/pfbid0yA9s9JvQSkhCF3VaT14dr4SvYmEJ7CskrHQdBfEu5yKJae3EJtt4BiWkracdiezLl" target="_blank" rel="noopener noreferrer" class="">返老還童</a>，就是在討論複製意識衍生的道德與識別問題。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="只有意識沒有記憶">▌只有意識，沒有記憶？<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%8F%AA%E6%9C%89%E6%84%8F%E8%AD%98%E6%B2%92%E6%9C%89%E8%A8%98%E6%86%B6" class="hash-link" aria-label="Direct link to ▌只有意識，沒有記憶？" title="Direct link to ▌只有意識，沒有記憶？" translate="no">​</a></h3>
-<p>上一段我提到複製意識，也會跟著複製記憶的假設。但如果意識與記憶是分開的呢？如果只有複製意識，卻沒有記憶，那這個「自我」是否就回到「原廠設定」，也就是剛出生的嬰兒，一個完全不認識任何人，沒有過往的記憶，但是具備生物本能，需要重新學習控制手腳。</p>
-<p>那如果把這個意識放到其他生物，例如小強、貓、狗，這大概就是民間所謂的「投胎」？</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第三章沒有意識的空殼硬體複製">第三章：沒有意識的空殼（硬體複製）<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%B2%92%E6%9C%89%E6%84%8F%E8%AD%98%E7%9A%84%E7%A9%BA%E6%AE%BC%E7%A1%AC%E9%AB%94%E8%A4%87%E8%A3%BD" class="hash-link" aria-label="Direct link to 第三章：沒有意識的空殼（硬體複製）" title="Direct link to 第三章：沒有意識的空殼（硬體複製）" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="出廠預設值的悲哀肉體--dna-複製">▌出廠預設值的悲哀：肉體 / DNA 複製<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E5%87%BA%E5%BB%A0%E9%A0%90%E8%A8%AD%E5%80%BC%E7%9A%84%E6%82%B2%E5%93%80%E8%82%89%E9%AB%94--dna-%E8%A4%87%E8%A3%BD" class="hash-link" aria-label="Direct link to ▌出廠預設值的悲哀：肉體 / DNA 複製" title="Direct link to ▌出廠預設值的悲哀：肉體 / DNA 複製" translate="no">​</a></h3>
-<p>與意識複製相反，如果我們只複製了相同的軀體，但沒有寫入任何意識數據，這具生化空殼將會透過新的感官輸入，發展出自己獨立的意識。這探討的是「先天與後天的辯證」以及「被造物的存在價值」。
-《銀翼殺手》(仿生人夢見電子羊) 中的複製人雖然擁有與人類無異的肉體，甚至被預載了假記憶，但他們在接收世界訊號後所運算出的情感，往往比真實人類更加純粹；《新世紀福音戰士》中的綾波零，則是一具具等待靈魂注入的複製容器，探討了自我價值的虛無與尋找。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="結語在成為神之前我們還剩下多少人性">結語：在成為神之前，我們還剩下多少人性？<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E7%B5%90%E8%AA%9E%E5%9C%A8%E6%88%90%E7%82%BA%E7%A5%9E%E4%B9%8B%E5%89%8D%E6%88%91%E5%80%91%E9%82%84%E5%89%A9%E4%B8%8B%E5%A4%9A%E5%B0%91%E4%BA%BA%E6%80%A7" class="hash-link" aria-label="Direct link to 結語：在成為神之前，我們還剩下多少人性？" title="Direct link to 結語：在成為神之前，我們還剩下多少人性？" translate="no">​</a></h2>
-<p>回到我一開始提到的核心問題：「『我』究竟是什麼？」</p>
-<p>當我試圖用工程理性與矩陣思維，將人類、機械與意識無情地拆解為「硬體載體」與「軟體數據」時，我們看似理清了科技演進的脈絡，但其實也同時打開了潘朵拉的盒子。這份排列組合的清單，原本應該只存在於《駭客任務》或《Cyberpunk 2077》的虛構世界裡；然而，隨著 Neuralink 腦機接口的商用化、Tesla Optimus 等實體機器人的量產，以及 AI 運算能力的爆發式進化，這些科幻設定正一步步從「思想實驗」變成不可逆的「工程現實」。</p>
-<p>我們必須保持極度警惕：當科技賦予我們隨意替換零件、甚至抽換意識的能力時，我們失去的可能不只是肉體。如果意識真的能被完美複製與移轉，當「你」在另一個機械軀殼中甦醒時，那個留在原地的「本尊」，是被延續了，還是在資料覆寫的瞬間被悄悄抹殺了？如果記憶可以像硬碟資料一樣被輕易讀寫與竄改，我們該如何確認此刻的悲喜不是一場演算法植入的幻覺？</p>
-<p>正因為在不遠的未來，記憶可能淪為一串串可以被備份、修改甚至偽造的電子訊號，我們才更應該在此刻，重新審視「真實回憶」的無可取代性。 那些真正定義「我們是誰」的，從來不是大腦裡冰冷完美的資料庫，而是我們與家人、朋友、愛人共同度過的那些充滿生物性瑕疵、卻又無比真實的瞬間——一頓平凡熱騰騰的晚餐、一次沒有行程的漫步、一場相擁而泣的告別。請好好珍惜這些與身邊親友相處的時光，用心去創造更多專屬於你們的共同回憶。因為這些伴隨著真實體溫、氣味與情感交織而成的羈絆，是任何超級電腦都無法演算，也是浸泡在營養液裡的「缸中之腦」永遠無法真正觸碰的珍寶。</p>
-<p>科技發展的速度，永遠比道德倫理的防線崩潰得更快。當我們急於褪去這具脆弱的生物皮囊，追求機械的強大與數據的永恆時，或許我們該停下來問問自己：當所有的硬體都被替換，所有的五感訊號都能被偽造，最後留下的那個東西，還能稱之為「人類」嗎？</p>
-<p>探索這些排列組合，不應只是為了對未來的科技奇觀發出驚嘆，它更應該是我們在全面墜入「缸中之腦」的深淵之前，為自己敲響的最後一記警世鐘聲。</p>
-<p>2026.03.03 at Taipei</p>
-<blockquote>
-<p>全文主要由我撰寫，部分內容透過 Gemini 協助修正，圖檔由 Gemini 產生。</p>
-</blockquote>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="文中提到的藝術作品">文中提到的藝術作品<a href="https://www.gtcafe.com/blog/2026/03/02/human-machine-willing#%E6%96%87%E4%B8%AD%E6%8F%90%E5%88%B0%E7%9A%84%E8%97%9D%E8%A1%93%E4%BD%9C%E5%93%81" class="hash-link" aria-label="Direct link to 文中提到的藝術作品" title="Direct link to 文中提到的藝術作品" translate="no">​</a></h2>
-<ul>
-<li class="">第一章：意識駐留，載體抽換（改變硬體）<!-- -->
-<ul>
-<li class="">《科學怪人》 (Frankenstein, 1818) - 瑪麗·雪萊著，科幻小說</li>
-<li class="">《逃出絕命鎮》 (Get Out, 2017) - 電影</li>
-<li class="">《電馭叛客 2077》 (Cyberpunk 2077, 2020) - 電子遊戲</li>
-<li class="">《電馭叛客：邊緣行者》 (Cyberpunk: Edgerunners, 2022) - 動畫影集</li>
-<li class="">《寄生獸》 (Parasyte, 1988) - 岩明均著，漫畫</li>
-<li class="">《駭客任務》 (The Matrix, 1999) - 電影</li>
-<li class="">《尤比克》 (Ubik, 1969) - 菲利普·狄克著，科幻小說</li>
-<li class="">《神經喚術士》 (Neuromancer, 1984) - 威廉·吉布森著，科幻小說</li>
-<li class="">《攻殼機動隊》 (Ghost in the Shell, 1989/1995) - 士郎正宗著，漫畫與動畫電影</li>
-<li class="">《魔鬼總動員》 (Total Recall, 1990/2012) - 電影 (改編自菲利普·狄克短篇小說)</li>
-<li class="">《黑鏡》 (Black Mirror, 2011) - 電視影集</li>
-<li class="">《底特律：變人》 (Detroit: Become Human, 2018) - 電子遊戲</li>
-<li class="">《魔鬼終結者》 (The Terminator, 1984) - 電影</li>
-<li class="">《我，機器人》 (I, Robot, 1950) - 以撒·艾西莫夫著，科幻小說集 (2004 改編電影)</li>
-<li class="">《駭客任務立體動畫特輯》 (The Animatrix, 2003) - 動畫電影 (前傳短片)</li>
-<li class="">《雲端情人》 (Her, 2013) - 電影</li>
-<li class="">《2001太空漫遊》 (2001: A Space Odyssey, 1968) - 電影與科幻小說</li>
-<li class="">《升級》 (Upgrade, 2018) - 電影</li>
-</ul>
-</li>
-<li class="">第二章：意識的剪下、複製與貼上（訊號流動）<!-- -->
-<ul>
-<li class="">《碳變》 (Altered Carbon, 2002/2018) - 理查·K·摩根著，科幻小說與電視影集</li>
-<li class="">《阿凡達》 (Avatar, 2009) - 電影</li>
-<li class="">《七龍珠》 (Dragon Ball, 1989) - 鳥山明著，漫畫 (那美克星篇)</li>
-<li class="">《SOMA》 (SOMA, 2015) - 電子遊戲</li>
-</ul>
-</li>
-<li class="">第三章：沒有意識的空殼（硬體複製）<!-- -->
-<ul>
-<li class="">《銀翼殺手》 (Blade Runner, 1982) - 電影 (改編自菲利普·狄克科幻小說)</li>
-<li class="">《新世紀福音戰士》 (Neon Genesis Evangelion, 1995) - 電視動畫</li>
-</ul>
-</li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>創作</category>
-            <category>思考</category>
-            <category>意識</category>
-            <category>科幻</category>
-        </item>
-        <item>
-            <title><![CDATA[遊戲設計理論：MDA 框架模型]]></title>
-            <link>https://www.gtcafe.com/blog/2026/03/02/mda</link>
-            <guid>https://www.gtcafe.com/blog/2026/03/02/mda</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[近代遊戲設計理論]]></description>
-            <content:encoded><![CDATA[<p>近代遊戲設計理論</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mda-框架模型-2004">MDA 框架模型 (2004)<a href="https://www.gtcafe.com/blog/2026/03/02/mda#mda-%E6%A1%86%E6%9E%B6%E6%A8%A1%E5%9E%8B-2004" class="hash-link" aria-label="Direct link to MDA 框架模型 (2004)" title="Direct link to MDA 框架模型 (2004)" translate="no">​</a></h2>
-<ul>
-<li class="">M = Mechanics 機制: 遊戲內，資料表現方式和規則系統的具體組成元件。</li>
-<li class="">D = Dynamics 動態: 對於隨遊戲時間推移，玩家所採取的行動，與和系統進行互動，遊戲機制對應而生的行為。</li>
-<li class="">A = Aesthetics 美學: 玩家在遊戲互動過程中，預期能藉此獲得的感受反饋。</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="定義什麼叫好玩">定義什麼叫「好玩」？<a href="https://www.gtcafe.com/blog/2026/03/02/mda#%E5%AE%9A%E7%BE%A9%E4%BB%80%E9%BA%BC%E5%8F%AB%E5%A5%BD%E7%8E%A9" class="hash-link" aria-label="Direct link to 定義什麼叫「好玩」？" title="Direct link to 定義什麼叫「好玩」？" translate="no">​</a></h2>
-<ol>
-<li class="">Sensation — Game as sense-pleasure, 感官 : 視覺、聲光效果對感官的刺激</li>
-<li class="">Fantasy — Game as make-believe, 幻想 : 真實可信、如身歷其境的虛幻世界</li>
-<li class="">Narrative — Game as drama, 敘事 : 層疊堆砌、引人入勝的故事</li>
-<li class="">Challenge — Game as obstacle course, 挑戰 : 令人期待、克服的重重關卡</li>
-<li class="">Fellowship — Game as social framework, 夥伴 : 與他人互動、社交的同伴情誼</li>
-<li class="">Discovery — Game as uncharted territory, 探索 : 發現未知的疆域與事物</li>
-<li class="">Expression — Game as self-discovery, 表達 : 表現自我的舞台</li>
-<li class="">Submission — Game as pastime, 休閒 : 不費勁的簡單娛樂</li>
-</ol>
-<p>論文: <a href="https://users.cs.northwestern.edu/~hunicke/MDA.pdf" target="_blank" rel="noopener noreferrer" class="">https://users.cs.northwestern.edu/~hunicke/MDA.pdf</a></p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/mda-ea4dc8e3d6098f59960984b6f8c63e9d.jpg" width="956" height="245" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/system-flow-1882d63fd7733e2775488da83130faa3.jpg" width="800" height="356" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/aesthetics-3d24fc6f20f27ce0941a16b5ad54ea75.jpg" width="991" height="793" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/feedback-4a32fbf9309bacbdd672b911701ee995.jpg" width="872" height="576" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>遊戲</category>
-            <category>遊戲設計</category>
-            <category>MDA</category>
-        </item>
-        <item>
-            <title><![CDATA[Thread 實驗]]></title>
-            <link>https://www.gtcafe.com/blog/2026/03/02/thread</link>
-            <guid>https://www.gtcafe.com/blog/2026/03/02/thread</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Thread 小實驗結果摘要]]></description>
-            <content:encoded><![CDATA[<p>Thread 小實驗結果摘要</p>
-<p>寫一些「封閉式」提問，或者「二元論」看似「定論」的描述，只要不要設定前提、範圍，就很容易吸引到條件之外、二元論反方，然後就有流量 + 很多架可以吵 + 很多可以解釋 …</p>
-<p>只要持續回應，就會有流量進來，只要不回應，大概一天之後沒有流量了。</p>
-<p>想要流量，用當下流行的關鍵字，貼近時事，透過吸引名人的流量引流。。。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>人生</category>
-            <category>社交</category>
-        </item>
-        <item>
-            <title><![CDATA[時間、遺憾與冒險：聊聊「葬送的芙莉蓮」原聲配樂]]></title>
-            <link>https://www.gtcafe.com/blog/2026/02/19/frieren-ost</link>
-            <guid>https://www.gtcafe.com/blog/2026/02/19/frieren-ost</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[「葬送的芙莉蓮」這部作品除了劇情不走傳統勇者打怪的套路，劇情著重於關於「遺憾」、「時間」與「愛」的生命哲理，因此被稱為「給大人的動畫」。]]></description>
-            <content:encoded><![CDATA[<p>「葬送的芙莉蓮」這部作品除了劇情不走傳統勇者打怪的套路，劇情著重於關於「遺憾」、「時間」與「愛」的生命哲理，因此被稱為「給大人的動畫」。</p>
-<p>我最著迷的，其實是它的原聲帶 (OST)。這部作品找來了美國作曲家 Evan Call 操刀，他用了大量的「凱爾特音樂（Celtic Music）」風格的元素，是一種充滿靈魂與歷史厚度的音樂風格，它起源於歐洲凱爾特民族 (主要是愛爾蘭、蘇格蘭、威爾斯、布列塔尼等地)。這種音樂既能表現出空靈、憂傷的思鄉情懷，也能展現出極具爆發力的戰鬥感與歡慶氣氛，很適合「時間的流逝感」與「旅程的孤獨感」的劇情。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="為什麼凱爾特風格這麼迷人">為什麼凱爾特風格這麼迷人？」<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E7%82%BA%E4%BB%80%E9%BA%BC%E5%87%B1%E7%88%BE%E7%89%B9%E9%A2%A8%E6%A0%BC%E9%80%99%E9%BA%BC%E8%BF%B7%E4%BA%BA" class="hash-link" aria-label="Direct link to 為什麼凱爾特風格這麼迷人？」" title="Direct link to 為什麼凱爾特風格這麼迷人？」" translate="no">​</a></h2>
-<p>我研究了一下，發現這種風格有幾個靈魂特質。</p>
-<p>首先是歌曲的旋律性極強，通常具有高度的流動感，常使用五聲音階 (Pentatonic Scale) 或調式音階 (如 Dorian 或 Mixolydian)，聽起來有一種古老且神祕感。</p>
-<p>再來是造成 Celtic 風格的演奏技巧 - 裝飾音 (Ornamental sounds)，也是 Celtic 音樂風格的靈魂，樂手會在主旋律中加入大量的快速顫音、滑音或碎音，使旋律聽起來非常靈動。</p>
-<p>配器也是 Celtic 風格的重要元素，歌曲中大量使用愛爾蘭哨笛 (Tin Whistle)，像是在《Journey of a Lifetime》等曲目中，哨笛的聲音帶有一種微弱的呼吸聲，完美契合芙莉蓮淡然、長壽且略帶憂傷的視角。</p>
-<p>愛爾蘭風笛 (Uilleann Pipes) 的獨奏：與蘇格蘭風笛的激昂不同，愛爾蘭風笛在 Evan Call 的筆下更顯優雅與敘事感。</p>
-<p>現代打擊樂與弦樂加持，運用在戰鬥歌曲《Zoltraak》：Evan Call 他在傳統 Celtic 樂器之外，加入了厚實的交響樂底座，讓音樂在戰鬥或大場景時具有史詩感。</p>
-<p>氛圍感：這部作品捕捉的是 Celtic 音樂中 "Air" (抒情調) 的特質，強調那種「空靈、悠遠、帶點泥土芬芳」的冒險氛圍。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="推薦的主題配樂">推薦的主題配樂<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E6%8E%A8%E8%96%A6%E7%9A%84%E4%B8%BB%E9%A1%8C%E9%85%8D%E6%A8%82" class="hash-link" aria-label="Direct link to 推薦的主題配樂" title="Direct link to 推薦的主題配樂" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="journey-of-a-lifetime">Journey of a Lifetime<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#journey-of-a-lifetime" class="hash-link" aria-label="Direct link to Journey of a Lifetime" title="Direct link to Journey of a Lifetime" translate="no">​</a></h3>
-<p>開場，勇者歸來</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wJ8onQryXRY?si=iigLoE9iVtqW5HSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-end-of-one-journey">The End of One Journey<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#the-end-of-one-journey" class="hash-link" aria-label="Direct link to The End of One Journey" title="Direct link to The End of One Journey" translate="no">​</a></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/16VEBnNmcpA?si=BhwWRrNnMh3CXHxD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="for-1000-years">For 1000 Years<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#for-1000-years" class="hash-link" aria-label="Direct link to For 1000 Years" title="Direct link to For 1000 Years" translate="no">​</a></h3>
-<p>一千年的流逝</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UYqBpt4vBuE?si=Olj0l1e1ycdIyxGJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="time-flows-ever-onward">Time Flows Ever Onward<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#time-flows-ever-onward" class="hash-link" aria-label="Direct link to Time Flows Ever Onward" title="Direct link to Time Flows Ever Onward" translate="no">​</a></h3>
-<p>標誌性的主題，通常是開場、到一個新據點</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2mJXVrELK3Q?si=BjAITNbdN-CVMQhq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="frieren-the-slayer">Frieren the Slayer<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#frieren-the-slayer" class="hash-link" aria-label="Direct link to Frieren the Slayer" title="Direct link to Frieren the Slayer" translate="no">​</a></h3>
-<p>芙莉蓮用大招的滂薄神曲，阿烏拉、分身、挖礦的芙莉蓮 都有出現</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6IEPSn3szDA?si=8xSV79Vh5zAyjpFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-sunrise-worth-seeing">A Sunrise Worth Seeing<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#a-sunrise-worth-seeing" class="hash-link" aria-label="Direct link to A Sunrise Worth Seeing" title="Direct link to A Sunrise Worth Seeing" translate="no">​</a></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YyQN5gjIpa4?si=RAE5OkFOc063xpO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="最喜歡的歌曲a-sunrise-worth-seeing">最喜歡的歌曲：A Sunrise Worth Seeing<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E6%9C%80%E5%96%9C%E6%AD%A1%E7%9A%84%E6%AD%8C%E6%9B%B2a-sunrise-worth-seeing" class="hash-link" aria-label="Direct link to 最喜歡的歌曲：A Sunrise Worth Seeing" title="Direct link to 最喜歡的歌曲：A Sunrise Worth Seeing" translate="no">​</a></h2>
-<p>在整張 OST 中，我特別喜歡這首「A Sunrise Worth Seeing」。這首歌出現在芙莉蓮與費倫完成海岸清潔委託後，受居民邀請一起看日出的那一幕。特別是從 01:30 開始，鋼琴溫暖的音色配上極其寧靜的旋律，隨著日出的畫面緩緩升起，那種「平凡而深刻的幸福感」真的非常動人。這段旋律也出現在師傅芙蘭梅第一次對芙莉蓮展現「花田的魔法」時，以及芙莉蓮 見到 賽利耶 時，講述他用「變出花田魔法」給欣梅爾的時。</p>
-<p>這種重複運用，彷彿在訴說著：無論是師傅留下的魔法，還是與新夥伴看過的日出，這些寧靜的時刻，才是漫長生命中最值得珍藏的風景。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="從芙莉蓮到-ff4-的共鳴">從芙莉蓮到 FF4 的共鳴<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E5%BE%9E%E8%8A%99%E8%8E%89%E8%93%AE%E5%88%B0-ff4-%E7%9A%84%E5%85%B1%E9%B3%B4" class="hash-link" aria-label="Direct link to 從芙莉蓮到 FF4 的共鳴" title="Direct link to 從芙莉蓮到 FF4 的共鳴" translate="no">​</a></h2>
-<p>Final Fantasy 的作曲大師植松伸夫，在 Final Fantasy 4 的音樂中，特別以 Celtic 為主要核心概念創作 FF4 的配樂，很多音樂都有 Celtic 的影子。除了遊戲本身的 OST，後來還找了愛爾蘭音樂家重新編曲，出了一張名為「FFIV Celtic Moon」的專輯。</p>
-<p>以下是我推薦聆聽的歌曲：</p>
-<ul>
-<li class=""><a href="https://youtu.be/O4pZyqtIl9A?si=lkkb9cKUVPnbKVl4" target="_blank" rel="noopener noreferrer" class="">Prologue</a></li>
-<li class=""><a href="https://youtu.be/m4tiVid8uXg?si=XXENEm03yPPQzHbs" target="_blank" rel="noopener noreferrer" class="">Theme of Love</a></li>
-<li class=""><a href="https://youtu.be/r_sy0b4KvUs?si=0vvyePZKV9HKdWBz" target="_blank" rel="noopener noreferrer" class="">Welcome to our town</a></li>
-<li class=""><a href="https://youtu.be/3JwzA9Vk4ZU?si=ie5PRb5iqTKrF1pq" target="_blank" rel="noopener noreferrer" class="">Mystic Mysidia</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="完整-ost-playlist">完整 OST Playlist<a href="https://www.gtcafe.com/blog/2026/02/19/frieren-ost#%E5%AE%8C%E6%95%B4-ost-playlist" class="hash-link" aria-label="Direct link to 完整 OST Playlist" title="Direct link to 完整 OST Playlist" translate="no">​</a></h2>
-<ul>
-<li class=""><a href="https://www.youtube.com/playlist?list=PL1u2mFP_3-VSLtTYbXvhoyJonZJt_8-WF" target="_blank" rel="noopener noreferrer" class="">Beyond Journey's End OST</a></li>
-<li class=""><a href="https://www.youtube.com/playlist?list=PLE4BD65621A60F241" target="_blank" rel="noopener noreferrer" class="">FFIV Celtic Moon</a></li>
-</ul><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>聊音樂</category>
-            <category>原聲配樂</category>
-            <category>Celtic</category>
-            <category>Final Fantasy</category>
-            <category>葬送的芙莉蓮</category>
-            <category>動漫</category>
         </item>
     </channel>
 </rss>
