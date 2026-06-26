@@ -2,11 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gtcafe.com/blog</id>
     <title>GTCafe Studio Blog</title>
-    <updated>2026-06-21T00:00:00.000Z</updated>
+    <updated>2026-06-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.gtcafe.com/blog"/>
     <subtitle>GTCafe Studio Blog</subtitle>
     <icon>https://www.gtcafe.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[鑰匙掉了]]></title>
+        <id>https://www.gtcafe.com/blog/2026/06/26/key-lost</id>
+        <link href="https://www.gtcafe.com/blog/2026/06/26/key-lost"/>
+        <updated>2026-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在外面待久了，已經很習慣出門三寶：鑰匙、手機、錢包。習慣用智慧型手機支付後，手機的必要性更高了。然後鑰匙掉了很麻煩，我有兩次掉鑰匙的經驗。]]></summary>
+        <content type="html"><![CDATA[<p>在外面待久了，已經很習慣出門三寶：鑰匙、手機、錢包。習慣用智慧型手機支付後，手機的必要性更高了。然後鑰匙掉了很麻煩，我有兩次掉鑰匙的經驗。</p>
+<p>第一次是剛來台北工作那一年，那時候住在內湖民權東路六段、大潤發附近，房子是公寓五樓。有一次週末外出忘了帶鑰匙 (還好有帶手機)，後來聯絡到房東，但房東人不在附近，等了一個下午才等到房東人來。</p>
+<p>另一次是某個週六晚上練團結束後，那天我記得是下雨天，摩托車上還有吉他和效果器，我要從昆陽站要回去中研院附近的住處。因為我的機車鑰匙孔有點鬆，在忠孝東路七段上騎摩托車時，應該是過程中經過不平的馬路，震動之下，整串鑰匙就掉了。</p>
+<p>但幸運的是，回去忠孝東路七段路上找，晚上、下雨、大馬路，居然找得到！？現在回想，不知道當下是怎麼找的，但真的找到了，只是整串鑰匙被其他車子輾過，有幾支已經爛掉。很幸運的，公寓大門的鑰匙沒事、機車的鑰匙沒事、房間門鑰匙也沒事。</p>
+<p>回想起來，當下有點事，但結果都不算太嚴重，甚至可以說有點幸運。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/key-lost-7b8e3637f4d82a9736dd5fb78bd0d7de.jpg" width="2048" height="1365" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="生活" term="生活"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五個原則]]></title>
+        <id>https://www.gtcafe.com/blog/2026/06/26/five-principle</id>
+        <link href="https://www.gtcafe.com/blog/2026/06/26/five-principle"/>
+        <updated>2026-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在 AI 的發展，讓我想到 #馬斯克傳 (Elon Musk) 提到的 #演算法(The Algorithm)，這概念並非傳統的電腦程式，而是他用來管理 SpaceX 和 Tesla 等公司、極大化創新與降低成本的 #五步工作流程。其核心原則是 #為了加速 並 #避免自動化爛流程。]]></summary>
+        <content type="html"><![CDATA[<p>現在 AI 的發展，讓我想到 <code>#馬斯克傳</code> (Elon Musk) 提到的 <code>#演算法</code>(The Algorithm)，這概念並非傳統的電腦程式，而是他用來管理 SpaceX 和 Tesla 等公司、極大化創新與降低成本的 <code>#五步工作流程</code>。其核心原則是 <code>#為了加速</code> 並 <code>#避免自動化爛流程</code>。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="model-3-生產線">Model 3 生產線<a href="https://www.gtcafe.com/blog/2026/06/26/five-principle#model-3-%E7%94%9F%E7%94%A2%E7%B7%9A" class="hash-link" aria-label="Direct link to Model 3 生產線" title="Direct link to Model 3 生產線" translate="no">​</a></h2>
+<p>馬斯克曾分享過 Tesla Model 3 生產線上的一個故事。當時電池模組上一直裝著一塊玻璃纖維墊，馬斯克問降噪團隊為什麼要裝，他們回答：「這是防火團隊的安全要求。」馬斯克轉頭去問防火團隊，對方卻驚訝地說：「那不是降噪團隊要求的嗎？」</p>
+<p>追問到底才發現，根本沒有人知道為什麼需要這塊墊子。最後團隊直接把它拿掉，結果對車子沒有任何負面影響。之前花在採購、安裝這塊墊子的所有時間與金錢，全都是白費力氣。</p>
+<p>這個故事告訴我們一個常見的職場盲點：</p>
+<blockquote>
+<p>我們經常投入大量心力，去優化一個根本不該存在的東西。</p>
+</blockquote>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第一步質疑每一項需求">第一步：質疑每一項需求<a href="https://www.gtcafe.com/blog/2026/06/26/five-principle#%E7%AC%AC%E4%B8%80%E6%AD%A5%E8%B3%AA%E7%96%91%E6%AF%8F%E4%B8%80%E9%A0%85%E9%9C%80%E6%B1%82" class="hash-link" aria-label="Direct link to 第一步：質疑每一項需求" title="Direct link to 第一步：質疑每一項需求" translate="no">​</a></h2>
+<p>預設所有的需求都有問題。馬斯克強調，每一條需求都必須追溯到「具體的一個人」，絕對不能接受「這是法務部或安全部規定的」這種說法。部門是虛擬的，只有人能為決策負責。此外，提出需求的人越聰明、職位越高，越需要嚴格檢視，因為大家往往不敢反駁權威，導致錯誤的規定一路放行。找不到具名負責人的需求，就直接刪除。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第二步刪除零件或流程">第二步：刪除零件或流程<a href="https://www.gtcafe.com/blog/2026/06/26/five-principle#%E7%AC%AC%E4%BA%8C%E6%AD%A5%E5%88%AA%E9%99%A4%E9%9B%B6%E4%BB%B6%E6%88%96%E6%B5%81%E7%A8%8B" class="hash-link" aria-label="Direct link to 第二步：刪除零件或流程" title="Direct link to 第二步：刪除零件或流程" translate="no">​</a></h2>
+<p>多數人在這一步會陷入「以防萬一」的保守心態，覺得留著也無妨。馬斯克給了一個具體的衡量標準：如果你刪掉的項目中，事後發現需要加回來的比例不到 10%，代表你當初刪得還不夠狠。正確的做法是大膽刪減，直到系統出現輕微的運作困難，再把絕對必要的那一小部分補回來。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第三步簡化與最佳化">第三步：簡化與最佳化<a href="https://www.gtcafe.com/blog/2026/06/26/five-principle#%E7%AC%AC%E4%B8%89%E6%AD%A5%E7%B0%A1%E5%8C%96%E8%88%87%E6%9C%80%E4%BD%B3%E5%8C%96" class="hash-link" aria-label="Direct link to 第三步：簡化與最佳化" title="Direct link to 第三步：簡化與最佳化" translate="no">​</a></h2>
+<p>只針對前兩步「確認絕對必須保留」的部分進行優化。這一步一定要在刪除之後才能做，否則又會回到前面的老路：把資源浪費在不該存在的事物上。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第四步加速迭代">第四步：加速迭代<a href="https://www.gtcafe.com/blog/2026/06/26/five-principle#%E7%AC%AC%E5%9B%9B%E6%AD%A5%E5%8A%A0%E9%80%9F%E8%BF%AD%E4%BB%A3" class="hash-link" aria-label="Direct link to 第四步：加速迭代" title="Direct link to 第四步：加速迭代" translate="no">​</a></h2>
+<p>確認流程已經精簡且優化後，才開始壓縮從設計到測試的週期時間。加快循環速度，能幫助團隊提早發現問題並修正。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="第五步自動化">第五步：自動化<a href="https://www.gtcafe.com/blog/2026/06/26/five-principle#%E7%AC%AC%E4%BA%94%E6%AD%A5%E8%87%AA%E5%8B%95%E5%8C%96" class="hash-link" aria-label="Direct link to 第五步：自動化" title="Direct link to 第五步：自動化" translate="no">​</a></h2>
+<p><code>#這是最後一步</code> ，只能在流程徹底精簡並穩定後才導入。馬斯克坦承自己在這裡吃過大虧：在 Model 3「產能地獄」時期，他試圖把還沒精簡的工廠產線直接自動化，結果把錯誤的流程鎖死，引發更大的災難。過早自動化，只是在 <code>#加快製造垃圾的速度</code>。</p>
+<hr>
+<p>Model 3 一開始的流程是：</p>
+<blockquote>
+<p>第五步 -&gt; 第四步 -&gt; 第三步 -&gt; 第二步 -&gt; 第一步</p>
+</blockquote>
+<p>現在的 AI 發展，很多人的流程也差不多是這樣。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="閱讀" term="閱讀"/>
+        <category label="馬斯克傳" term="馬斯克傳"/>
+        <category label="演算法" term="演算法"/>
+        <category label="AI" term="AI"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[租屋事件紀錄]]></title>
+        <id>https://www.gtcafe.com/blog/2026/06/26/rent</id>
+        <link href="https://www.gtcafe.com/blog/2026/06/26/rent"/>
+        <updated>2026-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在外面租房子，總會遇到一些奇怪的事。這些事回想起來，當下都心情有點影響，但事後看都不算太嚴重。]]></summary>
+        <content type="html"><![CDATA[<p>在外面租房子，總會遇到一些奇怪的事。這些事回想起來，當下都心情有點影響，但事後看都不算太嚴重。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="事件一被檢舉違章建築">事件一：被檢舉違章建築<a href="https://www.gtcafe.com/blog/2026/06/26/rent#%E4%BA%8B%E4%BB%B6%E4%B8%80%E8%A2%AB%E6%AA%A2%E8%88%89%E9%81%95%E7%AB%A0%E5%BB%BA%E7%AF%89" class="hash-link" aria-label="Direct link to 事件一：被檢舉違章建築" title="Direct link to 事件一：被檢舉違章建築" translate="no">​</a></h2>
+<p>我在南軟工作時期，住在中研院附近的公寓隔間出租套房裡。這出租套房是公寓的四樓兩戶，加上五樓頂加，每戶隔成四間獨立套房，所以共有十六間出租套房。我搬進去住的時候，出租套房剛剛施工完，房間以及相關設施都是新的。</p>
+<p>搬進去的第一個禮拜，就收到一張工務局 (?忘了) 的稽查單，詳細內容不太記得了，簡單說就是這層公寓是違章建築，所以市府會派人來稽查。所有房客看到都傻眼，因為大部分的人都剛簽約、搬進來住。剛開始大家還會想聯合起來，但現實結果是：鳥獸散。因為沒人想去搞事，大部分的人摸摸鼻子，就另外找房子去了。</p>
+<p>收到稽查單那幾天聯絡不到房東，以為他跑路了，為了避免麻煩，我只好準備再搬家。過了幾天，房東自己出現了，說家裡剛好有事，所以他沒回電話。然後工務局 / 鄰居他去打理好了，跟房客說沒事，可以安心住。但也因為這個事件，有一半的人因此解約、搬走。後來才聽說事情起因是房東在施工過程，沒有跟樓下鄰居打招呼，鄰居不爽去檢舉。</p>
+<p>當時我想想，公寓套房地處台北市的邊疆地帶，離南軟很近 (騎車 10 分鐘)，房租算便宜 (記得是 6800)，而且是新蓋好，後來就打消搬走念頭，就住下去了。缺點大概就是潮濕 (靠近汐止) + 冬天超冷。</p>
+<p>大概住了兩年，房東把房子賣給一個南部的投資客，所以過程就換了房東，不過房租都沒有漲。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="事件二隔壁租客失蹤">事件二：隔壁租客失蹤<a href="https://www.gtcafe.com/blog/2026/06/26/rent#%E4%BA%8B%E4%BB%B6%E4%BA%8C%E9%9A%94%E5%A3%81%E7%A7%9F%E5%AE%A2%E5%A4%B1%E8%B9%A4" class="hash-link" aria-label="Direct link to 事件二：隔壁租客失蹤" title="Direct link to 事件二：隔壁租客失蹤" translate="no">​</a></h2>
+<p>同樣是發生在中研院出租套房。</p>
+<p>有一次下班回去，有一個男生站在公寓一樓門口，好像在等人。一開始我以為他是鑰匙掉了，問了一下，才知道他在等人，我不以為意。隔天下班，又發現他在門口等，就這樣連續幾天，都在門口遇到他。後來稍微問一下，他才說在等他女朋友，已經聯絡不到好幾天了，所以他才在門口看看能不能遇到。繼續問下去才發現，他女友住我隔壁房。。。(我已經全身發毛。。。)</p>
+<p>後來我就說直接幫他聯絡房東，叫房東來開門 + 當見證人，同時心裡閃過好幾個後續的劇本。開門的那一瞬間，我們都抖得要死。打開房門之後，裡面沒有人，但有三隻關在籠子裡的波斯貓，已經奄奄一息，快餓死了。大家鬆了一口氣，我也鬆了好大一口氣。。。</p>
+<p>後來聯絡到那個女生，結果她自己跑去宜蘭玩一個禮拜，手機沒電了。。。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="事件三住戶電腦中-arp-spoofing">事件三：住戶電腦中 ARP Spoofing<a href="https://www.gtcafe.com/blog/2026/06/26/rent#%E4%BA%8B%E4%BB%B6%E4%B8%89%E4%BD%8F%E6%88%B6%E9%9B%BB%E8%85%A6%E4%B8%AD-arp-spoofing" class="hash-link" aria-label="Direct link to 事件三：住戶電腦中 ARP Spoofing" title="Direct link to 事件三：住戶電腦中 ARP Spoofing" translate="no">​</a></h2>
+<p>租屋套房的網路，就是所有租客共用一個內網。所以只要有人的電腦有狀況，整個出租套房的房客就會雞飛狗跳。</p>
+<p>那時候曾遇到其他房客中了 ARP Spoofing 病毒，導致全部租戶的電腦都無法上網。原理是中毒電腦會不斷亂發 ARP 廣播封包，讓區網電腦的 Gateway / DNS IP 都指向中毒的電腦 (實際上是 Mac Address 被改了)，然後連外的封包都往他的電腦送。因為中毒的電腦本身沒有 Gateway / DNS 反查功能，所以整個區域網路都無法上網，只有中毒的人自己可以上網。</p>
+<p>我發現之後，搞懂狀況與原理，暫解就是寫個 arp 靜態設定 script，鎖定上游 Router 的 IP / Mac Address，讓電腦每次開機時自動執行，但這只能是暫解。後來找到一個工具叫做 NetCut，運作原理也是利用 ARP Spoofing 干預特定電腦。然後我就用這工具直接把中毒的電腦鎖死。</p>
+<p>因為大家都無法上網，所以就開始有人跟房東反應，房東完全不知道怎麼處理。我就主動跟房東說有人中毒了，我知道是哪一個 IP，可以幫忙查。後來我就藉此跟房東要了路由器的帳號密碼，然後也得到房東的授權，去每一戶找，看是誰的電腦中毒。這種查線路的事，跟學生時代在計算機中心打工 (突然想起有這段經驗 XD) 時差不多，經常要去宿舍幫同學查網路問題。</p>
+<p>很快的就找到中毒的人，就在我隔壁。他的電腦就是整天掛機刷經驗值，中毒了完全不知道。</p>
+<p>整件事情，從發生到發現，到處理完，大該兩個禮拜。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="自己的無線網路">自己的無線網路<a href="https://www.gtcafe.com/blog/2026/06/26/rent#%E8%87%AA%E5%B7%B1%E7%9A%84%E7%84%A1%E7%B7%9A%E7%B6%B2%E8%B7%AF" class="hash-link" aria-label="Direct link to 自己的無線網路" title="Direct link to 自己的無線網路" translate="no">​</a></h2>
+<p>出租套房通常會提供第四台 Cable 和有線網路，但是 WiFi 就要自己想辦法。</p>
+<p>還沒有自己弄 Wi-Fi 之前，電腦只能走房東提供的有線網路。那時候剛買了第一隻 Smart Phone (HTC Legend)，為了讓手機可以連 WiFi，就在 PC 上裝一個 USB 無線網卡，然後在 Windows 裝一個軟體 (叫啥忘了) 讓整台 PC 變成路由器 ... 但電腦要一直開著。後來乾脆買一台有 Wi-Fi 的 Router (D-Link XXX)，在房間裡搞一層自己的 LAN (Double NAT)，這樣就解決無線網路的需求，同時也讓自己的網路跟其他人隔離。</p>
+<p>那時候工作在做 IoT 的產品，需要搞懂雙層 NAT 怎麼運作，也需要測試 IPCam 怎麼打穿雙層 NAT 的限制，然後才能做 Live Stream 傳輸。也算是個生活跟工作直接有關係的經驗。也因為在租屋處本來就有類似環境，所以也讓工作時更快進入狀況。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="常見狀況">常見狀況<a href="https://www.gtcafe.com/blog/2026/06/26/rent#%E5%B8%B8%E8%A6%8B%E7%8B%80%E6%B3%81" class="hash-link" aria-label="Direct link to 常見狀況" title="Direct link to 常見狀況" translate="no">​</a></h2>
+<p>台北市一堆公寓改建成出租套房，大多都是投資客在搞的。公寓改建的套房我遇過的狀況：</p>
+<ol>
+<li class="">進出不關大門、房門</li>
+<li class="">公共區域髒亂</li>
+<li class="">有人會半夜開 Party、聽到各種奇怪的聲音</li>
+<li class="">沒有網路、網路不穩、區網有人中毒、沒有 WiFi</li>
+<li class="">水壓不穩、加壓馬達很吵</li>
+<li class="">曬衣空間不夠</li>
+</ol>
+<p>可能還有其他的，之後想到再紀錄。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="生活" term="生活"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIRE]]></title>
         <id>https://www.gtcafe.com/blog/2026/06/21/fire</id>
@@ -606,6 +720,67 @@
         <category label="你的名字" term="你的名字"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
+        <id>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</id>
+        <link href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1"/>
+        <updated>2026-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></summary>
+        <content type="html"><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
+<!-- -->(財務數字合併 xAI / X)</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
+<ul>
+<li class="">Connectivity / Startlink (星鏈)</li>
+<li class="">Space / Launch (Starship火箭發射)</li>
+<li class="">AI / xAI + X (twitter)</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
+<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
+<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
+<blockquote>
+<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
+</blockquote>
+<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
+<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
+<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
+<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
+<p>所以它的投資邏輯不是傳統的：</p>
+<blockquote>
+<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
+</blockquote>
+<p>而比較像：</p>
+<blockquote>
+<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
+</blockquote>
+<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
+<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
+<hr>
+<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+        <category label="SpaceX" term="SpaceX"/>
+        <category label="馬斯克" term="馬斯克"/>
+        <category label="IPO" term="IPO"/>
+        <category label="CapEx" term="CapEx"/>
+        <category label="OCF" term="OCF"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[陪伴家人]]></title>
         <id>https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family</id>
         <link href="https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family"/>
@@ -691,67 +866,6 @@
         <category label="財務自由" term="財務自由"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
-        <id>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</id>
-        <link href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1"/>
-        <updated>2026-06-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></summary>
-        <content type="html"><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
-<!-- -->(財務數字合併 xAI / X)</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
-<ul>
-<li class="">Connectivity / Startlink (星鏈)</li>
-<li class="">Space / Launch (Starship火箭發射)</li>
-<li class="">AI / xAI + X (twitter)</li>
-</ul>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
-<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
-<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
-<blockquote>
-<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
-</blockquote>
-<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
-<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
-<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
-<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
-<p>所以它的投資邏輯不是傳統的：</p>
-<blockquote>
-<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
-</blockquote>
-<p>而比較像：</p>
-<blockquote>
-<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
-</blockquote>
-<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
-<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
-<hr>
-<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="投資" term="投資"/>
-        <category label="SpaceX" term="SpaceX"/>
-        <category label="馬斯克" term="馬斯克"/>
-        <category label="IPO" term="IPO"/>
-        <category label="CapEx" term="CapEx"/>
-        <category label="OCF" term="OCF"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[旅行]]></title>
         <id>https://www.gtcafe.com/blog/2026/06/07/travel</id>
         <link href="https://www.gtcafe.com/blog/2026/06/07/travel"/>
@@ -834,183 +948,5 @@
         </author>
         <category label="投資" term="投資"/>
         <category label="趨勢" term="趨勢"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[演奏邏輯]]></title>
-        <id>https://www.gtcafe.com/blog/2026/06/04/picking-and-rhythm</id>
-        <link href="https://www.gtcafe.com/blog/2026/06/04/picking-and-rhythm"/>
-        <updated>2026-06-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Notes]]></summary>
-        <content type="html"><![CDATA[<p><code>#Draft</code> <code>#Notes</code></p>
-<p>這陣子在練琴 (吉他)，腦中突然冒出一個念頭：</p>
-<blockquote>
-<p>右手撥弦的邏輯，好像在打鼓的時候有類似的東西</p>
-</blockquote>
-<p>這幾年我在不同領域之間來回打轉。年輕的時候玩編曲，工作後學曾經過一陣子爵士鼓，雖然都不算精，但對「打擊樂器」這件事還留著一點手感和直覺。</p>
-<p>打鼓的人都知道，練基本功不是一直打同一個節奏，而是練習「兩隻手的順序」：</p>
-<p>LRLR / LLRR / RRRL .... 等排列組合，這些「基本功」沒練個一兩年，是上不了臺面的。這過程中，不需要一套完整的爵士鼓，只需要一個打擊練習版，把左右手的排列組合練熟，才能適應各種節奏型態的拆解、與應對。</p>
-<p>我懂這背後的練習方法與邏輯，不過礙於時間關係，並沒有真的實際執行過。</p>
-<p>最近在練琴 (吉他)，我發現右手的 Picking 技巧：Pick 往下撥、往上撥，不同的「上下順序」，在吉他學習途徑上早就一套完整的方法論。但仔細一想，那不就是換了一種樂器的「RLRL」嗎？(BTW: 鍵盤其實也是)</p>
-<p>同樣一件事：把「身體動作的順序」跟「想表達的內容」拆開來練。樂器、招式的名字會變，但底層那個本質，是同一個。</p>
-<p>不過我後來想得更深一點。</p>
-<p>這些技巧，不管是吉他右手 Picking 怎麼彈、鼓棒左手右手的排列組合，到最後，到底是為了什麼？</p>
-<p>不是為了炫技，是為了 "<code>#詮釋</code> (Interpretation)"</p>
-<p>同一段旋律，這裡想鼓舞人往前衝，那裡想讓人停一下、想一下、回頭看一下；某個段落是在思考一個故事，某個轉折是在想念某一個人。技術怎麼堆、怎麼排，全都是為了把這些東西準確地送出去。</p>
-<p>一首歌，其實就是一個故事。是某個人的情緒，某些人的故事，某一群人的記憶。</p>
-<p>撥弦也好、打點也好，再華麗的技巧，最終都只是載體。真正要傳出去的，是底下那份情緒與心意。</p>
-<p>這個體會無意之間一直跟隨著我，從編曲跳到工程，從寫程式跳到寫文章 (寫廢文)。每一次的身份轉換，表面上要重學一套規則、一套招式，但學到後面常常會發現：欸，這個我好像在別的地方見過。</p>
-<p>而且不只是「方法」相通而已。更底層的是，這些方法，最後都是為了「把某個東西，準確地傳達給某個人」。寫程式是把一個想解決的問題講清楚，寫文章是把一個想法送到讀者心裡，跟音樂想做的事，沒有兩樣。</p>
-<p>換了角色、換了技能，表面的工具一直在變，但運作的那個道理，還有最終想抵達的地方，往往是一樣的。</p>
-<p>現在每接觸一個新東西，我不太急著背它的「招式」。我會想先問兩句：</p>
-<blockquote>
-<p>這件事的本質是什麼？<br>
-<!-- -->它最後，到底想傳達給誰什麼？</p>
-</blockquote><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="吉他" term="吉他"/>
-        <category label="爵士鼓" term="爵士鼓"/>
-        <category label="練習" term="練習"/>
-        <category label="詮釋" term="詮釋"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長期主義]]></title>
-        <id>https://www.gtcafe.com/blog/2026/05/27/long-termism</id>
-        <link href="https://www.gtcafe.com/blog/2026/05/27/long-termism"/>
-        <updated>2026-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[很多人]]></summary>
-        <content type="html"><![CDATA[<p>很多人<br>
-<!-- -->用一輩子練習 "不會享受"<br>
-<!-- -->現在很苦，將來會很甜？<br>
-<!-- -->當真的有錢有閒的時候<br>
-<!-- -->卻不知道要做什麼<br>
-<!-- -->現在做的事情<br>
-<!-- -->是 "將來可能會有用"<br>
-<!-- -->要先確定你撐得到那個 "將來"</p>
-<hr>
-<p>語音摘要整理</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="重點概覽">重點概覽<a href="https://www.gtcafe.com/blog/2026/05/27/long-termism#%E9%87%8D%E9%BB%9E%E6%A6%82%E8%A6%BD" class="hash-link" aria-label="Direct link to 重點概覽" title="Direct link to 重點概覽" translate="no">​</a></h2>
-<ul>
-<li class="">本集節目旨在拆解五種常見的「假的長期主義」偽裝，協助聽眾進行自我診斷。</li>
-<li class="">真正的長期主義強調具體行動與執行次數，而非無止境的準備或等待完美時機。</li>
-<li class="">長期思維應用於強化決策清晰度，而非模糊選擇差異以逃避決定。</li>
-<li class="">堅持應基於方向正確性，若方向錯誤，及時止損纔是符合長期利益的行為。</li>
-<li class="">真正長期主義者重視當下生活品質，認為現在與未來應同時具備價值。</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="假長期主義的第一種類型拖延症的偽裝">假長期主義的第一種類型：拖延症的偽裝<a href="https://www.gtcafe.com/blog/2026/05/27/long-termism#%E5%81%87%E9%95%B7%E6%9C%9F%E4%B8%BB%E7%BE%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E7%A8%AE%E9%A1%9E%E5%9E%8B%E6%8B%96%E5%BB%B6%E7%97%87%E7%9A%84%E5%81%BD%E8%A3%9D" class="hash-link" aria-label="Direct link to 假長期主義的第一種類型：拖延症的偽裝" title="Direct link to 假長期主義的第一種類型：拖延症的偽裝" translate="no">​</a></h3>
-<ul>
-<li class="">特徵說明：以「等待對的時機」為由，實際上從未採取行動。</li>
-<li class="">心理機制：將「不做」包裝成「審時度勢」，以維持自我形象與避免被視為懦弱。</li>
-<li class="">分辨方式：</li>
-<li class="">真的等待時機會有具體觸發條件（如：下個月薪水入帳即開始投資）。</li>
-<li class="">假的等待時機僅有抽象概念（如：等市場穩定、等景氣好轉），無法定義具體指標。</li>
-<li class="">正確做法：長期主義者傾向尋找「夠好」的時機即刻啟動，透過邊做邊調整來累積成果。</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="假長期主義的第二種類型完美主義的偽裝">假長期主義的第二種類型：完美主義的偽裝<a href="https://www.gtcafe.com/blog/2026/05/27/long-termism#%E5%81%87%E9%95%B7%E6%9C%9F%E4%B8%BB%E7%BE%A9%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%A8%AE%E9%A1%9E%E5%9E%8B%E5%AE%8C%E7%BE%8E%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%81%BD%E8%A3%9D" class="hash-link" aria-label="Direct link to 假長期主義的第二種類型：完美主義的偽裝" title="Direct link to 假長期主義的第二種類型：完美主義的偽裝" translate="no">​</a></h3>
-<ul>
-<li class="">特徵說明：設定過於嚴苛的準備條件（如讀完十本書才開口說英文），導致準備時間遠超執行時間。</li>
-<li class="">心理機制：利用「準備不會失敗」的特性，逃避實際執行可能帶來的失敗風險。</li>
-<li class="">常見現象：躲入學校進修以延遲面對社會挑戰，或反覆修改計畫書卻不推向市場。</li>
-<li class="">分辨方式：自問「若拿 60 分版本上場會出什麼大事？」，若無重大後果則應優先執行。</li>
-<li class="">正確做法：長期累積的是執行次數與反饋修正，而非準備的厚度；願意以最小可行產品（MVP）開始迭代。</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="假長期主義的第三種類型逃避決策的偽裝">假長期主義的第三種類型：逃避決策的偽裝<a href="https://www.gtcafe.com/blog/2026/05/27/long-termism#%E5%81%87%E9%95%B7%E6%9C%9F%E4%B8%BB%E7%BE%A9%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%A1%9E%E5%9E%8B%E9%80%83%E9%81%BF%E6%B1%BA%E7%AD%96%E7%9A%84%E5%81%BD%E8%A3%9D" class="hash-link" aria-label="Direct link to 假長期主義的第三種類型：逃避決策的偽裝" title="Direct link to 假長期主義的第三種類型：逃避決策的偽裝" translate="no">​</a></h3>
-<ul>
-<li class="">特徵說明：過度拉大時間尺度（如人生很長、五十年來看都一樣），使眼前選擇的差異模糊化。</li>
-<li class="">心理機制：披上哲學思考外衣，用「不用急」來合理化無法做出決定的事實。</li>
-<li class="">分辨方式：</li>
-<li class="">導入長期思維後，若選擇變得更清晰簡單，則為真長期主義。</li>
-<li class="">若選擇變得更模糊或覺得什麼都差不多，則為逃避決策。</li>
-<li class="">正確做法：利用長期視角強化決策，確認哪個選項更符合長遠目標，從而做出明確選擇。</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="假長期主義的第四種類型沉沒成本的偽裝">假長期主義的第四種類型：沉沒成本的偽裝<a href="https://www.gtcafe.com/blog/2026/05/27/long-termism#%E5%81%87%E9%95%B7%E6%9C%9F%E4%B8%BB%E7%BE%A9%E7%9A%84%E7%AC%AC%E5%9B%9B%E7%A8%AE%E9%A1%9E%E5%9E%8B%E6%B2%89%E6%B2%92%E6%88%90%E6%9C%AC%E7%9A%84%E5%81%BD%E8%A3%9D" class="hash-link" aria-label="Direct link to 假長期主義的第四種類型：沉沒成本的偽裝" title="Direct link to 假長期主義的第四種類型：沉沒成本的偽裝" translate="no">​</a></h3>
-<ul>
-<li class="">特徵說明：因已投入大量時間、金錢或情感（如產業十年、感情五年），而拒絕放棄錯誤方向。</li>
-<li class="">邏輯謬誤：誤將「堅持」等同於長期主義，忽略方向錯誤時的堅持只會累積更多損失。</li>
-<li class="">常見情境：在不喜歡的職涯硬撐、在該結束的關係中耗損、在虧損投資中不願認賠。</li>
-<li class="">分辨方式：</li>
-<li class="">真長期主義者問：「這個方向還對嗎？」（面向未來）。</li>
-<li class="">假長期主義者問：「我已經投入這麼多，放棄不可惜嗎？」（困於過去）。</li>
-<li class="">正確做法：有能力承認方向錯誤並及時止損，帶著既有累積轉向新方向，避免浪費下一個十年。</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="假長期主義的第五種類型逃避當下的偽裝">假長期主義的第五種類型：逃避當下的偽裝<a href="https://www.gtcafe.com/blog/2026/05/27/long-termism#%E5%81%87%E9%95%B7%E6%9C%9F%E4%B8%BB%E7%BE%A9%E7%9A%84%E7%AC%AC%E4%BA%94%E7%A8%AE%E9%A1%9E%E5%9E%8B%E9%80%83%E9%81%BF%E7%95%B6%E4%B8%8B%E7%9A%84%E5%81%BD%E8%A3%9D" class="hash-link" aria-label="Direct link to 假長期主義的第五種類型：逃避當下的偽裝" title="Direct link to 假長期主義的第五種類型：逃避當下的偽裝" translate="no">​</a></h3>
-<ul>
-<li class="">特徵說明：以「為長遠打算」為由，刻意犧牲現在的生活品質（如不旅行、不交友、過度儲蓄）。</li>
-<li class="">潛在風險：長期壓抑會內化為本能，導致未來即使擁有資源也失去享受生活的能力。</li>
-<li class="">核心觀念：</li>
-<li class="">真正長期主義者所做之事，當下即具價值且能在未來累積（如讀書有趣且變專業）。</li>
-<li class="">靠意志力強撐的痛苦過程，多數會半途崩盤或導致結果無法享受。</li>
-<li class="">正確做法：確保當下生活具備品質，現在與未來應是連續且一致的滿足，而非抵押現在換取幻象。</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="假長期主義難以識破的原因與自我檢核">假長期主義難以識破的原因與自我檢核<a href="https://www.gtcafe.com/blog/2026/05/27/long-termism#%E5%81%87%E9%95%B7%E6%9C%9F%E4%B8%BB%E7%BE%A9%E9%9B%A3%E4%BB%A5%E8%AD%98%E7%A0%B4%E7%9A%84%E5%8E%9F%E5%9B%A0%E8%88%87%E8%87%AA%E6%88%91%E6%AA%A2%E6%A0%B8" class="hash-link" aria-label="Direct link to 假長期主義難以識破的原因與自我檢核" title="Direct link to 假長期主義難以識破的原因與自我檢核" translate="no">​</a></h3>
-<ul>
-<li class="">難以識破原因：這些行為符合社會對成熟、穩重、有毅力的期待，容易獲得他人讚賞進而自我催眠。</li>
-<li class="">自我檢核問題一：有沒有具體的下一步？</li>
-<li class="">真長期主義有明確的週、月計畫；假長期主義只有抽象的「總有一天」。</li>
-<li class="">自我檢核問題二：堅持是因為方向正確，還是因為已投入太多？</li>
-<li class="">若理由多為「已經...」，可能是被沉沒成本綁架。</li>
-<li class="">最終結論：誠實檢視自己是在「積累」前進，還是在「躲避」現實。</li>
-</ul>
-<p>Source: <a href="https://podcasts.apple.com/tw/podcast/%E5%A4%A7%E4%BA%BA%E7%9A%84small-talk/id1452688611?i=1000768801782" target="_blank" rel="noopener noreferrer" class="">https://podcasts.apple.com/tw/podcast/%E5%A4%A7%E4%BA%BA%E7%9A%84small-talk/id1452688611?i=1000768801782</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="人生" term="人生"/>
-        <category label="大人學" term="大人學"/>
-        <category label="Podcast" term="Podcast"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人生的樣本數]]></title>
-        <id>https://www.gtcafe.com/blog/2026/05/25/sampling</id>
-        <link href="https://www.gtcafe.com/blog/2026/05/25/sampling"/>
-        <updated>2026-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[很多人最大的問題]]></summary>
-        <content type="html"><![CDATA[<p>很多人最大的問題<br>
-<!-- -->不是能力差</p>
-<blockquote>
-<p>而是人生樣本數太少</p>
-</blockquote>
-<p>沒去過太多地方<br>
-<!-- -->沒認識太多人<br>
-<!-- -->也沒真正體驗過太多事情<br>
-<!-- -->或者沒接觸過太多的異性<br>
-<!-- -->於是他對世界的理解<br>
-<!-- -->只能建立在幻想與恐懼上</p>
-<p>很多人的問題<br>
-<!-- -->拆解到底層的原因就是</p>
-<blockquote>
-<p>他們根本沒有看過真正的世界</p>
-</blockquote>
-<p>所以第一步不是急著成功<br>
-<!-- -->而是最大量化的去接觸這個世界<br>
-<!-- -->去旅行去認識不同圈層的人<br>
-<!-- -->去做你沒做過的事情<br>
-<!-- -->去體驗不同的生活方式<br>
-<!-- -->因為很多人真正的底氣</p>
-<blockquote>
-<p>其實不是靠看書建立的<br>
-<!-- -->而是一首體驗累積出來的<br>
-<!-- -->你玩過世界<br>
-<!-- -->世界就沒這麼容易嚇倒你</p>
-</blockquote>
-<p>當一個人真正大量體驗世界之後<br>
-<!-- -->他的焦慮感就會下降<br>
-<!-- -->而底氣會明顯上升<br>
-<!-- -->因為他開始知道</p>
-<blockquote>
-<p>原來人生不是只有一種活法</p>
-</blockquote>
-<hr>
-<p>23:38 ~ 25:40</p>
-<p>微調用詞，去掉「男人」這個主詞，我覺得男女通用。</p>
-<p>source: <a href="https://www.youtube.com/watch?v=a8aF7zZZI8w" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/watch?v=a8aF7zZZI8w</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="人生" term="人生"/>
     </entry>
 </feed>
