@@ -9,20 +9,6 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[鑰匙掉了]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/26/key-lost</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/26/key-lost</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[在外面待久了，已經很習慣出門三寶：鑰匙、手機、錢包。習慣用智慧型手機支付後，手機的必要性更高了。然後鑰匙掉了很麻煩，我有兩次掉鑰匙的經驗。]]></description>
-            <content:encoded><![CDATA[<p>在外面待久了，已經很習慣出門三寶：鑰匙、手機、錢包。習慣用智慧型手機支付後，手機的必要性更高了。然後鑰匙掉了很麻煩，我有兩次掉鑰匙的經驗。</p>
-<p>第一次是剛來台北工作那一年，那時候住在內湖民權東路六段、大潤發附近，房子是公寓五樓。有一次週末外出忘了帶鑰匙 (還好有帶手機)，後來聯絡到房東，但房東人不在附近，等了一個下午才等到房東人來。</p>
-<p>另一次是某個週六晚上練團結束後，那天我記得是下雨天，摩托車上還有吉他和效果器，我要從昆陽站要回去中研院附近的住處。因為我的機車鑰匙孔有點鬆，在忠孝東路七段上騎摩托車時，應該是過程中經過不平的馬路，震動之下，整串鑰匙就掉了。</p>
-<p>但幸運的是，回去忠孝東路七段路上找，晚上、下雨、大馬路，居然找得到！？現在回想，不知道當下是怎麼找的，但真的找到了，只是整串鑰匙被其他車子輾過，有幾支已經爛掉。很幸運的，公寓大門的鑰匙沒事、機車的鑰匙沒事、房間門鑰匙也沒事。</p>
-<p>回想起來，當下有點事，但結果都不算太嚴重，甚至可以說有點幸運。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/key-lost-7b8e3637f4d82a9736dd5fb78bd0d7de.jpg" width="2048" height="1365" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>生活</category>
-        </item>
-        <item>
             <title><![CDATA[五個原則]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/26/five-principle</link>
             <guid>https://www.gtcafe.com/blog/2026/06/26/five-principle</guid>
@@ -62,6 +48,20 @@
             <category>馬斯克傳</category>
             <category>演算法</category>
             <category>AI</category>
+        </item>
+        <item>
+            <title><![CDATA[鑰匙掉了]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/26/key-lost</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/26/key-lost</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[在外面待久了，已經很習慣出門三寶：鑰匙、手機、錢包。習慣用智慧型手機支付後，手機的必要性更高了。然後鑰匙掉了很麻煩，我有兩次掉鑰匙的經驗。]]></description>
+            <content:encoded><![CDATA[<p>在外面待久了，已經很習慣出門三寶：鑰匙、手機、錢包。習慣用智慧型手機支付後，手機的必要性更高了。然後鑰匙掉了很麻煩，我有兩次掉鑰匙的經驗。</p>
+<p>第一次是剛來台北工作那一年，那時候住在內湖民權東路六段、大潤發附近，房子是公寓五樓。有一次週末外出忘了帶鑰匙 (還好有帶手機)，後來聯絡到房東，但房東人不在附近，等了一個下午才等到房東人來。</p>
+<p>另一次是某個週六晚上練團結束後，那天我記得是下雨天，摩托車上還有吉他和效果器，我要從昆陽站要回去中研院附近的住處。因為我的機車鑰匙孔有點鬆，在忠孝東路七段上騎摩托車時，應該是過程中經過不平的馬路，震動之下，整串鑰匙就掉了。</p>
+<p>但幸運的是，回去忠孝東路七段路上找，晚上、下雨、大馬路，居然找得到！？現在回想，不知道當下是怎麼找的，但真的找到了，只是整串鑰匙被其他車子輾過，有幾支已經爛掉。很幸運的，公寓大門的鑰匙沒事、機車的鑰匙沒事、房間門鑰匙也沒事。</p>
+<p>回想起來，當下有點事，但結果都不算太嚴重，甚至可以說有點幸運。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/key-lost-7b8e3637f4d82a9736dd5fb78bd0d7de.jpg" width="2048" height="1365" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>生活</category>
         </item>
         <item>
             <title><![CDATA[租屋事件紀錄]]></title>
@@ -111,6 +111,35 @@
             <category>生活</category>
         </item>
         <item>
+            <title><![CDATA[照相、軟體]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/26/photo-and-software</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/26/photo-and-software</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[發明照相技術之前]]></description>
+            <content:encoded><![CDATA[<p>發明照相技術之前<br>
+<!-- -->人像、風景靠畫師手畫</p>
+<p>照相技術發明後<br>
+<!-- -->照相成了快速成畫的新方法<br>
+<!-- -->普通人也可以快速拍照</p>
+<p>隨著技術的發展<br>
+<!-- -->照相的技術、成像、光影、取景、構圖 … 等<br>
+<!-- -->成就了「攝影」這門新行業<br>
+<!-- -->學攝影也變成一種技能</p>
+<hr>
+<p>AI 發展成熟之前<br>
+<!-- -->各種 APP、電商網站、社群網站<br>
+<!-- -->靠軟體工程師手刻程式碼⋯⋯</p>
+<p>AI 發展成熟之後<br>
+<!-- -->AI 成了快速寫程式的新幫手<br>
+<!-- -->普通人也可以快速寫程式</p>
+<p>隨著技術的發展<br>
+<!-- -->AI 各種方法：context, loop, harness …等 …<br>
+<!-- -->成就了「唬爛」這門新行業<br>
+<!-- -->畫虎爛也變成一種技能</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>生活</category>
+            <category>AI</category>
+        </item>
+        <item>
             <title><![CDATA[FIRE]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/21/fire</link>
             <guid>https://www.gtcafe.com/blog/2026/06/21/fire</guid>
@@ -152,45 +181,6 @@
             <category>FIRE</category>
             <category>投資</category>
             <category>理財</category>
-        </item>
-        <item>
-            <title><![CDATA[Local LLM]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/21/local-llm</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/21/local-llm</guid>
-            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:]]></description>
-            <content:encoded><![CDATA[<p>為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:</p>
-<ol>
-<li class="">各種 Runtime: Ollama / LM Studio / llama.cpp</li>
-<li class="">Librareis (Python 為主: oMLX, RaipMLX ...)</li>
-<li class="">各種 Format: GGUF, safetensors / MLX</li>
-<li class="">各種 Registry: Hugging Face Hub / ollama ... etc</li>
-</ol>
-<p>加上我有多台機器在跑實驗, 有時候同一個 model 這台抓，那台也抓 ... 然後頻寬就一直滿的狀態 ....</p>
-<p>為了節省對外頻寬, 然後也共用這些 Local LLM 的資源, 就叫 Claude 開發一個類似 git cli 管理多個 repos 概念的分散式工具，可以：</p>
-<ol>
-<li class="">像 rsync 那樣從電腦 A sync model to B.</li>
-<li class="">可比對本機不同 runtime 是否下載同一個 model, 不同格式</li>
-<li class="">可以讓本機不同 runtime 之間, share 不同 format 的 Model</li>
-<li class="">可以直接取代所有 runtime 變成集中式管理的 Local LLM Repos</li>
-<li class="">支援 push and pull mode，可以點對點傳輸.</li>
-</ol>
-<p>大概企業內的 Nexus OSS 概念 ... 只是是 cli 版.</p>
-<hr>
-<p>這是為了做實驗搞的副產品, 用起來沒啥問題, UX/UI 可以再調整. 還沒上 homebrew.<br>
-<!-- -->真正的問題都是內網水管不夠粗, 1Gbps 傳 LLM 實在太慢了, 然後就開始想要不要搞 25Gbps 的 switch ...<br>
-<!-- -->恩 ... 一種越來越歪的味道 ... 還是洗洗睡好了 XDD</p>
-<hr>
-<p>github: <a href="https://github.com/rickhw/corral" target="_blank" rel="noopener noreferrer" class="">https://github.com/rickhw/corral</a></p>
-<hr>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral1-7eca9724f8ab6e506579830441fe00a4.jpg" width="2048" height="1285" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral2-8734dedbb2cb61a62cece98e9615aaf2.jpg" width="2048" height="1285" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral3-65303e2af48a9bbfbbf27cba40e17bcd.jpg" width="2048" height="1285" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral4-ec0629a0e4c28226e636cccff4088fdb.jpg" width="3455" height="732" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>LLM</category>
-            <category>AI</category>
-            <category>學習</category>
-            <category>趨勢</category>
         </item>
         <item>
             <title><![CDATA[PIP - Case 1]]></title>
@@ -251,6 +241,45 @@
 <p>面試、用人還有其他有趣的例子，下次來記錄用到一個頂大資工所，最後 PIP 的例子。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
             <category>管理</category>
             <category>用人</category>
+        </item>
+        <item>
+            <title><![CDATA[Local LLM]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/21/local-llm</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/21/local-llm</guid>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:]]></description>
+            <content:encoded><![CDATA[<p>為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:</p>
+<ol>
+<li class="">各種 Runtime: Ollama / LM Studio / llama.cpp</li>
+<li class="">Librareis (Python 為主: oMLX, RaipMLX ...)</li>
+<li class="">各種 Format: GGUF, safetensors / MLX</li>
+<li class="">各種 Registry: Hugging Face Hub / ollama ... etc</li>
+</ol>
+<p>加上我有多台機器在跑實驗, 有時候同一個 model 這台抓，那台也抓 ... 然後頻寬就一直滿的狀態 ....</p>
+<p>為了節省對外頻寬, 然後也共用這些 Local LLM 的資源, 就叫 Claude 開發一個類似 git cli 管理多個 repos 概念的分散式工具，可以：</p>
+<ol>
+<li class="">像 rsync 那樣從電腦 A sync model to B.</li>
+<li class="">可比對本機不同 runtime 是否下載同一個 model, 不同格式</li>
+<li class="">可以讓本機不同 runtime 之間, share 不同 format 的 Model</li>
+<li class="">可以直接取代所有 runtime 變成集中式管理的 Local LLM Repos</li>
+<li class="">支援 push and pull mode，可以點對點傳輸.</li>
+</ol>
+<p>大概企業內的 Nexus OSS 概念 ... 只是是 cli 版.</p>
+<hr>
+<p>這是為了做實驗搞的副產品, 用起來沒啥問題, UX/UI 可以再調整. 還沒上 homebrew.<br>
+<!-- -->真正的問題都是內網水管不夠粗, 1Gbps 傳 LLM 實在太慢了, 然後就開始想要不要搞 25Gbps 的 switch ...<br>
+<!-- -->恩 ... 一種越來越歪的味道 ... 還是洗洗睡好了 XDD</p>
+<hr>
+<p>github: <a href="https://github.com/rickhw/corral" target="_blank" rel="noopener noreferrer" class="">https://github.com/rickhw/corral</a></p>
+<hr>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral1-7eca9724f8ab6e506579830441fe00a4.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral2-8734dedbb2cb61a62cece98e9615aaf2.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral3-65303e2af48a9bbfbbf27cba40e17bcd.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral4-ec0629a0e4c28226e636cccff4088fdb.jpg" width="3455" height="732" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>LLM</category>
+            <category>AI</category>
+            <category>學習</category>
+            <category>趨勢</category>
         </item>
         <item>
             <title><![CDATA[題目、考績]]></title>
@@ -657,6 +686,63 @@
             <category>你的名字</category>
         </item>
         <item>
+            <title><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</guid>
+            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></description>
+            <content:encoded><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
+<!-- -->(財務數字合併 xAI / X)</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
+<ul>
+<li class="">Connectivity / Startlink (星鏈)</li>
+<li class="">Space / Launch (Starship火箭發射)</li>
+<li class="">AI / xAI + X (twitter)</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
+<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
+<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
+<blockquote>
+<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
+</blockquote>
+<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
+<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
+<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
+<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
+<p>所以它的投資邏輯不是傳統的：</p>
+<blockquote>
+<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
+</blockquote>
+<p>而比較像：</p>
+<blockquote>
+<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
+</blockquote>
+<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
+<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
+<hr>
+<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>投資</category>
+            <category>SpaceX</category>
+            <category>馬斯克</category>
+            <category>IPO</category>
+            <category>CapEx</category>
+            <category>OCF</category>
+        </item>
+        <item>
             <title><![CDATA[陪伴家人]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family</link>
             <guid>https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family</guid>
@@ -758,117 +844,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2xutev05nXo?si=towrwOaUAw-lItm-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
             <category>聽音樂</category>
             <category>Pat Metheny</category>
-        </item>
-        <item>
-            <title><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</guid>
-            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></description>
-            <content:encoded><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
-<!-- -->(財務數字合併 xAI / X)</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
-<ul>
-<li class="">Connectivity / Startlink (星鏈)</li>
-<li class="">Space / Launch (Starship火箭發射)</li>
-<li class="">AI / xAI + X (twitter)</li>
-</ul>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
-<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
-<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
-<blockquote>
-<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
-</blockquote>
-<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
-<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
-<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
-<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
-<p>所以它的投資邏輯不是傳統的：</p>
-<blockquote>
-<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
-</blockquote>
-<p>而比較像：</p>
-<blockquote>
-<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
-</blockquote>
-<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
-<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
-<hr>
-<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
-            <category>SpaceX</category>
-            <category>馬斯克</category>
-            <category>IPO</category>
-            <category>CapEx</category>
-            <category>OCF</category>
-        </item>
-        <item>
-            <title><![CDATA[大場面 崩盤 前奏曲]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/06/txf1</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/06/txf1</guid>
-            <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[06/05-06/06 台股夜盤 收盤 -3006 點 (-6.65%)]]></description>
-            <content:encoded><![CDATA[<p>06/05-06/06 台股夜盤 收盤 -3006 點 (-6.65%)<br>
-<!-- -->最大跌幅 4000+, 反彈回到 42,200 點</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/txf1-f6afefda198c7285ed1bfdc85e7dfb47.jpg" width="1179" height="1673" class="img_ev3q"></p>
-<p>美股 全倒<br>
-<!-- -->費半 -10.26% (-1,396)<br>
-<!-- -->道瓊 -1.35% (-695.15)<br>
-<!-- -->NASDAQ -4.18% (-1,121.52)</p>
-<p>TSM ADR -6.69%<br>
-<!-- -->美光 -13%<br>
-<!-- -->Sandisk -11%<br>
-<!-- -->nVidia -6.2%<br>
-<!-- -->TSLA: -6.56%</p>
-<hr>
-<p>原因：</p>
-<ol>
-<li class="">
-<p>就業數據意外強勁：美國公布強勁的就業報告，引發市場對聯準會 (Fed) 可能再次升息的擔憂，衝擊高估值的科技與 AI 族群。</p>
-</li>
-<li class="">
-<p>財報衝擊： Broadcom (AVGO) 發布了令人失望的 AI 晶片銷售預測，導致股價大跌近 13%。</p>
-</li>
-<li class="">
-<p>AI 投資情緒降溫：市場開始質疑 AI 基礎設施投入的持續性。由於輝達 傳出可能調整記憶體規格，加上市場對 AI 過熱的憂慮，導致 Nvidia 股價跌幅超過 6%，市值大幅蒸發。</p>
-</li>
-</ol>
-<hr>
-<p>下週一台股大場面<br>
-<!-- -->明晚公園下雨也大爆滿</p>
-<hr>
-<p>每次掛單，要思考的不是賺多少，<br>
-<!-- -->而是這種跌停 or -30% 發生時<br>
-<!-- -->自己的下一步是什麼？<br>
-<!-- -->如果想不出來，這單建議不要掛。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="djt">DJT<a href="https://www.gtcafe.com/blog/2026/06/06/txf1#djt" class="hash-link" aria-label="Direct link to DJT" title="Direct link to DJT" translate="no">​</a></h2>
-<p>既然剛剛公布的就業報告表現這麼亮眼，股市應該要上漲，而不是下跌。過去兩百年來一向都是如此。經濟增長並不等於通貨膨脹！不然一個國家還能怎麼成就偉大？？？—— 川普總統</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/djt-c71fe88b6ad63bffe7c0e705289dc5d2.jpg" width="1080" height="786" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="崩盤與反彈歷史">崩盤與反彈歷史<a href="https://www.gtcafe.com/blog/2026/06/06/txf1#%E5%B4%A9%E7%9B%A4%E8%88%87%E5%8F%8D%E5%BD%88%E6%AD%B7%E5%8F%B2" class="hash-link" aria-label="Direct link to 崩盤與反彈歷史" title="Direct link to 崩盤與反彈歷史" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/crash-status-232e7608ee13aca1478036e005a9ffa9.jpg" width="868" height="960" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="專注本業">專注本業<a href="https://www.gtcafe.com/blog/2026/06/06/txf1#%E5%B0%88%E6%B3%A8%E6%9C%AC%E6%A5%AD" class="hash-link" aria-label="Direct link to 專注本業" title="Direct link to 專注本業" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/prof-f8caa55caa9f7030a0451669a14eeb2d.jpg" width="1536" height="1200" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="0608-台股開盤狀況">06/08 台股開盤狀況<a href="https://www.gtcafe.com/blog/2026/06/06/txf1#0608-%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E7%8B%80%E6%B3%81" class="hash-link" aria-label="Direct link to 06/08 台股開盤狀況" title="Direct link to 06/08 台股開盤狀況" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/0608-market-16874fefe108717e3e3f33f7cb649871.jpg" width="960" height="442" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="0608---0609-夜盤狀況">06/08 - 06/09 夜盤狀況<a href="https://www.gtcafe.com/blog/2026/06/06/txf1#0608---0609-%E5%A4%9C%E7%9B%A4%E7%8B%80%E6%B3%81" class="hash-link" aria-label="Direct link to 06/08 - 06/09 夜盤狀況" title="Direct link to 06/08 - 06/09 夜盤狀況" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/0609-night-status-5cf875302d20124a20fb4682e358c224.jpg" width="960" height="774" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
-            <category>趨勢</category>
         </item>
     </channel>
 </rss>
