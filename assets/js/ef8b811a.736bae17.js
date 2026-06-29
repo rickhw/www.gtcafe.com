@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksite_www_gtcafe_com_src=globalThis.webpackChunksite_www_gtcafe_com_src||[]).push([[38947],{34219(t){t.exports=JSON.parse('{"authors":[{"name":"Rick Hwang","title":"GTCafe Studio","url":"https://rickhw.github.io/2017/12/29/About/About-Author/","imageURL":"/img/logo.png","key":"rick","page":null,"count":414}]}')}}]);

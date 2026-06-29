@@ -71,6 +71,39 @@
         <category label="生活" term="生活"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[照相、軟體]]></title>
+        <id>https://www.gtcafe.com/blog/2026/06/26/photo-and-software</id>
+        <link href="https://www.gtcafe.com/blog/2026/06/26/photo-and-software"/>
+        <updated>2026-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[發明照相技術之前]]></summary>
+        <content type="html"><![CDATA[<p>發明照相技術之前<br>
+<!-- -->人像、風景靠畫師手畫</p>
+<p>照相技術發明後<br>
+<!-- -->照相成了快速成畫的新方法<br>
+<!-- -->普通人也可以快速拍照</p>
+<p>隨著技術的發展<br>
+<!-- -->照相的技術、成像、光影、取景、構圖 … 等<br>
+<!-- -->成就了「攝影」這門新行業<br>
+<!-- -->學攝影也變成一種技能</p>
+<hr>
+<p>AI 發展成熟之前<br>
+<!-- -->各種 APP、電商網站、社群網站<br>
+<!-- -->靠軟體工程師手刻程式碼⋯⋯</p>
+<p>AI 發展成熟之後<br>
+<!-- -->AI 成了快速寫程式的新幫手<br>
+<!-- -->普通人也可以快速寫程式</p>
+<p>隨著技術的發展<br>
+<!-- -->AI 各種方法：context, loop, harness …等 …<br>
+<!-- -->成就了「唬爛」這門新行業<br>
+<!-- -->畫虎爛也變成一種技能</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="生活" term="生活"/>
+        <category label="AI" term="AI"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[租屋事件紀錄]]></title>
         <id>https://www.gtcafe.com/blog/2026/06/26/rent</id>
         <link href="https://www.gtcafe.com/blog/2026/06/26/rent"/>
@@ -120,39 +153,6 @@
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
         </author>
         <category label="生活" term="生活"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[照相、軟體]]></title>
-        <id>https://www.gtcafe.com/blog/2026/06/26/photo-and-software</id>
-        <link href="https://www.gtcafe.com/blog/2026/06/26/photo-and-software"/>
-        <updated>2026-06-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[發明照相技術之前]]></summary>
-        <content type="html"><![CDATA[<p>發明照相技術之前<br>
-<!-- -->人像、風景靠畫師手畫</p>
-<p>照相技術發明後<br>
-<!-- -->照相成了快速成畫的新方法<br>
-<!-- -->普通人也可以快速拍照</p>
-<p>隨著技術的發展<br>
-<!-- -->照相的技術、成像、光影、取景、構圖 … 等<br>
-<!-- -->成就了「攝影」這門新行業<br>
-<!-- -->學攝影也變成一種技能</p>
-<hr>
-<p>AI 發展成熟之前<br>
-<!-- -->各種 APP、電商網站、社群網站<br>
-<!-- -->靠軟體工程師手刻程式碼⋯⋯</p>
-<p>AI 發展成熟之後<br>
-<!-- -->AI 成了快速寫程式的新幫手<br>
-<!-- -->普通人也可以快速寫程式</p>
-<p>隨著技術的發展<br>
-<!-- -->AI 各種方法：context, loop, harness …等 …<br>
-<!-- -->成就了「唬爛」這門新行業<br>
-<!-- -->畫虎爛也變成一種技能</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="生活" term="生活"/>
-        <category label="AI" term="AI"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[FIRE]]></title>
@@ -471,6 +471,28 @@
         <category label="Podcast" term="Podcast"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[寫文章流程]]></title>
+        <id>https://www.gtcafe.com/blog/2026/06/13/workflow</id>
+        <link href="https://www.gtcafe.com/blog/2026/06/13/workflow"/>
+        <updated>2026-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在寫文章的流程：]]></summary>
+        <content type="html"><![CDATA[<p>現在寫文章的流程：</p>
+<ol>
+<li class="">自言自語: 用 iOS Voice Memo 錄下想法</li>
+<li class="">Voice to Text</li>
+<li class="">丟給 AI 整理</li>
+<li class="">跟 AI 討論, 範圍, 正反面, 不足, 數據 … etc.</li>
+<li class="">Review, 潤稿, 修改, 置入個人風格</li>
+<li class="">放幾天 (&gt; 3day)</li>
+<li class="">再看幾次後發布.</li>
+</ol><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="生活" term="生活"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[面對網路酸民、無意義批評，以及生活中「蠢蛋」的心態建設與具體做法。]]></title>
         <id>https://www.gtcafe.com/blog/2026/06/13/ep669-670</id>
         <link href="https://www.gtcafe.com/blog/2026/06/13/ep669-670"/>
@@ -501,28 +523,6 @@
 <p>但解法不是逃避，而是慢慢訓練。透過大量暴露療法，長期處在會面對群眾、會被評論、會被誤解的環境裡，逐漸習慣那些心理衝擊。</p>
 <p>時間一長，臉皮自然會變厚，也會越來越知道哪些話值得聽，哪些話根本不需要放進心裡。最終，保護注意力的能力會變強，也會更不容易被無意義的批評傷到。</p>
 <p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/summary-fa025cb680939406ca5be56689973a06.jpg" width="1195" height="1316" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="生活" term="生活"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寫文章流程]]></title>
-        <id>https://www.gtcafe.com/blog/2026/06/13/workflow</id>
-        <link href="https://www.gtcafe.com/blog/2026/06/13/workflow"/>
-        <updated>2026-06-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在寫文章的流程：]]></summary>
-        <content type="html"><![CDATA[<p>現在寫文章的流程：</p>
-<ol>
-<li class="">自言自語: 用 iOS Voice Memo 錄下想法</li>
-<li class="">Voice to Text</li>
-<li class="">丟給 AI 整理</li>
-<li class="">跟 AI 討論, 範圍, 正反面, 不足, 數據 … etc.</li>
-<li class="">Review, 潤稿, 修改, 置入個人風格</li>
-<li class="">放幾天 (&gt; 3day)</li>
-<li class="">再看幾次後發布.</li>
-</ol><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
         <author>
             <name>Rick Hwang</name>
             <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
@@ -753,67 +753,6 @@
         <category label="你的名字" term="你的名字"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
-        <id>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</id>
-        <link href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1"/>
-        <updated>2026-06-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></summary>
-        <content type="html"><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
-<!-- -->(財務數字合併 xAI / X)</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
-<ul>
-<li class="">Connectivity / Startlink (星鏈)</li>
-<li class="">Space / Launch (Starship火箭發射)</li>
-<li class="">AI / xAI + X (twitter)</li>
-</ul>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
-<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
-<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
-<blockquote>
-<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
-</blockquote>
-<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
-<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
-<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
-<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
-<p>所以它的投資邏輯不是傳統的：</p>
-<blockquote>
-<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
-</blockquote>
-<p>而比較像：</p>
-<blockquote>
-<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
-</blockquote>
-<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
-<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
-<hr>
-<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
-        <author>
-            <name>Rick Hwang</name>
-            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
-        </author>
-        <category label="投資" term="投資"/>
-        <category label="SpaceX" term="SpaceX"/>
-        <category label="馬斯克" term="馬斯克"/>
-        <category label="IPO" term="IPO"/>
-        <category label="CapEx" term="CapEx"/>
-        <category label="OCF" term="OCF"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[陪伴家人]]></title>
         <id>https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family</id>
         <link href="https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family"/>
@@ -897,6 +836,67 @@
         </author>
         <category label="FIRE" term="FIRE"/>
         <category label="財務自由" term="財務自由"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
+        <id>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</id>
+        <link href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1"/>
+        <updated>2026-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></summary>
+        <content type="html"><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
+<!-- -->(財務數字合併 xAI / X)</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
+<ul>
+<li class="">Connectivity / Startlink (星鏈)</li>
+<li class="">Space / Launch (Starship火箭發射)</li>
+<li class="">AI / xAI + X (twitter)</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
+<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
+<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
+<blockquote>
+<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
+</blockquote>
+<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
+<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
+<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
+<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
+<p>所以它的投資邏輯不是傳統的：</p>
+<blockquote>
+<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
+</blockquote>
+<p>而比較像：</p>
+<blockquote>
+<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
+</blockquote>
+<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
+<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
+<hr>
+<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content>
+        <author>
+            <name>Rick Hwang</name>
+            <uri>https://rickhw.github.io/2017/12/29/About/About-Author/</uri>
+        </author>
+        <category label="投資" term="投資"/>
+        <category label="SpaceX" term="SpaceX"/>
+        <category label="馬斯克" term="馬斯克"/>
+        <category label="IPO" term="IPO"/>
+        <category label="CapEx" term="CapEx"/>
+        <category label="OCF" term="OCF"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[旅行]]></title>
