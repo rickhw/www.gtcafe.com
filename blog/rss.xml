@@ -4,10 +4,33 @@
         <title>GTCafe Studio Blog</title>
         <link>https://www.gtcafe.com/blog</link>
         <description>GTCafe Studio Blog</description>
-        <lastBuildDate>Fri, 26 Jun 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Joe Bonamassa]]></title>
+            <link>https://www.gtcafe.com/blog/2026/07/05/joe-bonamassa</link>
+            <guid>https://www.gtcafe.com/blog/2026/07/05/joe-bonamassa</guid>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[2006 年左右在學 #藍調吉他 的時候, 聽了一堆「教科書」上列大師藍調吉他歌曲, 這些大師大概在 1920 ~ 1970 之間, 像是 Robert Johnson, B.B. King, Muddy Waters, Johnny Winter, Albert King, John Lee Hooker, Chuck Berry (Johnny Be Good), ... etc. 但實在是覺聽不習慣, 不會在平常聽.]]></description>
+            <content:encoded><![CDATA[<p>2006 年左右在學 <code>#藍調吉他</code> 的時候, 聽了一堆「教科書」上列大師藍調吉他歌曲, 這些大師大概在 1920 ~ 1970 之間, 像是 Robert Johnson, B.B. King, Muddy Waters, Johnny Winter, Albert King, John Lee Hooker, Chuck Berry (Johnny Be Good), ... etc. 但實在是覺聽不習慣, 不會在平常聽.</p>
+<p>我小時候很少接觸藍調 or 爵士這種音樂, 應該說成長環境很少有這種音樂出現, 所以學吉他的過程花了不少時間去習慣. 後來去找一些比較近代 (80/90/2000) 年的藍調吉他手, 比較現代元素的, 像是 藍調搖滾, Blue-Jazz Fusion 風格, 像是 Robben Ford (Fusion), Eric Clapton, Gary Moore, Joe Bonamassa, Stevie Ray Vaughan (SRV) ... 乃至於 City Blues 的 John Mayer.</p>
+<p>Joe Bonamassa 是美國藍調吉他手/藍調歌手, 注意到他是因為: 吉他演奏風格很像 SRV, B.B.King 和我那時候最喜歡的 Gary Moore, 還有拿 Gibson 彈藍調的吉他手比較少見, 和他唱歌時的大嘴 XDD</p>
+<p>還有他的名字, 我一直會當作 Joe Banana ... 跟剛來台北工作時, 看到板南線第一直覺一樣 XD</p>
+<p>Joe 香蕉 ... 喔, 不對, Joe Banamassa ... 幾首我早期聽的歌曲, 主要是 <code>You &amp; me [2006]</code> 這張專輯, 讓我映像很深刻的：</p>
+<ul>
+<li class="">High Water Every Where</li>
+<li class="">Bridge To Better Days</li>
+<li class="">So Many Roads</li>
+</ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JqMzGb1VTDo?si=H4V_tETg80DbdRoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyEdUajXBsI?si=8zVxVBB3wGrTfWUq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>聽音樂</category>
+            <category>Joe Bonamassa</category>
+            <category>藍調</category>
+            <category>藍調搖滾</category>
+        </item>
         <item>
             <title><![CDATA[五個原則]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/26/five-principle</link>
@@ -140,43 +163,47 @@
             <category>生活</category>
         </item>
         <item>
-            <title><![CDATA[Local LLM]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/21/local-llm</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/21/local-llm</guid>
+            <title><![CDATA[FIRE]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/21/fire</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/21/fire</guid>
             <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:]]></description>
-            <content:encoded><![CDATA[<p>為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:</p>
-<ol>
-<li class="">各種 Runtime: Ollama / LM Studio / llama.cpp</li>
-<li class="">Librareis (Python 為主: oMLX, RaipMLX ...)</li>
-<li class="">各種 Format: GGUF, safetensors / MLX</li>
-<li class="">各種 Registry: Hugging Face Hub / ollama ... etc</li>
-</ol>
-<p>加上我有多台機器在跑實驗, 有時候同一個 model 這台抓，那台也抓 ... 然後頻寬就一直滿的狀態 ....</p>
-<p>為了節省對外頻寬, 然後也共用這些 Local LLM 的資源, 就叫 Claude 開發一個類似 git cli 管理多個 repos 概念的分散式工具，可以：</p>
-<ol>
-<li class="">像 rsync 那樣從電腦 A sync model to B.</li>
-<li class="">可比對本機不同 runtime 是否下載同一個 model, 不同格式</li>
-<li class="">可以讓本機不同 runtime 之間, share 不同 format 的 Model</li>
-<li class="">可以直接取代所有 runtime 變成集中式管理的 Local LLM Repos</li>
-<li class="">支援 push and pull mode，可以點對點傳輸.</li>
-</ol>
-<p>大概企業內的 Nexus OSS 概念 ... 只是是 cli 版.</p>
+            <description><![CDATA[整理得還不錯，有參考價值]]></description>
+            <content:encoded><![CDATA[<p>整理得還不錯，有參考價值<br>
+<!-- -->整理 by NotebookLM</p>
 <hr>
-<p>這是為了做實驗搞的副產品, 用起來沒啥問題, UX/UI 可以再調整. 還沒上 homebrew.<br>
-<!-- -->真正的問題都是內網水管不夠粗, 1Gbps 傳 LLM 實在太慢了, 然後就開始想要不要搞 25Gbps 的 switch ...<br>
-<!-- -->恩 ... 一種越來越歪的味道 ... 還是洗洗睡好了 XDD</p>
-<hr>
-<p>github: <a href="https://github.com/rickhw/corral" target="_blank" rel="noopener noreferrer" class="">https://github.com/rickhw/corral</a></p>
-<hr>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral1-7eca9724f8ab6e506579830441fe00a4.jpg" width="2048" height="1285" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral2-8734dedbb2cb61a62cece98e9615aaf2.jpg" width="2048" height="1285" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral3-65303e2af48a9bbfbbf27cba40e17bcd.jpg" width="2048" height="1285" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral4-ec0629a0e4c28226e636cccff4088fdb.jpg" width="3455" height="732" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>LLM</category>
-            <category>AI</category>
-            <category>學習</category>
-            <category>趨勢</category>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KWbUGFwKLys?si=e2JYMVT3GkniSoMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>這部來自「Kelly Tsai」頻道（講者 KY）的影片，深入探討了「FIRE（財務獨立，提早退休）」運動的真實性，並對比了在美國矽谷與台灣執行 FIRE 的難度與隱藏風險。以下是影片的重點摘要：</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-fire-的核心公式與五大變體">1. FIRE 的核心公式與五大變體<a href="https://www.gtcafe.com/blog/2026/06/21/fire#1-fire-%E7%9A%84%E6%A0%B8%E5%BF%83%E5%85%AC%E5%BC%8F%E8%88%87%E4%BA%94%E5%A4%A7%E8%AE%8A%E9%AB%94" class="hash-link" aria-label="Direct link to 1. FIRE 的核心公式與五大變體" title="Direct link to 1. FIRE 的核心公式與五大變體" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#兩大核心數字</code>：FIRE 的目標金額通常設定為「年支出 × 25」，而提領標準則源自於 1990 年代的「4% 法則（安穩提領率 SWR）」。</li>
+<li class=""><code>#五種FIRE模式</code>：隨著時間發展，FIRE 衍生出多種版本，包括極簡版的 Lean FIRE（年支出約 120 萬台幣以下）、中產版的 Regular FIRE、富裕版的 Fat FIRE（年支出 10 萬美金以上）、靠複利增長的 Coast FIRE，以及透過兼職打工來補足生活費與健保的 Barista FIRE（半退休）。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-儲蓄率的迷思與台灣中產的困境">2. 儲蓄率的迷思與台灣中產的困境<a href="https://www.gtcafe.com/blog/2026/06/21/fire#2-%E5%84%B2%E8%93%84%E7%8E%87%E7%9A%84%E8%BF%B7%E6%80%9D%E8%88%87%E5%8F%B0%E7%81%A3%E4%B8%AD%E7%94%A2%E7%9A%84%E5%9B%B0%E5%A2%83" class="hash-link" aria-label="Direct link to 2. 儲蓄率的迷思與台灣中產的困境" title="Direct link to 2. 儲蓄率的迷思與台灣中產的困境" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#儲蓄率決定退休時間</code>：無論年薪高低，只要能維持 50% 的儲蓄率，理論上 17 年就能達到 FIRE。</li>
+<li class=""><code>#台灣的執行難度</code>：以台灣受僱人員薪資中位數（月薪約 4.5 萬台幣）來算，若要存下 50%，每個月只能花 2.27 萬台幣。這意味著在六都必須租便宜雅房、不能養車、限制外食花費，雖然理論上可行，但實際執行極度困難。這顯示 FIRE 公式其實隱含了「高薪」的前提。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-4-法則的危機與修正">3. 「4% 法則」的危機與修正<a href="https://www.gtcafe.com/blog/2026/06/21/fire#3-4-%E6%B3%95%E5%89%87%E7%9A%84%E5%8D%B1%E6%A9%9F%E8%88%87%E4%BF%AE%E6%AD%A3" class="hash-link" aria-label="Direct link to 3. 「4% 法則」的危機與修正" title="Direct link to 3. 「4% 法則」的危機與修正" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#數字已不適用</code>：因為現代人退休後可能還要活 40 到 50 年（而非當初模型設定的 30 年），加上市場的「序列表現風險」（Sequence of returns risk，即退休前幾年若遇上股災，本金會大縮水且難以回復），4% 法則已受到挑戰。</li>
+<li class=""><code>#權威機構的新建議</code>：目前不同機構給出不同的提領率建議，例如 Morningstar 建議 3.9%，而最保守的 ERN 網站甚至建議降至 3.25%。這代表準備的本金需要比傳統公式計算得更多。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-退休後最可怕的四個隱藏地雷">4. 退休後最可怕的四個隱藏地雷<a href="https://www.gtcafe.com/blog/2026/06/21/fire#4-%E9%80%80%E4%BC%91%E5%BE%8C%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E5%9B%9B%E5%80%8B%E9%9A%B1%E8%97%8F%E5%9C%B0%E9%9B%B7" class="hash-link" aria-label="Direct link to 4. 退休後最可怕的四個隱藏地雷" title="Direct link to 4. 退休後最可怕的四個隱藏地雷" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#醫療費</code>：美國 65 歲前沒有政府 Medicare，提早退休者須自行承擔高昂的醫療保費，全家保費可能高達每月 4.5 萬台幣；反觀台灣每月健保自付額僅需 826 元。</li>
+<li class=""><code>#長照費用</code>：美國私人護理之家一年約需 380 萬台幣，而台灣約需 44 到 46 萬台幣，差距高達 5 到 7 倍。由於平均長照需求達 7.3 年，這是一筆不可忽視的巨額開銷。</li>
+<li class=""><code>#AI衝擊就業</code>：過去 FIRE 成功的案例多來自矽谷的高薪軟體工程師，但隨著 AI 開始取代中階工程師，這種依賴高薪快速累積資產的劇本可能難以複製。</li>
+<li class=""><code>#長壽風險</code>：健康夫妻有 20% 的機率其中一人會活過 100 歲，壽命延長將大幅增加所需的退休金。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-台灣人其實比矽谷工程師更容易-fire">5. 台灣人其實比矽谷工程師更容易 FIRE？<a href="https://www.gtcafe.com/blog/2026/06/21/fire#5-%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%85%B6%E5%AF%A6%E6%AF%94%E7%9F%BD%E8%B0%B7%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%9B%B4%E5%AE%B9%E6%98%93-fire" class="hash-link" aria-label="Direct link to 5. 台灣人其實比矽谷工程師更容易 FIRE？" title="Direct link to 5. 台灣人其實比矽谷工程師更容易 FIRE？" translate="no">​</a></h2>
+<ul>
+<li class=""><code>#台灣的隱形補貼</code>：雖然美國薪資高、累積本金快，但美國 FIRE 族有高達 25% 到 30% 的資金會被醫療與長照吃掉。而在台灣，便宜的健保與長照 2.0 系統成為極大的「隱形補貼」，因此，台灣版的 FIRE 在退休後的消耗與風險上，反而比矽谷版來得更安全。</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="總結建議">總結建議<a href="https://www.gtcafe.com/blog/2026/06/21/fire#%E7%B8%BD%E7%B5%90%E5%BB%BA%E8%AD%B0" class="hash-link" aria-label="Direct link to 總結建議" title="Direct link to 總結建議" translate="no">​</a></h2>
+<p>講者建議，FIRE 計畫不能「算完就放著」，投資組合必須隨著市場與政策動態調整。最務實的做法是「每年年底重算一次 FIRE 數字」，將當年的新政策、最新的提領率研究，以及家庭狀況都納入考量，這樣的退休計畫才會更加踏實。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>FIRE</category>
+            <category>投資</category>
+            <category>理財</category>
         </item>
         <item>
             <title><![CDATA[PIP - Case 1]]></title>
@@ -239,47 +266,43 @@
             <category>用人</category>
         </item>
         <item>
-            <title><![CDATA[FIRE]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/21/fire</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/21/fire</guid>
+            <title><![CDATA[Local LLM]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/21/local-llm</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/21/local-llm</guid>
             <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[整理得還不錯，有參考價值]]></description>
-            <content:encoded><![CDATA[<p>整理得還不錯，有參考價值<br>
-<!-- -->整理 by NotebookLM</p>
+            <description><![CDATA[為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:]]></description>
+            <content:encoded><![CDATA[<p>為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:</p>
+<ol>
+<li class="">各種 Runtime: Ollama / LM Studio / llama.cpp</li>
+<li class="">Librareis (Python 為主: oMLX, RaipMLX ...)</li>
+<li class="">各種 Format: GGUF, safetensors / MLX</li>
+<li class="">各種 Registry: Hugging Face Hub / ollama ... etc</li>
+</ol>
+<p>加上我有多台機器在跑實驗, 有時候同一個 model 這台抓，那台也抓 ... 然後頻寬就一直滿的狀態 ....</p>
+<p>為了節省對外頻寬, 然後也共用這些 Local LLM 的資源, 就叫 Claude 開發一個類似 git cli 管理多個 repos 概念的分散式工具，可以：</p>
+<ol>
+<li class="">像 rsync 那樣從電腦 A sync model to B.</li>
+<li class="">可比對本機不同 runtime 是否下載同一個 model, 不同格式</li>
+<li class="">可以讓本機不同 runtime 之間, share 不同 format 的 Model</li>
+<li class="">可以直接取代所有 runtime 變成集中式管理的 Local LLM Repos</li>
+<li class="">支援 push and pull mode，可以點對點傳輸.</li>
+</ol>
+<p>大概企業內的 Nexus OSS 概念 ... 只是是 cli 版.</p>
 <hr>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KWbUGFwKLys?si=e2JYMVT3GkniSoMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p>這部來自「Kelly Tsai」頻道（講者 KY）的影片，深入探討了「FIRE（財務獨立，提早退休）」運動的真實性，並對比了在美國矽谷與台灣執行 FIRE 的難度與隱藏風險。以下是影片的重點摘要：</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-fire-的核心公式與五大變體">1. FIRE 的核心公式與五大變體<a href="https://www.gtcafe.com/blog/2026/06/21/fire#1-fire-%E7%9A%84%E6%A0%B8%E5%BF%83%E5%85%AC%E5%BC%8F%E8%88%87%E4%BA%94%E5%A4%A7%E8%AE%8A%E9%AB%94" class="hash-link" aria-label="Direct link to 1. FIRE 的核心公式與五大變體" title="Direct link to 1. FIRE 的核心公式與五大變體" translate="no">​</a></h2>
-<ul>
-<li class=""><code>#兩大核心數字</code>：FIRE 的目標金額通常設定為「年支出 × 25」，而提領標準則源自於 1990 年代的「4% 法則（安穩提領率 SWR）」。</li>
-<li class=""><code>#五種FIRE模式</code>：隨著時間發展，FIRE 衍生出多種版本，包括極簡版的 Lean FIRE（年支出約 120 萬台幣以下）、中產版的 Regular FIRE、富裕版的 Fat FIRE（年支出 10 萬美金以上）、靠複利增長的 Coast FIRE，以及透過兼職打工來補足生活費與健保的 Barista FIRE（半退休）。</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-儲蓄率的迷思與台灣中產的困境">2. 儲蓄率的迷思與台灣中產的困境<a href="https://www.gtcafe.com/blog/2026/06/21/fire#2-%E5%84%B2%E8%93%84%E7%8E%87%E7%9A%84%E8%BF%B7%E6%80%9D%E8%88%87%E5%8F%B0%E7%81%A3%E4%B8%AD%E7%94%A2%E7%9A%84%E5%9B%B0%E5%A2%83" class="hash-link" aria-label="Direct link to 2. 儲蓄率的迷思與台灣中產的困境" title="Direct link to 2. 儲蓄率的迷思與台灣中產的困境" translate="no">​</a></h2>
-<ul>
-<li class=""><code>#儲蓄率決定退休時間</code>：無論年薪高低，只要能維持 50% 的儲蓄率，理論上 17 年就能達到 FIRE。</li>
-<li class=""><code>#台灣的執行難度</code>：以台灣受僱人員薪資中位數（月薪約 4.5 萬台幣）來算，若要存下 50%，每個月只能花 2.27 萬台幣。這意味著在六都必須租便宜雅房、不能養車、限制外食花費，雖然理論上可行，但實際執行極度困難。這顯示 FIRE 公式其實隱含了「高薪」的前提。</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-4-法則的危機與修正">3. 「4% 法則」的危機與修正<a href="https://www.gtcafe.com/blog/2026/06/21/fire#3-4-%E6%B3%95%E5%89%87%E7%9A%84%E5%8D%B1%E6%A9%9F%E8%88%87%E4%BF%AE%E6%AD%A3" class="hash-link" aria-label="Direct link to 3. 「4% 法則」的危機與修正" title="Direct link to 3. 「4% 法則」的危機與修正" translate="no">​</a></h2>
-<ul>
-<li class=""><code>#數字已不適用</code>：因為現代人退休後可能還要活 40 到 50 年（而非當初模型設定的 30 年），加上市場的「序列表現風險」（Sequence of returns risk，即退休前幾年若遇上股災，本金會大縮水且難以回復），4% 法則已受到挑戰。</li>
-<li class=""><code>#權威機構的新建議</code>：目前不同機構給出不同的提領率建議，例如 Morningstar 建議 3.9%，而最保守的 ERN 網站甚至建議降至 3.25%。這代表準備的本金需要比傳統公式計算得更多。</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-退休後最可怕的四個隱藏地雷">4. 退休後最可怕的四個隱藏地雷<a href="https://www.gtcafe.com/blog/2026/06/21/fire#4-%E9%80%80%E4%BC%91%E5%BE%8C%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E5%9B%9B%E5%80%8B%E9%9A%B1%E8%97%8F%E5%9C%B0%E9%9B%B7" class="hash-link" aria-label="Direct link to 4. 退休後最可怕的四個隱藏地雷" title="Direct link to 4. 退休後最可怕的四個隱藏地雷" translate="no">​</a></h2>
-<ul>
-<li class=""><code>#醫療費</code>：美國 65 歲前沒有政府 Medicare，提早退休者須自行承擔高昂的醫療保費，全家保費可能高達每月 4.5 萬台幣；反觀台灣每月健保自付額僅需 826 元。</li>
-<li class=""><code>#長照費用</code>：美國私人護理之家一年約需 380 萬台幣，而台灣約需 44 到 46 萬台幣，差距高達 5 到 7 倍。由於平均長照需求達 7.3 年，這是一筆不可忽視的巨額開銷。</li>
-<li class=""><code>#AI衝擊就業</code>：過去 FIRE 成功的案例多來自矽谷的高薪軟體工程師，但隨著 AI 開始取代中階工程師，這種依賴高薪快速累積資產的劇本可能難以複製。</li>
-<li class=""><code>#長壽風險</code>：健康夫妻有 20% 的機率其中一人會活過 100 歲，壽命延長將大幅增加所需的退休金。</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-台灣人其實比矽谷工程師更容易-fire">5. 台灣人其實比矽谷工程師更容易 FIRE？<a href="https://www.gtcafe.com/blog/2026/06/21/fire#5-%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%85%B6%E5%AF%A6%E6%AF%94%E7%9F%BD%E8%B0%B7%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%9B%B4%E5%AE%B9%E6%98%93-fire" class="hash-link" aria-label="Direct link to 5. 台灣人其實比矽谷工程師更容易 FIRE？" title="Direct link to 5. 台灣人其實比矽谷工程師更容易 FIRE？" translate="no">​</a></h2>
-<ul>
-<li class=""><code>#台灣的隱形補貼</code>：雖然美國薪資高、累積本金快，但美國 FIRE 族有高達 25% 到 30% 的資金會被醫療與長照吃掉。而在台灣，便宜的健保與長照 2.0 系統成為極大的「隱形補貼」，因此，台灣版的 FIRE 在退休後的消耗與風險上，反而比矽谷版來得更安全。</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="總結建議">總結建議<a href="https://www.gtcafe.com/blog/2026/06/21/fire#%E7%B8%BD%E7%B5%90%E5%BB%BA%E8%AD%B0" class="hash-link" aria-label="Direct link to 總結建議" title="Direct link to 總結建議" translate="no">​</a></h2>
-<p>講者建議，FIRE 計畫不能「算完就放著」，投資組合必須隨著市場與政策動態調整。最務實的做法是「每年年底重算一次 FIRE 數字」，將當年的新政策、最新的提領率研究，以及家庭狀況都納入考量，這樣的退休計畫才會更加踏實。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>FIRE</category>
-            <category>投資</category>
-            <category>理財</category>
+<p>這是為了做實驗搞的副產品, 用起來沒啥問題, UX/UI 可以再調整. 還沒上 homebrew.<br>
+<!-- -->真正的問題都是內網水管不夠粗, 1Gbps 傳 LLM 實在太慢了, 然後就開始想要不要搞 25Gbps 的 switch ...<br>
+<!-- -->恩 ... 一種越來越歪的味道 ... 還是洗洗睡好了 XDD</p>
+<hr>
+<p>github: <a href="https://github.com/rickhw/corral" target="_blank" rel="noopener noreferrer" class="">https://github.com/rickhw/corral</a></p>
+<hr>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral1-7eca9724f8ab6e506579830441fe00a4.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral2-8734dedbb2cb61a62cece98e9615aaf2.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral3-65303e2af48a9bbfbbf27cba40e17bcd.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral4-ec0629a0e4c28226e636cccff4088fdb.jpg" width="3455" height="732" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>LLM</category>
+            <category>AI</category>
+            <category>學習</category>
+            <category>趨勢</category>
         </item>
         <item>
             <title><![CDATA[題目、考績]]></title>
@@ -375,31 +398,6 @@
             <category>技術決策</category>
         </item>
         <item>
-            <title><![CDATA[The book of Elon]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/18/book-of-elon</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/18/book-of-elon</guid>
-            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[這集《VK 科技閱讀時間》主要探討了伊隆·馬斯克（Elon Musk）在面對人生重大決策時的思考與選擇邏輯。]]></description>
-            <content:encoded><![CDATA[<p>這集《VK 科技閱讀時間》主要探討了伊隆·馬斯克（Elon Musk）在面對人生重大決策時的思考與選擇邏輯。</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cdFdpIFx7xA?si=yv-WCzFcohBMS8Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p>節目首先藉由《破壞性創新》一書，引出創新是將昂貴變得可負擔、並在意外之處開創新市場的概念，接著深入解析由馬斯克過往語錄所集結而成的《馬斯克之書》（The Elon Musk Quotes），總結出他做決策的五大核心原則：</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-追求有用解決重要的問題-be-useful">1. 追求「有用」，解決重要的問題 (Be Useful)<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#1-%E8%BF%BD%E6%B1%82%E6%9C%89%E7%94%A8%E8%A7%A3%E6%B1%BA%E9%87%8D%E8%A6%81%E7%9A%84%E5%95%8F%E9%A1%8C-be-useful" class="hash-link" aria-label="Direct link to 1. 追求「有用」，解決重要的問題 (Be Useful)" title="Direct link to 1. 追求「有用」，解決重要的問題 (Be Useful)" translate="no">​</a></h2>
-<p>馬斯克創業的出發點並非為了追求榮耀或賺錢，而是專注於建造「有用」的事物。他提出一個類似工程師算法的「效用面積」概念：將「對每個人的幫助程度」乘上「幫助了多少人」。從早期的 Zip2 到後來的 PayPal、SpaceX 和 Tesla，他每次決定要做什麼時，問的都是同一個問題：「這件事對別人有用嗎？」只要問題足夠重要，他就會去解決。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-粉碎自我接受現實的真實回饋">2. 粉碎自我，接受現實的真實回饋<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#2-%E7%B2%89%E7%A2%8E%E8%87%AA%E6%88%91%E6%8E%A5%E5%8F%97%E7%8F%BE%E5%AF%A6%E7%9A%84%E7%9C%9F%E5%AF%A6%E5%9B%9E%E9%A5%8B" class="hash-link" aria-label="Direct link to 2. 粉碎自我，接受現實的真實回饋" title="Direct link to 2. 粉碎自我，接受現實的真實回饋" translate="no">​</a></h2>
-<p>馬斯克有一套「自我與能力比例（Ego to ability ratio）」的理論：當一個人的「自我（Ego）」大於其「能力」時，就會開始抗拒批評、不願認錯，這等同於砸爛了接收現實回饋的接收器，進而停止進步。他強調「物理不關心你的感受，只關心你是否把火箭做對了」，因此必須極力粉碎自尊與面子，將情緒降到最低，才能聽進現實的聲音。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-預設失敗把贏來的籌碼全壓回桌上">3. 預設失敗，把贏來的籌碼全壓回桌上<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#3-%E9%A0%90%E8%A8%AD%E5%A4%B1%E6%95%97%E6%8A%8A%E8%B4%8F%E4%BE%86%E7%9A%84%E7%B1%8C%E7%A2%BC%E5%85%A8%E5%A3%93%E5%9B%9E%E6%A1%8C%E4%B8%8A" class="hash-link" aria-label="Direct link to 3. 預設失敗，把贏來的籌碼全壓回桌上" title="Direct link to 3. 預設失敗，把贏來的籌碼全壓回桌上" translate="no">​</a></h2>
-<p>當年馬斯克賣掉 PayPal 賺進 1.8 億美元，但他沒有拿去享樂，而是幾乎將全數資金投入 SpaceX、Tesla 與 SolarCity 這三個新「遊戲」中，甚至搞到自己需要借錢付房租。在投資前，他預估這些公司的成功機率不到 10%，但他依然願意下注，因為「當某件事足夠重要，即使勝算不在你這邊，你也應該去做」。他認為，寧願對未來樂觀但錯了，也不要悲觀卻對了。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-第一性原理與白痴指數-idiot-index">4. 第一性原理與「白痴指數 (Idiot Index)」<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#4-%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86%E8%88%87%E7%99%BD%E7%97%B4%E6%8C%87%E6%95%B8-idiot-index" class="hash-link" aria-label="Direct link to 4. 第一性原理與「白痴指數 (Idiot Index)」" title="Direct link to 4. 第一性原理與「白痴指數 (Idiot Index)」" translate="no">​</a></h2>
-<p>馬斯克早期曾去俄羅斯想買便宜的火箭但四處碰壁。回程飛機上，他用 Excel 試算發現，火箭所有原物料的成本居然只佔最終售價的 1% 到 2%。他因此發明了「白痴指數」：成品的最終售價除以原料成本。這項指數越高，代表設計越複雜、外包層級太多、製造過程極度低效。這項用第一性原理拆解成本的頓悟，成為他決定自己動手製造火箭的關鍵，並將白痴指數作為 SpaceX 內部檢視零件成本的重要 KPI。</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-最反直覺的選擇人生太短不能有長期的怨恨">5. 最反直覺的選擇：人生太短，不能有長期的怨恨<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#5-%E6%9C%80%E5%8F%8D%E7%9B%B4%E8%A6%BA%E7%9A%84%E9%81%B8%E6%93%87%E4%BA%BA%E7%94%9F%E5%A4%AA%E7%9F%AD%E4%B8%8D%E8%83%BD%E6%9C%89%E9%95%B7%E6%9C%9F%E7%9A%84%E6%80%A8%E6%81%A8" class="hash-link" aria-label="Direct link to 5. 最反直覺的選擇：人生太短，不能有長期的怨恨" title="Direct link to 5. 最反直覺的選擇：人生太短，不能有長期的怨恨" translate="no">​</a></h2>
-<p>西元 2000 年，馬斯克在度蜜月時，被自己創辦的 PayPal（X.com）團隊（包含 Peter Thiel、Luke Nosek 等人）發動政變罷免執行長一職。面對背叛，馬斯克沒有選擇報復或心懷怨恨，而是選擇理解並放下。這個「以德報怨」的決定在 8 年後救了他一命：2008 年 SpaceX 面臨瀕臨破產的危機時，當年趕走他的同一群人所創辦的 Founders Fund 創投，向 SpaceX 投入了 2000 萬美元的救命資金，成功將公司從鬼門關前拉回。</p>
-<p>EP163. 拆解馬斯克如何思考與選擇：被自己創辦的公司趕走，卻說「人生太短，不能有長期的怨恨」</p>
-<p><a href="https://www.youtube.com/watch?v=cdFdpIFx7xA" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/watch?v=cdFdpIFx7xA</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>閱讀</category>
-            <category>馬斯克傳</category>
-            <category>馬斯克之書</category>
-        </item>
-        <item>
             <title><![CDATA[股癌 EP671 - 面對新聽眾與酸民的態度]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/18/gooaye</link>
             <guid>https://www.gtcafe.com/blog/2026/06/18/gooaye</guid>
@@ -426,6 +424,31 @@
             <category>閱讀</category>
             <category>人生</category>
             <category>Podcast</category>
+        </item>
+        <item>
+            <title><![CDATA[The book of Elon]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/18/book-of-elon</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/18/book-of-elon</guid>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[這集《VK 科技閱讀時間》主要探討了伊隆·馬斯克（Elon Musk）在面對人生重大決策時的思考與選擇邏輯。]]></description>
+            <content:encoded><![CDATA[<p>這集《VK 科技閱讀時間》主要探討了伊隆·馬斯克（Elon Musk）在面對人生重大決策時的思考與選擇邏輯。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cdFdpIFx7xA?si=yv-WCzFcohBMS8Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>節目首先藉由《破壞性創新》一書，引出創新是將昂貴變得可負擔、並在意外之處開創新市場的概念，接著深入解析由馬斯克過往語錄所集結而成的《馬斯克之書》（The Elon Musk Quotes），總結出他做決策的五大核心原則：</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-追求有用解決重要的問題-be-useful">1. 追求「有用」，解決重要的問題 (Be Useful)<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#1-%E8%BF%BD%E6%B1%82%E6%9C%89%E7%94%A8%E8%A7%A3%E6%B1%BA%E9%87%8D%E8%A6%81%E7%9A%84%E5%95%8F%E9%A1%8C-be-useful" class="hash-link" aria-label="Direct link to 1. 追求「有用」，解決重要的問題 (Be Useful)" title="Direct link to 1. 追求「有用」，解決重要的問題 (Be Useful)" translate="no">​</a></h2>
+<p>馬斯克創業的出發點並非為了追求榮耀或賺錢，而是專注於建造「有用」的事物。他提出一個類似工程師算法的「效用面積」概念：將「對每個人的幫助程度」乘上「幫助了多少人」。從早期的 Zip2 到後來的 PayPal、SpaceX 和 Tesla，他每次決定要做什麼時，問的都是同一個問題：「這件事對別人有用嗎？」只要問題足夠重要，他就會去解決。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-粉碎自我接受現實的真實回饋">2. 粉碎自我，接受現實的真實回饋<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#2-%E7%B2%89%E7%A2%8E%E8%87%AA%E6%88%91%E6%8E%A5%E5%8F%97%E7%8F%BE%E5%AF%A6%E7%9A%84%E7%9C%9F%E5%AF%A6%E5%9B%9E%E9%A5%8B" class="hash-link" aria-label="Direct link to 2. 粉碎自我，接受現實的真實回饋" title="Direct link to 2. 粉碎自我，接受現實的真實回饋" translate="no">​</a></h2>
+<p>馬斯克有一套「自我與能力比例（Ego to ability ratio）」的理論：當一個人的「自我（Ego）」大於其「能力」時，就會開始抗拒批評、不願認錯，這等同於砸爛了接收現實回饋的接收器，進而停止進步。他強調「物理不關心你的感受，只關心你是否把火箭做對了」，因此必須極力粉碎自尊與面子，將情緒降到最低，才能聽進現實的聲音。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-預設失敗把贏來的籌碼全壓回桌上">3. 預設失敗，把贏來的籌碼全壓回桌上<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#3-%E9%A0%90%E8%A8%AD%E5%A4%B1%E6%95%97%E6%8A%8A%E8%B4%8F%E4%BE%86%E7%9A%84%E7%B1%8C%E7%A2%BC%E5%85%A8%E5%A3%93%E5%9B%9E%E6%A1%8C%E4%B8%8A" class="hash-link" aria-label="Direct link to 3. 預設失敗，把贏來的籌碼全壓回桌上" title="Direct link to 3. 預設失敗，把贏來的籌碼全壓回桌上" translate="no">​</a></h2>
+<p>當年馬斯克賣掉 PayPal 賺進 1.8 億美元，但他沒有拿去享樂，而是幾乎將全數資金投入 SpaceX、Tesla 與 SolarCity 這三個新「遊戲」中，甚至搞到自己需要借錢付房租。在投資前，他預估這些公司的成功機率不到 10%，但他依然願意下注，因為「當某件事足夠重要，即使勝算不在你這邊，你也應該去做」。他認為，寧願對未來樂觀但錯了，也不要悲觀卻對了。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-第一性原理與白痴指數-idiot-index">4. 第一性原理與「白痴指數 (Idiot Index)」<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#4-%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86%E8%88%87%E7%99%BD%E7%97%B4%E6%8C%87%E6%95%B8-idiot-index" class="hash-link" aria-label="Direct link to 4. 第一性原理與「白痴指數 (Idiot Index)」" title="Direct link to 4. 第一性原理與「白痴指數 (Idiot Index)」" translate="no">​</a></h2>
+<p>馬斯克早期曾去俄羅斯想買便宜的火箭但四處碰壁。回程飛機上，他用 Excel 試算發現，火箭所有原物料的成本居然只佔最終售價的 1% 到 2%。他因此發明了「白痴指數」：成品的最終售價除以原料成本。這項指數越高，代表設計越複雜、外包層級太多、製造過程極度低效。這項用第一性原理拆解成本的頓悟，成為他決定自己動手製造火箭的關鍵，並將白痴指數作為 SpaceX 內部檢視零件成本的重要 KPI。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-最反直覺的選擇人生太短不能有長期的怨恨">5. 最反直覺的選擇：人生太短，不能有長期的怨恨<a href="https://www.gtcafe.com/blog/2026/06/18/book-of-elon#5-%E6%9C%80%E5%8F%8D%E7%9B%B4%E8%A6%BA%E7%9A%84%E9%81%B8%E6%93%87%E4%BA%BA%E7%94%9F%E5%A4%AA%E7%9F%AD%E4%B8%8D%E8%83%BD%E6%9C%89%E9%95%B7%E6%9C%9F%E7%9A%84%E6%80%A8%E6%81%A8" class="hash-link" aria-label="Direct link to 5. 最反直覺的選擇：人生太短，不能有長期的怨恨" title="Direct link to 5. 最反直覺的選擇：人生太短，不能有長期的怨恨" translate="no">​</a></h2>
+<p>西元 2000 年，馬斯克在度蜜月時，被自己創辦的 PayPal（X.com）團隊（包含 Peter Thiel、Luke Nosek 等人）發動政變罷免執行長一職。面對背叛，馬斯克沒有選擇報復或心懷怨恨，而是選擇理解並放下。這個「以德報怨」的決定在 8 年後救了他一命：2008 年 SpaceX 面臨瀕臨破產的危機時，當年趕走他的同一群人所創辦的 Founders Fund 創投，向 SpaceX 投入了 2000 萬美元的救命資金，成功將公司從鬼門關前拉回。</p>
+<p>EP163. 拆解馬斯克如何思考與選擇：被自己創辦的公司趕走，卻說「人生太短，不能有長期的怨恨」</p>
+<p><a href="https://www.youtube.com/watch?v=cdFdpIFx7xA" target="_blank" rel="noopener noreferrer" class="">https://www.youtube.com/watch?v=cdFdpIFx7xA</a></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>閱讀</category>
+            <category>馬斯克傳</category>
+            <category>馬斯克之書</category>
         </item>
         <item>
             <title><![CDATA[面對網路酸民、無意義批評，以及生活中「蠢蛋」的心態建設與具體做法。]]></title>
@@ -686,63 +709,6 @@
             <category>你的名字</category>
         </item>
         <item>
-            <title><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</guid>
-            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></description>
-            <content:encoded><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
-<!-- -->(財務數字合併 xAI / X)</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
-<ul>
-<li class="">Connectivity / Startlink (星鏈)</li>
-<li class="">Space / Launch (Starship火箭發射)</li>
-<li class="">AI / xAI + X (twitter)</li>
-</ul>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
-<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
-<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
-<blockquote>
-<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
-</blockquote>
-<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
-<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
-<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
-<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
-<p>所以它的投資邏輯不是傳統的：</p>
-<blockquote>
-<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
-</blockquote>
-<p>而比較像：</p>
-<blockquote>
-<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
-</blockquote>
-<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
-<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
-<hr>
-<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>投資</category>
-            <category>SpaceX</category>
-            <category>馬斯克</category>
-            <category>IPO</category>
-            <category>CapEx</category>
-            <category>OCF</category>
-        </item>
-        <item>
             <title><![CDATA[陪伴家人]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family</link>
             <guid>https://www.gtcafe.com/blog/2026/06/07/spend-time-with-family</guid>
@@ -824,26 +790,61 @@
             <category>財務自由</category>
         </item>
         <item>
-            <title><![CDATA[旅行]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/07/travel</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/07/travel</guid>
+            <title><![CDATA[摘要 SpaceX IPO Sec-1]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1</guid>
             <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[我很少、也不太喜歡用 "天才" 或 "天賦" 來形容一個人，因為 "天才" 的映像某種程度會蓋過 "努力" ... 我相信所浮上檯面的人，除了天賦之外，最重要的：]]></description>
-            <content:encoded><![CDATA[<p>我很少、也不太喜歡用 "天才" 或 "天賦" 來形容一個人，因為 "天才" 的映像某種程度會蓋過 "努力" ... 我相信所浮上檯面的人，除了天賦之外，最重要的：</p>
-<blockquote>
-<p>他們都很努力</p>
-</blockquote>
-<p>而 Pat Metheny 真的是少見的『天才』，映像中他是自學吉他，自己找到和弦的聲響，他 不到 15 歲就自己會應用一般人很難懂的和聲，像是 diminished 或者 Xm7-5 、altered chord 、調式音階等。這些和弦、音階即使很多玩音樂很多年的人都還搞不懂的概念 / 畫面，更別提應用。而這位 "天才" 吉他手已經知道他們是怎麼一回事，而且已經會應用，不過他不知道這些「專業術語」而已。。。</p>
-<p>然後他 18 歲到邁阿密大學音樂系，唸了一學期就被娉為老師。之後獲得 14 座葛萊美獎，包含最佳爵士演奏專輯、最佳編曲 ... 等 ....</p>
-<p>200X 那年代不少從 MI / Berklee 畢業回來台灣投入音樂市場的樂手，不管是教學、還是做 Live Session。為了展現實力，所以「融合爵士樂、爵士樂、藍調」變成一種展現實力而經常出現的風格。那時期我就吞了不少這種東西，也認識了不少樂手，像是 Joe Pass / John Scofield / Chick Corea / Stanley Jordan / Wes Montgomery / Bill Evans ... 等 (太多了)，Pat Metheny 也是其中之一。那時候的我談不上喜歡，但就是會崇拜式的接觸。因為以我的條件與背景，爵士藍調這種曲風入門是有門檻的。(爵士藍調在台灣一直都是很小眾的，盧廣仲則是這環境下的奇蹟)</p>
-<p>Pat Metheny 有把非常特別的琴，名為 "Pikasso" ，這把琴有 42 根弦，由著名的加拿大女製琴師 Linda Manzer ，花了兩年的時間為 Pat Metheny 設計、製作。Pat Metheny 也特別用這把吉他寫了多首曲子～</p>
-<p>不過，42 弦 .... 光想到換弦我就頭皮發麻 XDD</p>
+            <description><![CDATA[整理 SpaceX IPO S-1 招股說明書]]></description>
+            <content:encoded><![CDATA[<p>整理 <a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm" target="_blank" rel="noopener noreferrer" class="">SpaceX IPO S-1</a> 招股說明書<br>
+<!-- -->(財務數字合併 xAI / X)</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/statement-of-operations-data-0383be3317ce95b83c6ed15f3731cde5.jpg" width="1646" height="948" class="img_ev3q"></p>
 <hr>
-<p>這首 <code>#Travels</code> 是我那時候剛到台北工作時，第一次去小河岸聽 J.E.G 爵士樂團時其中的曲目。也因此認識了 Pat Metheny 這位傳奇爵士吉他手。</p>
-<p>後來在吉他教學過程，我把這首歌也改編成適合教學的編曲，作為教材之一。</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2xutev05nXo?si=towrwOaUAw-lItm-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>聽音樂</category>
-            <category>Pat Metheny</category>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="spacex-三大業務">SpaceX 三大業務<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#spacex-%E4%B8%89%E5%A4%A7%E6%A5%AD%E5%8B%99" class="hash-link" aria-label="Direct link to SpaceX 三大業務" title="Direct link to SpaceX 三大業務" translate="no">​</a></h2>
+<ul>
+<li class="">Connectivity / Startlink (星鏈)</li>
+<li class="">Space / Launch (Starship火箭發射)</li>
+<li class="">AI / xAI + X (twitter)</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/core-biz-750dfbce3057d98480c62fdcd12adf62.jpg" width="855" height="404" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-營收">2025 營收<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#2025-%E7%87%9F%E6%94%B6" class="hash-link" aria-label="Direct link to 2025 營收" title="Direct link to 2025 營收" translate="no">​</a></h2>
+<p>2025 合併營收約 186.7 億美元，其中 Starlink / Connectivity 約占 <code>#六成</code>，是目前最成熟、最像「可獨立上市公司」的業務。Space 發射業務約占 <code>#兩成多</code>，但很多內部發射需求服務 Starlink / AI 衛星，不一定完全反映在對外營收。AI 則是 IPO 故事中最有想像空間、但也是最大現金黑洞。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/revenue-and-profit-loss-3afbb6ca72d14fae014103412711565c.jpg" width="835" height="354" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="q126">Q1'26<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#q126" class="hash-link" aria-label="Direct link to Q1'26" title="Direct link to Q1'26" translate="no">​</a></h2>
+<p>2026 Q1 的重點不是營收衰退，而是虧損速度加快：</p>
+<blockquote>
+<p>單季營收 46.9 億美元，但淨損就接近 42.8 億美元。</p>
+</blockquote>
+<p>這代表 IPO 時市場買的不是當前獲利，而是 Starlink、Starship、AI compute、orbital data center 的長期選擇權。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="現金流與資本支出">現金流與資本支出<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E7%8F%BE%E9%87%91%E6%B5%81%E8%88%87%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA" class="hash-link" aria-label="Direct link to 現金流與資本支出" title="Direct link to 現金流與資本支出" translate="no">​</a></h2>
+<p>SpaceX 不是沒有營運現金流，2025 OCF 約 68 億美元；問題是 CapEx (Capital Expenditure, <code>#資本支出</code>) 遠大於 OCF (Operating Cash Flow, <code>#營業現金流或營運現金流量</code>)。</p>
+<p>2025 CapEx 約 207 億美元，等於公司每賺 1 美元營運現金，就花超過 3 美元去建未來基礎設施。2026 Q1 更誇張，單季 CapEx 約 101 億美元，導致自由現金流約 -91 億美元。</p>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/capex-ocf-5490b8f314bb593a0502a8e17a6143d1.jpg" width="821" height="388" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="解讀">解讀<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E8%A7%A3%E8%AE%80" class="hash-link" aria-label="Direct link to 解讀" title="Direct link to 解讀" translate="no">​</a></h2>
+<p>SpaceX 有一個已經能賺錢的 Starlink，正在拿它的現金流，加上 IPO 資金，去支撐 Starship、AI data center、orbital compute 這些超大型下注。</p>
+<p>所以它的投資邏輯不是傳統的：</p>
+<blockquote>
+<p>營收成長 -&gt; 獲利改善 -&gt; 估值提升</p>
+</blockquote>
+<p>而比較像：</p>
+<blockquote>
+<p>Starlink 現金流 -&gt; 支撐資本支出 -&gt; (建立火箭 / AI / 太空運算基礎設施) -&gt; 賭下一個十年市場</p>
+</blockquote>
+<p>換句話說，這不是一份「穩健獲利公司」的 IPO 文件，而是一份「用已成形的 Starlink 現金流，去融資下一代太空與 AI 基礎建設」的文件。</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="風險">風險<a href="https://www.gtcafe.com/blog/2026/06/07/spacex-ipo-sec-1#%E9%A2%A8%E9%9A%AA" class="hash-link" aria-label="Direct link to 風險" title="Direct link to 風險" translate="no">​</a></h2>
+<p>風險也很清楚：只要 Starship、AI compute、orbital data center 任一條主線延遲或不如預期，自由現金流壓力會非常大。</p>
+<hr>
+<p>(整理 by ChatGPT / NotebookLM)</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>投資</category>
+            <category>SpaceX</category>
+            <category>馬斯克</category>
+            <category>IPO</category>
+            <category>CapEx</category>
+            <category>OCF</category>
         </item>
     </channel>
 </rss>
