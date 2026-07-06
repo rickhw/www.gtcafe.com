@@ -87,6 +87,35 @@
             <category>生活</category>
         </item>
         <item>
+            <title><![CDATA[照相、軟體]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/26/photo-and-software</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/26/photo-and-software</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[發明照相技術之前]]></description>
+            <content:encoded><![CDATA[<p>發明照相技術之前<br>
+<!-- -->人像、風景靠畫師手畫</p>
+<p>照相技術發明後<br>
+<!-- -->照相成了快速成畫的新方法<br>
+<!-- -->普通人也可以快速拍照</p>
+<p>隨著技術的發展<br>
+<!-- -->照相的技術、成像、光影、取景、構圖 … 等<br>
+<!-- -->成就了「攝影」這門新行業<br>
+<!-- -->學攝影也變成一種技能</p>
+<hr>
+<p>AI 發展成熟之前<br>
+<!-- -->各種 APP、電商網站、社群網站<br>
+<!-- -->靠軟體工程師手刻程式碼⋯⋯</p>
+<p>AI 發展成熟之後<br>
+<!-- -->AI 成了快速寫程式的新幫手<br>
+<!-- -->普通人也可以快速寫程式</p>
+<p>隨著技術的發展<br>
+<!-- -->AI 各種方法：context, loop, harness …等 …<br>
+<!-- -->成就了「唬爛」這門新行業<br>
+<!-- -->畫虎爛也變成一種技能</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>生活</category>
+            <category>AI</category>
+        </item>
+        <item>
             <title><![CDATA[租屋事件紀錄]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/26/rent</link>
             <guid>https://www.gtcafe.com/blog/2026/06/26/rent</guid>
@@ -134,35 +163,6 @@
             <category>生活</category>
         </item>
         <item>
-            <title><![CDATA[照相、軟體]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/26/photo-and-software</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/26/photo-and-software</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[發明照相技術之前]]></description>
-            <content:encoded><![CDATA[<p>發明照相技術之前<br>
-<!-- -->人像、風景靠畫師手畫</p>
-<p>照相技術發明後<br>
-<!-- -->照相成了快速成畫的新方法<br>
-<!-- -->普通人也可以快速拍照</p>
-<p>隨著技術的發展<br>
-<!-- -->照相的技術、成像、光影、取景、構圖 … 等<br>
-<!-- -->成就了「攝影」這門新行業<br>
-<!-- -->學攝影也變成一種技能</p>
-<hr>
-<p>AI 發展成熟之前<br>
-<!-- -->各種 APP、電商網站、社群網站<br>
-<!-- -->靠軟體工程師手刻程式碼⋯⋯</p>
-<p>AI 發展成熟之後<br>
-<!-- -->AI 成了快速寫程式的新幫手<br>
-<!-- -->普通人也可以快速寫程式</p>
-<p>隨著技術的發展<br>
-<!-- -->AI 各種方法：context, loop, harness …等 …<br>
-<!-- -->成就了「唬爛」這門新行業<br>
-<!-- -->畫虎爛也變成一種技能</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>生活</category>
-            <category>AI</category>
-        </item>
-        <item>
             <title><![CDATA[FIRE]]></title>
             <link>https://www.gtcafe.com/blog/2026/06/21/fire</link>
             <guid>https://www.gtcafe.com/blog/2026/06/21/fire</guid>
@@ -204,6 +204,45 @@
             <category>FIRE</category>
             <category>投資</category>
             <category>理財</category>
+        </item>
+        <item>
+            <title><![CDATA[Local LLM]]></title>
+            <link>https://www.gtcafe.com/blog/2026/06/21/local-llm</link>
+            <guid>https://www.gtcafe.com/blog/2026/06/21/local-llm</guid>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:]]></description>
+            <content:encoded><![CDATA[<p>為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:</p>
+<ol>
+<li class="">各種 Runtime: Ollama / LM Studio / llama.cpp</li>
+<li class="">Librareis (Python 為主: oMLX, RaipMLX ...)</li>
+<li class="">各種 Format: GGUF, safetensors / MLX</li>
+<li class="">各種 Registry: Hugging Face Hub / ollama ... etc</li>
+</ol>
+<p>加上我有多台機器在跑實驗, 有時候同一個 model 這台抓，那台也抓 ... 然後頻寬就一直滿的狀態 ....</p>
+<p>為了節省對外頻寬, 然後也共用這些 Local LLM 的資源, 就叫 Claude 開發一個類似 git cli 管理多個 repos 概念的分散式工具，可以：</p>
+<ol>
+<li class="">像 rsync 那樣從電腦 A sync model to B.</li>
+<li class="">可比對本機不同 runtime 是否下載同一個 model, 不同格式</li>
+<li class="">可以讓本機不同 runtime 之間, share 不同 format 的 Model</li>
+<li class="">可以直接取代所有 runtime 變成集中式管理的 Local LLM Repos</li>
+<li class="">支援 push and pull mode，可以點對點傳輸.</li>
+</ol>
+<p>大概企業內的 Nexus OSS 概念 ... 只是是 cli 版.</p>
+<hr>
+<p>這是為了做實驗搞的副產品, 用起來沒啥問題, UX/UI 可以再調整. 還沒上 homebrew.<br>
+<!-- -->真正的問題都是內網水管不夠粗, 1Gbps 傳 LLM 實在太慢了, 然後就開始想要不要搞 25Gbps 的 switch ...<br>
+<!-- -->恩 ... 一種越來越歪的味道 ... 還是洗洗睡好了 XDD</p>
+<hr>
+<p>github: <a href="https://github.com/rickhw/corral" target="_blank" rel="noopener noreferrer" class="">https://github.com/rickhw/corral</a></p>
+<hr>
+<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral1-7eca9724f8ab6e506579830441fe00a4.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral2-8734dedbb2cb61a62cece98e9615aaf2.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral3-65303e2af48a9bbfbbf27cba40e17bcd.jpg" width="2048" height="1285" class="img_ev3q"><br>
+<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral4-ec0629a0e4c28226e636cccff4088fdb.jpg" width="3455" height="732" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
+            <category>LLM</category>
+            <category>AI</category>
+            <category>學習</category>
+            <category>趨勢</category>
         </item>
         <item>
             <title><![CDATA[PIP - Case 1]]></title>
@@ -264,45 +303,6 @@
 <p>面試、用人還有其他有趣的例子，下次來記錄用到一個頂大資工所，最後 PIP 的例子。</p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
             <category>管理</category>
             <category>用人</category>
-        </item>
-        <item>
-            <title><![CDATA[Local LLM]]></title>
-            <link>https://www.gtcafe.com/blog/2026/06/21/local-llm</link>
-            <guid>https://www.gtcafe.com/blog/2026/06/21/local-llm</guid>
-            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:]]></description>
-            <content:encoded><![CDATA[<p>為了實驗各種 Local LLM，過程中我會在不同電腦跑各種實驗，但是 Local LLM 有:</p>
-<ol>
-<li class="">各種 Runtime: Ollama / LM Studio / llama.cpp</li>
-<li class="">Librareis (Python 為主: oMLX, RaipMLX ...)</li>
-<li class="">各種 Format: GGUF, safetensors / MLX</li>
-<li class="">各種 Registry: Hugging Face Hub / ollama ... etc</li>
-</ol>
-<p>加上我有多台機器在跑實驗, 有時候同一個 model 這台抓，那台也抓 ... 然後頻寬就一直滿的狀態 ....</p>
-<p>為了節省對外頻寬, 然後也共用這些 Local LLM 的資源, 就叫 Claude 開發一個類似 git cli 管理多個 repos 概念的分散式工具，可以：</p>
-<ol>
-<li class="">像 rsync 那樣從電腦 A sync model to B.</li>
-<li class="">可比對本機不同 runtime 是否下載同一個 model, 不同格式</li>
-<li class="">可以讓本機不同 runtime 之間, share 不同 format 的 Model</li>
-<li class="">可以直接取代所有 runtime 變成集中式管理的 Local LLM Repos</li>
-<li class="">支援 push and pull mode，可以點對點傳輸.</li>
-</ol>
-<p>大概企業內的 Nexus OSS 概念 ... 只是是 cli 版.</p>
-<hr>
-<p>這是為了做實驗搞的副產品, 用起來沒啥問題, UX/UI 可以再調整. 還沒上 homebrew.<br>
-<!-- -->真正的問題都是內網水管不夠粗, 1Gbps 傳 LLM 實在太慢了, 然後就開始想要不要搞 25Gbps 的 switch ...<br>
-<!-- -->恩 ... 一種越來越歪的味道 ... 還是洗洗睡好了 XDD</p>
-<hr>
-<p>github: <a href="https://github.com/rickhw/corral" target="_blank" rel="noopener noreferrer" class="">https://github.com/rickhw/corral</a></p>
-<hr>
-<p><img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral1-7eca9724f8ab6e506579830441fe00a4.jpg" width="2048" height="1285" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral2-8734dedbb2cb61a62cece98e9615aaf2.jpg" width="2048" height="1285" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral3-65303e2af48a9bbfbbf27cba40e17bcd.jpg" width="2048" height="1285" class="img_ev3q"><br>
-<img decoding="async" loading="lazy" src="https://www.gtcafe.com/assets/images/corral4-ec0629a0e4c28226e636cccff4088fdb.jpg" width="3455" height="732" class="img_ev3q"></p><section class="uriel-comments"><h2>Comments</h2><div id="uriel-comment"></div></section>]]></content:encoded>
-            <category>LLM</category>
-            <category>AI</category>
-            <category>學習</category>
-            <category>趨勢</category>
         </item>
         <item>
             <title><![CDATA[題目、考績]]></title>
